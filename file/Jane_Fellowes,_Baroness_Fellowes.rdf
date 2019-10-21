@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Jane_Fellowes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Shand_Kydd">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Fellowes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer">
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Fellowes,_Baron_Fellowes">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishBaronesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDaughtersOfBritishEarls" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleOffspring110084043" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Daughter109992837" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Offspring110373998" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109918248" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Baroness109843309" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdfs:label xml:lang="pt">Cynthia Jane Fellowes</rdfs:label>
+    <rdfs:label xml:lang="ja">ジェーン・フェローズ</rdfs:label>
+    <rdfs:label xml:lang="en">Jane Fellowes, Baroness Fellowes</rdfs:label>
+    <rdfs:comment xml:lang="pt">Cynthia Jane Fellowes, baronesa Fellowes (nascida em 11 de fevereiro de 1957) é a segunda filha de John Spencer, 8° Conde Spencer e de sua primeira esposa, Frances Shand Kydd (nascida Hon. Frances Burke Roche). Diana, Princesa de Gales, foi sua irmã mais jovem. Ela usa seu segundo nome, Jane. Um de seus padrinhos foi o príncipe Eduardo, Duque de Kent.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Cynthia Jane Fellowes, Baroness Fellowes (née Spencer; born 11 February 1957) is one of the two older sisters of Diana, Princess of Wales.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フェローズ男爵夫人、シンシア・ジェーン・フェローズ（英: Cynthia Jane Fellowes, Baroness Fellowes、1957年2月11日 -）は、イギリスの貴族令嬢でフェローズ男爵ロバート・フェローズの妻。 第8代スペンサー伯爵エドワード・スペンサーの次女で、皇太子妃ダイアナの姉にあたる。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Jane_Fellowes" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2296963" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cynthia_Jane_Fellowes" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fhpc5" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジェーン・フェローズ" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4r5i3baVtASbyPXG53aGS8SA" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2296963" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1957-2-11</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1957-02-11</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1957_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_baronesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Spencer-Churchill_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_British_earls" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5976334</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">735367774</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://theroyalpost.com/2012/04/16/royal-flower-girls-bridesmaids-page-boys-part-two" />
+    <foaf:name xml:lang="en">Jane Fellowes, Baroness Fellowes</foaf:name>
+    <foaf:name xml:lang="en">The Lady Fellowes</foaf:name>
+    <dct:description xml:lang="en">British Baroness</dct:description>
+    <foaf:givenName xml:lang="en">Cynthia</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jane_Fellowes,_Baroness_Fellowes" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jane_Fellowes,_Baroness_Fellowes?oldid=735367774" />
+    <dbo:abstract xml:lang="pt">Cynthia Jane Fellowes, baronesa Fellowes (nascida em 11 de fevereiro de 1957) é a segunda filha de John Spencer, 8° Conde Spencer e de sua primeira esposa, Frances Shand Kydd (nascida Hon. Frances Burke Roche). Diana, Princesa de Gales, foi sua irmã mais jovem. Ela usa seu segundo nome, Jane. Um de seus padrinhos foi o príncipe Eduardo, Duque de Kent.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Cynthia Jane Fellowes, Baroness Fellowes (née Spencer; born 11 February 1957) is one of the two older sisters of Diana, Princess of Wales.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">フェローズ男爵夫人、シンシア・ジェーン・フェローズ（英: Cynthia Jane Fellowes, Baroness Fellowes、1957年2月11日 -）は、イギリスの貴族令嬢でフェローズ男爵ロバート・フェローズの妻。 第8代スペンサー伯爵エドワード・スペンサーの次女で、皇太子妃ダイアナの姉にあたる。</dbo:abstract>
+    <dbo:nationality rdf:resource="http://dbpedia.org/resource/United_Kingdom" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Robert_Fellowes,_Baron_Fellowes" />
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Honourable Cynthia Jane Spencer</dbp:birthName>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Eleanor Ruth Fellowes</dbp:children>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Alexander Robert Fellowes</dbp:children>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Laura Jane Fellowes</dbp:children>
+    <dbp:education rdf:resource="http://dbpedia.org/resource/The_New_School_at_West_Heath" />
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Right_Honourable" />
+    <dbp:knownFor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Older sister of Diana, Princess of Wales</dbp:knownFor>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+    <dbp:relatives rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedding_of_Charles,_Prince_of_Wales,_and_Lady_Diana_Spencer">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane,_Lady_Fellowes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cynthia_Jane_Fellowes,_Baroness_Fellowes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jane_Fellowes,_Baroness_Fellowes">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+  </rdf:Description>
+</rdf:RDF>

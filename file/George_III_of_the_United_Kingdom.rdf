@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cape_Colony">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_the_United_Kingdom">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfBrunswick-Lüneburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElectorsOfHanover" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSaxe-Lauenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfGreatBritain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfBremenAndVerden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/VisuallyImpairedPerson110757625" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfEdinburgh" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BlindPerson109860130" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfTheAmericanRevolution" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKingsOfHanover" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDeafblindPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfGreatBritain" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryMonarchsInEurope" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Voter110760340" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBlindPeopleFromEngland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/National109625401" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Citizen109923673" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/King110231515" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleWithDisabilities" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdfs:label xml:lang="pl">Jerzy III Hanowerski</rdfs:label>
+    <rdfs:label xml:lang="de">Georg III. (Vereinigtes Königreich)</rdfs:label>
+    <rdfs:label xml:lang="nl">George III van het Verenigd Koninkrijk</rdfs:label>
+    <rdfs:label xml:lang="en">George III of the United Kingdom</rdfs:label>
+    <rdfs:label xml:lang="ja">ジョージ3世 (イギリス王)</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج الثالث ملك المملكة المتحدة</rdfs:label>
+    <rdfs:label xml:lang="zh">喬治三世</rdfs:label>
+    <rdfs:label xml:lang="es">Jorge III del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="it">Giorgio III del Regno Unito</rdfs:label>
+    <rdfs:label xml:lang="ru">Георг III (король Великобритании)</rdfs:label>
+    <rdfs:label xml:lang="pt">Jorge III do Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="fr">George III (roi du Royaume-Uni)</rdfs:label>
+    <rdfs:comment xml:lang="zh">喬治三世（英语：George III，1738年6月4日－1820年1月29日），全名喬治·威廉·腓特烈（George William Frederick），1760年10月25日登基為大不列顛國王及愛爾蘭國王，至1801年1月1日後因大不列顛及爱尔兰組成聯合王國而成為聯合王國國王，直到1820年駕崩為止。喬治三世同時為不倫瑞克-呂訥堡公爵，因此在1814年10月12日成為漢諾威國王以前，也是神圣罗马帝国漢諾威的選帝侯。喬治三世為漢諾威王朝的第三位不列顛君主，是首位以英语為母語的漢諾威王朝君主，而事實上，喬治三世從未到訪過德意志地區。 喬治三世漫長的統治，見證了其王國與大片歐洲大陸進行的一連串軍事衝突。在他的統治初期，大不列顛在七年战争中擊敗法国，並使大不列顛壓倒歐洲各國，成功支配著北美洲及印度地區。不過，隨著大不列顛在美國獨立戰爭的戰敗，喬治三世在美洲失去了大量殖民地，這些殖民地的獨立最終促成美國立國。此後，喬治三世參與了一連串的反法戰爭，反抗拿破崙及革命後的法國，這些戰爭最後以拿破崙在1815年被擊敗而作結。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Fu il terzo sovrano in terra britannica della casa di Hannover, ma il primo ad essere nato in Inghilterra e ad usare l&#39;inglese come lingua madre. Durante il suo lungo regno, il terzo in assoluto nella storia britannica, si verificarono eventi epocali per la storia dell&#39;Inghilterra e di tutto il Regno: l&#39;inizio della rivoluzione industriale, la guerra d&#39;indipendenza degli Stati Uniti e le guerre napoleoniche. Inoltre Giorgio III fu il primo sovrano del Regno Unito.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jerzy III, urodzony jako George William Frederick (ur. 4 czerwca 1738 w Londynie, zm. 29 stycznia 1820 w Windsorze, Berkshire) – ostatni (od 25 października 1760) król Wielkiej Brytanii i Irlandii i pierwszy (od 1801) król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii, ostatni elektor i książę oraz pierwszy król (od 1814) Hanoweru. Jedyny król Anglo-Korsyki w latach 1794-1796. Był też księciem Saksonii-Lauenburga. Wydarzenia czasów Jerzego III barwnie opisał brytyjski pisarz Horace Walpole w swoich Pamiętnikach.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ジョージ3世（英語: George III, 1738年6月4日 – 1820年1月29日）は、イギリス・ハノーヴァー家第3代目のグレートブリテン国王兼アイルランド国王（即位：1760年10月25日 ）であり、1801年1月1日に両国が合同して以降はグレートブリテン及びアイルランド連合王国国王。また、ハノーファー選帝侯、1814年以後はハノーファー王ゲオルク3世 (Georg III）を兼ねた。父はフレデリック・ルイス（ジョージ2世の長男）。母はザクセン＝ゴータ＝アルテンブルク公フリードリヒ2世の娘オーガスタ。妃はメクレンブルク＝シュトレリッツ公子カール・ルートヴィヒの娘シャーロット。別名「農夫王」（Farmer King）、「農夫ジョージ」（Farmer George）。 天文学者のウィリアム・ハーシェル等を支持する。アメリカ植民地への課税がきっかけでアメリカ独立戦争を招き、北アメリカの領土を失った。自分の課した重税問題や身内のスキャンダルに苦悩した上に、1811年には認知症となり、以後ウィンザーで生活、長男の王太子ジョージ4世が摂政として政務を執った。在位60年は昆孫の現女王エリザベス2世の63年216日（2015年9月9日現在更新中、2016年2月6日に満64年目を迎える見込み）、孫娘にあたるヴィクトリア女王の63年215日に次ぐ歴代第3位である。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jorge III (Londres, 4 de junho de 1738 – Windsor, 29 de janeiro de 1820) foi o Rei da Grã-Bretanha e Irlanda de 25 de outubro de 1760 até a união dos dois países em 1 de janeiro de 1800, tornando-se Rei do Reino Unido da Grã-Bretanha e Irlanda até sua morte. Ele também foi duque e príncipe-eleitor do Eleitorado de Brunsvique-Luneburgo no Sacro Império Romano Germânico até sua promoção a Rei de Hanôver em 12 de outubro de 1814. Jorge foi o terceiro monarca britânico da Casa de Hanôver.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">George III Willem Frederik (Londen, 4 juni 1738 – Windsor Castle, 29 januari 1820) was koning van Groot-Brittannië en koning van Ierland vanaf 25 oktober 1760. Na de vereniging van deze twee landen op 1 januari 1801 was hij voortaan koning van het Verenigd Koninkrijk van Groot-Brittannië en Ierland tot aan zijn dood. Hij was ook hertog van Brunswijk-Lüneburg en keurvorst van het keurvorstendom Hannover, gebieden die in het Heilige Roomse Rijk lagen. Vanaf 12 oktober 1814 werd het keurvorstendom verheven tot koninkrijk en voortaan was George koning van het koninkrijk Hannover. Hij was de derde telg uit het Huis Hannover, maar anders dan zijn twee voorgangers was hij in Engeland geboren en was zijn eerste taal Engels in plaats van Duits. Ondanks zijn lange leven en zijn 60-jarige regeringspe</rdfs:comment>
+    <rdfs:comment xml:lang="en">George III (George William Frederick; 4 June 1738 – 29 January 1820) was King of Great Britain and Ireland from 25 October 1760 until the union of the two countries on 1 January 1801, after which he was King of the United Kingdom of Great Britain and Ireland until his death. He was concurrently Duke and prince-elector of Brunswick-Lüneburg (&quot;Hanover&quot;) in the Holy Roman Empire until his promotion to King of Hanover on 12 October 1814. He was the third British monarch of the House of Hanover, but unlike his two predecessors he was born in Britain, spoke English as his first language, and never visited Hanover.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جورج ويليام فريدريك أو جورج الثالث (4 يونيو 1738 - 29 يناير 1820) هو ملك بريطانيا العظمى ومملكة أيرلندا من 25 أكتوبر 1760 وحتى اتحاد الدولتين في الأول من يناير عام 1801، ليصبح ملك المملكة المتحدة لبريطانيا العظمى وإيرلندا حتى وفاته. كما كان دوق هانوفر وأميرها الناخب في الإمبراطورية الرومانية المقدسة، قبل أن يصبح ملك مملكة هانوفر في 12 أكتوبر 1814. جورج الثالث هو الملك البريطاني الثالث من بيت هانوفر، لكن خلافاً لسلفيْه، وُلد جورج الثالث في بريطانيا، وتحدث الإنجليزية كلغة أولى، ولم يزر هانوفر أبداً.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Гео́рг III (англ. George William Frederick, George III, нем. Georg III.; 4 июня 1738, Лондон — 29 января 1820, Виндзорский замок, Беркшир) — король Великобритании и курфюрст (с 12 октября 1814 король) Ганновера с 25 октября 1760, из Ганноверской династии.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Georg III. Wilhelm Friedrich (englisch George William Frederick; * 24. Maijul./ 4. Juni 1738greg. in London; † 29. Januar 1820 in Windsor Castle) war von 1760 bis 1801 König von Großbritannien und Irland, danach bis zu seinem Tod König des Vereinigten Königreichs Großbritannien und Irland. Im Heiligen Römischen Reich regierte er als Kurfürst von Braunschweig-Lüneburg, seit dem Wiener Kongress als König von Hannover (1814). Außerdem war er der letzte britische Monarch, der sich infolge des Hundertjährigen Krieges als König von Frankreich bezeichnete.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">George III (né George William Frederick, 4 juin 1738 - 29 janvier 1820) fut roi de Grande-Bretagne et roi d&#39;Irlande à partir du 25 octobre 1760 jusqu&#39;à l&#39;union des deux pays le 1er janvier 1801 ; il devint alors roi du Royaume-Uni de Grande-Bretagne et d&#39;Irlande. Il fut également prince-électeur de Hanovre au sein du Saint-Empire romain germanique puis roi de Hanovre à partir du 12 octobre 1814.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge III del Reino Unido (4 de junio de 1738-29 de enero de 1820) fue rey de Gran Bretaña y de Irlanda desde el 25 de octubre de 1760 hasta el 1 de enero de 1801, y a partir de entonces rey del Reino Unido de Gran Bretaña e Irlanda, unidos, hasta su muerte. Simultáneamente ostentó los títulos de duque de Brunswick-Lüneburg, Elector de Hannover y duque de Bremen y príncipe de Verden (1760-1820). El electorado se convirtió en el Reino de Hannover el 12 de octubre de 1814. A Jorge III se le conoció con el sobrenombre de Granjero Jorge, por sus modales simples y llanos.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Descendants_of_George_III" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jerzy_III_Hanowerski" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_III_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_III_van_het_Verenigd_Koninkrijk" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γεώργιος_Γ΄_του_Ηνωμένου_Βασιλείου" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0bk4s" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q127318" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_III_del_Regno_Unito" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jiří_III." />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Jurgi_III.a_Erresuma_Batukoa" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_3세" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q127318" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118716913" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/George_III_dari_Britania_Raya" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_III_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_III_(roi_du_Royaume-Uni)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_III_do_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_III._(Vereinigtes_Königreich)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジョージ3世_(イギリス王)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Windsor_Castle" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1820-01-29</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1820-1-29</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/St._James&#39;s_Square" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Norfolk_House" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1738-06-04</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1738-6-4</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaf_royalty_and_nobility" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_the_American_Revolution" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_monarchs_in_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1738_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1820_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Botanic_Gardens,_Kew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regency_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_pretenders_to_the_French_throne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_with_disabilities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Lauenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deafblind_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Bremen_and_Verden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_III_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kings_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electors_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Blind_people_from_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Blind_royalty_and_nobility" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42029</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741521151</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.oxforddnb.com/view/article/10540" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kansasmemory.org/item/223267" />
+    <dbo:wikiPageExternalLink rdf:resource="http://hdl.handle.net/1811/30022" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=xi4GAAAAMAAJ&amp;pg=PA501&amp;lpg=PA501&amp;dq=george+iii+crown+estate+debts&amp;source=web&amp;ots=TlpsTqmua0&amp;sig=7iGsFpjmpQx7yykQd7Zd34e41sQ" />
+    <foaf:name xml:lang="en">George III</foaf:name>
+    <foaf:name xml:lang="en">George III of Great Britain</foaf:name>
+    <foaf:name xml:lang="en">George William Frederick</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg" />
+    <dct:description xml:lang="en">King of Great Britain and King of Ireland</dct:description>
+    <foaf:givenName xml:lang="en">George</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_III_of_the_United_Kingdom" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_III_of_the_United_Kingdom?oldid=741521151" />
+    <dbo:abstract xml:lang="en">George III (George William Frederick; 4 June 1738 – 29 January 1820) was King of Great Britain and Ireland from 25 October 1760 until the union of the two countries on 1 January 1801, after which he was King of the United Kingdom of Great Britain and Ireland until his death. He was concurrently Duke and prince-elector of Brunswick-Lüneburg (&quot;Hanover&quot;) in the Holy Roman Empire until his promotion to King of Hanover on 12 October 1814. He was the third British monarch of the House of Hanover, but unlike his two predecessors he was born in Britain, spoke English as his first language, and never visited Hanover. His life and with it his reign, which were longer than any other British monarch before him, were marked by a series of military conflicts involving his kingdoms, much of the rest of Europe, and places farther afield in Africa, the Americas and Asia. Early in his reign, Great Britain defeated France in the Seven Years&#39; War, becoming the dominant European power in North America and India. However, many of Britain&#39;s American colonies were soon lost in the American War of Independence. Further wars against revolutionary and Napoleonic France from 1793 concluded in the defeat of Napoleon at the Battle of Waterloo in 1815. In the later part of his life, George III had recurrent, and eventually permanent, mental illness. Although it has since been suggested that he had the blood disease porphyria, the cause of his illness remains unknown. After a final relapse in 1810, a regency was established, and George III&#39;s eldest son, George, Prince of Wales, ruled as Prince Regent. On George III&#39;s death, the Prince Regent succeeded his father as George IV. Historical analysis of George III&#39;s life has gone through a &quot;kaleidoscope of changing views&quot; that have depended heavily on the prejudices of his biographers and the sources available to them. Until re-assessment occurred during the second half of the twentieth century, his reputation in the United States was one of a tyrant and in Britain he became &quot;the scapegoat for the failure of imperialism&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge III del Reino Unido (4 de junio de 1738-29 de enero de 1820) fue rey de Gran Bretaña y de Irlanda desde el 25 de octubre de 1760 hasta el 1 de enero de 1801, y a partir de entonces rey del Reino Unido de Gran Bretaña e Irlanda, unidos, hasta su muerte. Simultáneamente ostentó los títulos de duque de Brunswick-Lüneburg, Elector de Hannover y duque de Bremen y príncipe de Verden (1760-1820). El electorado se convirtió en el Reino de Hannover el 12 de octubre de 1814. Jorge III fue el tercer monarca británico de la Casa de Hannover, pero el primero en nacer en Gran Bretaña y usar el inglés como lengua materna. Durante el reinado de Jorge III, Gran Bretaña se alzó como la primera potencia dominante, extendió su poder por Norteamérica, incluyendo la conquista de Canadá tras la Guerra de los Siete Años, ganó la supremacía en el océano y derrotó a Napoleón en las Guerras Napoleónicas, pero sin duda alguna, el rey Jorge III será recordado por la pérdida de las colonias, que formarían el núcleo de los futuros EE. UU. Más tarde en su reinado Jorge III sufrió de una recurrente y finalmente permanente enfermedad mental. Se piensa ahora que padeció de desórdenes mentales y nerviosos como una consecuencia de la enfermedad sanguínea llamada porfiria, que ha afectado a varios monarcas británicos. Recientemente, los científicos han descubierto altos niveles de arsénico en el cabello del rey Jorge III, por lo que se podría suponer que ésta fue una posible causa de la locura y los problemas de salud de Jorge III. El dramaturgo Alan Bennett escribió una obra de éxito sobre este tema, y el director Nicholas Hytner la llevó al cine con el título La locura del rey Jorge. Después de una recaída final en 1811, el primogénito de Jorge III, Jorge, príncipe de Gales, gobernó como regente. Tras la muerte de Jorge III, el príncipe de Gales sucedió a su padre en el trono con el nombre de Jorge IV. A Jorge III se le conoció con el sobrenombre de Granjero Jorge, por sus modales simples y llanos.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">喬治三世（英语：George III，1738年6月4日－1820年1月29日），全名喬治·威廉·腓特烈（George William Frederick），1760年10月25日登基為大不列顛國王及愛爾蘭國王，至1801年1月1日後因大不列顛及爱尔兰組成聯合王國而成為聯合王國國王，直到1820年駕崩為止。喬治三世同時為不倫瑞克-呂訥堡公爵，因此在1814年10月12日成為漢諾威國王以前，也是神圣罗马帝国漢諾威的選帝侯。喬治三世為漢諾威王朝的第三位不列顛君主，是首位以英语為母語的漢諾威王朝君主，而事實上，喬治三世從未到訪過德意志地區。 喬治三世漫長的統治，見證了其王國與大片歐洲大陸進行的一連串軍事衝突。在他的統治初期，大不列顛在七年战争中擊敗法国，並使大不列顛壓倒歐洲各國，成功支配著北美洲及印度地區。不過，隨著大不列顛在美國獨立戰爭的戰敗，喬治三世在美洲失去了大量殖民地，這些殖民地的獨立最終促成美國立國。此後，喬治三世參與了一連串的反法戰爭，反抗拿破崙及革命後的法國，這些戰爭最後以拿破崙在1815年被擊敗而作結。 喬治三世晚年的管治倍受精神問題困擾，其精神病最初僅反覆出現，但後來卻演變成永久性的精神失常。喬治三世的病情曾令當時的醫學界大惑不解，但現今學者一般相信他所患的是噗瑳症（Porphyria）。噗瑳症是血液病的一種，能夠透過服用毒藥砒霜而引發，而根據近世研究，亦的確發現喬治三世留存後世的頭髮樣本中，存有高含量的砒霜。喬治三世在1810年最後一次病發後，其太子威爾斯親王喬治以攝政王身份代為統治。喬治三世在1820年駕崩後，威爾斯親王繼位，是為喬治四世。歷史學界對喬治三世的生平研究往往猶如「萬花筒般觀點多變」（kaleidoscope of changing views），這很大程度是因為受到歷來傳記作者的個人偏見所局限，以及受有限的歷史史料所影響的。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ジョージ3世（英語: George III, 1738年6月4日 – 1820年1月29日）は、イギリス・ハノーヴァー家第3代目のグレートブリテン国王兼アイルランド国王（即位：1760年10月25日 ）であり、1801年1月1日に両国が合同して以降はグレートブリテン及びアイルランド連合王国国王。また、ハノーファー選帝侯、1814年以後はハノーファー王ゲオルク3世 (Georg III）を兼ねた。父はフレデリック・ルイス（ジョージ2世の長男）。母はザクセン＝ゴータ＝アルテンブルク公フリードリヒ2世の娘オーガスタ。妃はメクレンブルク＝シュトレリッツ公子カール・ルートヴィヒの娘シャーロット。別名「農夫王」（Farmer King）、「農夫ジョージ」（Farmer George）。 天文学者のウィリアム・ハーシェル等を支持する。アメリカ植民地への課税がきっかけでアメリカ独立戦争を招き、北アメリカの領土を失った。自分の課した重税問題や身内のスキャンダルに苦悩した上に、1811年には認知症となり、以後ウィンザーで生活、長男の王太子ジョージ4世が摂政として政務を執った。在位60年は昆孫の現女王エリザベス2世の63年216日（2015年9月9日現在更新中、2016年2月6日に満64年目を迎える見込み）、孫娘にあたるヴィクトリア女王の63年215日に次ぐ歴代第3位である。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Fu il terzo sovrano in terra britannica della casa di Hannover, ma il primo ad essere nato in Inghilterra e ad usare l&#39;inglese come lingua madre. Durante il suo lungo regno, il terzo in assoluto nella storia britannica, si verificarono eventi epocali per la storia dell&#39;Inghilterra e di tutto il Regno: l&#39;inizio della rivoluzione industriale, la guerra d&#39;indipendenza degli Stati Uniti e le guerre napoleoniche. Inoltre Giorgio III fu il primo sovrano del Regno Unito. Nel 1765 cominciò a dare segni di squilibrio mentale che si aggravarono col passare degli anni. Sull&#39;origine della sua follia sono state avanzate diverse ipotesi: alcuni hanno ritenuto che potesse essere una conseguenza della porfiria, una malattia ereditaria del sangue; secondo il divulgatore scientifico canadese Joe Schwarcz, sintomi simili a quelli della porfiria possono dipendere dall&#39;avvelenamento da piombo che, secondo lui, il re avrebbe potuto contrarre mangiando crauti cucinati in pentole di piombo. Altri studi effettuati su campioni di capelli del re, pubblicati nel 2005, hanno riscontrato un&#39;alta concentrazione di arsenico, ammettendo l&#39;ipotesi di un&#39;intossicazione da arsenico all&#39;origine dei disturbi.Dopo il definitivo crollo psichico del 1811, il figlio maggiore del re, Giorgio Augusto Federico, principe di Galles, governò come principe reggente fino alla morte del padre.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">George III Willem Frederik (Londen, 4 juni 1738 – Windsor Castle, 29 januari 1820) was koning van Groot-Brittannië en koning van Ierland vanaf 25 oktober 1760. Na de vereniging van deze twee landen op 1 januari 1801 was hij voortaan koning van het Verenigd Koninkrijk van Groot-Brittannië en Ierland tot aan zijn dood. Hij was ook hertog van Brunswijk-Lüneburg en keurvorst van het keurvorstendom Hannover, gebieden die in het Heilige Roomse Rijk lagen. Vanaf 12 oktober 1814 werd het keurvorstendom verheven tot koninkrijk en voortaan was George koning van het koninkrijk Hannover. Hij was de derde telg uit het Huis Hannover, maar anders dan zijn twee voorgangers was hij in Engeland geboren en was zijn eerste taal Engels in plaats van Duits. Ondanks zijn lange leven en zijn 60-jarige regeringsperiode heeft hij Hannover nooit bezocht. De lange regering van George III werd overschaduwd door een reeks militaire conflicten waar zijn koninkrijken en landen aan mee deden. Deze oorlogen speelden zich af in Europa, Afrika, Amerika en Azië. In het begin van zijn regering versloeg Groot-Brittannië Frankrijk in de Zevenjarige Oorlog waardoor Groot-Brittannië de machtigste Europese natie in Noord-Amerika en India werd. Deze overwinning werd echter al snel gevolgd door het verlies van de Amerikaanse kolonies tijdens de Amerikaanse Onafhankelijkheidsoorlog. Deze oorlog leidde tot het ontstaan van de Dertien Koloniën en uiteindelijk tot de natie die we vandaag de dag kennen als de Verenigde Staten. Een periode van twintig jaar lang bevocht het Verenigd Koninkrijk Frankrijk: eerst de Franse Revolutie, daarna de Eerste Franse Republiek en daarna het Franse keizerrijk van Napoleon I. Dit eindigde uiteindelijk met de definitieve nederlaag van Napoleon in 1815 tijdens de Slag bij Waterloo. Later in zijn leven kreeg George III te maken met een ernstige psychische aandoening. De medici van die tijd stonden voor een raadsel. Een hedendaagse wetenschappelijke theorie is dat hij leed aan de ziekte porfyrie. Deze theorie wordt echter in twijfel getrokken door onderzoekers van St. George&#39;s, University of London, die na een langdurige analyse van koning George III&#39;s handschrift concluderen dat hij zeer waarschijnlijk leed aan een stemmingsstoornis. Na een laatste terugval in 1810 werd zijn oudste zoon, George, Prins van Wales, benoemd tot Prince Regent. Toen George III stierf in 1820 volgde de Prince Regent hem op als koning George IV. Ook zijn derde zoon, Prins Willem, hertog van Clarence en Saint Andrews, werd koning van het Verenigd Koninkrijk als Willem IV (1830-1837). En ook zijn vijfde zoon werd koning. Prins Ernest Augustus, hertog van Cumberland en Teviotdale, werd na de dood van koning Willem IV in 1837 de koning van Hannover, tot 1851.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jerzy III, urodzony jako George William Frederick (ur. 4 czerwca 1738 w Londynie, zm. 29 stycznia 1820 w Windsorze, Berkshire) – ostatni (od 25 października 1760) król Wielkiej Brytanii i Irlandii i pierwszy (od 1801) król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii, ostatni elektor i książę oraz pierwszy król (od 1814) Hanoweru. Jedyny król Anglo-Korsyki w latach 1794-1796. Był też księciem Saksonii-Lauenburga. Jerzy III był władcą o dużej inteligencji, chociaż nerwowym, co z czasem doprowadziło go do choroby. Za jego panowania nastąpił bunt kolonii brytyjskich w Ameryce Północnej i powstały Stany Zjednoczone. Mówiono,  że to właśnie utrata Ameryki tak źle podziałała na jego zdrowie psychiczne[potrzebny przypis]. Możliwe też, że był jedną z niewielu osób rozumiejących, co oznaczała utrata kolonii amerykańskich dla Wielkiej Brytanii. Cieszył się wielką popularnością poddanych. Obdarzony świetną pamięcią, znał imiona wielu zwykłych ludzi: służby, rolników, farmerów. Nie był domatorem, lecz lubił jeździć na wieś, gdzie doglądał upraw i hodowli. Nadano mu z tego powodu przydomek „król-farmer”, z którego był bardzo dumny. Znów w odróżnieniu od swych poprzedników, król często interesował się posiedzeniami Izby Gmin i ich przedmiotem. Wspomagał wiernych mu Bute&#39;a, a potem Pitta wieloma ciepłymi słowami i radami. Potrafił przeforsować swą wolę w czasach, gdy myślano, że parlament może wszystko, a król nic.  Zrobił wszystko, by zachować kolonie amerykańskie (przez szeregi armii brytyjskiej Charlesa Cornwallisa przewinęło się wtedy 160 tysięcy ludzi). Francja przeważyła jednak szalę na korzyść Jerzego Waszyngtona i powstańców. Odtąd król popierał mocniejsze zakorzenienie się wpływów brytyjskich w Indiach, by zrekompensować tym samym utratę kolonii w Ameryce Północnej. Jerzy III panował przez niemal 60 lat – a zatem najdłużej w historii Wielkiej Brytanii po królowej Wiktorii i Elżbiecie II. Cień na jego sprawnym panowaniu położyła jedynie ciężka choroba. Cierpiał na porfirię (charakterystycznym objawem tej choroby jest ciemnoczerwony mocz), która może mieć bardzo wyniszczający wpływ na organizm ludzki. W zaawansowanym stadium powoduje silne bóle brzucha, skurcze, a nawet drgawki podobne do epileptycznych. Choroba często nie jest prawidłowo diagnozowana i nawet w dzisiejszych czasach bywa mylnie rozpoznawana jako choroba psychiczna. Według najnowszych badań, chorobę tę spowodowała wieloletnia kumulacja w organizmie króla arszeniku, który był składnikiem ówcześnie stosowanych pudrów do peruk, kremów oraz popularnych lekarstw. Po 1811 roku, kiedy ataki choroby króla były coraz dłuższe i poważniejsze, władzę w państwie sprawował jego najstarszy syn – Jerzy, jako książę-regent. Wydarzenia czasów Jerzego III barwnie opisał brytyjski pisarz Horace Walpole w swoich Pamiętnikach.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جورج ويليام فريدريك أو جورج الثالث (4 يونيو 1738 - 29 يناير 1820) هو ملك بريطانيا العظمى ومملكة أيرلندا من 25 أكتوبر 1760 وحتى اتحاد الدولتين في الأول من يناير عام 1801، ليصبح ملك المملكة المتحدة لبريطانيا العظمى وإيرلندا حتى وفاته. كما كان دوق هانوفر وأميرها الناخب في الإمبراطورية الرومانية المقدسة، قبل أن يصبح ملك مملكة هانوفر في 12 أكتوبر 1814. جورج الثالث هو الملك البريطاني الثالث من بيت هانوفر، لكن خلافاً لسلفيْه، وُلد جورج الثالث في بريطانيا، وتحدث الإنجليزية كلغة أولى، ولم يزر هانوفر أبداً. كانت فترة حكمه أطول من أي ملك بريطاني سبقه، وتميّزت بسلسلة من الصراعات العسكرية التي خاضتها مملكته في أوروبا وأفريقيا وآسيا والأمريكتين. أولى هذه الصراعات كانت حرب السنوات السبع التي انتهت بانتصار مملكته على فرنسا، لتصبح القوة الأوروبية المهيمنة في أمريكا الشمالية والهند. وعلى الرغم من ذلك، خسرت بريطانيا العديد من المستعمرات الأمريكية خلال حرب الاستقلال الأمريكية. ثم بدأ الصراع مع الثوار الفرنسيين وفرنسا النابليونية من 1793 وحتى هزيمة نابليون في معركة واترلو عام 1815. عانى جورج الثالث في آخر حياته من اضطراب نفسي متكرر، أصبح مزمناً في نهاية المطاف. تحيّر الأطباء حينها في حالته، واقترح البعض أنه يعاني من مرض في الدم يُدعى بورفيريا. تعرّض جورج لانتكاسة أخيرة عام 1810، ليصبح ابنه الأكبر جورج أمير ويلز وصياً عليه، وبعد وفاته، خلفه ابنه رسمياً ليصبج جورج الرابع ملك المملكة المتحدة.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Jorge III (Londres, 4 de junho de 1738 – Windsor, 29 de janeiro de 1820) foi o Rei da Grã-Bretanha e Irlanda de 25 de outubro de 1760 até a união dos dois países em 1 de janeiro de 1800, tornando-se Rei do Reino Unido da Grã-Bretanha e Irlanda até sua morte. Ele também foi duque e príncipe-eleitor do Eleitorado de Brunsvique-Luneburgo no Sacro Império Romano Germânico até sua promoção a Rei de Hanôver em 12 de outubro de 1814. Jorge foi o terceiro monarca britânico da Casa de Hanôver. Sua vida e reinado foram marcados por disputas políticas no parlamento e uma série de conflitos militares principalmente contra a França, que a Grã-Bretanha acabou derrotando na Guerra dos Sete Anos. Porém, logo muitas das suas colônias na América do Norte foram perdidas na Guerra de Independência dos Estados Unidos. Outras guerras começando em 1793 contra a França revolucionária e napoleônica concluiram-se com a derrota de Napoleão Bonaparte na Batalha de Waterloo em 1815. No restante de sua vida, Jorge sofreu de um transtorno mental recorrente e enfim permanente. Os médicos ficaram perplexos com sua condição, apesar de desde então se acreditar que o rei sofria de porfiria. Depois de uma última recaída em 1810, uma regência foi estabelecida e Jorge, Príncipe de Gales, filho mais velho e herdeiro de Jorge III, reinou como príncipe regente. Quando Jorge III morreu em 1820, o príncipe regente sucedeu o pai como Jorge IV. Análises históricas da vida de Jorge III foram um &quot;caleidoscópio da mudança de opinião&quot; que dependiam muito dos preconceitos de seus biógrafos e das fontes disponíveis. Sua reputação nos Estados Unidos era de um tirano e no Reino Unido ele se tornou &quot;o bode expiatório para o fracasso do imperialismo&quot;, isso até uma grande reavaliação durante a segunda metade do século XX.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg III. Wilhelm Friedrich (englisch George William Frederick; * 24. Maijul./ 4. Juni 1738greg. in London; † 29. Januar 1820 in Windsor Castle) war von 1760 bis 1801 König von Großbritannien und Irland, danach bis zu seinem Tod König des Vereinigten Königreichs Großbritannien und Irland. Im Heiligen Römischen Reich regierte er als Kurfürst von Braunschweig-Lüneburg, seit dem Wiener Kongress als König von Hannover (1814). Außerdem war er der letzte britische Monarch, der sich infolge des Hundertjährigen Krieges als König von Frankreich bezeichnete. Georg war der dritte britische Monarch aus dem Haus Hannover, doch der erste, der in Großbritannien geboren wurde und dessen Muttersprache Englisch war. In seine Herrschaftszeit, die länger war als die jedes britischen Monarchen vor ihm, fallen der Gewinn der französischen Kolonien in Kanada und der französischen Besitzungen in Indien (1763), aber auch der Verlust eines großen Teils der nordamerikanischen Kolonien im Amerikanischen Unabhängigkeitskrieg (1775–1783). Die über zwei Jahrzehnte dauernden Koalitionskriege gegen Frankreich endeten 1815 mit der Niederlage Napoleons in der Schlacht bei Waterloo; auch konnte die britische Dominanz auf den Weltmeeren ausgebaut werden (Näheres im Artikel &#39;Britisches Weltreich&#39;). Die zweite Hälfte seiner Herrschaft war von einer zunächst sporadisch auftretenden und schließlich permanenten Geisteskrankheit geprägt. Heute wird angenommen, dass sie Folge einer Stoffwechselstörung (Porphyrie) war. 1811 hatte sich sein Geisteszustand derart verschlechtert, dass sein ältester Sohn als Prinzregent eingesetzt werden musste und die Amtsgeschäfte übernahm. Dieser trat dann 1820 als Georg IV. die Thronfolge an. Wegen seines relativ bescheidenen Lebensstils und seiner Vorliebe für das Landleben erhielt Georg III. den Spitznamen Farmer George („Bauer Georg“).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">George III (né George William Frederick, 4 juin 1738 - 29 janvier 1820) fut roi de Grande-Bretagne et roi d&#39;Irlande à partir du 25 octobre 1760 jusqu&#39;à l&#39;union des deux pays le 1er janvier 1801 ; il devint alors roi du Royaume-Uni de Grande-Bretagne et d&#39;Irlande. Il fut également prince-électeur de Hanovre au sein du Saint-Empire romain germanique puis roi de Hanovre à partir du 12 octobre 1814. George III était le troisième monarque de la Maison de Hanovre mais à la différence de ses deux prédécesseurs, il était né en Grande-Bretagne et sa langue maternelle était l&#39;anglais. Le règne et la vie de George III, plus longs que ceux de tous les précédents souverains britanniques, furent marqués par une série de conflits ayant impliqué ses royaumes, une grande partie de l&#39;Europe et des territoires jusqu&#39;en Afrique, en Amérique et en Asie. Au début de son règne, la Grande-Bretagne battit la France pendant la guerre de Sept Ans et devint la puissance dominante en Amérique du Nord et en Inde. Les colonies américaines se révoltèrent par la suite et obtinrent leur indépendance en 1783. Les guerres successives contre la France révolutionnaire et napoléonienne à partir de 1793 se terminèrent par la défaite de Napoléon Ier en 1815. Vers la fin de sa vie, George III souffrit d&#39;une aliénation mentale récurrente puis permanente. Ses médecins ignoraient la cause de la maladie et furent incapables d&#39;aider le souverain ; on considère aujourd&#39;hui qu&#39;il souffrait d&#39;une maladie du sang appelée porphyrie. À la suite d&#39;une rechute finale en 1810, une régence fut instaurée et le fils aîné de George III, George de Galles, gouverna en tant que prince-régent. À la mort du roi, il monta sur le trône sous le nom de George IV. Les évaluations historiques du règne de George III ont évolué au cours du temps. Très populaire durant sa vie, les évaluations de son règne furent globalement négatives jusqu&#39;au milieu du XXe siècle. Les historiens modernes le considèrent avec plus de sympathie en raison des événements de son règne et de sa maladie.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Гео́рг III (англ. George William Frederick, George III, нем. Georg III.; 4 июня 1738, Лондон — 29 января 1820, Виндзорский замок, Беркшир) — король Великобритании и курфюрст (с 12 октября 1814 король) Ганновера с 25 октября 1760, из Ганноверской династии. Долгое (почти 60 лет, третье по продолжительности после царствования Елизаветы II и Виктории) правление Георга III ознаменовано революционными событиями в мире: отделением от британской короны американских колоний и образованием США, Великой французской революцией и англо-французской политической и вооружённой борьбой, закончившейся Наполеоновскими войнами. В историю Георг вошёл также как жертва тяжёлого психического заболевания, по причине которого над ним с 1811 года было установлено регентство.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1760</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1760</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Augusta_of_Saxe-Gotha" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom" />
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Full-length portrait in oils of a clean-shaven young George in eighteenth century dress: gold jacket and breeches, ermine cloak, powdered wig, white stockings, and buckled shoes.</dbp:alt>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Coronation portrait by Allan Ramsay, 1762</dbp:caption>
+    <dbp:corType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">britain</dbp:corType>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1761-09-22</dbp:coronation>
+    <dbp:creation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:creation>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1820-02-16</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Frederick,_Duke_of_York_and_Albany" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Augustus_Frederick,_Duke_of_Sussex" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Mary,_Duchess_of_Gloucester_and_Edinburgh" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Sophia_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/William_IV_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent_and_Strathearn" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Elizabeth_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Octavius_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Adolphus,_Duke_of_Cambridge" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Alfred_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charlotte,_Princess_Royal" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Augusta_Sophia_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Amelia_of_the_United_Kingdom" />
+    <dbp:issueLink rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#Issue</dbp:issueLink>
+    <dbp:regType rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom" />
+    <dbp:regent rdf:resource="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:rows>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George III Signature.svg</dbp:signature>
+    <dbp:signatureAlt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Handwritten &quot;George&quot; with a huge leading &quot;G&quot; and a curious curlicue at the end</dbp:signatureAlt>
+    <dbp:state rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">collapsed</dbp:state>
+    <dbp:succession rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-12</dbp:succession>
+    <dbp:succession rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-01</dbp:succession>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/British_claims_to_the_French_throne" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Articles and topics related to George III of the United Kingdom</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Edinburgh" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of Great Britain and Ireland</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Kingdom_of_Hanover" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Archtreasurer of the Holy Roman Empire</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Electorate_of_Brunswick-Lüneburg" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duchy_of_Brunswick-Lüneburg" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-01</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-12</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1751</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-25</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Stuart,_3rd_Earl_of_Bute">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lower_Canada">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_IV_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Pitt,_1st_Earl_of_Chatham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Ceylon">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dudley_Ryder,_1st_Earl_of_Harrowby">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Howard,_5th_Earl_of_Carlisle">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Parker,_4th_Earl_of_Macclesfield">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Spencer,_2nd_Earl_Spencer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Spencer,_4th_Duke_of_Marlborough">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Townshend,_2nd_Marquess_Townshend">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Foster,_1st_Baron_Oriel">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquess_of_Bute">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Edgcumbe,_2nd_Earl_of_Mount_Edgcumbe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_FitzPatrick">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Damer,_2nd_Earl_of_Dorchester">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Thynne,_2nd_Baron_Carteret">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Walpole_(British_Army_officer)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Hope_(Isle_of_Man_lieutenant_governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Berkeley,_5th_Baron_Berkeley_of_Stratton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Hobart,_4th_Earl_of_Buckinghamshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regius_Professor_of_Astronomy">
+    <dbp:founder rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Carteret,_2nd_Earl_Granville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Augusta_of_Saxe-Gotha">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_Hastings">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Pery,_1st_Viscount_Pery">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvester_Douglas,_1st_Baron_Glenbervie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_george_the_3rd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Carnarvon">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Macartney,_1st_Earl_Macartney">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ramsay,_9th_Earl_of_Dalhousie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Carleton,_1st_Baron_Dorchester">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Herbert,_1st_Earl_of_Carnarvon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Graham,_3rd_Duke_of_Montrose">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Montagu,_5th_Earl_of_Sandwich">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Quebec_(1763–91)">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Wellesley-Pole,_3rd_Earl_of_Mornington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Shaw_(British_Army_officer)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wyndham,_2nd_Earl_of_Egremont">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Manners-Sutton,_1st_Viscount_Canterbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Stracey_Smyth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Erskine_(lawyer)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Taylor_(British_Army_officer)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Charles_Bentinck">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_John_Cavendish">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_FitzGerald,_18th_Knight_of_Kerry">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Octavius_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Cradock,_1st_Baron_Howden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Vikrama_Rajasinha_of_Kandy">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_Page-Turner">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_invasion_of_Manila">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anglo-Spanish_War_(1796–1808)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustus_FitzRoy,_3rd_Duke_of_Grafton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Morris_(surveyor_general)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colony_of_Virginia">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Tierney">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Phipps,_1st_Earl_of_Mulgrave">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Freeman-Mitford,_1st_Baron_Redesdale">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Scott,_1st_Earl_of_Eldon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Wilson_(governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Ludlow,_1st_Earl_Ludlow">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welbore_Ellis,_1st_Baron_Mendip">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Fitzwilliam,_4th_Earl_Fitzwilliam">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Keppel,_4th_Earl_of_Albemarle">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Carleton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baron_Bagot">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Lennox,_3rd_Duke_of_Richmond">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Lennox,_4th_Duke_of_Richmond">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Rawdon-Hastings,_1st_Marquess_of_Hastings">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Shore,_1st_Baron_Teignmouth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Stanhope,_5th_Earl_of_Chesterfield">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Townshend">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Sefton">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Seymour-Conway,_1st_Marquess_of_Hertford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Seymour-Conway,_3rd_Marquess_of_Hertford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Montagu-Dunk,_2nd_Earl_of_Halifax">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Hewitt,_1st_Viscount_Lifford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hely-Hutchinson_(statesman)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Thynne,_3rd_Baron_Carteret">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_John_Townshend">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Georgia">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Pelham,_2nd_Earl_of_Chichester">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Trench,_2nd_Earl_of_Clancarty">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Edward_Turner,_2nd_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Montagu,_5th_Duke_of_Manchester">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Grant_(Upper_Canada_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_North,_5th_Earl_of_Guilford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Bathurst,_2nd_Earl_Bathurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Fane,_10th_Earl_of_Westmorland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Sewell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Wickham_(1761–1840)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baron_Abercromby">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bathurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Smith-Stanley,_12th_Earl_of_Derby">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Haldimand">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Prévost">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Ryder_(politician,_born_1766)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_of_Hanover">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Augusta_Sophia_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anglo-Corsican_Kingdom">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgina,_Ontario">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Macpherson,_1st_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Fortescue">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Law,_1st_Baron_Ellenborough">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Augustus_Frederick,_Duke_of_Sussex">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Sophia_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Popham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cavendish,_5th_Duke_of_Devonshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_William_Frederick">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Alexander_Agnew">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bonnevaux">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Frédéric_de_Meuron">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Newport,_1st_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgetown,_Ascension_Island">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upper_Canada">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Ramsay_(artist)">
+    <dbp:patrons rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Abbot,_1st_Baron_Colchester">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Murray,_2nd_Earl_of_Mansfield">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Germain,_1st_Viscount_Sackville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Elliot-Murray-Kynynmound,_1st_Earl_of_Minto">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Manners,_2nd_Duke_of_Rutland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pitt,_2nd_Earl_of_Chatham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell,_4th_Duke_of_Bedford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell,_6th_Duke_of_Bedford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Hanover">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Townshend,_1st_Viscount_Sydney">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Pitt_the_Younger">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Vansittart,_1st_Baron_Bexley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Henley,_1st_Earl_of_Northington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Erskine,_1st_Baron_Erskine">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte,_Princess_Royal">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Seymour_Conway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dowdeswell_(Chancellor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wills_Hill,_1st_Marquess_of_Downshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Vane,_3rd_Marquess_of_Londonderry">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stuart_(British_Army_officer,_born_1741)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Arden,_1st_Baron_Alvanley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Perceval,_2nd_Baron_Arden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Gloucester_and_Edinburgh">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_iii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawsonne_Drake">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornelius_Smelt">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Cornwallis,_1st_Marquess_Cornwallis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Philip_Yorke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Yorke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electorate_of_Brunswick-Lüneburg">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Prince_of_Wales">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Great_Britain">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgian_era">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Cecil,_1st_Marquess_of_Salisbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeffery_Amherst,_1st_Baron_Amherst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Murray,_3rd_Duke_of_Atholl">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Murray,_4th_Duke_of_Atholl">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Murray,_4th_Earl_of_Dunmore">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Great_Britain">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Charles_Somerset">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquess_of_Bath">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquess_of_Salisbury">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquess_of_Waterford">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Napoleonic_Wars">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Yorke,_3rd_Earl_of_Hardwicke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent_and_Strathearn">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elizabeth_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Windham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bremen-Verden">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Granville_Leveson-Gower,_1st_Marquess_of_Stafford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Cocks,_1st_Earl_Somers">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III,_King_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_the_Third">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Spencer_(peerage)">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Grattan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Barré">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Barrington,_2nd_Viscount_Barrington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Leinster">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Grey">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Adolphus,_Duke_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Osborne,_5th_Duke_of_Leeds">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Bathurst,_3rd_Earl_Bathurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Petty-Fitzmaurice,_3rd_Marquess_of_Lansdowne">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Pelham-Holles,_1st_Duke_of_Newcastle">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Henry_Murray">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Vane,_1st_Duke_of_Cleveland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wolfran_Cornwall">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMY_Royal_George">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Blaquiere,_1st_Baron_de_Blaquiere">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_(1785_ship)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Grenville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Grenville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Grenville,_1st_Baron_Grenville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_North_America">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Francis_Greville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Pratt,_1st_Earl_Camden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Dashwood,_11th_Baron_le_Despencer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ponsonby">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hawkesbury_and_Nepean_Wars">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Fox,_1st_Baron_Holland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pratt,_1st_Marquess_Camden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Amelia_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Dundas,_2nd_Viscount_Melville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Dundas_of_Arniston">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Manners-Sutton,_1st_Baron_Manners">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Petty,_2nd_Earl_of_Shelburne">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malta_Protectorate">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_III">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elections_in_Great_Britain">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Andrea_Pozzo_di_Borgo">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F._J._Robinson,_1st_Viscount_Goderich">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_North,_Lord_North">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Addington,_1st_Viscount_Sidmouth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Dundas,_1st_Viscount_Melville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick,_Duke_of_York_and_Albany">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Jenkinson,_2nd_Earl_of_Liverpool">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_West">
+    <dbp:patrons rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Charles_Spencer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Robinson,_2nd_Baron_Grantham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Thynne,_1st_Marquess_of_Bath">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Eden,_1st_Baron_Auckland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Jenkinson,_1st_Earl_of_Liverpool">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Finch,_8th_Earl_of_Winchilsea">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Kent_and_Strathearn">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lloyd_Kenyon,_1st_Baron_Kenyon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_George_Beresford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alfred_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Dawson_(British_Army_officer)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Nugent,_1st_Earl_Nugent">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Smith_(Upper_Canada_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_de_Grey,_2nd_Baron_Walsingham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Cholmondeley,_1st_Marquess_of_Cholmondeley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Nicholas_Bayly,_2nd_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Long,_1st_Baron_Farnborough">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Willis_(physician)">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Vassall-Fox,_3rd_Baron_Holland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Adair_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Jocelyn,_3rd_Earl_of_Roden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alured_Clarke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilay_Campbell,_Lord_Succoth">
+    <dbo:appointer rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Dundas_of_Arniston,_the_younger">
+    <dbo:appointer rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Ingram-Seymour-Conway,_2nd_Marquess_of_Hertford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Leveson-Gower,_1st_Duke_of_Sutherland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stapleton_Cotton,_1st_Viscount_Combermere">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bennet,_5th_Earl_of_Tankerville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King&#39;s_Observatory">
+    <dbp:builtFor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Marriott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Legge,_3rd_Earl_of_Dartmouth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heneage_Finch,_4th_Earl_of_Aylesford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Bilson-Legge">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Barker_(diplomat)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_FitzGibbon,_1st_Earl_of_Clare">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_William_Campbell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Darcy,_4th_Earl_of_Holderness">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cavendish-Bentinck,_3rd_Duke_of_Portland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Farquhar">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Legge,_2nd_Earl_of_Dartmouth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Cornwallis,_1st_Earl_Cornwallis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Cornwallis,_2nd_Marquess_Cornwallis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Annesley">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Lisburne">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquess_of_Donegall">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Andrews_(Resident)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Wentworth,_1st_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baron_Ashtown">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viscount_Bangor">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_of_Mann">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Proby,_1st_Earl_of_Carysfort">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Toler,_1st_Earl_of_Norbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Chetwynd-Talbot,_2nd_Earl_Talbot">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Belcher_(jurist)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farmer_George">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welbore_Ellis_Doyle">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_Guelph">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_III_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_III_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_iii_of_the_united_kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_%22the_Mad%22_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_Scotland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_3">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_3_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_Corsica">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III,_King_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mad_King_George">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_III_of_the_United_Kingdom">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Iii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geo._3">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_the_Untied_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+  </rdf:Description>
+</rdf:RDF>

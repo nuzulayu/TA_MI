@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Darmstadt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landgrave_Frederick_II_of_Hesse-Kassel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landgraviate_of_Hesse-Kassel">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary_of_Great_Britain">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_II_of_Hesse-Kassel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles_of_Hesse-Kassel">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_I,_Elector_of_Hesse">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_VIII,_Landgrave_of_Hesse-Kassel">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Convert109962414" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConvertsToRomanCatholicismFromCalvinism" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHereditaryPrincesOfHesse-Kassel" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKassel" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdfs:label xml:lang="ja">フリードリヒ2世 (ヘッセン＝カッセル方伯)</rdfs:label>
+    <rdfs:label xml:lang="pt">Frederico II de Hesse-Cassel</rdfs:label>
+    <rdfs:label xml:lang="es">Federico II de Hesse-Kassel</rdfs:label>
+    <rdfs:label xml:lang="pl">Fryderyk II Heski</rdfs:label>
+    <rdfs:label xml:lang="de">Friedrich II. (Hessen-Kassel)</rdfs:label>
+    <rdfs:label xml:lang="en">Frederick II, Landgrave of Hesse-Kassel</rdfs:label>
+    <rdfs:label xml:lang="it">Federico II d&#39;Assia-Kassel</rdfs:label>
+    <rdfs:label xml:lang="ru">Фридрих II (ландграф Гессен-Касселя)</rdfs:label>
+    <rdfs:label xml:lang="fr">Frédéric II de Hesse-Cassel</rdfs:label>
+    <rdfs:comment xml:lang="fr">Frédéric II de Hesse-Cassel (en allemand Landgraf Friedrich II. von Hessen-Kassel), né le 14 août 1720 à Cassel où il est mort le 31 octobre 1785, au château de Weißenstein (devenu Wilhelmshöhe), fut landgrave de Hesse-Cassel de 1760 à 1785.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Frederico II (14 de agosto de 1720 - 31 de outubro de 1785) foi conde de Hesse-Cassel (ou Hesse-Kassel) de 1760 até à sua morte em 1785.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Frederick II (German: Landgraf Friedrich II von Hessen-Kassel) (14 August 1720 – 31 October 1785) was Landgrave of Hesse-Kassel (or Hesse-Cassel) from 1760 to 1785. He ruled as an enlightened despot, and raised money by renting soldiers (called &quot;Hessians&quot;) to Great Britain to help fight the American Revolutionary War. He combined Enlightenment ideas with Christian values, cameralist plans for central control of the economy, and a militaristic approach toward international diplomacy.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フリードリヒ2世（Friedrich II., 1720年8月14日 - 1785年10月31日）は、ヘッセン＝カッセル方伯（在位：1760年 - 1785年）。ヴィルヘルム8世とその妻であったザクセン＝ツァイツ公モーリッツ・ヴィルヘルムの公女ドロテア・ヴィルヘルミーナ（1691年 - 1743年）の息子。 1740年にイギリス王兼ハノーファー選帝侯ジョージ2世の王女メアリー（1723年 - 1772年）と結婚した（式は5月8日に代理人を介してロンドンで、6月28日に本人が出席してカッセルでそれぞれ行なわれた）。2人の間には、ヴィルヘルム（夭逝）、ヴィルヘルム（後のヘッセン選帝侯ヴィルヘルム1世）、カール（1744年 - 1836年）、フリードリヒ（1747年 - 1837年）の4子が生まれた。また、1772年にメアリーと死別すると1773年1月10日にベルリンにてブランデンブルク＝シュヴェート辺境伯フリードリヒ・ヴィルヘルムの娘フィリッピーネと再婚したが、彼女との間には子供は生まれなかった。 1749年に父と共にケルン大司教クレメンス・アウグスト・フォン・バイエルンを訪ねた際、カトリックに改宗したが、ヘッセン＝カッセルの宗教はカルヴァン派にとどめ、自身の子供もプロテスタントとして育てた。 1785年にカッセルで死去し、次男ヴィルヘルムがヴィルヘルム9世として方伯位を嗣いだ。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Federico II de Hesse-Kassel (en alemán: Friedrich II von Hessen-Kassel; Kassel, 14 de agosto de 1720 - íd., 31 de octubre de 1785) fue Landgrave de Hesse-Kassel de 1760 a 1785. Era hijo del Landgrave Guillermo VIII de Hesse-Kassel y de Dorotea Guillermina de Sajonia-Zeitz. Durante su gobierno el landgraviato disfrutó de tiempos de prosperidad económica y cultural. Pese a su conversión al catolicismo, Hesse-Kassel permaneció calvinista.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Fryderyk II, niem. Friedrich II von Hessen-Kassel (ur. 14 sierpnia 1720 w Kassel, zm. 31 października 1785 tamże) – landgraf Hesji-Kassel w latach 1760-1785. Wprowadził Hesję-Kassel do epoki oświecenia. Był jedynym władcą swego kraju, który po reformacji przyjął na powrót wiarę katolicką.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Фридрих II Гессен-Кассельский (нем. Friedrich II von Hessen-Cassel; 14 августа 1720, Кассель — 31 октября 1785, дворец Вильгельмсхёэ, Кассель) — ландграф Гессен-Касселя из Гессенского дома в 1760—1785 годах.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Friedrich II. (* 14. August 1720 in Kassel; † 31. Oktober 1785 in Schloss Weißenstein, Kassel) aus dem Haus Hessen war ab 1760 Landgraf von Hessen-Kassel. Er war der erste und einzige Landesfürst Hessen-Kassels nach der Reformation, der zum katholischen Glauben übertrat. Bekannt wurde er als erster Fürst der Aufklärung in Hessen, aber auch durch seine Soldatenvermietung im Amerikanischen Unabhängigkeitskrieg.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Fryderyk_II_Heski" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08k8ll" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Federico_II_d&#39;Assia-Kassel" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Frédéric_II_de_Hesse-Cassel" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q454473" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Friedrich_II._(Hessen-Kassel)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Frederico_II_de_Hesse-Cassel" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q454473" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Federico_II_de_Hesse-Kassel" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Fridrich_II._Hesensko-Kasselský" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/130249424" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フリードリヒ2世_(ヘッセン＝カッセル方伯)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kassel" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1785-10-31</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kassel" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1720-8-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1720-08-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landgraves_of_Hesse-Kassel" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1720_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_Roman_Catholics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hereditary_Princes_of_Hesse-Kassel" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Kassel" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Kassel" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Landgraviate_of_Hesse-Kassel" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Académie_des_Inscriptions_et_Belles-Lettres" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Roman_Catholicism_from_Calvinism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1785_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landgraves_of_Hesse" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3008970</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725425148</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://mdz.bib-bvb.de/digbib/lexika/adb/images/adb007/@ebt-link?target=idmatch(entityref,adb0070526)" />
+    <foaf:name xml:lang="en">Frederick II</foaf:name>
+    <foaf:name xml:lang="en">Frederick II, Landgrave of Hesse-Kassel</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Heinrich_Tischbein_-_Retrato_del_Landgrave_Federico_II_de_Hesse-Kassel.jpg" />
+    <dct:description xml:lang="en">Landgrave of Hesse-Kassel (or Hesse-Cassel) from 1760 to 1785</dct:description>
+    <foaf:givenName xml:lang="en">Frederik</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Heinrich_Tischbein_-_Retrato_del_Landgrave_Federico_II_de_Hesse-Kassel.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Frederick_II,_Landgrave_of_Hesse-Kassel?oldid=725425148" />
+    <dbo:abstract xml:lang="pl">Fryderyk II, niem. Friedrich II von Hessen-Kassel (ur. 14 sierpnia 1720 w Kassel, zm. 31 października 1785 tamże) – landgraf Hesji-Kassel w latach 1760-1785. Wprowadził Hesję-Kassel do epoki oświecenia. Był jedynym władcą swego kraju, który po reformacji przyjął na powrót wiarę katolicką.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фридрих II Гессен-Кассельский (нем. Friedrich II von Hessen-Cassel; 14 августа 1720, Кассель — 31 октября 1785, дворец Вильгельмсхёэ, Кассель) — ландграф Гессен-Касселя из Гессенского дома в 1760—1785 годах.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Frederico II (14 de agosto de 1720 - 31 de outubro de 1785) foi conde de Hesse-Cassel (ou Hesse-Kassel) de 1760 até à sua morte em 1785.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Frederick II (German: Landgraf Friedrich II von Hessen-Kassel) (14 August 1720 – 31 October 1785) was Landgrave of Hesse-Kassel (or Hesse-Cassel) from 1760 to 1785. He ruled as an enlightened despot, and raised money by renting soldiers (called &quot;Hessians&quot;) to Great Britain to help fight the American Revolutionary War. He combined Enlightenment ideas with Christian values, cameralist plans for central control of the economy, and a militaristic approach toward international diplomacy.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Frédéric II de Hesse-Cassel (en allemand Landgraf Friedrich II. von Hessen-Kassel), né le 14 août 1720 à Cassel où il est mort le 31 octobre 1785, au château de Weißenstein (devenu Wilhelmshöhe), fut landgrave de Hesse-Cassel de 1760 à 1785.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Friedrich II. (* 14. August 1720 in Kassel; † 31. Oktober 1785 in Schloss Weißenstein, Kassel) aus dem Haus Hessen war ab 1760 Landgraf von Hessen-Kassel. Er war der erste und einzige Landesfürst Hessen-Kassels nach der Reformation, der zum katholischen Glauben übertrat. Bekannt wurde er als erster Fürst der Aufklärung in Hessen, aber auch durch seine Soldatenvermietung im Amerikanischen Unabhängigkeitskrieg.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">フリードリヒ2世（Friedrich II., 1720年8月14日 - 1785年10月31日）は、ヘッセン＝カッセル方伯（在位：1760年 - 1785年）。ヴィルヘルム8世とその妻であったザクセン＝ツァイツ公モーリッツ・ヴィルヘルムの公女ドロテア・ヴィルヘルミーナ（1691年 - 1743年）の息子。 1740年にイギリス王兼ハノーファー選帝侯ジョージ2世の王女メアリー（1723年 - 1772年）と結婚した（式は5月8日に代理人を介してロンドンで、6月28日に本人が出席してカッセルでそれぞれ行なわれた）。2人の間には、ヴィルヘルム（夭逝）、ヴィルヘルム（後のヘッセン選帝侯ヴィルヘルム1世）、カール（1744年 - 1836年）、フリードリヒ（1747年 - 1837年）の4子が生まれた。また、1772年にメアリーと死別すると1773年1月10日にベルリンにてブランデンブルク＝シュヴェート辺境伯フリードリヒ・ヴィルヘルムの娘フィリッピーネと再婚したが、彼女との間には子供は生まれなかった。 1749年に父と共にケルン大司教クレメンス・アウグスト・フォン・バイエルンを訪ねた際、カトリックに改宗したが、ヘッセン＝カッセルの宗教はカルヴァン派にとどめ、自身の子供もプロテスタントとして育てた。 1760年、父の死によってヘッセン＝カッセル方伯位を嗣いだ。1775年にアメリカ独立戦争が勃発するとフリードリヒ2世はイギリスとの間に傭兵提供条約を結び、これによって莫大な収益をあげた。 1785年にカッセルで死去し、次男ヴィルヘルムがヴィルヘルム9世として方伯位を嗣いだ。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Federico II de Hesse-Kassel (en alemán: Friedrich II von Hessen-Kassel; Kassel, 14 de agosto de 1720 - íd., 31 de octubre de 1785) fue Landgrave de Hesse-Kassel de 1760 a 1785. Era hijo del Landgrave Guillermo VIII de Hesse-Kassel y de Dorotea Guillermina de Sajonia-Zeitz. Durante su gobierno el landgraviato disfrutó de tiempos de prosperidad económica y cultural. Pese a su conversión al catolicismo, Hesse-Kassel permaneció calvinista.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Dorothea_Wilhelmina_of_Saxe-Zeitz" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/William_VIII,_Landgrave_of_Hesse-Kassel" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Philippine_of_Brandenburg-Schwedt" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Mary_of_Great_Britain" />
+    <dbo:title xml:lang="en">Landgrave of Hesse-Kassel</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/William_I,_Elector_of_Hesse" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/William_VIII,_Landgrave_of_Hesse-Kassel" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Charles_of_Hesse-Kassel" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/William_I,_Elector_of_Hesse" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">William</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Frederick_of_Hesse-Kassel" />
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Hesse" />
+    <dbp:religion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Calvinism from 1749 Roman Catholicism</dbp:religion>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Landgrave_of_Hesse-Kassel" />
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Landgrave of Hesse-Kassel</dbp:titles>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1760</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Landgrave" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Emsdorf">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frederick_II,_Landgrave_of_Hesse-Kassel">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Cassel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margravine_Philippine_of_Brandenburg-Schwedt">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II_of_Hesse-Cassel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II_of_Hesse-Kassel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_II,_Landgrave_of_Hesse-Kassel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_II,_Landgraf_von_Hessen-Kessel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick_II,_Landgrave_of_Hesse-Kassel" />
+  </rdf:Description>
+</rdf:RDF>

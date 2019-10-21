@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Frederick,_Grand_Duke_of_Baden">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_I,_Grand_Duke_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Josephine_of_Baden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Ludwig_Friedrich,_Grand_Duke_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRulersOfBaden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKarlsruhe" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandDukesOfBaden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHereditaryPrincesOfBaden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfBaden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandMastersOfTheOrderOfTheZähringerLion" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfBaden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanCommandersOfTheNapoleonicWars" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Maestro110280130" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdfs:label xml:lang="de">Karl Ludwig Friedrich (Baden)</rdfs:label>
+    <rdfs:label xml:lang="ar">كارل لودفيش فريدرش (دوق بادن الأكبر)</rdfs:label>
+    <rdfs:label xml:lang="zh">卡尔·路德维希·弗里德里希 (巴登)</rdfs:label>
+    <rdfs:label xml:lang="pl">Karol Ludwik Badeński</rdfs:label>
+    <rdfs:label xml:lang="pt">Carlos I de Baden</rdfs:label>
+    <rdfs:label xml:lang="es">Carlos II de Baden</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles II de Bade</rdfs:label>
+    <rdfs:label xml:lang="it">Carlo II di Baden</rdfs:label>
+    <rdfs:label xml:lang="nl">Karel van Baden</rdfs:label>
+    <rdfs:label xml:lang="ru">Карл (великий герцог Баденский)</rdfs:label>
+    <rdfs:label xml:lang="ja">カール (バーデン大公)</rdfs:label>
+    <rdfs:label xml:lang="en">Charles, Grand Duke of Baden</rdfs:label>
+    <rdfs:comment xml:lang="de">Karl Ludwig Friedrich (* 8. Juni 1786 in Karlsruhe; † 8. Dezember 1818 in Rastatt) war Großherzog von Baden; seine Regierungszeit begann am 10. Juni 1811.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Karel Lodewijk Frederik (Karlsruhe, 8 juni 1786 - Rastatt, 8 december 1818) was van 1811 tot 1818 groothertog van Baden. Hij was de zoon van Karel Lodewijk van Baden en diens eerste gemalin landgravin Frederika Amalia van Hessen-Darmstadt, dochter van Lodewijk IX. Hij had zes zusters en werd overeenkomstig zijn bestemming als troonopvolger opgevoed. Volgens tijdgenoten maakte dit hem tot een eenzame, onzekere en onbegrepen adolescent. In april 1806 trad hij te Parijs in het huwelijk met Stéphanie de Beauharnais, aangenomen dochter van Napoleon Bonaparte.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Karol Ludwik, Carl Ludwig Friedrich von Baden (ur. 8 czerwca 1786, Karlsruhe, zm. 8 grudnia 1818, Rastatt) – wielki książę Badenii (1811-1818). Syn Karola Ludwika Badeńskiego i Amalii Fryderyki Hessen-Darmstadt. Wnuk pierwszego wielkiego księcia Badenii, Karola Fryderyka. W Paryżu, 8 kwietnia 1806, wziął ślub ze Stefanią de Beauharnais (zm. 1860), krewną cesarzowej Józefiny. Miał z nią pięcioro dzieci:</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Carlos I de Baden (Carlos Luís Frederico), (8 de julho de 1786 - 8 de dezembro de 1818), foi governante de Baden desde a morte do avô, o grão-duque Carlos Frederico de Baden, em 1811 até à sua morte.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">カール（ドイツ語: Karl, 1786年7月8日 - 1818年12月8日）は、バーデン大公国の第2代大公（在位: 1811年 - 1818年）。全名はカール・ルートヴィヒ・フリードリヒ（Karl Ludwig Friedrich）。初代バーデン大公カール・フリードリヒの孫。 1786年7月8日、バーデン＝ドゥルラハ辺境伯カール・フリードリヒの長男であるカール・ルートヴィヒと、その妃でヘッセン＝ダルムシュタット方伯ルートヴィヒ9世の娘であるアマーリエの間に第6子（次男）としてカールスルーエで生まれた。兄のカール・フリードリヒはこのとき既に歿していたため、1801年に父がスウェーデンで事故死すると法定推定相続人となった。 バーデンは1803年に選帝侯となり、さらに1806年に神聖ローマ帝国が解体すると大公国となった。1811年に祖父が死去するとカールは大公位に即いた。当初バーデンはライン同盟に加盟していたが、1813年のライプツィヒの戦いの後はフランスから離れた。クレメンス・メッテルニヒが主宰したウィーン会議に参加し、1815年に成立したドイツ連邦の原加盟国となった。 1818年12月8日にラシュタットで死去。息子はともに夭逝していたため、叔父のルートヴィヒ1世が大公位を嗣いだ。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Charles II Frédéric de Bade, (Karl Friedrich II, von Baden), né le 8 juin 1786 à Karlsruhe, mort le 8 décembre 1818 à Rastatt, fut grand-duc de Bade de 1811 à 1818.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carlos II de Baden (en alemán: Karl Ludwig Friedrich von Baden; Karlsruhe, 8 de junio de 1786 - Rastatt, 8 de diciembre de 1818) fue Gran Duque de Baden desde 1811 hasta su muerte.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">卡尔·路德维希·弗里德里希（Karl Ludwig Friedrich，1786年7月8日－1818年12月8日），第二任巴登大公，1811年至1818年在位。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) كارل لودفيش فريدرش (Karl Ludwig Friedrich؛ كارلسروه، 8 يوليو 1786، راشتات - 8 ديسمبر 1818) أصبح دوقاً أكبر على بادن في 11 يونيو 1811 و حكم حتى وفاته.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Карл Людвиг Фридрих (нем. Karl Ludwig Friedrich von Baden; 8 июня 1786, Карлсруэ — 8 декабря 1818, Раштатт) — великий герцог Бадена с 10 июня 1811 года. Последний представитель старшей ветви рода Церингенов.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Charles, Grand Duke of Baden (Karl Ludwig Friedrich; 8 July 1786 – 8 December 1818) became ruler of the Grand Duchy of Baden on 11 June 1811 and ruled until his death. He was born in Karlsruhe.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carlo_II_di_Baden" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/カール_(バーデン大公)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charles_II_de_Bade" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q57799" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karol_Ludwik_Badeński" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/102285020" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.065wbs" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carlos_I_de_Baden" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Karl_Ludwig_Friedrich_(Baden)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_II_de_Baden" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57799" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Charles,_Grand_Duke_of_Baden" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Karel_van_Baden" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Karel_Ludvík_Fridrich_Bádenský" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Karlsruhe" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rastatt" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-12-8</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-12-08</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Karlsruhe" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1786-07-08</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1786-6-8</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1786_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_commanders_of_the_Napoleonic_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Dukes_of_Baden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1818_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Zähringen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Baden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Karlsruhe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hereditary_Princes_of_Baden" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1915789</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742894950</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Charles, Grand Duke of Baden</foaf:name>
+    <foaf:name xml:lang="en">Charles I</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grossherzog_Karl_von_Baden_1811.jpg" />
+    <dct:description xml:lang="en">Grand Duke of Baden</dct:description>
+    <foaf:givenName xml:lang="en">Carlo</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles,_Grand_Duke_of_Baden" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grossherzog_Karl_von_Baden_1811.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles,_Grand_Duke_of_Baden?oldid=742894950" />
+    <dbo:abstract xml:lang="fr">Charles II Frédéric de Bade, (Karl Friedrich II, von Baden), né le 8 juin 1786 à Karlsruhe, mort le 8 décembre 1818 à Rastatt, fut grand-duc de Bade de 1811 à 1818.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Karl Ludwig Friedrich (* 8. Juni 1786 in Karlsruhe; † 8. Dezember 1818 in Rastatt) war Großherzog von Baden; seine Regierungszeit begann am 10. Juni 1811.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) كارل لودفيش فريدرش (Karl Ludwig Friedrich؛ كارلسروه، 8 يوليو 1786، راشتات - 8 ديسمبر 1818) أصبح دوقاً أكبر على بادن في 11 يونيو 1811 و حكم حتى وفاته.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Karel Lodewijk Frederik (Karlsruhe, 8 juni 1786 - Rastatt, 8 december 1818) was van 1811 tot 1818 groothertog van Baden. Hij was de zoon van Karel Lodewijk van Baden en diens eerste gemalin landgravin Frederika Amalia van Hessen-Darmstadt, dochter van Lodewijk IX. Hij had zes zusters en werd overeenkomstig zijn bestemming als troonopvolger opgevoed. Volgens tijdgenoten maakte dit hem tot een eenzame, onzekere en onbegrepen adolescent. In april 1806 trad hij te Parijs in het huwelijk met Stéphanie de Beauharnais, aangenomen dochter van Napoleon Bonaparte. Hij besteeg de Badense troon na de dood van zijn grootvader Karel Frederik in 1811, daar zijn vader, de aanvankelijke troonopvolger, reeds in 1801 op een reis naar Zweden was verongelukt. Hij maakte na de Slag bij Leipzig een eind aan het verbond met Frankrijk en sloot vrede met Klemens von Metternich. Hij nam deel aan het Congres van Wenen en trad in 1815 toe tot de Duitse Bond. Hierna werd hij plotseling erg ziek. Het gerucht ging dat hij was vergiftigd. De rest van zijn leven werd hij meermaals door ziekte geplaagd. Karel ondertekende op 22 augustus 1818 een grondwet waarin werd vastgelegd dat de standen (adel, geestelijkheid, universiteiten en steden) vertegenwoordigers voor de landdag mochten kiezen en dat die inspraak hadden in de financiën van het land. Hij stierf op 8 december 1818 en omdat hij zijn beide zoons had overleefd, werd hij opgevolgd door zijn oom Lodewijk I.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Карл Людвиг Фридрих (нем. Karl Ludwig Friedrich von Baden; 8 июня 1786, Карлсруэ — 8 декабря 1818, Раштатт) — великий герцог Бадена с 10 июня 1811 года. Последний представитель старшей ветви рода Церингенов.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carlos II de Baden (en alemán: Karl Ludwig Friedrich von Baden; Karlsruhe, 8 de junio de 1786 - Rastatt, 8 de diciembre de 1818) fue Gran Duque de Baden desde 1811 hasta su muerte.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Carlos I de Baden (Carlos Luís Frederico), (8 de julho de 1786 - 8 de dezembro de 1818), foi governante de Baden desde a morte do avô, o grão-duque Carlos Frederico de Baden, em 1811 até à sua morte.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Charles, Grand Duke of Baden (Karl Ludwig Friedrich; 8 July 1786 – 8 December 1818) became ruler of the Grand Duchy of Baden on 11 June 1811 and ruled until his death. He was born in Karlsruhe.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">カール（ドイツ語: Karl, 1786年7月8日 - 1818年12月8日）は、バーデン大公国の第2代大公（在位: 1811年 - 1818年）。全名はカール・ルートヴィヒ・フリードリヒ（Karl Ludwig Friedrich）。初代バーデン大公カール・フリードリヒの孫。 1786年7月8日、バーデン＝ドゥルラハ辺境伯カール・フリードリヒの長男であるカール・ルートヴィヒと、その妃でヘッセン＝ダルムシュタット方伯ルートヴィヒ9世の娘であるアマーリエの間に第6子（次男）としてカールスルーエで生まれた。兄のカール・フリードリヒはこのとき既に歿していたため、1801年に父がスウェーデンで事故死すると法定推定相続人となった。 バーデンは1803年に選帝侯となり、さらに1806年に神聖ローマ帝国が解体すると大公国となった。1811年に祖父が死去するとカールは大公位に即いた。当初バーデンはライン同盟に加盟していたが、1813年のライプツィヒの戦いの後はフランスから離れた。クレメンス・メッテルニヒが主宰したウィーン会議に参加し、1815年に成立したドイツ連邦の原加盟国となった。 1818年12月8日にラシュタットで死去。息子はともに夭逝していたため、叔父のルートヴィヒ1世が大公位を嗣いだ。 素性不明の捨て子カスパー・ハウザーに関する噂の一つに、カスパー・ハウザーは1812年に誕生後すぐに死去したとされたカールの長男であったというものがある。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Karol Ludwik, Carl Ludwig Friedrich von Baden (ur. 8 czerwca 1786, Karlsruhe, zm. 8 grudnia 1818, Rastatt) – wielki książę Badenii (1811-1818). Syn Karola Ludwika Badeńskiego i Amalii Fryderyki Hessen-Darmstadt. Wnuk pierwszego wielkiego księcia Badenii, Karola Fryderyka. W Paryżu, 8 kwietnia 1806, wziął ślub ze Stefanią de Beauharnais (zm. 1860), krewną cesarzowej Józefiny. Miał z nią pięcioro dzieci: 
+*  Ludwikę Amelię von Baden (ur. 5 czerwca 1811, zm. 19 lipca 1854) – żonę Gustawa (zm. 1877), syna króla Szwecji Gustawa IV Adolfa, 
+*  syna (ur. 10 września 1812, zm. 16 października 1812) - być może Kaspara Hausera, 
+*  Aleksandra (ur. 1 maja 1816, zm. 8 maja 1817), 
+*  Józefinę Fryderykę von Baden (ur. 21 października 1813, zm. 19 czerwca 1900) – żonę księcia Karola Antoniego von Hohenzollern-Sigmaringen (zm. 1885), 
+*  Marię Amelię von Baden (ur. 11 października 1817, zm. 17 października 1888) – żonę Williama Douglasa-Hamiltona, 11. księcia Hamilton (zm. 1863), matkę księżnej Monako Marii Wiktorii i przodkinię obecnego księcia Alberta II.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">卡尔·路德维希·弗里德里希（Karl Ludwig Friedrich，1786年7月8日－1818年12月8日），第二任巴登大公，1811年至1818年在位。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1818</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1811</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Landgravine_Amalie_of_Hesse-Darmstadt" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Charles_Frederick,_Grand_Duke_of_Baden" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Stéphanie_de_Beauharnais" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Baden" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Zähringen" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Josephine_of_Baden" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Alexander, Hereditary Grand Duke of Baden</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Louise_Amelie_of_Baden" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Marie_Amelie_of_Baden" />
+    <dbp:issueLink rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#Marriage and family</dbp:issueLink>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheran" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Grand_Duke_of_Baden" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_rulers_of_Baden" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1811</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Baden">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stéphanie_de_Beauharnais">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Marie_Amelie_of_Baden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_Amelie_of_Baden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl,_Grand_Duke_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles,_Grand_Duke_of_Baden">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+  </rdf:Description>
+</rdf:RDF>

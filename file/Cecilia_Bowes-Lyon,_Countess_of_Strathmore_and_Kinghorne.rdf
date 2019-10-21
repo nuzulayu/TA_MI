@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Cavendish-Bentinck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="ru">Кавендиш-Бентинк, Сесилия Нина</rdfs:label>
+    <rdfs:label xml:lang="pt">Cecília Bowes-Lyon</rdfs:label>
+    <rdfs:label xml:lang="nl">Cecilia Cavendish-Bentinck</rdfs:label>
+    <rdfs:label xml:lang="es">Cecilia Cavendish-Bentinck</rdfs:label>
+    <rdfs:label xml:lang="pl">Cecilia Bowes-Lyon</rdfs:label>
+    <rdfs:label xml:lang="fr">Cecilia Nina Cavendish-Bentinck</rdfs:label>
+    <rdfs:label xml:lang="de">Cecilia Nina Cavendish-Bentinck</rdfs:label>
+    <rdfs:label xml:lang="it">Cecilia Cavendish-Bentinck</rdfs:label>
+    <rdfs:label xml:lang="en">Cecilia Bowes-Lyon, Countess of Strathmore and Kinghorne</rdfs:label>
+    <rdfs:comment xml:lang="pl">Cecilia Bowes-Lyon (ur. 11 września 1862 w Londynie, zm. 23 czerwca 1938 w Londynie) – matka królowej Elżbiety, babka i matka chrzestna Elżbiety II. Cecillia Bowes-Lyon urodziła się w Londynie jako najstarsza córka Charles&#39;a Cavendish-Bentincka i jego żony, Louisy Cavendish-Bentinck. 16 lipca 1881 Cecilia poślubiła Claude&#39;a Bowes-Lyon, Lorda Glamis, z którym miała dziesięcioro dzieci. W 1904 Claude odziedziczył po swoim ojcu tytuł Hrabiego Strathmore i Kinghorne. Wówczas Cecillia otrzymała tytuł Hrabiny Strathmore i Kinghorne.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Cecilia Nina Bowes-Lyon, Countess of Strathmore and Kinghorne GCVO DStJ (née Cavendish-Bentinck; 11 September 1862 – 23 June 1938) was the mother of Queen Elizabeth The Queen Mother and maternal grandmother and godmother of Elizabeth II.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Cecilia Nina Bowes-Lyon, gravin van Strathmore en Kinghorne (Londen, 11 september 1862 - Glamis Castle, 23 juni 1938) was een grootmoeder van de Britse koningin Elizabeth II. Cecilia Nina Cavendish-Bentinck werd geboren als de oudste dochter van dominee Charles Cavendish-Bentinck en diens echtgenote Louisa Burnaby. Op 16 juli 1881 huwde ze Claude Bowes-Lyon, later de veertiende graaf van Strathmore en Kinghorne. Zelf stamde Cecilia Cavendish-Bentinck af van de hertogen van Portland.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Cecilia Nina Cavendish-Bentinck, née le 11 septembre 1862 à Londres et morte le 23 juin 1938 dans la même ville, est une aristocrate britannique, épouse de Claude Bowes-Lyon lord Glamis, puis 14e comte de Strathmore et Kinghorne (1855 - 1944) et la grand-mère maternelle de l&#39;actuelle reine du Royaume-Uni, Élisabeth II, ainsi que sa marraine.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Сеси́лия Ни́на Каве́ндиш-Бенти́нк, графи́ня Стра́тмор и Ки́нгхорн (англ. Cecilia Nina Cavendish-Bentinck, Countess of Strathmore and Kinghorne; 11 сентября 1862 года, Лондон — 23 июня 1938 года, там же) — английская аристократка из рода Бентинков, мать Элизабет Боуз-Лайон («королевы-матери»), бабушка и крёстная королевы Елизаветы II.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Cecilia Nina Cavendish-Bentinck, besser bekannt als Cecilia Nina Bowes-Lyon, Countess of Strathmore and Kinghorne GCVO, GBE, DStJ (* 11. September 1862 in London; † 23. Juni 1938 ebenda) war eine britische Aristokratin sowie die Großmutter und Taufpatin der Königin Elisabeth II.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Cecilia Nina Bowes-Lyon, Condesa de Strathmore y Kinghorne (nacida Cavendish-Bentinck; 11 de septiembre de 1862 – 23 de junio de 1938) fue la madre de la reina Isabel del Reino Unido esposa de rey Jorge VI (después conocida como Reina Isabel, Reina Madre) y abuela materna de Isabel II del Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Nina Cecília Bowes-Lyon, Condessa de Strathmore e Kinghorne, nascida Cecília Cavendish-Bentinck, 11 de setembro de 1862 - 23 de junho de 1938) foi a mãe da rainha Elizabeth Bowes-Lyon (mais tarde conhecida como Rainha-Mãe) e avó materna e madrinha da rainha Elizabeth II do Reino Unido, consorte de Claude Bowes-Lyon, 14.º Conde de Strathmore e Kinghorne.Pela orden e pela claria de seu filha rainha elizabeth II que estar no seu cargo neste periodo</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cecilia_Nina_Cavendish-Bentinck" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08_w0z" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q238820" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q238820" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Cecilia_Bowes-Lyon" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1023751763" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Cecilia_Cavendish-Bentinck" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cecília_Bowes-Lyon" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Cecilia_Cavendish-Bentinck" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cecilia_Cavendish-Bentinck" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Cecilia_Nina_Cavendish-Bentinck" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:deathPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">London, England, UK</dbp:deathPlace>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1938-6-23</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:birthPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">London, England, UK</dbp:birthPlace>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1862-9-11</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_countesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bowes-Lyon_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bentinck_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_countesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1862_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_Grace_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1938_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3229006</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736777784</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Cecilia Bowes-Lyon, Countess of Strathmore and Kinghorne</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Countess of Strathmore and Kinghorne</dbp:name>
+    <dct:description xml:lang="en">Peeress</dct:description>
+    <foaf:givenName xml:lang="en">Cecilia</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne?oldid=736777784" />
+    <dbo:abstract xml:lang="es">Cecilia Nina Bowes-Lyon, Condesa de Strathmore y Kinghorne (nacida Cavendish-Bentinck; 11 de septiembre de 1862 – 23 de junio de 1938) fue la madre de la reina Isabel del Reino Unido esposa de rey Jorge VI (después conocida como Reina Isabel, Reina Madre) y abuela materna de Isabel II del Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Cecilia Nina Bowes-Lyon, gravin van Strathmore en Kinghorne (Londen, 11 september 1862 - Glamis Castle, 23 juni 1938) was een grootmoeder van de Britse koningin Elizabeth II. Cecilia Nina Cavendish-Bentinck werd geboren als de oudste dochter van dominee Charles Cavendish-Bentinck en diens echtgenote Louisa Burnaby. Op 16 juli 1881 huwde ze Claude Bowes-Lyon, later de veertiende graaf van Strathmore en Kinghorne. Zelf stamde Cecilia Cavendish-Bentinck af van de hertogen van Portland. Het echtpaar kreeg tien kinderen. Hun jongste dochter Elizabeth huwde later met de toekomstige Britse koning George VI. 
+* Violet Hyacinth (1882-1893); 
+* Mary Frances (1883-1961); 
+* Patrick (1884-1949); 
+* John Herbert (1886-1930); 
+* Alexander Francis (1887-1911); 
+* Fergus (1889-1915); 
+* Rose Constance (1890-1967); 
+* Michael Claude Hamilton (1893-1953); 
+* Elizabeth (1900-2002); 
+* David (1902-1961).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Cecilia Bowes-Lyon (ur. 11 września 1862 w Londynie, zm. 23 czerwca 1938 w Londynie) – matka królowej Elżbiety, babka i matka chrzestna Elżbiety II. Cecillia Bowes-Lyon urodziła się w Londynie jako najstarsza córka Charles&#39;a Cavendish-Bentincka i jego żony, Louisy Cavendish-Bentinck. 16 lipca 1881 Cecilia poślubiła Claude&#39;a Bowes-Lyon, Lorda Glamis, z którym miała dziesięcioro dzieci. W 1904 Claude odziedziczył po swoim ojcu tytuł Hrabiego Strathmore i Kinghorne. Wówczas Cecillia otrzymała tytuł Hrabiny Strathmore i Kinghorne. Podczas I wojny światowej jej rezydencja na zamku Glamis działała jako szpital dla rannych. Hrabina brała czynny udział w leczeniu poszkodowanych, do czasu aż wykryto u niej raka, który spowodował niepełnosprawność. W październiku 1921 roku poddała się histerektomii, powracając do zdrowia w maju 1922. 26 kwietnia 1923 odbył się ślub jej najmłodszej córki Elżbiety. Poślubiła ona Jego Królewską Wysokość Księcia Alberta z dynastii Windsorów, późniejszego króla Jerzego VI. W kwietniu 1938 roku, podczas ślubu wnuczki Anny Bowes-Lyon, Cecilia doznała zawału serca. Zmarła 2 miesiące później w wieku 75 lat w Londynie. Została pochowana 27 lipca 1938 roku, w Zamku Glamis, w hrabstwie Angus w Szkocji.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Cecilia Nina Bowes-Lyon, Countess of Strathmore and Kinghorne GCVO DStJ (née Cavendish-Bentinck; 11 September 1862 – 23 June 1938) was the mother of Queen Elizabeth The Queen Mother and maternal grandmother and godmother of Elizabeth II.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nina Cecília Bowes-Lyon, Condessa de Strathmore e Kinghorne, nascida Cecília Cavendish-Bentinck, 11 de setembro de 1862 - 23 de junho de 1938) foi a mãe da rainha Elizabeth Bowes-Lyon (mais tarde conhecida como Rainha-Mãe) e avó materna e madrinha da rainha Elizabeth II do Reino Unido, consorte de Claude Bowes-Lyon, 14.º Conde de Strathmore e Kinghorne.Pela orden e pela claria de seu filha rainha elizabeth II que estar no seu cargo neste periodo</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Сеси́лия Ни́на Каве́ндиш-Бенти́нк, графи́ня Стра́тмор и Ки́нгхорн (англ. Cecilia Nina Cavendish-Bentinck, Countess of Strathmore and Kinghorne; 11 сентября 1862 года, Лондон — 23 июня 1938 года, там же) — английская аристократка из рода Бентинков, мать Элизабет Боуз-Лайон («королевы-матери»), бабушка и крёстная королевы Елизаветы II.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Cecilia Nina Cavendish-Bentinck, née le 11 septembre 1862 à Londres et morte le 23 juin 1938 dans la même ville, est une aristocrate britannique, épouse de Claude Bowes-Lyon lord Glamis, puis 14e comte de Strathmore et Kinghorne (1855 - 1944) et la grand-mère maternelle de l&#39;actuelle reine du Royaume-Uni, Élisabeth II, ainsi que sa marraine.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Cecilia Nina Cavendish-Bentinck, besser bekannt als Cecilia Nina Bowes-Lyon, Countess of Strathmore and Kinghorne GCVO, GBE, DStJ (* 11. September 1862 in London; † 23. Juni 1938 ebenda) war eine britische Aristokratin sowie die Großmutter und Taufpatin der Königin Elisabeth II.</dbo:abstract>
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1862-09-11</dbp:birthDate>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cecilia Nina Cavendish-Bentinck</dbp:birthName>
+    <dbp:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1938-06-23</dbp:deathDate>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Fergus_Bowes-Lyon" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/John_Bowes-Lyon" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Michael Bowes-Lyon</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Rose_Leveson-Gower,_Countess_Granville" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Violet Bowes-Lyon</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/David_Bowes-Lyon" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Alexander Bowes-Lyon</dbp:issue>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Charles_Cavendish-Bentinck_(priest)" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Louisa_Cavendish-Bentinck" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1881</dbp:spouse>
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Mother" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Cavendish-Bentinck_(priest)">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Cecilia_Cavendish-Bentinck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rose_Leveson-Gower,_Countess_Granville">
+    <dbp:mother rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louisa_Cavendish-Bentinck">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Cavendish-Bentnick">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Nina_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Nina_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne,_GCVO_DStJ">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Nina_Cavendish-Bentinck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Nina_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne,_GCVO">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+</rdf:RDF>

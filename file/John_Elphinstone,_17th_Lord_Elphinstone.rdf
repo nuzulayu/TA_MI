@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatColditzPrisonersOfWorldWarII" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prisoner110476086" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdfs:label xml:lang="en">John Elphinstone, 17th Lord Elphinstone</rdfs:label>
+    <rdfs:comment xml:lang="en">John Alexander Elphinstone, 17th Lord Elphinstone and 3rd Baron Elphinstone (22 March 1914 – 15 November 1975) was a British nobleman and serviceman during World War 2. He was a son of Sidney Buller-Fullerton-Elphinstone, 16th Lord Elphinstone and Lady Mary Bowes-Lyon. He was a nephew of Queen Elizabeth The Queen Mother and a cousin of Queen Elizabeth II. During the war he was a prisoner of war, and was one of the &quot;prominente&quot; held in Oflag IV-C (Colditz).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j_6g_r" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6231704" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6231704" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-1-1</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-1-1</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1914_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Barons_in_the_Peerage_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1975_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_of_Parliament" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_Huguenot_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Colditz_prisoners_of_World_War_II" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36070668</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736463714</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">John Elphinstone, 17th Lord Elphinstone</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PicOf_4C_Prominente.jpg" />
+    <dct:description xml:lang="en">British noble</dct:description>
+    <foaf:givenName xml:lang="en">John</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/John_Elphinstone,_17th_Lord_Elphinstone" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/PicOf_4C_Prominente.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/John_Elphinstone,_17th_Lord_Elphinstone?oldid=736463714" />
+    <dbo:abstract xml:lang="en">John Alexander Elphinstone, 17th Lord Elphinstone and 3rd Baron Elphinstone (22 March 1914 – 15 November 1975) was a British nobleman and serviceman during World War 2. He was a son of Sidney Buller-Fullerton-Elphinstone, 16th Lord Elphinstone and Lady Mary Bowes-Lyon. He was a nephew of Queen Elizabeth The Queen Mother and a cousin of Queen Elizabeth II. During the war he was a prisoner of war, and was one of the &quot;prominente&quot; held in Oflag IV-C (Colditz).</dbo:abstract>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Baron_Elphinstone" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Lord_Elphinstone" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1955</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Nobleman" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Elphinstone_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidney_Buller-Fullerton-Elphinstone,_16th_Lord_Elphinstone">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Alexander_Elphinstone,_17th_Lord_Elphinstone">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/John_Elphinstone,_17th_Lord_Elphinstone">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+  </rdf:Description>
+</rdf:RDF>

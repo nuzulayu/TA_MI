@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peregrine_Cavendish,_12th_Duke_of_Devonshire">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Christabel_Montagu_Douglas-Scott">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Alice_Christabel_Montagu_Douglas-Scott">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice,_Duchess_of_Gloucester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Montagu-Douglas-Scott">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Montagu_Douglas_Scott">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alice">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2nd_East_Anglian_Regiment">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Christabel_Montagu-Douglas-Scott">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Richard,_Duke_of_Gloucester">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishCentenarians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Daughter109992837" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleOffspring110084043" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDaughtersOfBritishDukes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishWomenInWorldWarII" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lawman110249459" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109918248" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Offspring110373998" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishDuchessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheOrderOfTheCrownOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Oldster110376523" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110295951" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishCentenarians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Centenarian109904208" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalAirForceAirMarshals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomenInTheRoyalAirForce" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AirMarshal109781171" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtMalvernStJames" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOfficersOfTheOrderOfTheBritishEmpire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincessesByMarriage" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Preserver110466918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Defender109614684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTheUniversityOfDerby" />
+    <rdfs:label xml:lang="fr">Alice Montagu-Douglas-Scott</rdfs:label>
+    <rdfs:label xml:lang="zh">愛麗斯王妃 (告羅士打公爵夫人)</rdfs:label>
+    <rdfs:label xml:lang="ja">アリス (グロスター公爵夫人)</rdfs:label>
+    <rdfs:label xml:lang="ru">Алиса, герцогиня Глостерская</rdfs:label>
+    <rdfs:label xml:lang="pt">Alice, Duquesa de Gloucester</rdfs:label>
+    <rdfs:label xml:lang="en">Princess Alice, Duchess of Gloucester</rdfs:label>
+    <rdfs:label xml:lang="es">Alicia de Gloucester</rdfs:label>
+    <rdfs:label xml:lang="nl">Alice Christabel Montagu-Douglas-Scott</rdfs:label>
+    <rdfs:label xml:lang="ar">الأميرة أليس، دوقة غلوستر</rdfs:label>
+    <rdfs:label xml:lang="it">Alice, duchessa di Gloucester</rdfs:label>
+    <rdfs:label xml:lang="de">Alice, Duchess of Gloucester</rdfs:label>
+    <rdfs:label xml:lang="pl">Alicja (księżna Gloucester)</rdfs:label>
+    <rdfs:comment xml:lang="zh">告羅士打公爵夫人愛麗斯王妃（英语：Princess Alice, Duchess of Gloucester，1901年12月25日－2004年10月29日），全名艾丽斯·克丽斯特贝尔·蒙塔古-道格拉斯-斯科特（Alice Christabel Montagu-Douglas-Scott），英国国王乔治五世的第三子、乔治六世的弟弟格洛斯特公爵亨利王子的王妃，现女王伊丽莎白二世的婶母。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Алиса, герцогиня Глостерская (англ. Princess Alice, Duchess of Gloucester, в девичестве Монтегю-Дуглас-Скотт англ. Montagu Douglas Scott; 25 декабря 1901, Вестминстер, Лондон — 29 октября 2004, Кенсингтонский дворец, Лондон) — жена, а затем вдова Генри, герцога Глостерского, третьего сына короля Георга V и Марии Текской, брата королей Эдуарда VIII и Георга VI. В качестве исключения, после смерти мужа ей был дан титул принцессы Великобритании. Одна из двух членов королевской семьи Великобритании (другой была королева-мать Елизавета), которая прожила более 100 лет.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Alice Christabel Montagu-Douglas-Scott, later bekend als prinses Alice, hertogin van Gloucester (25 december 1901 – 29 oktober 2004), was de vrouw van Hendrik, hertog van Gloucester. Zij was de schoonzus van de Engelse koningen Eduard VIII en George VI en de tante van koningin Elizabeth II. Na de oorlog hield zij zich voornamelijk bezig met het uitoefenen van allerlei representatieve taken en met liefdadigheid. Ze trouwde op 6 november 1935 met prins Henry en kregen samen twee zoons:</rdfs:comment>
+    <rdfs:comment xml:lang="es">La princesa Alicia, duquesa de Gloucester (n. Alice Christabel Montagu Douglas Scott, 25 de diciembre de 1901 - 29 de octubre de 2004) fue la esposa y luego viuda del príncipe Enrique, duque de Gloucester, tercer hijo del rey Jorge V del Reino Unido y la reina María. Luego de su matrimonio con el príncipe Enrique en 1935, apoyó con asiduidad las labores de sus cuñados, los reyes Jorge VI y Elizabeth. Desde su casamiento, se convirtió en tía de Isabel II, actual monarca del Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Figlia del VII duca di Buccleuch &amp; Queensberry, il più grande proprietario terriero di Scozia, i suoi fratelli, Walter e William e suo nipote John, sono stati tutti i deputati conservatori. Per matrimonio è stata cognata di Edoardo VIII e Giorgio VI e zia di Elisabetta II. Era madre del principe William di Gloucester, morto in giovane età in un incidente aereo, e di principe Richard, duca di Gloucester. Sua cugina di primo grado Marian Louisa Montagu Douglas Scott era la nonna di Sarah Ferguson, moglie del pronipote di Alice, il principe Andrea.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Princess Alice, Duchess of Gloucester GCB CI GCVO GBE (born Alice Christabel Montagu Douglas Scott; 25 December 1901 – 29 October 2004) was the wife of Prince Henry, Duke of Gloucester, the third son of George V and Mary of Teck. She is the mother of the present Duke of Gloucester, and of Prince William of Gloucester, who died aged 30. Born the daughter of the 7th Duke of Buccleuch &amp; Queensberry, Scotland’s largest landowner, she became by marriage a princess of the United Kingdom, and later a sister-in-law to King Edward VIII and King George VI. She was thus a paternal aunt to Elizabeth II.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">グロスター公爵夫人アリス（英語: Princess Alice, Duchess of Gloucester, 1901年12月25日 - 2004年10月29日）は、グロスター公爵ヘンリーの妻。エリザベス2世の義理の叔母にあたる。 第9代クイーンズベリー公爵ジョン・モンタギュー・ダグラス・スコットとマーガレット・ブリッジマンの三女として生まれ、1935年にジョージ5世の三男グロスター公爵ヘンリーと結婚した。 1936年にグロスター公の次兄アルバート王子がジョージ6世として即位すると、王弟夫人として第二次世界大戦中には赤十字の活動に協力し、空軍の名誉職に就任、1944年から1947年までは、夫妻でオーストラリア総督を務めた。 ウィリアムとリチャードの2男をもうけるが、長男ウィリアムを1972年に航空機事故で亡くし、1974年には夫のグロスター公爵に先立たれた。 1999年に公務を肉体的な問題から退き、2003年8月20日で歴代の英国王室での最長寿となり、2004年10月29日、102歳309日で眠るように息を引き取った。なお現在、英国王室史上最長寿であった人物である。彼女に次ぐ英国王室長寿はエリザベス皇太后（王太后）である（101歳238日）。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Alice Montagu-Douglas-Scott, née Alice Christabel Montagu-Douglas-Scott (25 décembre 1901 - 29 octobre 2004), était un membre de la noblesse puis de la famille royale britannique, par son mariage avec Henry de Gloucester (troisième fils du roi George V et de la reine Mary), et de ce fait titrée princesse Alice, duchesse de Gloucester.</rdfs:comment>
+    <rdfs:comment xml:lang="de">HRH Princess Alice, Duchess of Gloucester (geborene Lady Alice Christabel Montagu-Douglas-Scott) GCB CI GCVO GBE (* 25. Dezember 1901 in London; † 29. Oktober 2004 ebenda), war die Frau von Henry, 1. Duke of Gloucester, dem Sohn von König Georg V. und Königin Mary. Sie war damit die Schwägerin von König Georg VI. und König Edward VIII., dem späteren Duke of Windsor, und die Mutter von Prinz Richard, 2. Duke of Gloucester, dem derzeitigen Inhaber des Titels. Sie war die Tante von Königin Elisabeth II. durch die Ehe mit Prinz Henry, einem Onkel der Queen väterlicherseits.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Lady Alice Christabel Montagu-Douglas-Scott, później: Alicja, księżna Gloucester (ang. Princess Alice, Duchess of Gloucester) GCB, CI, GCVO, GBE (ur. 25 grudnia 1901 w Montagu House w Londynie, zm. 29 października 2004 w Kensington Palace w Londynie) – najdłużej żyjąca członkini brytyjskiej rodziny królewskiej, ciotka królowej Elżbiety II.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alice Christabel Montagu-Douglas-Scott GCB, CI, GCVO, GBE, DGStJ (depois Princesa Alice, Duquesa de Gloucester; 25 de dezembro de 1901 - 29 de outubro de 2004) foi a esposa do príncipe Henrique, Duque de Gloucester, o terceiro filho de Jorge V e da rainha Maria. Foi cunhada dos reis Eduardo VIII e do Jorge VI, mãe do atual Duque de Gloucester e tia da rainha Isabel II do Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الأميرة أليس، دوقة غلوستر (25 ديسمبر 1901 - 29 أكتوبر 2004) كانت زوجة الأمير هنري دوق جلوستر، الابن الثالث لجورج الخامس وماري تك. وهي أم لدوق غلوستر الحالي، ووليام أمير جلوستر، الذي توفي عن عمر يناهز 30 سنة.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rWSFo6itnTi-aq8MRyMRufw" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q246915" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Alicja_(księżna_Gloucester)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01bj_5" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Alice,_vévodkyně_z_Gloucesteru" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alice,_Duquesa_de_Gloucester" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q246915" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alicia_de_Gloucester" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alice,_Duchess_of_Gloucester" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アリス_(グロスター公爵夫人)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alice,_duchessa_di_Gloucester" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/129544310" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alice_Montagu-Douglas-Scott" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alice_Christabel_Montagu-Douglas-Scott" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kensington_Palace" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-10-29</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Montagu_House,_Whitehall" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1901-12-25</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Queen_of_Sheba" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Malvern_St_James" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women&#39;s_Auxiliary_Air_Force_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_University_of_Derby" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Kaisar-i-Hind_Medal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_centenarians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_in_the_Royal_Air_Force" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Spouses_of_Australian_Governors-General" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women&#39;s_Royal_Air_Force_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clan_Scott" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Supreme_Classes_of_the_Order_of_the_Virtues_(Egypt)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2004_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Crown_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_centenarians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_British_dukes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Air_Force_air_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_the_British_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1901_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">194000</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741817379</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.royal.gov.uk/HistoryoftheMonarchy/The%20House%20of%20Windsor%20from%201952/HRHPrincessAlice/LifeofHRHPrincessAlice.aspx" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/uk/1673159.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20060514111851/http:/www.regiments.org/biography/royals/1901aliG.htm" />
+    <foaf:name xml:lang="en">Princess Alice</foaf:name>
+    <foaf:name xml:lang="en">Alice Christabel</foaf:name>
+    <foaf:name xml:lang="en">Princess Alice, Duchess of Gloucester</foaf:name>
+    <foaf:homepage rdf:resource="http://www.royal.gov.uk/HistoryoftheMonarchy/The%20House%20of%20Windsor%20from%201952/HRHPrincessAlice/LifeofHRHPrincessAlice.aspx" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/HRH_Alice,_Duchess_of_Gloucester.jpg" />
+    <dct:description xml:lang="en">Wife of Prince Henry, Duke of Gloucester</dct:description>
+    <foaf:givenName xml:lang="en">Alice</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Princess_Alice,_Duchess_of_Gloucester" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/HRH_Alice,_Duchess_of_Gloucester.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Princess_Alice,_Duchess_of_Gloucester?oldid=741817379" />
+    <dbo:abstract xml:lang="pt">Alice Christabel Montagu-Douglas-Scott GCB, CI, GCVO, GBE, DGStJ (depois Princesa Alice, Duquesa de Gloucester; 25 de dezembro de 1901 - 29 de outubro de 2004) foi a esposa do príncipe Henrique, Duque de Gloucester, o terceiro filho de Jorge V e da rainha Maria. Foi cunhada dos reis Eduardo VIII e do Jorge VI, mãe do atual Duque de Gloucester e tia da rainha Isabel II do Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الأميرة أليس، دوقة غلوستر (25 ديسمبر 1901 - 29 أكتوبر 2004) كانت زوجة الأمير هنري دوق جلوستر، الابن الثالث لجورج الخامس وماري تك. وهي أم لدوق غلوستر الحالي، ووليام أمير جلوستر، الذي توفي عن عمر يناهز 30 سنة.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Lady Alice Christabel Montagu-Douglas-Scott, później: Alicja, księżna Gloucester (ang. Princess Alice, Duchess of Gloucester) GCB, CI, GCVO, GBE (ur. 25 grudnia 1901 w Montagu House w Londynie, zm. 29 października 2004 w Kensington Palace w Londynie) – najdłużej żyjąca członkini brytyjskiej rodziny królewskiej, ciotka królowej Elżbiety II.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Алиса, герцогиня Глостерская (англ. Princess Alice, Duchess of Gloucester, в девичестве Монтегю-Дуглас-Скотт англ. Montagu Douglas Scott; 25 декабря 1901, Вестминстер, Лондон — 29 октября 2004, Кенсингтонский дворец, Лондон) — жена, а затем вдова Генри, герцога Глостерского, третьего сына короля Георга V и Марии Текской, брата королей Эдуарда VIII и Георга VI. В качестве исключения, после смерти мужа ей был дан титул принцессы Великобритании. Одна из двух членов королевской семьи Великобритании (другой была королева-мать Елизавета), которая прожила более 100 лет.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">グロスター公爵夫人アリス（英語: Princess Alice, Duchess of Gloucester, 1901年12月25日 - 2004年10月29日）は、グロスター公爵ヘンリーの妻。エリザベス2世の義理の叔母にあたる。 第9代クイーンズベリー公爵ジョン・モンタギュー・ダグラス・スコットとマーガレット・ブリッジマンの三女として生まれ、1935年にジョージ5世の三男グロスター公爵ヘンリーと結婚した。 1936年にグロスター公の次兄アルバート王子がジョージ6世として即位すると、王弟夫人として第二次世界大戦中には赤十字の活動に協力し、空軍の名誉職に就任、1944年から1947年までは、夫妻でオーストラリア総督を務めた。 ウィリアムとリチャードの2男をもうけるが、長男ウィリアムを1972年に航空機事故で亡くし、1974年には夫のグロスター公爵に先立たれた。 1999年に公務を肉体的な問題から退き、2003年8月20日で歴代の英国王室での最長寿となり、2004年10月29日、102歳309日で眠るように息を引き取った。なお現在、英国王室史上最長寿であった人物である。彼女に次ぐ英国王室長寿はエリザベス皇太后（王太后）である（101歳238日）。 
+* フルネーム - 英語: Alice Christabel Montagu-Douglas-Scott  
+* 正式称号 - 英語: Her Royal Highness Princess Alice, Duchess of Gloucester（英国における称号）</dbo:abstract>
+    <dbo:abstract xml:lang="de">HRH Princess Alice, Duchess of Gloucester (geborene Lady Alice Christabel Montagu-Douglas-Scott) GCB CI GCVO GBE (* 25. Dezember 1901 in London; † 29. Oktober 2004 ebenda), war die Frau von Henry, 1. Duke of Gloucester, dem Sohn von König Georg V. und Königin Mary. Sie war damit die Schwägerin von König Georg VI. und König Edward VIII., dem späteren Duke of Windsor, und die Mutter von Prinz Richard, 2. Duke of Gloucester, dem derzeitigen Inhaber des Titels. Sie war die Tante von Königin Elisabeth II. durch die Ehe mit Prinz Henry, einem Onkel der Queen väterlicherseits.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">告羅士打公爵夫人愛麗斯王妃（英语：Princess Alice, Duchess of Gloucester，1901年12月25日－2004年10月29日），全名艾丽斯·克丽斯特贝尔·蒙塔古-道格拉斯-斯科特（Alice Christabel Montagu-Douglas-Scott），英国国王乔治五世的第三子、乔治六世的弟弟格洛斯特公爵亨利王子的王妃，现女王伊丽莎白二世的婶母。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Figlia del VII duca di Buccleuch &amp; Queensberry, il più grande proprietario terriero di Scozia, i suoi fratelli, Walter e William e suo nipote John, sono stati tutti i deputati conservatori. Per matrimonio è stata cognata di Edoardo VIII e Giorgio VI e zia di Elisabetta II. Era madre del principe William di Gloucester, morto in giovane età in un incidente aereo, e di principe Richard, duca di Gloucester. Sua cugina di primo grado Marian Louisa Montagu Douglas Scott era la nonna di Sarah Ferguson, moglie del pronipote di Alice, il principe Andrea. La nipote della principessa Alice, la principessa Alessandra di Kent, che è ugualmente nata il giorno di Natale, condivide il nome Christabel in onore della loro data di nascita comune.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Alice Christabel Montagu-Douglas-Scott, later bekend als prinses Alice, hertogin van Gloucester (25 december 1901 – 29 oktober 2004), was de vrouw van Hendrik, hertog van Gloucester. Zij was de schoonzus van de Engelse koningen Eduard VIII en George VI en de tante van koningin Elizabeth II. Zij werd geboren als Lady Alice Christabel Montagu-Douglas Scott, als dochter van de hertog van Buccleuch en lady Margaret Bridgeman. Zij groeide op in Northamptonshire waar ze verschillende scholen bezocht. Als jonge vrouw verbleef zij enige tijd in Frankrijk en Kenia. Pas op vrij late leeftijd, in 1935, trouwde zij met de zoon van George V. Tijdens de Tweede Wereldoorlog werkte zij voor het Rode Kruis. Na de oorlog hield zij zich voornamelijk bezig met het uitoefenen van allerlei representatieve taken en met liefdadigheid. Ze trouwde op 6 november 1935 met prins Henry en kregen samen twee zoons: 
+*  William (18 december 1941 – 28 augustus 1972), overleed door een vliegtuigongeluk. 
+*  Richard (26 oktober 1944), trouwde op 8 juli 1972 met de Deense Birgitte van Deurs (20 juni 1946) Haar jongste zoon, Richard, is de huidige hertog van Gloucester. Vanaf 1995 verscheen de prinses niet meer in het openbaar. In 1999 kondigde haar zoon aan dat de prinses met pensioen ging. Zij leed naar alle waarschijnlijkheid aan ernstig geheugenverlies. Geen lid van de Britse koninklijke familie werd ooit ouder dan Prinses Alice. Op 20 augustus 2003 evenaarde zij de leeftijd die de Queen Mum bereikte en werd daarmee het oudste lid ooit van de Britse koninklijke familie. Prinses Alice overleed op bijna 103-jarige leeftijd. Haar begrafenis vond plaats op 5 november 2004.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Princess Alice, Duchess of Gloucester GCB CI GCVO GBE (born Alice Christabel Montagu Douglas Scott; 25 December 1901 – 29 October 2004) was the wife of Prince Henry, Duke of Gloucester, the third son of George V and Mary of Teck. She is the mother of the present Duke of Gloucester, and of Prince William of Gloucester, who died aged 30. Born the daughter of the 7th Duke of Buccleuch &amp; Queensberry, Scotland’s largest landowner, she became by marriage a princess of the United Kingdom, and later a sister-in-law to King Edward VIII and King George VI. She was thus a paternal aunt to Elizabeth II. Her brothers Walter and William and her nephew John were all Conservative MPs. Her first cousin, Marian Montagu Douglas Scott, was the paternal grandmother of Sarah, Duchess of York, wife of Alice’s great-nephew, Prince Andrew, Duke of York.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La princesa Alicia, duquesa de Gloucester (n. Alice Christabel Montagu Douglas Scott, 25 de diciembre de 1901 - 29 de octubre de 2004) fue la esposa y luego viuda del príncipe Enrique, duque de Gloucester, tercer hijo del rey Jorge V del Reino Unido y la reina María. Luego de su matrimonio con el príncipe Enrique en 1935, apoyó con asiduidad las labores de sus cuñados, los reyes Jorge VI y Elizabeth. Desde su casamiento, se convirtió en tía de Isabel II, actual monarca del Reino Unido. Acostumbraba participar en distintos eventos públicos, se dedicó a la pintura y residió en Kenia, la India, Afganistán y Australia. Luego de la sorpresiva muerte de su hijo mayor y de su esposo en la década de 1970, sus apariciones públicas fueron reduciéndose considerablemente. Se convirtió en el miembro más longevo de la historia de la familia real británica desde 2003.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Alice Montagu-Douglas-Scott, née Alice Christabel Montagu-Douglas-Scott (25 décembre 1901 - 29 octobre 2004), était un membre de la noblesse puis de la famille royale britannique, par son mariage avec Henry de Gloucester (troisième fils du roi George V et de la reine Mary), et de ce fait titrée princesse Alice, duchesse de Gloucester. Elle est la fille du 7e duc de Buccleuch et 9e duc de Queensberry, premier propriétaire terrien d’Écosse. Ses frères Walter et William étaient tous deux membres du parlement pour le Parti conservateur. Par mariage, elle était la belle-sœur des rois Édouard VIII et George VI ainsi que la tante de l&#39;actuelle souveraine Élisabeth II. À la fin de sa vie, elle était la doyenne de la famille royale. Elle détient le record de longévité pour un membre de la famille royale britannique depuis son décès à 102 ans le 29 octobre 2004 (dépassant de peu sa belle-sœur, la reine-mère, décédée en 2002 à 101 ans passés).</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/John_Montagu_Douglas_Scott,_7th_Duke_of_Buccleuch" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Frogmore" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester" />
+    <dbo:title xml:lang="en">Duchess of Gloucester([[#Titles and styles</dbo:title>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-11-05</dbp:dateOfBurial>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Windsor</dbp:house>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_William_of_Gloucester" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Richard,_Duke_of_Gloucester" />
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lady Margaret Bridgeman</dbp:mother>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Hussars">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alice,_Dowager_Duchess_of_Gloucester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alice,_the_Dowager_Duchess_of_Gloucester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Alice_Christabel_Montagu-Douglas-Scott">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Henry,_Duchess_of_Gloucester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King&#39;s_Own_Scottish_Borderers">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_William_of_Gloucester">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Montagu_Douglas_Scott,_7th_Duke_of_Buccleuch">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/562_Parachute_Squadron_Royal_Corps_of_Transport_(Volunteers)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Duchess_of_Gloucester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Scott">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Princess_Alice,_Duchess_of_Gloucester">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Princess_Alice,_Duchess_of_Gloucester" />
+  </rdf:Description>
+</rdf:RDF>

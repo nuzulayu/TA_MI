@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <dbp:heir rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linley">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serena_Armstrong-Jones,_Viscountess_Linley">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David,_Viscont_Linley">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David,_Viscount_Linley">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Snowdon">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armstrong-Jones">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viscount_Linley">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antique_Woodworking_Tools">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Armstrong-Jones">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Armstrong">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfWelshDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cabinetmaker109885866" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Craftsman109974648" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtBedalesSchool" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Specialist110631941" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishFurnitureDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woodworker110790192" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFurnitureDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/InteriorDesigner110210648" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishCabinetmakers" />
+    <rdfs:label xml:lang="en">David Armstrong-Jones, Viscount Linley</rdfs:label>
+    <rdfs:label xml:lang="it">David Armstrong-Jones, Visconte Linley</rdfs:label>
+    <rdfs:label xml:lang="ja">デイヴィッド・アームストロング＝ジョーンズ</rdfs:label>
+    <rdfs:label xml:lang="es">David Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="de">David Armstrong-Jones, Viscount Linley</rdfs:label>
+    <rdfs:label xml:lang="nl">David Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="pt">David Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="fr">David Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="pl">David Armstrong-Jones</rdfs:label>
+    <rdfs:comment xml:lang="pl">David Albert Charles Armstrong-Jones (ur. 3 listopada 1961 w Clarence House w Londynie), znany także jako David Linley, brytyjski arystokrata, najstarszy syn Antony&#39;ego Armstronga-Jonesa, 1. hrabiego Snowdon, i księżniczki Małgorzaty, córki króla Wielkiej Brytanii Jerzego VI. Siostrzeniec królowej Elżbiety II. Zajmuje 18. miejsce w linii sukcesji do brytyjskiego tronu. 8 października 1993 r. poślubił Serenę Stanhope (ur. 1 maja 1970), córkę Charlesa Stanhope’a, wicehrabiego Petersham, i Virginii Freeman-Jackson, córki Harry’ego Freemana-Jacksona. David i Serena mają razem syna i córkę:</rdfs:comment>
+    <rdfs:comment xml:lang="pt">David Albert Charles Armstrong-Jones, Lorde Linley (Londres, 3 de novembro de 1961) É um descendente da família real britânica, conhecido profissionalmente como David Linley, é o presidente-eleito da Christie&#39;s do Reino Unido, a internacional casa de leilão.</rdfs:comment>
+    <rdfs:comment xml:lang="de">David Albert Charles Armstrong-Jones, Viscount Linley (* 3. November 1961 in London), gemeinhin als David Linley bekannt, ist ein englischer Möbeldesigner und Unternehmer. Seit 2006 ist er Vorstandsvorsitzender des Londoner Auktionshauses Christie’s. Als Sohn von Prinzessin Margaret steht er auf Platz 18 der Thronfolge des Vereinigten Königreichs. Als Sohn und Erbe des Earl of Snowdon führt er den Höflichkeitstitel Viscount Linley.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">デイヴィッド・アームストロング＝ジョーンズ（英語: David Armstrong-Jones、1961年11月3日 - ）は、イギリスのインテリアデザイナー。スノードン伯爵家の継嗣であり、儀礼称号としてリンリー子爵（英語: Viscount Linley）を称している。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">David Albert Charles Armstrong-Jones, burggraaf Linley (Clarence House (Londen), 3 november 1961) is de enige zoon van de Britse prinses Margaret en haar toenmalige echtgenoot Antony Armstrong-Jones. Toen hij drie jaar oud was, werd hij geopereerd aan zijn flaporen. David Armstrong-Jones had eerst een aantal, door de Britse roddelbladen goed gevolgde romances, alvorens hij op 8 oktober 1993 trouwde met Serena Alleyne Stanhope. Het paar kreeg twee kinderen: 
+* Charles (1999) 
+* Margarita (2002)</rdfs:comment>
+    <rdfs:comment xml:lang="es">David Albert Charles Armstrong-Jones, vizconde Linley (n. 3 de noviembre de 1961) conocido profesionalmente como David Linley, es un fabricante de muebles británico y presidente de la casa de subastas británica Christie&#39;s. Es el hijo mayor del matrimonio de la princesa Margarita, condesa de Snowdon, y Antony Armstrong-Jones, 1.er. conde de Snowdon; ocupa el lugar número dieciocho en la línea de sucesión al trono británico, además es heredero del condado de Snowdon.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">David, Albert, Charles Armstrong-Jones, vicomte Linley, né le 3 novembre 1961 à Clarence House à Londres, est un créateur de meubles contemporains, apparenté à la famille royale britannique.</rdfs:comment>
+    <rdfs:comment xml:lang="en">David Albert Charles Armstrong-Jones, Viscount Linley (born 3 November 1961), known professionally as David Linley, is an English furniture maker and chairman of the auction house Christie&#39;s UK. The son of Princess Margaret, Countess of Snowdon, and Antony Armstrong-Jones, 1st Earl of Snowdon, he is a grandson of King George VI, is 18th in line to succeed Queen Elizabeth II, his maternal aunt, and is the heir-apparent to the Earldom of Snowdon.</rdfs:comment>
+    <rdfs:comment xml:lang="it">È un membro minore della famiglia reale inglese in quanto figlio della principessa Margaret, sorella della regina Elisabetta II. È 18º nella linea di successione al trono britannico ed è l&#39;erede al titolo di conte di Snowdon.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/David_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1091237" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/David_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/David_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/David_Armstrong-Jones,_Visconte_Linley" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/David_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/David_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1091237" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Viscount_Linley" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/David_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/デイヴィッド・アームストロング＝ジョーンズ" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/139650083" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01ndzw" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/David_Linley" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:birthPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Clarence House, London</dbp:birthPlace>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-11-3</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_furniture_designers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1961_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_businesspeople" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_cabinetmakers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Ashdown_House" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Bedales_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Armstrong-Jones_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_courtesy_viscounts" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17245599</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741995048</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.education.gov.uk/edubase/establishment/summary.xhtml?urn=123305" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.claridges.co.uk/accommodation/news/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.davidlinley.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.npg.org.uk/live/search/person.asp?LinkID=mp10279" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kempinski-moscow.com/en/vrtour/index.php?file=8033" />
+    <foaf:name xml:lang="en">David Armstrong-Jones, Viscount Linley</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Viscount Linley</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Viscount_Linley_Trooping_the_Colour_Saturday_June_16th_2007.jpg" />
+    <dct:description xml:lang="en">English furniture designer; Member of the British royal family; chairman of Christie&#39;s UK</dct:description>
+    <foaf:givenName xml:lang="en">David</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/David_Armstrong-Jones,_Viscount_Linley" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Viscount_Linley_Trooping_the_Colour_Saturday_June_16th_2007.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/David_Armstrong-Jones,_Viscount_Linley?oldid=741995048" />
+    <dbo:abstract xml:lang="pl">David Albert Charles Armstrong-Jones (ur. 3 listopada 1961 w Clarence House w Londynie), znany także jako David Linley, brytyjski arystokrata, najstarszy syn Antony&#39;ego Armstronga-Jonesa, 1. hrabiego Snowdon, i księżniczki Małgorzaty, córki króla Wielkiej Brytanii Jerzego VI. Siostrzeniec królowej Elżbiety II. Zajmuje 18. miejsce w linii sukcesji do brytyjskiego tronu. Wykształcenie odebrał w Bedales School w Hampshire oraz w John Makepiece School for Craftsmen w Dorset. Jest autorem dwóch książek: Extraordinary Furniture i Classical Furniture, obie opublikowane w 1993 r. Lord Linley jest producentem mebli i projektantem wnętrz. W 1985 r. założył swoją własną firmę, Linley. W 2006 r. został prezesem Christie&#39;s UK. Jako wnuk po kądzieli monarchy nie posiada żadnych tytułów przysługujących rodzinie królewskiej. Tytuł wicehrabiego Linley przysługuje mu jako dziedzicowi hrabstwa Snowdon, które odziedziczy po śmierci swojego ojca. 8 października 1993 r. poślubił Serenę Stanhope (ur. 1 maja 1970), córkę Charlesa Stanhope’a, wicehrabiego Petersham, i Virginii Freeman-Jackson, córki Harry’ego Freemana-Jacksona. David i Serena mają razem syna i córkę: 
+*  Charles Patrick Inigo Armstrong-Jones (ur. 2 lipca 1999) 
+*  Margarita Elizabeth Rose Alleyne Armstrong-Jones (ur. 14 maja 2002) Małżonkowie mieszkają razem w londyńskiej dzielnicy Chelsea.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">David, Albert, Charles Armstrong-Jones, vicomte Linley, né le 3 novembre 1961 à Clarence House à Londres, est un créateur de meubles contemporains, apparenté à la famille royale britannique.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">デイヴィッド・アームストロング＝ジョーンズ（英語: David Armstrong-Jones、1961年11月3日 - ）は、イギリスのインテリアデザイナー。スノードン伯爵家の継嗣であり、儀礼称号としてリンリー子爵（英語: Viscount Linley）を称している。</dbo:abstract>
+    <dbo:abstract xml:lang="it">È un membro minore della famiglia reale inglese in quanto figlio della principessa Margaret, sorella della regina Elisabetta II. È 18º nella linea di successione al trono britannico ed è l&#39;erede al titolo di conte di Snowdon.</dbo:abstract>
+    <dbo:abstract xml:lang="de">David Albert Charles Armstrong-Jones, Viscount Linley (* 3. November 1961 in London), gemeinhin als David Linley bekannt, ist ein englischer Möbeldesigner und Unternehmer. Seit 2006 ist er Vorstandsvorsitzender des Londoner Auktionshauses Christie’s. Als Sohn von Prinzessin Margaret steht er auf Platz 18 der Thronfolge des Vereinigten Königreichs. Als Sohn und Erbe des Earl of Snowdon führt er den Höflichkeitstitel Viscount Linley.</dbo:abstract>
+    <dbo:abstract xml:lang="en">David Albert Charles Armstrong-Jones, Viscount Linley (born 3 November 1961), known professionally as David Linley, is an English furniture maker and chairman of the auction house Christie&#39;s UK. The son of Princess Margaret, Countess of Snowdon, and Antony Armstrong-Jones, 1st Earl of Snowdon, he is a grandson of King George VI, is 18th in line to succeed Queen Elizabeth II, his maternal aunt, and is the heir-apparent to the Earldom of Snowdon.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">David Albert Charles Armstrong-Jones, Lorde Linley (Londres, 3 de novembro de 1961) É um descendente da família real britânica, conhecido profissionalmente como David Linley, é o presidente-eleito da Christie&#39;s do Reino Unido, a internacional casa de leilão. Lorde David Armstrong-Jones é o único filho da falecida princesa Margarida, e de seu ex-marido, o fotógrafo Antony Armstrong-Jones. É, portanto, sobrinho da rainha Isabel II e neto do rei Jorge VI. David não possui, em seu direito, o título Visconde Linley, que é o título de cortesia usado pelo filho mais velho e herdeiro geral do Conde de Snowdon que detem o título de &quot;Lorde&quot;. David é atualmente o décimo quinto na linha de sucessão ao trono britânico, atrás de Zara Phillips, filha da princesa Ana, sua prima-irmã.</dbo:abstract>
+    <dbo:abstract xml:lang="es">David Albert Charles Armstrong-Jones, vizconde Linley (n. 3 de noviembre de 1961) conocido profesionalmente como David Linley, es un fabricante de muebles británico y presidente de la casa de subastas británica Christie&#39;s. Es el hijo mayor del matrimonio de la princesa Margarita, condesa de Snowdon, y Antony Armstrong-Jones, 1.er. conde de Snowdon; ocupa el lugar número dieciocho en la línea de sucesión al trono británico, además es heredero del condado de Snowdon.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">David Albert Charles Armstrong-Jones, burggraaf Linley (Clarence House (Londen), 3 november 1961) is de enige zoon van de Britse prinses Margaret en haar toenmalige echtgenoot Antony Armstrong-Jones. Toen hij drie jaar oud was, werd hij geopereerd aan zijn flaporen. David Armstrong-Jones had eerst een aantal, door de Britse roddelbladen goed gevolgde romances, alvorens hij op 8 oktober 1993 trouwde met Serena Alleyne Stanhope. Het paar kreeg twee kinderen: 
+* Charles (1999) 
+* Margarita (2002) David is van beroep meubelontwerper. Sinds 1985 heeft hij zijn eigen meubelmakerij, onder de naam Linley.</dbo:abstract>
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-11-03</dbp:birthDate>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">David Albert Charles Armstrong-Jones</dbp:birthName>
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Margarita_Armstrong-Jones" />
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Quarterly 1st and 4th sable on a chevron argent, between in chief two fleurs-de-lis Or, and in base an eagle displayed Or, four pallets gules differenced with a label vert of three points , 2nd and 3rd being the royal arms, differenced with a label argent of three points, the outer points bearing Tudor roses, and the central bearing a thistle proper.</dbp:escutcheon>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</dbp:imageSize>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hon. Margarita Armstrong-Jones</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <dbp:notes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Viscount&#39;s personal coat of arms are those of his father quartered with those of his mother.</dbp:notes>
+    <dbp:occupation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Furniture maker</dbp:occupation>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-10-08</dbp:spouse>
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Serena_Armstrong-Jones,_Viscountess_Linley" />
+    <dbp:symbolism rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The 1st and 4th quarters are those of his father, the Earl of Snowdon, differenced for the heir apparent of the earldom. The 2nd and 3rd quarters are the Royal Arms of the United Kingdom, differenced for the Princess Margaret.</dbp:symbolism>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Viscount Linley</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_throne" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Maker" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margarita_Armstrong-Jones">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Linley">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Linley">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/David_Armstrong-Jones,_Viscount_Linley">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Ormsby-Gore,_5th_Baron_Harlech">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophie_Lascelles">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emily_Shard">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Lascelles,_6th_Earl_of_Harewood">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lascelles">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andreas_Whittam_Smith">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeremy_Lascelles">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amy_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Move100165942" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatColditzPrisonersOfWorldWarII" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOperaManagers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsInThePeerageOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMusicologists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Professional110480253" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prisoner110476086" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Action100037396" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Administrator109770949" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Critic109979321" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldWarIIPrisonersOfWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Evaluator110066732" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Head110162991" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/President110467179" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Critic109979589" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtLudgroveSchool" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOperaCritics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrisonersOfWar" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrenadierGuardsOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrisonerOfWar110476331" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPhilanthropists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Musicologist110341243" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Director110014939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfKing&#39;sCollege,Cambridge" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPresidentsOfTheFootballAssociation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtEtonCollege" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoodPerson110138767" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldWarIIPrisonersOfWarHeldByGermany" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Philanthropist110421956" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Benefactor109608709" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Donor110025730" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MusicCritic110339856" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMusicCritics" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Diarist110011486" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Literate110266328" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDiarists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110801291" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Authority109824361" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Decision100162632" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPossibleCut-and-pasteMoves" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Choice100161243" />
+    <rdfs:label xml:lang="pt">Jorge Lascelles, 7.º Conde de Harewood</rdfs:label>
+    <rdfs:label xml:lang="nl">George Lascelles</rdfs:label>
+    <rdfs:label xml:lang="es">George Lascelles</rdfs:label>
+    <rdfs:label xml:lang="ru">Ласеллс, Джордж, 7-й граф Хэрвуд</rdfs:label>
+    <rdfs:label xml:lang="fr">George Lascelles</rdfs:label>
+    <rdfs:label xml:lang="en">George Lascelles, 7th Earl of Harewood</rdfs:label>
+    <rdfs:label xml:lang="pl">George Lascelles (7. hrabia Harewood)</rdfs:label>
+    <rdfs:label xml:lang="de">George Lascelles, 7. Earl of Harewood</rdfs:label>
+    <rdfs:comment xml:lang="fr">George Henry Hubert Lascelles, né le 7 février 1923 à Londres, mort le 11 juillet 2011 dans sa maison de Harewood House, à Leeds (Yorkshire de l&#39;Ouest) en Grande-Bretagne, 7e comte de Harewood, est un membre de la famille royale britannique. Il est mondialement connu pour sa vaste érudition musicale et sa contribution à la connaissance de l&#39;opéra.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Джордж Генри Хьюберт Ласеллс, 7-й граф Хэрвуд (англ. George Henry Hubert Lascelles, 7th Earl of Harewood; 7 февраля 1923—11 июля 2011) — старший сын 6-го графа Хэрвуда (1882—1947) и принцессы Марии, единственной дочери короля Соединённого Королевства Великобритании и Северной Ирландии Георга V и королевы Марии. У него был младший брат, достопочтенный Джеральд Ласеллс. Джордж Хэрвуд был старшим племянником короля Георга VI и был двоюродным братом королевы Елизаветы II. До 1929 года — достопочтенный Джордж Ласеллс, между 1929 и 1947 годами — виконт Ласеллс, 23 мая 1947 года унаследовал титул графа Хэрвуд.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jorge Henrique Huberto Lascelles, 7.º Conde de Harewood (George Henry Humbert Lascelles) KBE (7 de fevereiro de 1923-11 de julho de 2011) foi o filho mais velho de Henrique Lascelles, 6.º Conde de Harewood (1882-1947) e de Maria, Princesa Real (1897-1965), a única filha do Rei Jorge V do Reino Unido e da rainha Maria de Teck. Um primo-irmão da rainha Isabel II do Reino Unido, ele sucedeu seu pai como Conde de Harewood em 24 de maio de 1947. George Lascelles foi a única pessoa que serviu como Counsellor of State sem ter um título real, ocupando tal cargo de 1945 até 1951 e de 1952 até 1956.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">George Henry Hubert Lascelles, 7e graaf van Harewood KBE (7 februari 1923 – 11 juli 2011) was de oudste zoon van Henry Lascelles, 6e graaf van Harewood (1882-1947) en Prinses Mary, de enige dochter van Koning George V en Koningin Mary. George is een neef van Koningin Elizabeth II. Hij werd graaf van Harewood op 24 mei 1947, toen zijn vader stierf. Hij was 39ste in de lijn van de Britse troonopvolging.Hij werd geboren in Harewood House, het huis van de familie Lascelles in Yorkshire. Hij heeft op Eton College en King&#39;s College, Cambridge gestudeerd. 
+*  Mark (4 juli 1965).</rdfs:comment>
+    <rdfs:comment xml:lang="es">George Henry Hubert Lascelles KBE, VII conde de Harewood (Londres, 7 de febrero de 1923 - 11 de julio de 2011) fue un melómano y promotor de ópera, empresario, crítico, escritor y filántropo británico.</rdfs:comment>
+    <rdfs:comment xml:lang="en">George Henry Hubert Lascelles, 7th Earl of Harewood, KBE, AM (7 February 1923 – 11 July 2011), styled The Hon. George Lascelles before 1929 and Viscount Lascelles between 1929 and 1947, was the elder son of the 6th Earl of Harewood and Princess Mary, Princess Royal, the only daughter of King George V and Queen Mary. Lord Harewood was the eldest nephew of King George VI and was a first cousin of Queen Elizabeth II. He succeeded to his father&#39;s earldom on 24 May 1947.</rdfs:comment>
+    <rdfs:comment xml:lang="de">George Henry Hubert Lascelles, 7. Earl of Harewood KBE (* 7. Februar 1923 in Harewood House; † 11. Juli 2011 ebenda) war ein britischer Adeliger und der älteste Sohn von Henry Lascelles, 6. Earl of Harewood (1882–1947), und Maria Viktoria, der einzigen Tochter König Georgs V. und Königin Mary. Er war deshalb ein Cousin der Königin Elisabeth II. Zuletzt stand er an 46. Stelle der Thronfolge.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">George Henry Hubert Lascelles, 7. hrabia Harewood KBE AM (ur. 7 lutego 1923 w Chesterfield House, Londyn, zm. 11 lutego 2011 w Harewood House, Harewood) – hrabia, starszy syn Henry’ego Lascellesa i Marii Windsor, jedynej córki króla Jerzego V. Hrabia Harewood od 24 maja 1947.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/George_Lascelles" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_Lascelles" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/George_Lascelles,_7._Earl_of_Harewood" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Mark_Lascelles" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/129833215" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_Lascelles" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/George_Lascelles_(7._hrabia_Harewood)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_Lascelles,_7.º_Conde_de_Harewood" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q336609" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Amy_Lascelles" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ellen_Lascelles" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q336609" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/39378335" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01x116" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Harewood_House" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Leeds" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-7-11</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-07-11</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Harewood_House" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-2-7</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-02-07</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grenadier_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_York" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sportspeople_from_Yorkshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1923_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2011_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Ludgrove_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Colditz_prisoners_of_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Members_of_the_Order_of_Australia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Commander_of_the_Order_of_the_British_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_football_chairmen_and_investors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Members_of_the_Royal_Philharmonic_Society" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_the_Football_Association" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_II_prisoners_of_war_held_by_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Eton_College" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Grand_Decoration_with_Sash_for_Services_to_the_Republic_of_Austria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_King&#39;s_College,_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_in_the_Peerage_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lascelles_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Opera_managers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Opera_North" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Opera_critics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pages_of_Honour" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332214</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743197510</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.telegraph.co.uk/news/obituaries/royalty-obituaries/8631002/The-Earl-of-Harewood.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/programmes/p009mtf8" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kcstudio.com/harewood.html" />
+    <foaf:name xml:lang="en">The Earl of Harewood</foaf:name>
+    <foaf:name xml:lang="en">George Lascelles, 7th Earl of Harewood</foaf:name>
+    <dct:description xml:lang="en">British noble</dct:description>
+    <foaf:givenName xml:lang="en">Jorge</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_Lascelles,_7th_Earl_of_Harewood" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_Lascelles,_7th_Earl_of_Harewood?oldid=743197510" />
+    <dbo:abstract xml:lang="ru">Джордж Генри Хьюберт Ласеллс, 7-й граф Хэрвуд (англ. George Henry Hubert Lascelles, 7th Earl of Harewood; 7 февраля 1923—11 июля 2011) — старший сын 6-го графа Хэрвуда (1882—1947) и принцессы Марии, единственной дочери короля Соединённого Королевства Великобритании и Северной Ирландии Георга V и королевы Марии. У него был младший брат, достопочтенный Джеральд Ласеллс. Джордж Хэрвуд был старшим племянником короля Георга VI и был двоюродным братом королевы Елизаветы II. До 1929 года — достопочтенный Джордж Ласеллс, между 1929 и 1947 годами — виконт Ласеллс, 23 мая 1947 года унаследовал титул графа Хэрвуд.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">George Henry Hubert Lascelles, né le 7 février 1923 à Londres, mort le 11 juillet 2011 dans sa maison de Harewood House, à Leeds (Yorkshire de l&#39;Ouest) en Grande-Bretagne, 7e comte de Harewood, est un membre de la famille royale britannique. Il est mondialement connu pour sa vaste érudition musicale et sa contribution à la connaissance de l&#39;opéra.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">George Henry Hubert Lascelles, 7e graaf van Harewood KBE (7 februari 1923 – 11 juli 2011) was de oudste zoon van Henry Lascelles, 6e graaf van Harewood (1882-1947) en Prinses Mary, de enige dochter van Koning George V en Koningin Mary. George is een neef van Koningin Elizabeth II. Hij werd graaf van Harewood op 24 mei 1947, toen zijn vader stierf. Hij was 39ste in de lijn van de Britse troonopvolging.Hij werd geboren in Harewood House, het huis van de familie Lascelles in Yorkshire. Hij heeft op Eton College en King&#39;s College, Cambridge gestudeerd. Tijdens de Tweede Wereldoorlog vocht hij mee in Italië. De Duitsers hielden hem gevangen als krijgsgevangene in Colditz Castle vanaf 1944 tot mei 1945. In 1945-1946 vocht hij onder zijn oom, Alexander van Teck die tot Gouverneur-Generaal van Canada was benoemd, als adjudant. Lord Harewood heeft een groot deel van zijn leven toegewijd aan opera. Hij was de editor van Opera Magazine vanaf 1950 tot 1953 en was de directeur van Royal Opera House vanaf 1951 tot 1953 en nog een keer vanaf 1969 tot 1972. Hij was voorzitter van English National Opera (ENO) vanaf 1986 tot 1995, muziekdirecteur van ENO vanaf 1972 tot 1985, artistiek directeur van de Edinburgh, Leeds, Adelaide Festivals.Hij heeft ook gewerkt bij de English National Opera North vanaf 1978 tot 1981. Ook is George gouverneur geweest van de British Broadcasting Corporation vanaf 1985 tot 1987, vanaf 1985 tot 1996 was hij voorzitter van de Film Classification. Hij is schrijver of bewerker van deze 3 boeken: 
+*  Kobbé&#39;s Complete Opera Book (1954, het heet nu The New Kobbé&#39;s Opera Book) 
+*  The Tongs and the Bones (1981) 
+*  Kobbé&#39;s Illustrated Opera Book (1989) George hield ook erg veel van voetbal. Hij was de president van de Football Association van 1963 tot 1972. Hij was sinds 1983 president van de Leeds United Football Club. Hij trouwde met de van oorsprong Oostenrijkse pianiste Marion Stein (1926) op 29 september 1949. Voor de huwelijksfestiviteiten schreef de Britse componist Benjamin Britten A wedding anthem. Ze kregen 3 kinderen: 
+*  David (21 oktober 1950) 
+*  James (5 oktober 1953) 
+*  Jeremy (14 februari 1955) Marion en George scheidde van elkaar in 1967. Marion trouwde daarna met Jeremy Thorpe.George trouwde met de Australische Patricia Tuckwell (24 november 1926), dochter van Barry Tuckwell, op 31 juli 1967. Ze hadden al een zoon van 2: 
+*  Mark (4 juli 1965). Omdat Mark geboren is zonder dat zijn ouders met elkaar getrouwd waren, staat hij niet in de lijn van de Britse troonopvolging, en heeft hij ook geen rechten op de earldom of Harewood. George heeft als kanselier gewerkt bij de University of York vanaf 1962 tot 1967.Hij staat op nummer 270 in de &#39;Sunday Times Rich List 2005&#39; met £ 148.000.000</dbo:abstract>
+    <dbo:abstract xml:lang="en">George Henry Hubert Lascelles, 7th Earl of Harewood, KBE, AM (7 February 1923 – 11 July 2011), styled The Hon. George Lascelles before 1929 and Viscount Lascelles between 1929 and 1947, was the elder son of the 6th Earl of Harewood and Princess Mary, Princess Royal, the only daughter of King George V and Queen Mary. Lord Harewood was the eldest nephew of King George VI and was a first cousin of Queen Elizabeth II. He succeeded to his father&#39;s earldom on 24 May 1947.</dbo:abstract>
+    <dbo:abstract xml:lang="de">George Henry Hubert Lascelles, 7. Earl of Harewood KBE (* 7. Februar 1923 in Harewood House; † 11. Juli 2011 ebenda) war ein britischer Adeliger und der älteste Sohn von Henry Lascelles, 6. Earl of Harewood (1882–1947), und Maria Viktoria, der einzigen Tochter König Georgs V. und Königin Mary. Er war deshalb ein Cousin der Königin Elisabeth II. Zuletzt stand er an 46. Stelle der Thronfolge.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Jorge Henrique Huberto Lascelles, 7.º Conde de Harewood (George Henry Humbert Lascelles) KBE (7 de fevereiro de 1923-11 de julho de 2011) foi o filho mais velho de Henrique Lascelles, 6.º Conde de Harewood (1882-1947) e de Maria, Princesa Real (1897-1965), a única filha do Rei Jorge V do Reino Unido e da rainha Maria de Teck. Um primo-irmão da rainha Isabel II do Reino Unido, ele sucedeu seu pai como Conde de Harewood em 24 de maio de 1947. George Lascelles foi a única pessoa que serviu como Counsellor of State sem ter um título real, ocupando tal cargo de 1945 até 1951 e de 1952 até 1956.</dbo:abstract>
+    <dbo:abstract xml:lang="es">George Henry Hubert Lascelles KBE, VII conde de Harewood (Londres, 7 de febrero de 1923 - 11 de julio de 2011) fue un melómano y promotor de ópera, empresario, crítico, escritor y filántropo británico.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">George Henry Hubert Lascelles, 7. hrabia Harewood KBE AM (ur. 7 lutego 1923 w Chesterfield House, Londyn, zm. 11 lutego 2011 w Harewood House, Harewood) – hrabia, starszy syn Henry’ego Lascellesa i Marii Windsor, jedynej córki króla Jerzego V. Hrabia Harewood od 24 maja 1947.</dbo:abstract>
+    <dbo:child rdf:resource="http://dbpedia.org/resource/James_Lascelles" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Jeremy_Lascelles" />
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+    <dbo:office>Member of theHouse of Lords</dbo:office>
+    <dbo:office>asEarl of Harewood</dbo:office>
+    <dbo:office>Counsellor of State</dbo:office>
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Princess_Maud,_Countess_of_Southesk" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Henry_Lascelles,_6th_Earl_of_Harewood" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Patricia_Lascelles,_Countess_of_Harewood" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Marion_Stein" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/House_of_Lords_Act_1999" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood__2" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood__1" />
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George Henry Hubert Lascelles</dbp:birthName>
+    <dbp:education rdf:resource="http://dbpedia.org/resource/King&#39;s_College,_Cambridge" />
+    <dbp:education rdf:resource="http://dbpedia.org/resource/Eton_College" />
+    <dbp:education rdf:resource="http://dbpedia.org/resource/Ludgrove_School" />
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Right_Honourable" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Henry_Lascelles,_6th_Earl_of_Harewood" />
+    <dbp:tenure rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-23</dbp:tenure>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-11-11</dbp:termEnd>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1956-02-07</dbp:termStart>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Harewood" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">President of the British Board of Film Classification</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Adelaide_Festival_of_Arts" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chancellor of the University of York</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1947</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1985</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1988</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Clark">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marion_Stein">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Lascelles,_Countess_of_Harewood">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George,_7th_Earl_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Lascelles">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Hubert_Lascelles,_7th_Earl_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/7th_Earl_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Hubert_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Hubert_Lascelles_Earl_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_Lascelles,_7th_Earl_of_Harewood">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harewood,_7th_Earl_of">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+  </rdf:Description>
+</rdf:RDF>

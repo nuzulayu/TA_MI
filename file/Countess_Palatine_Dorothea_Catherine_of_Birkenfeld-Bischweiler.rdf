@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis,_Count_of_Nassau-Ottweiler">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Catherine_of_Nassau-Ottweiler">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Louis,_Count_of_Nassau-Ottweiler">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountessesOfNassau" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanCountesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat17th-centuryGermanPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Countess109970402" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdfs:label xml:lang="en">Countess Palatine Dorothea Catherine of Birkenfeld-Bischweiler</rdfs:label>
+    <rdfs:label xml:lang="de">Dorothea Katharina von Pfalz-Birkenfeld-Bischweiler</rdfs:label>
+    <rdfs:label xml:lang="nl">Dorothea Catharina van Palts-Birkenfeld-Bischweiler</rdfs:label>
+    <rdfs:comment xml:lang="nl">Dorothea Catharina van Palts-Birkenfeld-Bischweiler (Bischwiller, 3 juli 1634 - Neunkirchen, 7 december 1715) was de dochter van paltsgraaf Christiaan I van Palts-Birkenfeld-Bischweiler en Magdalena Catharina van Palts-Zweibrücken. Ze trouwde op 6 oktober 1649 (op 15-jarige leeftijd) met Johan Lodewijk van Nassau-Ottweiler. Samen kregen zij acht kinderen: 
+*  Christiaan Lodewijk (1650) 
+*  Frederik Lodewijk (1651) 
+*  Anna Catharina (1653) 
+*  Walraad (1656) 
+*  Karel Siegfried (1659) 
+*  Lodewijk (1661) 
+*  Louise (1662) 
+*  Maurits (1664)</rdfs:comment>
+    <rdfs:comment xml:lang="en">Countess Palatine Dorothea Catherine of Birkenfeld-Bischweiler (born 3 July 1634 in Bischweiler; died: 7 December 1715 in Neunkirchen) was a Countess Palatine of Zweibrücken-Birkenfeld-Bischweiler by birth and, by marriage, Countess of Nassau-Ottweiler.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Dorothea Katharina von Pfalz-Zweibrücken-Birkenfeld-Bischweiler (* 3. Juli 1634 in Bischweiler; † 7. Dezember 1715 in Neunkirchen) war eine Pfalzgräfin von Zweibrücken-Birkenfeld-Bischweiler und durch Heirat Gräfin von Nassau-Ottweiler.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Dorothea_Catharina_van_Palts-Birkenfeld-Bischweiler" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q74862" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q74862" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Dorothea_Katharina_von_Pfalz-Birkenfeld-Bischweiler" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0h96h1x" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Neunkirchen,_Saarland" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1715-12-7</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1715-12-07</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Bischwiller" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1634-7-3</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1634-07-03</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1715_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_countesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Wittelsbach" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:17th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Countesses_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1634_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33387126</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740272063</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Countess Palatine Dorothea Catherine of Birkenfeld-Bischweiler</foaf:name>
+    <dct:description xml:lang="en">Countess of Nassau-Ottweiler</dct:description>
+    <foaf:givenName xml:lang="en">Dorothea</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler?oldid=740272063" />
+    <dbo:abstract xml:lang="en">Countess Palatine Dorothea Catherine of Birkenfeld-Bischweiler (born 3 July 1634 in Bischweiler; died: 7 December 1715 in Neunkirchen) was a Countess Palatine of Zweibrücken-Birkenfeld-Bischweiler by birth and, by marriage, Countess of Nassau-Ottweiler.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Dorothea Katharina von Pfalz-Zweibrücken-Birkenfeld-Bischweiler (* 3. Juli 1634 in Bischweiler; † 7. Dezember 1715 in Neunkirchen) war eine Pfalzgräfin von Zweibrücken-Birkenfeld-Bischweiler und durch Heirat Gräfin von Nassau-Ottweiler.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Dorothea Catharina van Palts-Birkenfeld-Bischweiler (Bischwiller, 3 juli 1634 - Neunkirchen, 7 december 1715) was de dochter van paltsgraaf Christiaan I van Palts-Birkenfeld-Bischweiler en Magdalena Catharina van Palts-Zweibrücken. Ze trouwde op 6 oktober 1649 (op 15-jarige leeftijd) met Johan Lodewijk van Nassau-Ottweiler. Samen kregen zij acht kinderen: 
+*  Christiaan Lodewijk (1650) 
+*  Frederik Lodewijk (1651) 
+*  Anna Catharina (1653) 
+*  Walraad (1656) 
+*  Karel Siegfried (1659) 
+*  Lodewijk (1661) 
+*  Louise (1662) 
+*  Maurits (1664)</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_I,_Count_Palatine_of_Birkenfeld-Bischweiler" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Magdalene_Catherine,_Countess_Palatine_of_Zweibrücken" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/John_Louis,_Count_of_Nassau-Ottweiler" />
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/Wittelsbach" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Palatine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Dorothea_Catherine_of_Birkenfeld-Bischweiler" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Johnny_Carson_episodes_(1967)">
+    <dbp:guests rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1st_Earl_of_Snowdon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Oarsman110368920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFashionPhotographers" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCambridgeUniversityBoatClubRowers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCrossbenchLifePeers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfJesusCollege,Cambridge" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/InteriorDesigner110210648" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishEarls" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryArtists" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPhotographers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleWithPoliomyelitis" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArtistsFromLondon" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLifePeers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LifePeer110260943" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPortraitPhotographers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtSandroydSchool" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfGerman-JewishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCharteredDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtEtonCollege" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Specialist110631941" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat21st-centuryArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat21st-centuryEnglishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Photographer110426749" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryEnglishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPhotographers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPhotographers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsInThePeerageOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfWelshDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Boatman109861946" />
+    <rdfs:label xml:lang="de">Antony Armstrong-Jones, 1. Earl of Snowdon</rdfs:label>
+    <rdfs:label xml:lang="nl">Antony Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="ja">アンソニー・アームストロング＝ジョーンズ (初代スノードン伯爵)</rdfs:label>
+    <rdfs:label xml:lang="pt">Antony Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="pl">Antony Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="fr">Antony Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="es">Antony Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="zh">第一代斯诺登伯爵安东尼·阿姆斯特朗-琼斯</rdfs:label>
+    <rdfs:label xml:lang="en">Antony Armstrong-Jones, 1st Earl of Snowdon</rdfs:label>
+    <rdfs:comment xml:lang="nl">Antony Charles Robert Armstrong-Jones, 1e graaf van Snowdon, baron Armstrong-Jones (Londen, 7 maart 1930) is een Brits fotograaf en filmmaker en de ex-echtgenoot van prinses Margaret van het Verenigd Koninkrijk. Op 26 februari 1960 verloofde hij zich met prinses Margaret, de zuster van koningin Elizabeth. Die was even daarvoor verlaten door de liefde van haar leven: RAF-vlieger Peter Townsend. Op 6 mei van datzelfde jaar trouwden ze en even later werd Armstrong-Jones als graaf van Snowdon en Burggraaf Linley in de adelstand verheven. Het paar kreeg twee kinderen:</rdfs:comment>
+    <rdfs:comment xml:lang="en">Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon, GCVO, RDI (born 7 March 1930) is an English photographer and film maker. He was married to Princess Margaret, younger daughter of King George VI and younger sister of Queen Elizabeth II.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Antony Charles Robert Armstrong-Jones, 1er comte de Snowdon, né le 7 mars 1930 à Londres (au Royaume-Uni), également connu comme « lord Snowdon », est un designer, photographe et réalisateur britannique, ancien époux de la princesse Margaret du Royaume-Uni.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">第一代斯诺登伯爵安东尼·查尔斯·罗伯特·阿姆斯特朗-琼斯，GCVO、RDI（Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon，1930年3月7日－）是一名英国摄影师和电影制片人。他是玛格丽特公主的丈夫、乔治六世的幼女婿和伊丽莎白二世的妹夫。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Antony Charles Robert Armstrong-Jones, 1.° Conde de Snowdon (Londres, 7 de março de 1930) é um fotógrafo britânico, melhor conhecido por ter sido o ex-marido da falecida Princesa Margaret, irmã da Rainha Elizabeth II. Membro da Câmara dos Lordes desde 1999, Armstrong-Jones foi o ganhador de um Prêmio Emmy por seu filme documentário.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Antony Charles Robert Armstrong-Jones, 1. hrabia Snowdon, GCVO, RDI (ur. 7 marca 1930 w Londynie) – brytyjski fotograf i twórca filmów dokumentalnych nagrodzony Nagrodą Emmy, który zasiada w Izbie Lordów, jako lord (par) dożywotnio mianowany przez królową w 1999. W latach 1960-1978 był żonaty z brytyjską księżniczką Małgorzatą, siostrą królowej Elżbiety II.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アンソニー・アームストロング＝ジョーンズ（Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon、 1930年5月7日 - ）は、イギリスの写真家。イギリス国王ジョージ6世の次女マーガレット王女の夫。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Antony Charles Robert Armstrong-Jones, primer conde de Snowdon GCVO (n. 7 de marzo de 1930) es un fotógrafo y cineasta inglés, que estuvo casado con la princesa Margarita, hija menor del rey Jorge VI y hermana menor de la reina Isabel II. Fue creado conde de Snowdon y vizconde Linley de Nymans en el condado de Sussex el 6 de octubre 1961, debido a la preocupación que causaba la perspectiva de que una princesa británica diera a luz a un niño sin título. Desarrolló una reconocida carrera en la fotografía y algunos de sus retratos se encuentran en la colección de la National Portrait Gallery. A pesar de que su carrera puede haber sido opacada por los escándalos, se le considera «uno de los grandes fotógrafos británicos». Se le conoce profesionalmente y se le acredita simplemente como Snowdon.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Antony Armstrong-Jones, 1. Earl of Snowdon (bekannt als Lord Snowdon, Künstlername: Snowdon), GCVO (* 7. März 1930 in London) ist ein britischer Fotograf und Designer und war der Ehemann von Prinzessin Margaret vom 6. Mai 1960 bis zum 24. Mai 1978. Er gilt als einer der prominentesten Fotografen Großbritanniens und ist Mitglied im House of Lords.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Antony_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Antony_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Antony_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アンソニー・アームストロング＝ジョーンズ_(初代スノードン伯爵)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Antony_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q335260" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Antony_Armstrong-Jones,_1._Earl_of_Snowdon" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q335260" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4r-XFXebKtTT6TcpZQL26qDQ" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/95159788" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118615149" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01ndl6" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Antony_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-03-07</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-3-7</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_Welsh_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Jesus_College,_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fashion_photographers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_photographers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Eton_College" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princess_Margaret,_Countess_of_Snowdon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1930_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:21st-century_English_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Photographic_Society" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crossbench_life_peers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_British_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Emmy_Award_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_in_the_Peerage_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_English_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Artists_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chartered_designers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:21st-century_British_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cambridge_University_Boat_Club_rowers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_German-Jewish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Armstrong-Jones_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Sandroyd_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_with_poliomyelitis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Portrait_photographers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266028</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741831590</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.imdb.com/name/nm0811375/" />
+    <foaf:name xml:lang="en">The Earl of Snowdon</foaf:name>
+    <foaf:name xml:lang="en">Antony Armstrong-Jones, 1st Earl of Snowdon</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Antony_Armstrong-Jones_1965.jpg" />
+    <dct:description xml:lang="en">English photographer and film maker</dct:description>
+    <foaf:givenName xml:lang="en">Antony</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+    <foaf:surname xml:lang="en">Armstrong-Jones</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Antony_Armstrong-Jones_1965.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon?oldid=741831590" />
+    <dbo:abstract xml:lang="zh">第一代斯诺登伯爵安东尼·查尔斯·罗伯特·阿姆斯特朗-琼斯，GCVO、RDI（Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon，1930年3月7日－）是一名英国摄影师和电影制片人。他是玛格丽特公主的丈夫、乔治六世的幼女婿和伊丽莎白二世的妹夫。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Antony Charles Robert Armstrong-Jones, 1e graaf van Snowdon, baron Armstrong-Jones (Londen, 7 maart 1930) is een Brits fotograaf en filmmaker en de ex-echtgenoot van prinses Margaret van het Verenigd Koninkrijk. Armstrong-Jones werd geboren in Londen als zoon van een advocaat. Zijn moeder was actief binnen de Labourpartij. Hij studeerde aan Eton en aan de Universiteit van Cambridge. Nadat hij twee keer was gezakt voor het architectenexamen ging hij aan de slag als fotograaf. Hij maakte vooral veel foto&#39;s op het gebied van mode, design en theater. In 1957 maakte hij officiële portretten van koningin Elizabeth II en haar man prins Philip. Op 26 februari 1960 verloofde hij zich met prinses Margaret, de zuster van koningin Elizabeth. Die was even daarvoor verlaten door de liefde van haar leven: RAF-vlieger Peter Townsend. Op 6 mei van datzelfde jaar trouwden ze en even later werd Armstrong-Jones als graaf van Snowdon en Burggraaf Linley in de adelstand verheven. Het paar kreeg twee kinderen: 
+*  David, burggraaf Linley (1961) 
+*  Sarah (1964) Het huwelijk was overigens geen succes. Prinses Margaret hield er een tamelijk uitbundige levensstijl op na die zich slecht verhield tot het serieuze karakter van Armstrong-Jones. Er waren regelmatig heftige ruzies. Het paar scheidde in 1978. In datzelfde jaar hertrouwde hij met Lucy Marie Davies, met wie hij een jaar later nog een dochter, Frances, kreeg. Twintig jaar later zou hij ook van haar scheiden, toen bekend werd dat hij al twintig jaar een verhouding had met Ann Hill. Deze laatste kwam in 1996 om het leven na een overdosis. Bij Melanie Cable-Alexander, een redactrice bij Life Magazine, kreeg hij in 1997 nog een buitenechtelijke zoon, Jasper.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon, GCVO, RDI (born 7 March 1930) is an English photographer and film maker. He was married to Princess Margaret, younger daughter of King George VI and younger sister of Queen Elizabeth II.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Antony Armstrong-Jones, 1. Earl of Snowdon (bekannt als Lord Snowdon, Künstlername: Snowdon), GCVO (* 7. März 1930 in London) ist ein britischer Fotograf und Designer und war der Ehemann von Prinzessin Margaret vom 6. Mai 1960 bis zum 24. Mai 1978. Er gilt als einer der prominentesten Fotografen Großbritanniens und ist Mitglied im House of Lords.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Antony Charles Robert Armstrong-Jones, 1.° Conde de Snowdon (Londres, 7 de março de 1930) é um fotógrafo britânico, melhor conhecido por ter sido o ex-marido da falecida Princesa Margaret, irmã da Rainha Elizabeth II. Membro da Câmara dos Lordes desde 1999, Armstrong-Jones foi o ganhador de um Prêmio Emmy por seu filme documentário.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Antony Charles Robert Armstrong-Jones, primer conde de Snowdon GCVO (n. 7 de marzo de 1930) es un fotógrafo y cineasta inglés, que estuvo casado con la princesa Margarita, hija menor del rey Jorge VI y hermana menor de la reina Isabel II. Fue creado conde de Snowdon y vizconde Linley de Nymans en el condado de Sussex el 6 de octubre 1961, debido a la preocupación que causaba la perspectiva de que una princesa británica diera a luz a un niño sin título. Desarrolló una reconocida carrera en la fotografía y algunos de sus retratos se encuentran en la colección de la National Portrait Gallery. A pesar de que su carrera puede haber sido opacada por los escándalos, se le considera «uno de los grandes fotógrafos británicos». Se le conoce profesionalmente y se le acredita simplemente como Snowdon.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Antony Charles Robert Armstrong-Jones, 1. hrabia Snowdon, GCVO, RDI (ur. 7 marca 1930 w Londynie) – brytyjski fotograf i twórca filmów dokumentalnych nagrodzony Nagrodą Emmy, który zasiada w Izbie Lordów, jako lord (par) dożywotnio mianowany przez królową w 1999. W latach 1960-1978 był żonaty z brytyjską księżniczką Małgorzatą, siostrą królowej Elżbiety II.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Antony Charles Robert Armstrong-Jones, 1er comte de Snowdon, né le 7 mars 1930 à Londres (au Royaume-Uni), également connu comme « lord Snowdon », est un designer, photographe et réalisateur britannique, ancien époux de la princesse Margaret du Royaume-Uni.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アンソニー・アームストロング＝ジョーンズ（Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon、 1930年5月7日 - ）は、イギリスの写真家。イギリス国王ジョージ6世の次女マーガレット王女の夫。</dbo:abstract>
+    <dbo:child rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+    <dbo:nationality rdf:resource="http://dbpedia.org/resource/United_Kingdom" />
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Photographer" />
+    <dbo:office>Member of theHouse of Lords</dbo:office>
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon" />
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Antony Charles Robert Armstrong-Jones</dbp:birthName>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Antony Armstrong-Jones in 1965</dbp:caption>
+    <dbp:crest rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A stag stanant gules attired collared and unguled Or between two arms embowed in armour the hands proper each grasping a fleur-de-lis gold.</dbp:crest>
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sable on a chevron argent, between in chief two fleurs-de-lis Or, and in base an eagle displayed Or, four pallets gules.</dbp:escutcheon>
+    <dbp:heir rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Right_Honourable" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</dbp:imageSize>
+    <dbp:knownFor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Former husband of The Princess Margaret, former brother-in-law of Elizabeth II</dbp:knownFor>
+    <dbp:motto rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A Noddo Duw A Noddir</dbp:motto>
+    <dbp:notes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">These arms also appear on the arms of his son, Viscount Linley. Image sources:</dbp:notes>
+    <dbp:otherElements rdf:resource="http://dbpedia.org/resource/Mantling" />
+    <dbp:otherTitles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Viscount Linley</dbp:otherTitles>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Anne_Parsons,_Countess_of_Rosse" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Ronald_Armstrong-Jones" />
+    <dbp:supporters rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dexter, a griffin, and sinister, an eagle, each with wings elevated and addorsed Or.</dbp:supporters>
+    <dbp:tenure rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-06</dbp:tenure>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(as Earl of Snowdon)</dbp:termEnd>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-11-11</dbp:termEnd>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-31</dbp:termEnd>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(as Baron Armstrong-Jones)</dbp:termEnd>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-10-06</dbp:termStart>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-11-16</dbp:termStart>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Snowdon" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1961</dbp:years>
+    <dbp:compartment rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Land</dbp:compartment>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Photographer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong_Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah_Chatto">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Armstrong-Jones,_1st_Earl_of_Snowdon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Snowdon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Messel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Snowdon">
+    <dbp:firstHolder rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+    <dbp:presentHolder rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Armstrong-Jones">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snowdon_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armstrong-Jones">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Armstrong-Jones">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baron_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marjorie_Wallace_(SANE)">
+    <dbo:partner rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Charles_Robert_Armstrong-Jones,_Baron_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Charles_Robert_Armstrong-Jones,_1st_Earl_of_Snowdon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones,1st_Earl_of_Snowdon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Ear_of_Snowdon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Snowdon_(photographer)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Snowdon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones_(photographer)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katharine,_Duchess_of_Kent">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Lascelles,_6th_Earl_of_Harewood">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="fr">Mary du Royaume-Uni</rdfs:label>
+    <rdfs:label xml:lang="ar">ماري الأميرة الملكية وكونتيسة هاروود</rdfs:label>
+    <rdfs:label xml:lang="ru">Мария Великобританская (графиня Хэрвуд)</rdfs:label>
+    <rdfs:label xml:lang="zh">玛丽公主 (哈伍德伯爵夫人)</rdfs:label>
+    <rdfs:label xml:lang="it">Mary, principessa reale</rdfs:label>
+    <rdfs:label xml:lang="es">María del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="en">Mary, Princess Royal and Countess of Harewood</rdfs:label>
+    <rdfs:label xml:lang="ja">メアリー (ハーウッド伯爵夫人)</rdfs:label>
+    <rdfs:label xml:lang="nl">Mary Windsor</rdfs:label>
+    <rdfs:label xml:lang="pt">Maria, Princesa Real e Condessa de Harewood</rdfs:label>
+    <rdfs:label xml:lang="de">Maria, Countess of Harewood</rdfs:label>
+    <rdfs:label xml:lang="pl">Maria Windsor</rdfs:label>
+    <rdfs:comment xml:lang="ar">ماري الأميرة الملكية والكونتيسة من هاروود (فيكتوريا الكسندرا أليس ماري، 25 أبريل 1897 - 28 مارس 1965) كانت عضوا في العائلة المالكة البريطانية كانت الطفلة الثالثة ولـ الملك جورج الخامس والملكة ماري. كانت الأميرة السادسة التي تحمل لقب الأميرة الملكية.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Maria, Princess Royal und Countess of Harewood (Victoria Alexandra Alice Mary Lascelles, geborene Windsor; * 25. April 1897 im York Cottage in Norfolk; † 28. März 1965 im Harewood House in Yorkshire) war ein Mitglied der britischen Königsfamilie. Sie war die sechste Trägerin des Titels Princess Royal. Als Urenkelin Königin Victorias trug sie von Geburt an den Titel einer Prinzessin, zunächst mit dem Prädikat Hoheit und später mit dem einer Königlichen Hoheit. Durch ihre Heirat wurde sie außerdem Countess of Harewood.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Maria, Princesa Real e Condessa de Harewood (Chalé Iorque, 25 de abril de 1897 – 28 de março de 1965) foi um membro da família real britânica. Foi a sexta usuária do título de Princesa Real. Depois de seu casamento com Henrique Lascelles, 6.º Conde de Harewood, passou a usar o título de Condessa de Harewood.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">プリンセス・ロイヤルおよびハーウッド伯爵夫人メアリー王女（英語: Princess Mary, Princess Royal and Countess of Harewood、全名: ヴィクトリア・アレクサンドラ・アリス・メアリー・ラッセルズ; Victoria Alexandra Alice Mary Lascelles、1897年4月25日 - 1965年3月28日）は、イギリスの第6代ハーウッド伯ヘンリー・ラッセルズの妻。当時ヨーク公だったジョージ王子（のちのイギリス王ジョージ5世）とメアリー・オブ・テックの長女（第3子）として、ノーフォークのヨーク・ハウスで生まれた。兄にエドワード8世、ジョージ6世、弟にグロスター公ヘンリー、ケント公ジョージがいる。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La princesa María, princesa real y condesa de Harewood (Victoria Alexandra Alice Mary Lascelles), (York Cottage, Sandringham House, Norfolk, 25 de abril de 1897 – 28 de marzo de 1965), fue un miembro de la Familia Real Británica, la única hija del rey Jorge V y la reina María, fue la sexta titular del título de princesa real. Al contraer su matrimonio, obtuvo el título de condesa consorte de Harewood.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Victoria Alexandra Alice Mary Windsor (Sandringham, Norfolk, 25 april 1897 – Harewood, West Yorkshire, 28 maart 1965) was een lid van de Britse koninklijke familie. Ze was de zesde prinses met de titel Princess Royal.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">玛丽长公主（英语：Mary, Princess Royal and Countess of Harewood，1897年4月25日－1965年3月28日），全名维多利亚·亚历山德拉·爱丽丝·玛丽（英语：Victoria Alexandra Alice Mary），是乔治五世和玛丽王后的第三个孩子，也是他们唯一的女儿。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Fu la sesta principessa inglese ad essere nominata principessa reale. Fin dalla nascita godeva del titolo di principessa con il trattamento di Altezza, in quanto bisnipote di un sovrano britannico; successivamente fruì dello stesso trattamento in quanto nipote ed infine figlia del monarca. Con il matrimonio ottenne il titolo di contessa di Harewood.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Принцесса Мария, Королевская Принцесса Великобритании и Ирландии, графиня Хэрвуд (англ. Victoria Alexandra Alice Mary, Princess Royal and Countess of Harewood, 25 апреля 1897 — 28 марта 1965) — член британской королевской семьи, третий ребёнок и единственная дочь короля Георга V и королевы Марии Текской. Она стала шестой по счёту Королевской принцессой Великобритании. После замужества получила титул графини Хэрвуд.</rdfs:comment>
+    <rdfs:comment xml:lang="fr"> Pour les articles homonymes, voir Marie du Royaume-Uni.Mary du Royaume-UniFichier:Mary, Princess Royal and Countess of Harewood.jpg Mary du Royaume-Uni en 1926. Fichier:Coat of Arms of Mary, the Princess Royal and Countess of Harewood.svg Mary du Royaume-Uni (Victoria Alexandra Alice Mary), née le 25 avril 1897 et décédée le 28 mars 1965, était un membre de la famille royale britannique, devenue comtesse de Harewood. Elle est le troisième enfant et l&#39;unique fille du roi George V du Royaume-Uni et de la princesse Mary de Teck. Elle a été la sixième porteuse du titre de princesse royale.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Mary, Princess Royal and Countess of Harewood (Victoria Alexandra Alice Mary; 25 April 1897 – 28 March 1965) was a member of the British Royal Family; she was the third child and only daughter of King George V and Queen Mary.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Maria, księżniczka królewska, hrabina Harewood, właśc. Victoria Alexandra Alice Mary (ur. 25 kwietnia 1897 w Sandringham House, zm. 28 marca 1965 w Leeds) – członkini brytyjskiej rodziny królewskiej urodzona jako księżniczka Zjednoczonego Królestwa oraz Sachsen-Coburg-Gotha i księżna Saksonii, od 1932 księżniczka królewska (Princess Royal), w latach 1922-1929 wicehrabina Lascelles, hrabina Harewood (od 1929), siostra Orderu Świętego Jana Jerozolimskiego.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.018rzs" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/María_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Mary_Windsor" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Maria,_Princesa_Real_e_Condessa_de_Harewood" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q233913" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Maria,_Countess_of_Harewood" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Maria_Windsor" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μαίρη_του_Ηνωμένου_Βασιλείου_(1897-1965)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Mary_du_Royaume-Uni" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Mary,_principessa_reale" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/メアリー_(ハーウッド伯爵夫人)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q233913" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1038726417" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rEkNv8eo7QwGJCXaJxjfvfQ" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Marie,_hraběnka_z_Harewoodu" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Yorkshire" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Harewood_House" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-3-28</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-03-28</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/York_Cottage" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sandringham,_Norfolk" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1897-4-25</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1897-04-25</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Royal_Red_Cross" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Sandringham,_Norfolk" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_Royal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1897_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lascelles_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Air_Force_air_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_the_British_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princess_Mary&#39;s_Royal_Air_Force_Nursing_Service_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Auxiliary_Territorial_Service_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Girlguiding_UK" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women&#39;s_Royal_Army_Corps_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Crown_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Queen_Maria_Luisa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1965_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_nurses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_of_the_Victorian_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Silver_Fish_Award" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_generals" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181254</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744045796</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Mary, Princess Royal and Countess of Harewood</foaf:name>
+    <foaf:name xml:lang="en">Princess Mary</foaf:name>
+    <foaf:name xml:lang="en">Victoria Alexandra Alice Mary</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mary,_Princess_Royal_and_Countess_of_Harewood.jpg" />
+    <dct:description xml:lang="en">member of the British Royal Family, daughter of King George V and Queen Mary</dct:description>
+    <foaf:givenName xml:lang="en">Alexandra</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mary,_Princess_Royal_and_Countess_of_Harewood.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mary,_Princess_Royal_and_Countess_of_Harewood?oldid=744045796" />
+    <dbo:abstract xml:lang="zh">玛丽长公主（英语：Mary, Princess Royal and Countess of Harewood，1897年4月25日－1965年3月28日），全名维多利亚·亚历山德拉·爱丽丝·玛丽（英语：Victoria Alexandra Alice Mary），是乔治五世和玛丽王后的第三个孩子，也是他们唯一的女儿。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Mary, Princess Royal and Countess of Harewood (Victoria Alexandra Alice Mary; 25 April 1897 – 28 March 1965) was a member of the British Royal Family; she was the third child and only daughter of King George V and Queen Mary.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Fu la sesta principessa inglese ad essere nominata principessa reale. Fin dalla nascita godeva del titolo di principessa con il trattamento di Altezza, in quanto bisnipote di un sovrano britannico; successivamente fruì dello stesso trattamento in quanto nipote ed infine figlia del monarca. Con il matrimonio ottenne il titolo di contessa di Harewood.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Принцесса Мария, Королевская Принцесса Великобритании и Ирландии, графиня Хэрвуд (англ. Victoria Alexandra Alice Mary, Princess Royal and Countess of Harewood, 25 апреля 1897 — 28 марта 1965) — член британской королевской семьи, третий ребёнок и единственная дочь короля Георга V и королевы Марии Текской. Она стала шестой по счёту Королевской принцессой Великобритании. После замужества получила титул графини Хэрвуд.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Maria, Princess Royal und Countess of Harewood (Victoria Alexandra Alice Mary Lascelles, geborene Windsor; * 25. April 1897 im York Cottage in Norfolk; † 28. März 1965 im Harewood House in Yorkshire) war ein Mitglied der britischen Königsfamilie. Sie war die sechste Trägerin des Titels Princess Royal. Als Urenkelin Königin Victorias trug sie von Geburt an den Titel einer Prinzessin, zunächst mit dem Prädikat Hoheit und später mit dem einer Königlichen Hoheit. Durch ihre Heirat wurde sie außerdem Countess of Harewood.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">ماري الأميرة الملكية والكونتيسة من هاروود (فيكتوريا الكسندرا أليس ماري، 25 أبريل 1897 - 28 مارس 1965) كانت عضوا في العائلة المالكة البريطانية كانت الطفلة الثالثة ولـ الملك جورج الخامس والملكة ماري. كانت الأميرة السادسة التي تحمل لقب الأميرة الملكية.</dbo:abstract>
+    <dbo:abstract xml:lang="fr"> Pour les articles homonymes, voir Marie du Royaume-Uni.Mary du Royaume-UniFichier:Mary, Princess Royal and Countess of Harewood.jpg Mary du Royaume-Uni en 1926. Fichier:Coat of Arms of Mary, the Princess Royal and Countess of Harewood.svg Mary du Royaume-Uni (Victoria Alexandra Alice Mary), née le 25 avril 1897 et décédée le 28 mars 1965, était un membre de la famille royale britannique, devenue comtesse de Harewood. Elle est le troisième enfant et l&#39;unique fille du roi George V du Royaume-Uni et de la princesse Mary de Teck. Elle a été la sixième porteuse du titre de princesse royale.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Victoria Alexandra Alice Mary Windsor (Sandringham, Norfolk, 25 april 1897 – Harewood, West Yorkshire, 28 maart 1965) was een lid van de Britse koninklijke familie. Ze was de zesde prinses met de titel Princess Royal.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">プリンセス・ロイヤルおよびハーウッド伯爵夫人メアリー王女（英語: Princess Mary, Princess Royal and Countess of Harewood、全名: ヴィクトリア・アレクサンドラ・アリス・メアリー・ラッセルズ; Victoria Alexandra Alice Mary Lascelles、1897年4月25日 - 1965年3月28日）は、イギリスの第6代ハーウッド伯ヘンリー・ラッセルズの妻。当時ヨーク公だったジョージ王子（のちのイギリス王ジョージ5世）とメアリー・オブ・テックの長女（第3子）として、ノーフォークのヨーク・ハウスで生まれた。兄にエドワード8世、ジョージ6世、弟にグロスター公ヘンリー、ケント公ジョージがいる。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Maria, księżniczka królewska, hrabina Harewood, właśc. Victoria Alexandra Alice Mary (ur. 25 kwietnia 1897 w Sandringham House, zm. 28 marca 1965 w Leeds) – członkini brytyjskiej rodziny królewskiej urodzona jako księżniczka Zjednoczonego Królestwa oraz Sachsen-Coburg-Gotha i księżna Saksonii, od 1932 księżniczka królewska (Princess Royal), w latach 1922-1929 wicehrabina Lascelles, hrabina Harewood (od 1929), siostra Orderu Świętego Jana Jerozolimskiego.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La princesa María, princesa real y condesa de Harewood (Victoria Alexandra Alice Mary Lascelles), (York Cottage, Sandringham House, Norfolk, 25 de abril de 1897 – 28 de marzo de 1965), fue un miembro de la Familia Real Británica, la única hija del rey Jorge V y la reina María, fue la sexta titular del título de princesa real. Al contraer su matrimonio, obtuvo el título de condesa consorte de Harewood.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Maria, Princesa Real e Condessa de Harewood (Chalé Iorque, 25 de abril de 1897 – 28 de março de 1965) foi um membro da família real britânica. Foi a sexta usuária do título de Princesa Real. Depois de seu casamento com Henrique Lascelles, 6.º Conde de Harewood, passou a usar o título de Condessa de Harewood.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Henry_Lascelles,_6th_Earl_of_Harewood" />
+    <dbo:title xml:lang="en">Princess Royal,Countess of Harewood</dbo:title>
+    <dbp:dateOfChristening rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1897-06-07</dbp:dateOfChristening>
+    <dbp:burialDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-04-01</dbp:burialDate>
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/All_Saints&#39;_Church,_Harewood" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Yorkshire" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Princess in 1926.</dbp:caption>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Windsor</dbp:house>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Saxe-Coburg and Gotha</dbp:house>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Princess_Royal" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/University_of_Leeds" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1951</dbp:years>
+    <dbp:placeOfChristening rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">St Mary Magdalene&#39;s Church, Sandringham</dbp:placeOfChristening>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Member" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Canadian_Scottish_Regiment_(Princess_Mary&#39;s)">
+    <dbo:patron rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pretendre">
+    <dbo:breeder rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_of_Teck">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_David_Lascelles">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary,_Princess_Royal_and_Countess_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Cavendish,_10th_Duke_of_Devonshire">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Rodney_(29)">
+    <dbp:shipSponsor rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Windsor,_Princess_Royal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary,_Countess_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal_&amp;_Countess_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mary,_Princess_Royal_and_Countess_of_Harewood">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+  </rdf:Description>
+</rdf:RDF>

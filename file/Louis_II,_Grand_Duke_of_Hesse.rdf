@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II,_Duke_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II_of_Hesse-Darmstadt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_II,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_II,_Grand_Duke_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Landgrave110245029" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLandgravesOfHesse-Darmstadt" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHereditaryGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromDarmstadt" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdfs:label xml:lang="ru">Людвиг II (великий герцог Гессенский)</rdfs:label>
+    <rdfs:label xml:lang="nl">Lodewijk II van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig II. (Hessen-Darmstadt)</rdfs:label>
+    <rdfs:label xml:lang="en">Louis II, Grand Duke of Hesse</rdfs:label>
+    <rdfs:label xml:lang="zh">路德维希二世 (黑森大公)</rdfs:label>
+    <rdfs:label xml:lang="ja">ルートヴィヒ2世 (ヘッセン大公)</rdfs:label>
+    <rdfs:label xml:lang="pl">Ludwik II (wielki książę Hesji)</rdfs:label>
+    <rdfs:label xml:lang="pt">Luís II, Grão-duque de Hesse</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi II d&#39;Assia</rdfs:label>
+    <rdfs:label xml:lang="fr">Louis II de Hesse</rdfs:label>
+    <rdfs:label xml:lang="es">Luis II de Hesse-Darmstadt</rdfs:label>
+    <rdfs:comment xml:lang="es">Luis II, Gran Duque de Hesse-Darmstadt (Darmstadt, 26 de diciembre de 1777 - Darmstadt, 16 de junio de 1848) fue desde 1830 hasta 1848, el Gran Duque de Hesse-Darmstadt. Era el hijo mayor del gran duque Luis I de Hesse-Darmstadt y de su esposa y prima hermana, la landgravina Luisa de Hesse-Darmstadt. Estudió desde 1795 en la Universidad de Leipzig. De conformidad con la Constitución del Gran Ducado de Hesse fue el príncipe Luis desde 1820 hasta su nombramiento como Gran Duque en 1830.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Louis II de Hesse-Darmstadt, né le 26 décembre 1777 à Darmstadt, et mort le 16 juin 1848 à Darmstadt, fut Grand-duc de Hesse de 1830 à 1848.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ルートヴィヒ2世（Ludwig II., 1777年12月26日 - 1848年6月16日）は、ヘッセン大公国の第2代大公（在位：1830年 - 1848年）。ルートヴィヒ1世とその妃であったルイーゼ・ヘンリエッテ・カロリーネ（1761年 - 1829年、ヘッセン＝ダルムシュタット方伯ルートヴィヒ8世の息子ゲオルク・ヴィルヘルムの娘）の息子。 1777年12月26日、ダルムシュタットで生まれる。1804年6月19日にヴィルヘルミーネ・ルイーゼ（1788年 - 1836年、バーデン大公カール・フリードリヒの長男カール・ルートヴィヒの娘）と結婚し、彼女との間にルートヴィヒ、カール（1809年 - 1877年）、エリーザベト（1821年 - 1826年）、アレクサンダー（1823年 - 1888年）、マリー（1824年 - 1880年、ロシア皇帝アレクサンドル2世妃）の5子をもうけた（ただし後2者は大公妃とその愛人との子供の可能性があるとされる）。 ルートヴィヒ2世は1848年6月16日にダルムシュタットで死去し、長男のルートヴィヒ3世が大公位を嗣いだ。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Лю́двиг II Ге́ссен-Дармшта́дтский и Прире́йнский (нем. Ludwig II von Hessen und bei Rhein; 26 декабря 1777, Дармштадт, — 16 июня 1848, там же) — великий герцог Гессенский и Прирейнский с 6 апреля 1830 года. Сын Людвига I и Луизы Гессен-Дармштадтской.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Louis II (26 December 1777 in Darmstadt – 16 June 1848 in Darmstadt) was Grand Duke of Hesse and by Rhine from 1830 until 5 March 1848 (He resigned in the German Revolution of 1848). He was the son of Louis I, Grand Duke of Hesse. He was married to Wilhelmine of Baden who was his first cousin. Through her, Louis had four surviving children - Louis III, Prince Charles, Prince Alexander, and Marie, who became Empress consort of Alexander II of Russia. The last two were, however, more likely fathered by Baron August von Senarclens de Grancy, the longtime lover of his wife.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luís II (26 de dezembro de 1777 - 16 de junho de 1848) foi grão-duque de Hesse e do Reno de 1830 até à sua morte. Era filho de Luís I de Hesse-Darmstadt. Com a sua esposa, Guilhermina de Baden, Luís teve quatro filhos sobreviventes: Luís III, Grão-duque de Hesse, o príncipe Carlos, o príncipe Alexandre e a princesa Maria que se tornou Imperatriz Consorte do czar Alexandre II da Rússia. Os quatro filhos mais novos, no entanto, foram muito provavelmente filhos do barão Augusto von Senarclens de Grancy, o amante da sua esposa.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Lodewijk II (Darmstadt, 26 december 1777 – aldaar 16 juni 1848) was van 1830 tot 1848 groothertog van Hessen en Rijn-Hessen. Hij was de oudste zoon van groothertog Lodewijk I en Louise, kleindochter van landgraaf Lodewijk VIII van Hessen-Darmstadt. Uit zijn huwelijk met Wilhelmina Louise werden vijf kinderen geboren:</rdfs:comment>
+    <rdfs:comment xml:lang="zh">路德维希二世（Ludwig II，1777年12月26日－1848年6月16日），黑森的第二任大公，1830年至1848年在位。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ludwik II (ur. 26 grudnia 1777 w Darmstadt, zm. 16 czerwca 1848 tamże) – wielki książę Hesji od 1830.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ludwig II. von Hessen und bei Rhein (* 26. Dezember 1777 in Darmstadt; † 16. Juni 1848 ebenda) war von 1830 bis 1848 Großherzog von Hessen und bei Rhein.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ludwik_II_(wielki_książę_Hesji)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_II_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louis_II_de_Hesse" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_II_d&#39;Assia" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luís_II,_Grão-duque_de_Hesse" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q166701" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_II_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/102223262" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_II._(Hessen-Darmstadt)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Ludwig_II_dari_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ルートヴィヒ2世_(ヘッセン大公)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q166701" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.054hzf" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1848-06-16</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1848-6-16</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1777-12-26</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1848_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_First_Chamber_of_the_Estates_of_the_Grand_Duchy_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1770_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hereditary_Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landgraves_of_Hesse-Darmstadt" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1476071</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743042122</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Louis II</foaf:name>
+    <foaf:name xml:lang="en">Louis II, Grand Duke of Hesse</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Luis_ii_de_hesse.jpg" />
+    <dct:description xml:lang="en">Grand Duke of Hesse and by Rhine</dct:description>
+    <foaf:givenName xml:lang="en">Louis</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louis_II,_Grand_Duke_of_Hesse" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Luis_ii_de_hesse.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louis_II,_Grand_Duke_of_Hesse?oldid=743042122" />
+    <dbo:abstract xml:lang="zh">路德维希二世（Ludwig II，1777年12月26日－1848年6月16日），黑森的第二任大公，1830年至1848年在位。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Louis II de Hesse-Darmstadt, né le 26 décembre 1777 à Darmstadt, et mort le 16 juin 1848 à Darmstadt, fut Grand-duc de Hesse de 1830 à 1848.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Lodewijk II (Darmstadt, 26 december 1777 – aldaar 16 juni 1848) was van 1830 tot 1848 groothertog van Hessen en Rijn-Hessen. Hij was de oudste zoon van groothertog Lodewijk I en Louise, kleindochter van landgraaf Lodewijk VIII van Hessen-Darmstadt. Hij huwde op 19 juni 1804 Wilhelmina Louise van Baden, jongere zuster van Karel van Baden. De periode vóór zijn troonsbestijging bracht hij meestal teruggetrokken door te Darmstadt. Het was hem niet toegestaan aan de eigenlijke regeringszaken deel te nemen. Hij woonde slechts de vergaderingen van de Eerste Kamer bij en was sinds 1823 lid van de staatsraad. Hij besteeg de Hessische troon op 6 april 1830 en raakte meteen met de stenden in conflict, daar hij zijn aanzienlijke persoonlijke schulden aan de staatsschuld wilde toevoegen. Dit conflict zou door zijn groeiende reactionaire gezindheid zijn gehele heerschappij voortduren. Omdat hij niet was opgewassen tegen de gebeurtenissen in het revolutiejaar 1848 benoemde hij op 5 maart van dat jaar zijn zoon Lodewijk tot mederegent. Hij stierf kort daarna op 16 juni 1848, waarna zijn zoon hem als Lodewijk III opvolgde. Uit zijn huwelijk met Wilhelmina Louise werden vijf kinderen geboren: 
+*  Lodewijk III (1806-1877), groothertog 
+*  Karel Willem Lodewijk (1809-1877), huwt met Elisabeth van Pruisen en is de vader van Lodewijk IV 
+* Amalia Elisabeth Louise Caroline Frederika Wilhelmina (1821-1826) 
+*  Alexander Lodewijk George Frederik Emile (1823-1888), noemde zich later Battenberg, vader van Alexander van Bulgarije 
+*  Maximiliane Wilhelmina Augusta Sophie Marie (1824-1880), Marie Alexandrovna, gehuwd met tsaar Alexander II van Rusland</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ludwig II. von Hessen und bei Rhein (* 26. Dezember 1777 in Darmstadt; † 16. Juni 1848 ebenda) war von 1830 bis 1848 Großherzog von Hessen und bei Rhein.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Luis II, Gran Duque de Hesse-Darmstadt (Darmstadt, 26 de diciembre de 1777 - Darmstadt, 16 de junio de 1848) fue desde 1830 hasta 1848, el Gran Duque de Hesse-Darmstadt. Era el hijo mayor del gran duque Luis I de Hesse-Darmstadt y de su esposa y prima hermana, la landgravina Luisa de Hesse-Darmstadt. Estudió desde 1795 en la Universidad de Leipzig. En 1804 asistió a la coronación de Napoleón Bonaparte en París. Después de la elevación de su padre en 1806, se convirtió en heredero y fue llamado, Luis heredero del Gran Duque.Luis estuvo en el Congreso de Erfurt y en el Congreso de Viena. Asistió también a la coronación de Luis XVIII de Francia en París. De conformidad con la Constitución del Gran Ducado de Hesse fue el príncipe Luis desde 1820 hasta su nombramiento como Gran Duque en 1830. El príncipe hizo honor a su trono el 6 de abril de 1830 generalmente aislado en Darmstadt. Los asuntos públicos reales, en los que podría tomar parte, participó sólo en las reuniones de la Sala Primera, y a partir de 1823, fue miembro del Consejo de Estado.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Лю́двиг II Ге́ссен-Дармшта́дтский и Прире́йнский (нем. Ludwig II von Hessen und bei Rhein; 26 декабря 1777, Дармштадт, — 16 июня 1848, там же) — великий герцог Гессенский и Прирейнский с 6 апреля 1830 года. Сын Людвига I и Луизы Гессен-Дармштадтской.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Louis II (26 December 1777 in Darmstadt – 16 June 1848 in Darmstadt) was Grand Duke of Hesse and by Rhine from 1830 until 5 March 1848 (He resigned in the German Revolution of 1848). He was the son of Louis I, Grand Duke of Hesse. He was married to Wilhelmine of Baden who was his first cousin. Through her, Louis had four surviving children - Louis III, Prince Charles, Prince Alexander, and Marie, who became Empress consort of Alexander II of Russia. The last two were, however, more likely fathered by Baron August von Senarclens de Grancy, the longtime lover of his wife.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ルートヴィヒ2世（Ludwig II., 1777年12月26日 - 1848年6月16日）は、ヘッセン大公国の第2代大公（在位：1830年 - 1848年）。ルートヴィヒ1世とその妃であったルイーゼ・ヘンリエッテ・カロリーネ（1761年 - 1829年、ヘッセン＝ダルムシュタット方伯ルートヴィヒ8世の息子ゲオルク・ヴィルヘルムの娘）の息子。 1777年12月26日、ダルムシュタットで生まれる。1804年6月19日にヴィルヘルミーネ・ルイーゼ（1788年 - 1836年、バーデン大公カール・フリードリヒの長男カール・ルートヴィヒの娘）と結婚し、彼女との間にルートヴィヒ、カール（1809年 - 1877年）、エリーザベト（1821年 - 1826年）、アレクサンダー（1823年 - 1888年）、マリー（1824年 - 1880年、ロシア皇帝アレクサンドル2世妃）の5子をもうけた（ただし後2者は大公妃とその愛人との子供の可能性があるとされる）。 ルートヴィヒ2世は1848年6月16日にダルムシュタットで死去し、長男のルートヴィヒ3世が大公位を嗣いだ。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luís II (26 de dezembro de 1777 - 16 de junho de 1848) foi grão-duque de Hesse e do Reno de 1830 até à sua morte. Era filho de Luís I de Hesse-Darmstadt. Com a sua esposa, Guilhermina de Baden, Luís teve quatro filhos sobreviventes: Luís III, Grão-duque de Hesse, o príncipe Carlos, o príncipe Alexandre e a princesa Maria que se tornou Imperatriz Consorte do czar Alexandre II da Rússia. Os quatro filhos mais novos, no entanto, foram muito provavelmente filhos do barão Augusto von Senarclens de Grancy, o amante da sua esposa.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ludwik II (ur. 26 grudnia 1777 w Darmstadt, zm. 16 czerwca 1848 tamże) – wielki książę Hesji od 1830.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Landgravine_Louise_of_Hesse-Darmstadt_(1761–1829)" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Wilhelmine_of_Baden" />
+    <dbo:title xml:lang="en">Grand Duke of Hesse</dbo:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rulers_of_Hesse" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1830</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Duke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchy_of_Hesse">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Wilhelmine_of_Baden">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles_of_Hesse_and_by_Rhine">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1823–1888)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Alexandrovna_(Marie_of_Hesse_and_by_Rhine)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_II_von_Hessen_und_bei_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louis_II,_Grand_Duke_of_Hesse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+</rdf:RDF>

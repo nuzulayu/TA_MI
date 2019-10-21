@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_of_Wales">
+    <dbp:incumbent rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Parker_Bowles">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Parker_Bowles">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Osteoporosis_Society">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Navy_Medical_Service">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_The_Princess_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Rosemary_Shand">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_(Duchess_of_Cornwall)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Princess_Consort">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cam_The_Ham">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_duchess_of_cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Wilson,_Baron_Wilson_of_Tillyorn">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_Keppel">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophie,_Countess_of_Wessex">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Women_of_the_World_Festival">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruce_Shand">
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Parker-Bowles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Lopes">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Shand">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Duchess_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla-Parker_Bowles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Bowles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Parker">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camillagate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Camilla">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Parker_Bowles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Shand">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_of_Cornwall_Camilla">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HM_The_Duchess_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_Princess_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Duchess_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Duchess_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Princess_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Duchess_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Duchess_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Princess_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Militant110315837" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishSocialites" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfScottishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Socialite110619409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ImportantPerson110200781" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfKing&#39;sCollegeLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishDuchessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishEquestrians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheStarOfMelanesia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfRothesay" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPatronsOfSchools" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincessesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishHealthActivists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMistressesOfBritishRoyalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtQueen&#39;sGateSchool" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consumer109612848" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Patron110407726" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWiltshire" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/User110741590" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTheUniversityOfAberdeen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Customer109984659" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfCornwall" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSouthKensington" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfFrenchDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Horseman110185793" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBelgravia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lover109622745" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Mistress110323752" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHorticulturistsAndGardeners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Horticulturist110186350" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromEastSussex" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfDutchDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfFrench-CanadianDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfFrenchDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtTheUniversityOfLondonInstituteInParis" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalMistresses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Rider110529965" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Reformer110515194" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSexualAbuseVictimsActivists" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Disputant109615465" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWelshPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdfs:label xml:lang="ja">カミラ (コーンウォール公爵夫人)</rdfs:label>
+    <rdfs:label xml:lang="pl">Kamila (księżna Kornwalii)</rdfs:label>
+    <rdfs:label xml:lang="en">Camilla, Duchess of Cornwall</rdfs:label>
+    <rdfs:label xml:lang="de">Camilla, Duchess of Cornwall</rdfs:label>
+    <rdfs:label xml:lang="nl">Camilla Parker Bowles</rdfs:label>
+    <rdfs:label xml:lang="ar">كاميلا دوقة كورنوال</rdfs:label>
+    <rdfs:label xml:lang="es">Camila de Cornualles</rdfs:label>
+    <rdfs:label xml:lang="ru">Камилла, герцогиня Корнуольская</rdfs:label>
+    <rdfs:label xml:lang="fr">Camilla Parker Bowles</rdfs:label>
+    <rdfs:label xml:lang="zh">康沃爾公爵夫人卡蜜拉</rdfs:label>
+    <rdfs:label xml:lang="pt">Camila, Duquesa da Cornualha</rdfs:label>
+    <rdfs:label xml:lang="it">Camilla Shand</rdfs:label>
+    <rdfs:comment xml:lang="nl">Camilla, hertogin van Cornwall (geboren: Camilla Rosemary Shand, Londen, 17 juli 1947) is de echtgenote van prins Charles. Haar achternaam Parker Bowles kreeg zij door haar huwelijk met legerofficier Andrew Parker Bowles in 1973. Prins Charles trouwde met Diana Spencer. Toch bleef hij zijn vroegere geliefde ontmoeten. In het begin van de jaren negentig lekten telefoongesprekken tussen de twee uit (Camillagate).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Camilla Rosemary Shand (ex-épouse Parker Bowles), née le 17 juillet 1947 à Londres, est la seconde épouse du prince Charles, prince de Galles. Depuis leur mariage elle est connue sous le prédicat de Son Altesse royale la duchesse de Cornouailles. La duchesse de Cornouailles deviendra reine consort du Royaume-Uni, si son époux accède au trône, puisqu&#39;il est l’héritier de la reine actuelle, Élisabeth II.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ками́лла Ро́змари Маунтба́ттен-Ви́ндзор (англ. Camilla Rosemary Mountbatten-Windsor); род. 17 июля 1947, Лондон) — герцогиня Корнуольская, герцогиня Ротсейская, вторая супруга (с 9 апреля 2005) Чарльза, принца Уэльского, наследника британского престола.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">コーンウォール公爵夫人カミラ（Camilla, Duchess of Cornwall、全名: カミラ・ローズマリー（Camilla Rosemary）、旧名: カミラ・パーカー・ボウルズ（Camilla Parker Bowles）、1947年7月17日 - ）は、イギリスの王太子であるウェールズ大公チャールズの元愛人で後妻。2005年4月に再婚した。称号はウェールズ大公妃（プリンセス・オブ・ウェールズ）、コーンウォール公爵夫人、ロスシー公爵夫人、チェスター伯爵夫人。敬称は殿下（Her Royal Highness）。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Sebbene sia la Principessa di Galles per via del suo matrimonio con il Principe di Galles, preferisce essere nota con i titoli secondari di Duchessa di Cornovaglia e Duchessa di Rothesay per rispetto verso la prima moglie del marito, la scomparsa Diana Spencer. Scelse di essere conosciuta come la Duchessa di Rothesay in Scozia, e come la Duchessa di Cornovaglia altrove.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) كاميلا، دوقة كورنوال (17 يوليو 1947 -)، الزوجة الثانية لولي عهد المملكة المتحدة الأمير تشارلز أمير ويلز. كانت قد تزوجت من أندرو باركر جونز في 4 يوليو 1973، وأنجبا توم (مواليد 18 ديسمبر 1974) ولورا (مواليد 1 يناير 1978)، وتطلقت منه في 3 مارس 1995.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Camilla, Duchess of Cornwall, GCVO, CSM, PC (Camilla Rosemary; née Shand, previously Parker Bowles; born 17 July 1947), is the second wife of Charles, Prince of Wales, who is the eldest child and heir apparent of Queen Elizabeth II. Instead of using the title of Princess of Wales, she uses the Duchess of Cornwall, which is her husband&#39;s secondary designation. In Scotland, she is known as the Duchess of Rothesay. In the event of Charles acceding to the throne, Camilla would be entitled to use the style of a queen consort; however, an official statement issued by Clarence House on the day of her marriage to Charles announced that she will be known as the Princess Consort.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Camila, duquesa de Cornualles (nacida Camilla Rosemary Shand, Parker Bowles tras su primer matrimonio, Mountbatten-Windsor tras su segundo matrimonio), es la segunda esposa de Carlos, príncipe de Gales y por matrimonio posee, además del título ducal de Cornualles, los títulos de duquesa de Rothesay y condesa de Chester. Es una de las tres únicas princesas herederas consortes de una casa reinante europea con ascendencia noble, junto a las princesa Sofía de Liechtenstein (nacida princesa de Baviera) y Estefanía de Luxemburgo (nacida condesa de Lannoy).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Camila Rosamaria Shand GCVO (Londres, 17 de julho de 1947) é a segunda esposa de Carlos, Príncipe de Gales, filho mais velho e herdeiro aparente da rainha Isabel II do Reino Unido. Seu casamento foi polêmico no ponto de vista político e religioso, pois a igreja anglicana não aceitava o casamento de pessoas divorciadas  e inclusive tal imposição provocou a abdicação de um rei no passado. , além disto o povo britânico amava muito a antecessora de Camila, Lady Diana, e não queria ver a ex-amante de Charles como rainha, na tentativa de abafar a imagem de invejosa que foi-lhe alocada pela mídia, Camila ao em vez de usar o título Princesa de Gales (muito associado a Diana), usa a título que foi secundário da ex-esposa de seu marido, o de Duquesa da Cornualha, e na Escócia é Duquesa de Rothesay.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Kamila, księżna Kornwalii, właśc. ang. Camilla, Duchess of Cornwall, urodzona jako Camilla Rosemary Shand, primo voto Parker Bowles (ur. 17 lipca 1947 w Londynie) – księżna Zjednoczonego Królestwa, wieloletnia partnerka i druga żona księcia Walii, najstarsza córka majora Bruce’a Shanda i Rosalind Cubitt, córki 3. barona Ashcombe, wnuczki Alice Keppel, kochanki króla Edwarda VII. Jest również potomkinią Charlesa Lennoxa, 1. księcia Richmond, nieślubnego syna Karola II Stuarta.</rdfs:comment>
+    <rdfs:comment xml:lang="de">HRH Camilla Rosemary, Duchess of Cornwall, GCVO, (* 17. Juli 1947 in London; gebürtige Camilla Rosemary Shand; geschiedene Camilla Parker Bowles) ist die zweite Ehefrau des britischen Kronprinzen Charles.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">康沃爾公爵夫人卡蜜拉殿下（英语：HRH Camilla, The Duchess of Cornwall，1947年7月17日－），蘇格蘭稱羅撒西公爵夫人（英语：HRH The Duchess of Rothesay），前稱卡米拉·帕克-鲍尔斯（英语：Camilla Parker Bowles），本姓尚德（Shand），是英國王儲查爾斯王子在2005年4月9日以公證結婚方式所迎娶的第二任妻子。 身為威爾斯親王的妻子，获得前任戴安娜所拥有的一切头衔，但不使用威尔士王妃的头衔，而是采用康沃尔公爵夫人的称号，是因为忌讳王子的前任戴安娜对这一头衔的影响力过大。“康沃爾公爵”是查爾斯王子诸多头衔中比较重要的一个。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/カミラ_(コーンウォール公爵夫人)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Camila,_Duquesa_da_Cornualha" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Καμίλα,_Δούκισσα_της_Κορνουάλης" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Camilla_Parker_Bowles" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/콘월_공작부인_커밀라" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Camilla_Parker" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Camilla_Parker-Bowles" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119271273" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Camilla_Parker_Bowles" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Camilla,_Adipati_Cornwall" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Camilla,_vévodkyně_z_Cornwallu" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4r5EZ2XAV5QBWIDufe7nUJOg" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Camilla_Shand" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q152239" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q152239" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0158r2" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Camilla,_Duchess_of_Cornwall" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Camilla,_Princess_of_Wales" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Camilla_Parker-Bowles" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Camila_de_Cornualles" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kamila_(księżna_Kornwalii)" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/King&#39;s_College_Hospital" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1947-7-17</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1947-07-17</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_United_Empire_Loyalist_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Wiltshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_French_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cubitt_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Keppel_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Chippenham" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_University_of_Aberdeen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_East_Sussex" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Dutch_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Charles,_Prince_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_health_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_American_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Canadian_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Corsham" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Edmonstone_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Parker_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_French-Canadian_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Star_of_Melanesia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:The_Queen&#39;s_Own_Rifles_of_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_the_University_of_London_Institute_in_Paris" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shand_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anti-poverty_advocates" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Aberdeen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_racehorse_owners_and_breeders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountbatten-Windsor_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_University_of_Southampton" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_countesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_air_commodores" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_women_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1947_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Belgravia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Croix_of_the_Ordre_national_du_Mérite" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_South_Kensington" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sexual_abuse_victims_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Queen&#39;s_Gate_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_English_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Patrons_of_schools" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Scottish_descent" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160811</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744386887</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://duchyofcornwall.org/the-duchess-of-cornwall.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/in_depth/uk/2005/charles_and_camilla/default.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.royal.uk/the-duchess-of-cornwall" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.princeofwales.gov.uk/personalprofiles/theduchessofcornwall/index.html" />
+    <foaf:name xml:lang="en">Camilla Rosemary</foaf:name>
+    <foaf:name xml:lang="en">Camilla, Duchess of Cornwall</foaf:name>
+    <foaf:name xml:lang="en">Camilla</foaf:name>
+    <foaf:homepage rdf:resource="https://www.royal.uk/the-duchess-of-cornwall" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Duchess_of_Cornwall_in_2014_(cropped).jpg" />
+    <dct:description xml:lang="en">Second wife of Charles, Prince of Wales</dct:description>
+    <foaf:givenName xml:lang="en">Camilla</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Camilla,_Duchess_of_Cornwall" />
+    <foaf:surname xml:lang="en">Parker</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Duchess_of_Cornwall_in_2014_(cropped).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Camilla,_Duchess_of_Cornwall?oldid=744386887" />
+    <dbo:abstract xml:lang="zh">康沃爾公爵夫人卡蜜拉殿下（英语：HRH Camilla, The Duchess of Cornwall，1947年7月17日－），蘇格蘭稱羅撒西公爵夫人（英语：HRH The Duchess of Rothesay），前稱卡米拉·帕克-鲍尔斯（英语：Camilla Parker Bowles），本姓尚德（Shand），是英國王儲查爾斯王子在2005年4月9日以公證結婚方式所迎娶的第二任妻子。 身為威爾斯親王的妻子，获得前任戴安娜所拥有的一切头衔，但不使用威尔士王妃的头衔，而是采用康沃尔公爵夫人的称号，是因为忌讳王子的前任戴安娜对这一头衔的影响力过大。“康沃爾公爵”是查爾斯王子诸多头衔中比较重要的一个。</dbo:abstract>
+    <dbo:abstract xml:lang="de">HRH Camilla Rosemary, Duchess of Cornwall, GCVO, (* 17. Juli 1947 in London; gebürtige Camilla Rosemary Shand; geschiedene Camilla Parker Bowles) ist die zweite Ehefrau des britischen Kronprinzen Charles.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) كاميلا، دوقة كورنوال (17 يوليو 1947 -)، الزوجة الثانية لولي عهد المملكة المتحدة الأمير تشارلز أمير ويلز. كانت قد تزوجت من أندرو باركر جونز في 4 يوليو 1973، وأنجبا توم (مواليد 18 ديسمبر 1974) ولورا (مواليد 1 يناير 1978)، وتطلقت منه في 3 مارس 1995.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Kamila, księżna Kornwalii, właśc. ang. Camilla, Duchess of Cornwall, urodzona jako Camilla Rosemary Shand, primo voto Parker Bowles (ur. 17 lipca 1947 w Londynie) – księżna Zjednoczonego Królestwa, wieloletnia partnerka i druga żona księcia Walii, najstarsza córka majora Bruce’a Shanda i Rosalind Cubitt, córki 3. barona Ashcombe, wnuczki Alice Keppel, kochanki króla Edwarda VII. Jest również potomkinią Charlesa Lennoxa, 1. księcia Richmond, nieślubnego syna Karola II Stuarta.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Camilla, hertogin van Cornwall (geboren: Camilla Rosemary Shand, Londen, 17 juli 1947) is de echtgenote van prins Charles. Haar achternaam Parker Bowles kreeg zij door haar huwelijk met legerofficier Andrew Parker Bowles in 1973. Ze werd geboren te Londen en is een achterkleinkind van Alice Keppel, de maîtresse van Eduard VII. Ze stamt ook af van Karel II en diens minnares, Louise de Kérouaille. In 1972 leerde ze prins Charles kennen. Omdat die haar niet ten huwelijk vroeg, trouwde ze met Parker Bowles. Het paar kreeg twee kinderen, Thomas (1974) (van wie prins Charles peetoom is) en Laura (1978). Prins Charles trouwde met Diana Spencer. Toch bleef hij zijn vroegere geliefde ontmoeten. In het begin van de jaren negentig lekten telefoongesprekken tussen de twee uit (Camillagate). Nadat prins Charles in 1994 publiekelijk erkende dat hij overspel had gepleegd, scheidde Andrew Parker Bowles in 1995 van zijn vrouw. Hij hertrouwde korte tijd later met zijn minnares met wie hij al langere tijd een geheime verhouding had. Na de dood van Diana werden Charles en Camilla, die elkaar &quot;Fred&quot; en &quot;Gladys&quot; noemen, steeds vaker samen gezien. Zowel koningin Elizabeth II als de Anglicaanse Kerk verzetten zich echter lange tijd tegen een eventueel huwelijk. In de Engelse roddelpers kreeg Camilla de schuld van het mislukken van het &quot;sprookjeshuwelijk&quot;. Toen Diana in 1997 verongelukte, bleef Parker Bowles noodgedwongen maandenlang uit de openbaarheid. In 2000 had Camilla voor het eerst een korte ontmoeting met koningin Elizabeth. Ze trok in bij Charles in Clarence House, maar bij officiële gelegenheden zat ze nooit naast hem. Op 10 februari 2005 maakte het bureau van prins Charles bekend dat het paar op 8 april van dat jaar in het huwelijk zou gaan treden. Na de dood van paus Johannes Paulus II werd echter besloten het huwelijk een dag te verplaatsen, naar 9 april 2005. Deze beslissing viel nog vóórdat door het Vaticaan bekend werd gemaakt dat op 8 april de bijzetting van de paus in de pontificale grafkelder zou plaatsvinden.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Sebbene sia la Principessa di Galles per via del suo matrimonio con il Principe di Galles, preferisce essere nota con i titoli secondari di Duchessa di Cornovaglia e Duchessa di Rothesay per rispetto verso la prima moglie del marito, la scomparsa Diana Spencer. Scelse di essere conosciuta come la Duchessa di Rothesay in Scozia, e come la Duchessa di Cornovaglia altrove. Poiché egli è il futuro governatore supremo della Chiesa d&#39;Inghilterra, la prospettiva di Carlo di sposare una divorziata era considerata controversa, ma con il consenso di Elisabetta II, il Parlamento e la Chiesa d&#39;Inghilterra, la coppia è stata in grado di sposarsi. La Duchessa ha due figli dal suo matrimonio con Andrew Parker Bowles e ha cinque nipoti.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Camilla Rosemary Shand (ex-épouse Parker Bowles), née le 17 juillet 1947 à Londres, est la seconde épouse du prince Charles, prince de Galles. Depuis leur mariage elle est connue sous le prédicat de Son Altesse royale la duchesse de Cornouailles. La duchesse de Cornouailles deviendra reine consort du Royaume-Uni, si son époux accède au trône, puisqu&#39;il est l’héritier de la reine actuelle, Élisabeth II.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Camila, duquesa de Cornualles (nacida Camilla Rosemary Shand, Parker Bowles tras su primer matrimonio, Mountbatten-Windsor tras su segundo matrimonio), es la segunda esposa de Carlos, príncipe de Gales y por matrimonio posee, además del título ducal de Cornualles, los títulos de duquesa de Rothesay y condesa de Chester. Aunque también es legalmente princesa de Gales, el día del anuncio del compromiso matrimonial, el Palacio de Buckingham anunció que Camila sería titulada como duquesa de Cornualles, con tratamiento de Alteza Real, evitando así confusiones y brindando un respeto a la memoria de la primera esposa del príncipe, la fallecida Diana, princesa de Gales. Usa este título en todas partes, excepto en Escocia, donde utiliza el título de duquesa de Rothesay. Desde 2013 ocupa el cargo honorífico de canciller de la Universidad de Aberdeen, en Escocia. Es una de las tres únicas princesas herederas consortes de una casa reinante europea con ascendencia noble, junto a las princesa Sofía de Liechtenstein (nacida princesa de Baviera) y Estefanía de Luxemburgo (nacida condesa de Lannoy).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">コーンウォール公爵夫人カミラ（Camilla, Duchess of Cornwall、全名: カミラ・ローズマリー（Camilla Rosemary）、旧名: カミラ・パーカー・ボウルズ（Camilla Parker Bowles）、1947年7月17日 - ）は、イギリスの王太子であるウェールズ大公チャールズの元愛人で後妻。2005年4月に再婚した。称号はウェールズ大公妃（プリンセス・オブ・ウェールズ）、コーンウォール公爵夫人、ロスシー公爵夫人、チェスター伯爵夫人。敬称は殿下（Her Royal Highness）。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Camilla, Duchess of Cornwall, GCVO, CSM, PC (Camilla Rosemary; née Shand, previously Parker Bowles; born 17 July 1947), is the second wife of Charles, Prince of Wales, who is the eldest child and heir apparent of Queen Elizabeth II. Instead of using the title of Princess of Wales, she uses the Duchess of Cornwall, which is her husband&#39;s secondary designation. In Scotland, she is known as the Duchess of Rothesay. In the event of Charles acceding to the throne, Camilla would be entitled to use the style of a queen consort; however, an official statement issued by Clarence House on the day of her marriage to Charles announced that she will be known as the Princess Consort. Camilla was born into a gentry family as the eldest child of Major Bruce Shand and his wife, the Honourable Rosalind Cubitt, the daughter of Roland Cubitt, 3rd Baron Ashcombe. She was raised in East Sussex and South Kensington, and was educated in England, Switzerland and France. Subsequently, she worked for different firms based in central London, most notably the decorating firm Sibyl Colefax &amp; John Fowler. In 1973, Camilla married British Army officer Andrew Parker Bowles, with whom she has two children. They divorced in 1995. For many years, Camilla was in a relationship with the Prince of Wales before and after their former marriages. The relationship became highly publicised in the media and attracted worldwide scrutiny. In 2005, it culminated in a civil marriage at Windsor Guildhall, which was followed by a televised Anglican blessing by the Archbishop of Canterbury, Rowan Williams, at St George&#39;s Chapel, Windsor Castle. As the Duchess of Cornwall, Camilla assists the Prince of Wales on his official duties. She is also the patron, president and a member of numerous charities and organisations. Since 1994, she has taken action on osteoporosis, which has earned her honours and awards. She has also raised awareness in areas including rape and sexual abuse, literacy and poverty, for which she has latterly been praised.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Camila Rosamaria Shand GCVO (Londres, 17 de julho de 1947) é a segunda esposa de Carlos, Príncipe de Gales, filho mais velho e herdeiro aparente da rainha Isabel II do Reino Unido. Seu casamento foi polêmico no ponto de vista político e religioso, pois a igreja anglicana não aceitava o casamento de pessoas divorciadas  e inclusive tal imposição provocou a abdicação de um rei no passado. , além disto o povo britânico amava muito a antecessora de Camila, Lady Diana, e não queria ver a ex-amante de Charles como rainha, na tentativa de abafar a imagem de invejosa que foi-lhe alocada pela mídia, Camila ao em vez de usar o título Princesa de Gales (muito associado a Diana), usa a título que foi secundário da ex-esposa de seu marido, o de Duquesa da Cornualha, e na Escócia é Duquesa de Rothesay. Camila é a filha mais velhar de Bruce Shand e sua esposa Rosalind Cubitt, filha de Roland Cubitt, 3.° Barão Ashcombe. Ela cresceu em East Sussex e estudou na Inglaterra, Suiça e França. Trabalhou como secretária em várias firmas de Londres, mais notavelmente na firma de decoração Sibyl Colefax &amp; John Fowler. Camila casou-se em 1973 com Andrew Parker Bowles, oficial do Exército Britânico, com quem teve dois filhos e cinco netos. Eles divociaram-se em 1995 pouco depois da aposentadoria dele. Camila e Carlos tiveram por muitos anos um relacionamento controverso, que foi muito divulgado pela mídia e atraiu escrutínio internacional. Tudo isso culminou em 2005 quando os dois se casaram em uma cerimônia civil realizada na Prefeitura de Windsor, seguida por uma benção anglicana televisionada realizada por Rowan Williams, Arcebispo da Cantuária, na Capela de São Jorge. Como Duquesa da Cornualha, Camila auxilia Carlos em seus deveres oficiais. Ela também é patrona e presidente de várias organizações de caridade, trabalhando para aumentar o interesse em áreas como a osteoporose, estupro, abuso sexual e alfabetização, tendo sido muito elogiada pelas últimas.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ками́лла Ро́змари Маунтба́ттен-Ви́ндзор (англ. Camilla Rosemary Mountbatten-Windsor); род. 17 июля 1947, Лондон) — герцогиня Корнуольская, герцогиня Ротсейская, вторая супруга (с 9 апреля 2005) Чарльза, принца Уэльского, наследника британского престола.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Rosalind_Cubitt" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Bruce_Shand" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Andrew_Parker_Bowles" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbo:title xml:lang="en">Duchess of Cornwall;Duchess of Rothesay([[#Titles, styles, honours and arms</dbo:title>
+    <dbp:previousVersions rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Previous versions were depicted without the Royal Victorian Order, to which she was appointed in 2012.</dbp:previousVersions>
+    <dbp:c rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">category:Camilla, Duchess of Cornwall</dbp:c>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Duchess of Cornwall at Hillsborough Castle in April 2014</dbp:caption>
+    <dbp:collapsible rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">true</dbp:collapsible>
+    <dbp:coronet rdf:resource="http://dbpedia.org/resource/Coronet_of_Charles,_Prince_of_Wales" />
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Q152239</dbp:d>
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Quarterly 1st and 4th gules three lions passant guardant in pale or armed and langed azure 2nd or a lion rampant gules armed and langued azure within a double tressure flory counterflory of the second 3rd azure a harp or stringed argent , the whole difference with a label of three points Argent; with an inescutcheon of four lions passant guardant, in gold and red, counterchanged, surmounted by the coronet of the heir ; impaled with a shield of Azure a Boar&#39;s Head erased close Argent armed and langued Or on a Chief engrailed Argent between two Mullets Gules a Cross crosslet fitchy Sable.</dbp:escutcheon>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Windsor</dbp:house>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">* Tom Parker Bowles
+* Laura Lopes</dbp:issue>
+    <dbp:notes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">On the Duchess&#39;s 58th birthday, Clarence House announced that Camilla had been granted by the Queen a coat of arms for her own personal use. It was reported that the Queen, Charles, and Camilla all took a &quot;keen interest&quot; in the arms&#39; creation, and they were prepared by Peter Gwynn-Jones, Garter Principal King of Arms. The Duchess&#39;s coat of arms impale the Prince&#39;s main coat of arms to the dexter, with her father&#39;s coat of arms to the sinister.</dbp:notes>
+    <dbp:orders rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">VICTORIA</dbp:orders>
+    <dbp:orders rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Royal Victorian Order circlet.</dbp:orders>
+    <dbp:otherElements rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Insignia of GCVO appended</dbp:otherElements>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:s>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Camilla, Duchess of Cornwall signature.jpg</dbp:signature>
+    <dbp:supporters rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dexter: a lion rampant gardant Or crowned with the coronet of the heir, differenced with a label of three points Argent; sinister: a Boar Azure armed and unguled Or langued Gules and gorged with a Coronet composed of crosses formy and fleurs-de-lys attached thereto a Chain reflexed over the back and ending in a ring all Or.</dbp:supporters>
+    <dbp:symbolism rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aside from the invention of a boar supporter  for the sinister side, Camilla&#39;s coat of arms is entirely consistent with the historical heraldic arrangement for a married woman who is not a heraldic heiress.</dbp:symbolism>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/University_of_Aberdeen" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:yearAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-07-17</dbp:yearAdopted>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clio_Goldsmith">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Aberdeen">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Queen&#39;s_Own_Rifles_of_Canada">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_Mountbatten-Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_of_Cornwall">
+    <dbp:incumbent rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_The_Duchess_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Princess_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camillia_bowles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Baroness_Renfrew">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Countess_of_Carrick">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Countess_of_Chester">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosalind_Shand">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annabel_Elliot">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Elliot">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_the_Duchess_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Camilla">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Camilla_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Camilla_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Camilla">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Camilla_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parker_Pole">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_The_Duchess_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Camilla,_Duchess_of_Cornwall">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla_parker_bowles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall" />
+  </rdf:Description>
+</rdf:RDF>

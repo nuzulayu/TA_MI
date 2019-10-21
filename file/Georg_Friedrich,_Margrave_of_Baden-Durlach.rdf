@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Margrave110294020" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110451263" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryGovernor110316683" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Governor110140314" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleOfTheThirtyYears&#39;War" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMargravesOfBaden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMargravesOfBaden-Durlach" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdfs:label xml:lang="de">Georg Friedrich (Baden-Durlach)</rdfs:label>
+    <rdfs:label xml:lang="en">Georg Friedrich, Margrave of Baden-Durlach</rdfs:label>
+    <rdfs:label xml:lang="it">Giorgio Federico di Baden-Durlach</rdfs:label>
+    <rdfs:label xml:lang="fr">Georges-Frédéric de Bade-Durlach</rdfs:label>
+    <rdfs:label xml:lang="es">Jorge Federico I de Baden-Durlach</rdfs:label>
+    <rdfs:comment xml:lang="de">Georg Friedrich (* 30. Januar 1573; † 24. September 1638 in Straßburg) war 1604–1622 Markgraf von Baden-Durlach und protestantischer Heerführer im Dreißigjährigen Krieg. Da er die von seinem Bruder Ernst Friedrich eingeleitete oberbadische Okkupation fortsetzte, regierte er de facto auch die Markgrafschaft Baden-Baden und war bis zur badischen Wiedervereinigung unter Markgraf Karl Friedrich 1771 der letzte Markgraf, der alle badischen Stammlande regierte.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Georges-Frédéric, margrave de Bade-Durlach (en allemand : Baden-Durlach) fut un prince du Saint-Empire romain germanique qui prit part, du côté des protestants, aux combats de la guerre de Trente Ans. Il nait le 30 janvier 1573 et meurt à Strasbourg le 24 septembre 1638.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge Federico I de Baden-Durlach, en alemán Georg Friedrich von Baden-Durlach (Karlsburg, Durlach, 30 de enero de 1573 - Estrasburgo, 24 de septiembre de 1638), fue Margrave de Baden-Durlach desde 1604 hasta su abdicación en 1622 y jefe militar protestante en la guerra de los Treinta Años. También gobernó de facto sobre el margraviato de Baden-Baden.</rdfs:comment>
+    <rdfs:comment xml:lang="en">George Frederick of Baden-Durlach (30 January 1573 – 24 September 1638) was Margrave of Baden-Durlach from 1604 until his abdication in 1622. He also ruled Baden-Baden. He was the third son of margrave Charles II of Baden-Durlach and his second wife, Anna of Veldenz. He was the youngest of eight children and was only four years old when his father died. He succeeded his brother Ernest Frederick as margrave in 1604. He also continued his brother&#39;s occupation of Baden-Baden. George Frederick was a prominent member of the Protestant Union. He died at Strasbourg in 1638.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q65236" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fndd3" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_Federico_I_de_Baden-Durlach" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_Friedrich_(Baden-Durlach)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11871693X" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q65236" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Georges-Frédéric_de_Bade-Durlach" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_Federico_di_Baden-Durlach" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Strasbourg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Strassbourg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1638-9-24</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1638-09-24</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Baden" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Durlach" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1573-1-30</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1573-01-30</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1573_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1638_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_the_Thirty_Years&#39;_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Zähringen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Margraves_of_Baden-Durlach" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6067641</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729427925</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">George Frederick, Margrave of Baden-Durlach</foaf:name>
+    <foaf:name xml:lang="en">Georg Friedrich, Margrave of Baden-Durlach</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georg_Friedrich_von_Baden-Durlach.jpg" />
+    <dct:description xml:lang="en">Margrave of Baden-Durlach</dct:description>
+    <foaf:givenName xml:lang="en">Georg</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georg_Friedrich_von_Baden-Durlach.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Georg_Friedrich,_Margrave_of_Baden-Durlach?oldid=729427925" />
+    <dbo:abstract xml:lang="fr">Georges-Frédéric, margrave de Bade-Durlach (en allemand : Baden-Durlach) fut un prince du Saint-Empire romain germanique qui prit part, du côté des protestants, aux combats de la guerre de Trente Ans. Il nait le 30 janvier 1573 et meurt à Strasbourg le 24 septembre 1638.</dbo:abstract>
+    <dbo:abstract xml:lang="en">George Frederick of Baden-Durlach (30 January 1573 – 24 September 1638) was Margrave of Baden-Durlach from 1604 until his abdication in 1622. He also ruled Baden-Baden. He was the third son of margrave Charles II of Baden-Durlach and his second wife, Anna of Veldenz. He was the youngest of eight children and was only four years old when his father died. He succeeded his brother Ernest Frederick as margrave in 1604. He also continued his brother&#39;s occupation of Baden-Baden. George Frederick was a prominent member of the Protestant Union. He raised an army of 12,000 men at the beginning of the Thirty Years&#39; War in 1618, and defeated the imperial troops of Tilly near Wiesloch in 1622. But a few days later he himself was defeated in Wimpfen, and his army was destroyed. In 1627 he joined the Danish army. He died at Strasbourg in 1638.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge Federico I de Baden-Durlach, en alemán Georg Friedrich von Baden-Durlach (Karlsburg, Durlach, 30 de enero de 1573 - Estrasburgo, 24 de septiembre de 1638), fue Margrave de Baden-Durlach desde 1604 hasta su abdicación en 1622 y jefe militar protestante en la guerra de los Treinta Años. También gobernó de facto sobre el margraviato de Baden-Baden.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg Friedrich (* 30. Januar 1573; † 24. September 1638 in Straßburg) war 1604–1622 Markgraf von Baden-Durlach und protestantischer Heerführer im Dreißigjährigen Krieg. Da er die von seinem Bruder Ernst Friedrich eingeleitete oberbadische Okkupation fortsetzte, regierte er de facto auch die Markgrafschaft Baden-Baden und war bis zur badischen Wiedervereinigung unter Markgraf Karl Friedrich 1771 der letzte Markgraf, der alle badischen Stammlande regierte.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_of_Veldenz" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_II_of_Baden-Durlach" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Frederick_V,_Margrave_of_Baden-Durlach" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Ernest_Frederick,_Margrave_of_Baden-Durlach" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George Frederick, Margrave of Baden-Durlach</dbp:caption>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Zähringen" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Juliane Ursula of Salm-Neufville</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Agathe of Erbach</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Elisabeth Stolz</dbp:spouse>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Margrave_of_Baden-Durlach" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1604</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Margrave" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Mingolsheim">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Friederich_of_Baden-Durlach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Friedrich_of_Baden-Durlach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Frederick,_Margrave_of_Baden-Durlach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Georg_Friedrich,_Margrave_of_Baden-Durlach">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Georg_Friedrich,_Margrave_of_Baden-Durlach" />
+  </rdf:Description>
+</rdf:RDF>

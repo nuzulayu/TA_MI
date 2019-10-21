@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Lyon-Bowes,_Lady_Glamis">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="es">Carlota Grimstead</rdfs:label>
+    <rdfs:label xml:lang="en">Charlotte Lyon-Bowes, Lady Glamis</rdfs:label>
+    <rdfs:comment xml:lang="es">Carlota Lyon-Bowes, Lady Glamis (nacida Grimstead) (c. 1798 – 19 de enero de 1881) hija de Joseph Valentine Grimstead y Charlotte Sarah Jane Walsh. Se casó con Tomás Lyon-Bowes, Lord Glamis, hijo único de Tomás Lyon-Bowes, 11vo Conde de Strathmore y Kinghorne y Mary Elizabeth Carpenter, el 21 de diciembre de 1820 en Westminster, Londres, Inglaterra. Tuvieron cinco hijos:</rdfs:comment>
+    <rdfs:comment xml:lang="en">Charlotte Lyon-Bowes, Lady Glamis (née Grimstead) (22 January 1797 – 19 January 1881) was a daughter of Joseph Valentine Grimstead, of Ewood Park and Merry Hall, and Charlotte Jane Sarah Walsh. She was a great grandmother of Queen Elizabeth The Queen Mother. She married Thomas Lyon-Bowes, Lord Glamis, only son of Thomas Lyon-Bowes, 11th Earl of Strathmore and Kinghorne and Mary Elizabeth Louisa Rodney Carpenter, on 21 December 1820 at St. James&#39;s, Westminster, London, England. Her children were:</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05mt16x" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2918041" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charlotte_Lyon-Bowes,_Lady_Glamis" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2918041" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlota_Grimstead" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-1-19</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1797-1-22</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1881_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_courtesy_baronesses_and_ladies_of_Parliament" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1797_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bowes-Lyon_family" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21742140</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741845979</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Charlotte Lyon-Bowes, Lady Glamis</foaf:name>
+    <dct:description xml:lang="en">Scottish peer</dct:description>
+    <foaf:givenName xml:lang="en">Charlotte</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charlotte_Lyon-Bowes,_Lady_Glamis" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charlotte_Lyon-Bowes,_Lady_Glamis?oldid=741845979" />
+    <dbo:abstract xml:lang="es">Carlota Lyon-Bowes, Lady Glamis (nacida Grimstead) (c. 1798 – 19 de enero de 1881) hija de Joseph Valentine Grimstead y Charlotte Sarah Jane Walsh. Se casó con Tomás Lyon-Bowes, Lord Glamis, hijo único de Tomás Lyon-Bowes, 11vo Conde de Strathmore y Kinghorne y Mary Elizabeth Carpenter, el 21 de diciembre de 1820 en Westminster, Londres, Inglaterra. Tuvieron cinco hijos: 
+* Frances Lyon.  
+* Thomas Lyon-Bowes (18 de octubre de 1821 – 18 de octubre de 1821). 
+* Tomás Lyon-Bowes, 12vo Conde de Strathmore y Kinghorne (28 de septiembre de 1822 – 13 de septiembre de 1865) 
+* Claudio Bowes-Lyon, 13vo Conde de Strathmore and Kinghorne (21 de julio de 1824 –16 de febrero de 1904). 
+* Charlotte Lyon (1826 – 22 de octubre de 1844).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Charlotte Lyon-Bowes, Lady Glamis (née Grimstead) (22 January 1797 – 19 January 1881) was a daughter of Joseph Valentine Grimstead, of Ewood Park and Merry Hall, and Charlotte Jane Sarah Walsh. She was a great grandmother of Queen Elizabeth The Queen Mother. She married Thomas Lyon-Bowes, Lord Glamis, only son of Thomas Lyon-Bowes, 11th Earl of Strathmore and Kinghorne and Mary Elizabeth Louisa Rodney Carpenter, on 21 December 1820 at St. James&#39;s, Westminster, London, England. Her children were: 
+* Thomas Lyon-Bowes (18 October 1821 – 18 October 1821) 
+* Thomas Lyon-Bowes, 12th Earl of Strathmore and Kinghorne (28 September 1822 – 13 September 1865) 
+* Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne (21 July 1824 – 16 February 1904), ancestor of Queen Elizabeth II. 
+* Charlotte Lyon-Bowes (15 May 1826 – 22 October 1844) 
+* Herbert Lyon-Bowes (1828 – died in infancy) 
+* Arthur Lyon-Bowes (1830 – died in infancy) 
+* Frances Lyon-Bowes (8 February 1832 – 27 January 1903), raised to the rank of an earl&#39;s daughter (with the style of Lady Frances) in 1847, married Hugh Charles Bettesworth Trevanion 
+*  Born: Redbourne, Hertfordshire, England  
+*  Died: Redbourne, Hertfordshire, England</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Glamis">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charlotte_Lyon-Bowes,_Lady_Glamis" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:mother rdf:resource="http://dbpedia.org/resource/Charlotte_Lyon-Bowes,_Lady_Glamis" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charlotte_Lyon-Bowes,_Lady_Glamis">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charlotte_Lyon-Bowes,_Lady_Glamis" />
+  </rdf:Description>
+</rdf:RDF>

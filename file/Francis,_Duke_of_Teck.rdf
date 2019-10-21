@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Francis,_Duke_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Francis_of_Teck">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary_Adelaide_of_Cambridge">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_of_Teck">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis,_Duke_of_Teck">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeneralOfficer110125786" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/General110123844" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromOsijek" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishArmyGenerals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfTeck" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfJusticeOfTheOrderOfStJohn" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishGenerals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheAustro-PrussianWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfGermany" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountsOfHohenstein" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdfs:label xml:lang="de">Franz von Teck</rdfs:label>
+    <rdfs:label xml:lang="ja">フランツ・フォン・テック</rdfs:label>
+    <rdfs:label xml:lang="es">Francisco de Teck</rdfs:label>
+    <rdfs:label xml:lang="pt">Francisco, Duque de Teck</rdfs:label>
+    <rdfs:label xml:lang="nl">Frans van Teck (1837-1900)</rdfs:label>
+    <rdfs:label xml:lang="fr">François de Wurtemberg</rdfs:label>
+    <rdfs:label xml:lang="en">Francis, Duke of Teck</rdfs:label>
+    <rdfs:label xml:lang="it">Francesco di Teck</rdfs:label>
+    <rdfs:label xml:lang="pl">Franciszek Teck</rdfs:label>
+    <rdfs:comment xml:lang="es">Francisco, Duque de Teck (Francis Paul Charles Louis Alexander; 28 de agosto de 1837 – 21 de enero de 1900) fue un miembro de la Familia Real Británica, padre de la Reina María. Francisco ostentó los títulos de Conde de Hohenstein y después Duque de Teck y le fue otorgado el tratamiento de Alteza en 1887.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Frans Paul Karel Lodewijk Alexander van Teck (Esseg, Kroatië, 28 augustus 1837 – 21 januari 1900) was een Prins van Württemberg en officier in het Oostenrijkse leger. Hij was de vader van de Britse koningin Mary van Teck.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Francisco, Duque de Teck (Francis Paul Charles Louis Alexander; 28 de agosto de 1837 – 21 de janeiro de 1900), ficou conhecido por ser o pai da rainha consorte Maria de Teck. Francisco detinha os títulos de Conde de Hohenstein (Graf von Hohenstein) e mais tarde duque de Teck (Herzog von Teck). Em 1887, foi-lhe concedido no Reino Unido o estilo de Sua Alteza. O príncipe Francisco era descendente da Casa de Habsburgo, a então poderosa família real da Áustria.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フランツ・フォン・テック （Herzog Franz Paul Karl Ludwig Alexander von Teck, 1837年8月28日 - 1900年1月21日）は、初代テック公。現英国女王エリザベス2世の曽祖父にあたる。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Franciszek Paweł Karol Ludwik Aleksander Teck (ur. 27 sierpnia 1837 – zm. 21 października 1900) – członek brytyjskiej rodziny królewskiej, hrabia von Hohenstein, później książę von Teck (od 1863 r. Fürst von Teck, od 1871 r. Herzog von Teck – oba tytuły nadane przez króla Wilhelma I Wirtemberskiego). Był synem księcia Aleksandra i jego żony - Claudii Rhédey von Kis-Rhéde (małżeństwo to było związkiem morganatycznym). Matka otrzymała tytuł księżnej von Hohenstein, a w 1863 roku Aleksander i jego dzieci otrzymali tytuły książąt von Teck.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">François de Wurtemberg, duc de Teck, né le 28 août 1837 à Esseg en Slavonie et décédé le 21 janvier 1900 à Richmond Park, Londres, est le père de la reine Mary de Teck. Il appartient à la seconde branche dite branche des ducs de Teck et marquis de Cambridge, issue de la première branche dite branche aînée de la Maison de Wurtemberg. Elle s&#39;éteignit en 1980.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Francis, Duke of Teck GCB GCVO (Francis Paul Charles Louis Alexander; 28 August 1837 – 21 January 1900), until 1863 known as Count Francis von Hohenstein, was a member of the German nobility, and later of the British Royal Family. He was the father of Queen Mary, the wife of King George V, and therefore a great-grandfather of the present queen. Francis held the titles of Count of Hohenstein (Graf von Hohenstein), Prince (Fürst) and later Duke of Teck (Herzog von Teck) and was granted the style His Serene Highness in 1863. He was granted the British style of Highness in 1887.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Herzog Franz Paul Karl Ludwig Alexander von Teck (* 27. August 1837 in Osijek, Kroatien; † 21. Januar 1900 in White Lodge, Richmond Park, Surrey, Großbritannien) war ein Mitglied der britischen Königsfamilie und der Vater von Königin Mary. Franz hatte den Titel eines Grafen von Hohenstein im Kaiserreich Österreich und später den eines Herzogs von Teck im Königreich Württemberg. 1887 verlieh ihm Königin Victoria die Anrede Hoheit.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Francesco_di_Teck" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/François_de_Wurtemberg" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Frans_van_Teck_(1837-1900)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フランツ・フォン・テック" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Francisco_de_Teck" />
+    <owl:sameAs rdf:resource="http://purl.org/collections/nl/am/p-41628" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Franciszek_Teck" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q535987" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Franz_von_Teck" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01pz5m" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q535987" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Francis,_Duke_of_Teck" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Francisco,_Duque_de_Teck" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/White_Lodge,_Richmond_Park" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-01-21</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-1-21</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Osijek" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Slavonia" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1837-8-28</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1837-08-28</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Württemberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Teck" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Austro-Prussian_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_generals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1900_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Crown_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_the_Anglo-Egyptian_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1837_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Counts_of_Hohenstein" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Osijek" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_Justice_of_the_Order_of_St_John" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285525</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744089466</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Francis</foaf:name>
+    <foaf:name xml:lang="en">Francis, Duke of Teck</foaf:name>
+    <foaf:name xml:lang="en">Francis Paul Charles Louis Alexander</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Francis,_Duke_of_Teck.jpg" />
+    <dct:description xml:lang="en">British Army general</dct:description>
+    <foaf:givenName xml:lang="en">Francesco</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Francis,_Duke_of_Teck" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Francis,_Duke_of_Teck.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Francis,_Duke_of_Teck?oldid=744089466" />
+    <dbo:abstract xml:lang="ja">フランツ・フォン・テック （Herzog Franz Paul Karl Ludwig Alexander von Teck, 1837年8月28日 - 1900年1月21日）は、初代テック公。現英国女王エリザベス2世の曽祖父にあたる。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Franciszek Paweł Karol Ludwik Aleksander Teck (ur. 27 sierpnia 1837 – zm. 21 października 1900) – członek brytyjskiej rodziny królewskiej, hrabia von Hohenstein, później książę von Teck (od 1863 r. Fürst von Teck, od 1871 r. Herzog von Teck – oba tytuły nadane przez króla Wilhelma I Wirtemberskiego). Był synem księcia Aleksandra i jego żony - Claudii Rhédey von Kis-Rhéde (małżeństwo to było związkiem morganatycznym). Matka otrzymała tytuł księżnej von Hohenstein, a w 1863 roku Aleksander i jego dzieci otrzymali tytuły książąt von Teck. Franciszek, osierocony przez matkę w wieku 4 lat (spadła z konia przy popisach kawaleryjskich męża) nie miał prawa dziedziczenia tronu, ani dużego majątku – był więc raczej bez szans wśród księżniczek europejskich. Ożenił się więc z 30-letnią księżniczką Marią, wnuczką króla Jerzego III, a córką Adolfa Hanowerskiego i księżniczki Augusty Wilhelminy (córki landgrafa heskiego na Kassel Fryderyka II). Ślub odbył się 12 czerwca 1866 roku. Mieli 4 dzieci: 
+*  Marię (1867–1953) – żonę króla Jerzego V 
+*  Adolfa (1868–1927) - księcia Teck, 1. markiza Cambridge  
+*  Franciszka (1870–1910) 
+*  Aleksandra (1874–1957) - 1. Earla Athlone Franciszek nie posiadał znacznego majątku, dlatego też rodzina żyła jedynie ze środków, jakie otrzymywała Maria – 5000 funtów rocznie na utrzymanie, uzupełnione spadkiem po matce. Maria poprosiła o pomoc swoją kuzynkę, królową Wiktorię. Otrzymali do dyspozycji apartament w pałacu Kensington oraz wiejską posiadłość White Lodge. Pomimo problemów finansowych para prowadziła ekstrawagancki styl życia, powiększając tym samym dotychczasowe zadłużenie. W 1883 r. ścigani przez wierzycieli opuścili Wielką Brytanię, podróżując pod nazwiskiem Hohenstein mieszkali we Florencji oraz Niemczech. Po dwóch latach powrócili do kraju. Sytuacja finansowa poprawiła się, gdy w grudniu 1891 roku doszło do zaręczyn Marii Teck z drugim w kolejności do tronu księciem Albertem. Jednak książę zmarł w styczniu 1892 roku, co znów postawiło rodzinę przed widmem bankructwa. Królowa Wiktoria przekonała młodszego brata księcia Alberta – Jerzego do poślubienia niedoszłej bratowej. W 1897 roku umarła żona Franciszka – Maria, trzy lata później 21 stycznia 1900 roku umarł sam Franciszek.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Francisco, Duque de Teck (Francis Paul Charles Louis Alexander; 28 de agosto de 1837 – 21 de enero de 1900) fue un miembro de la Familia Real Británica, padre de la Reina María. Francisco ostentó los títulos de Conde de Hohenstein y después Duque de Teck y le fue otorgado el tratamiento de Alteza en 1887.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Francis, Duke of Teck GCB GCVO (Francis Paul Charles Louis Alexander; 28 August 1837 – 21 January 1900), until 1863 known as Count Francis von Hohenstein, was a member of the German nobility, and later of the British Royal Family. He was the father of Queen Mary, the wife of King George V, and therefore a great-grandfather of the present queen. Francis held the titles of Count of Hohenstein (Graf von Hohenstein), Prince (Fürst) and later Duke of Teck (Herzog von Teck) and was granted the style His Serene Highness in 1863. He was granted the British style of Highness in 1887.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Francisco, Duque de Teck (Francis Paul Charles Louis Alexander; 28 de agosto de 1837 – 21 de janeiro de 1900), ficou conhecido por ser o pai da rainha consorte Maria de Teck. Francisco detinha os títulos de Conde de Hohenstein (Graf von Hohenstein) e mais tarde duque de Teck (Herzog von Teck). Em 1887, foi-lhe concedido no Reino Unido o estilo de Sua Alteza. O príncipe Francisco era descendente da Casa de Habsburgo, a então poderosa família real da Áustria. Em 1863, Francisco foi nomeado Príncipe de Teck, com o estilo de Sua Alteza Sereníssima no Reino de Württemberg e mais tarde, em 1871, foi nomeado Duque de Teck. Casou-se em 12 de junho de 1866 com Maria Adelaide de Hanôver filha do príncipe Adolfo, 1º Duque de Cambridge, neta do rei Jorge III do Reino Unido, eles tiveram quatro filhos: 
+*  Maria de Teck, mais tarde, rainha Maria, rainha-consorte do Reino Unido (1867-1953)  
+*  Adolfo de Teck, mais tarde Duque de Teck e Marquês de Cambridge (1868-1927)  
+*  Francisco de Teck (1870-1910)  
+*  Alexandre de Teck, mais tarde Conde de Athlone (1874-1957)</dbo:abstract>
+    <dbo:abstract xml:lang="fr">François de Wurtemberg, duc de Teck, né le 28 août 1837 à Esseg en Slavonie et décédé le 21 janvier 1900 à Richmond Park, Londres, est le père de la reine Mary de Teck. Il appartient à la seconde branche dite branche des ducs de Teck et marquis de Cambridge, issue de la première branche dite branche aînée de la Maison de Wurtemberg. Elle s&#39;éteignit en 1980.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Herzog Franz Paul Karl Ludwig Alexander von Teck (* 27. August 1837 in Osijek, Kroatien; † 21. Januar 1900 in White Lodge, Richmond Park, Surrey, Großbritannien) war ein Mitglied der britischen Königsfamilie und der Vater von Königin Mary. Franz hatte den Titel eines Grafen von Hohenstein im Kaiserreich Österreich und später den eines Herzogs von Teck im Königreich Württemberg. 1887 verlieh ihm Königin Victoria die Anrede Hoheit.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Frans Paul Karel Lodewijk Alexander van Teck (Esseg, Kroatië, 28 augustus 1837 – 21 januari 1900) was een Prins van Württemberg en officier in het Oostenrijkse leger. Hij was de vader van de Britse koningin Mary van Teck.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Mary_Adelaide_of_Cambridge" />
+    <dbo:title xml:lang="en">Duke of Teck</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">New Creation</dbp:before>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke of Teck by Alexander Bassano.</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Duke_of_Teck" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Francis of Teck</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Adolphus Cambridge, 1st Marquess of Cambridge</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Alexander Cambridge, 1st Earl of Athlone</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Teck" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&#39;3rd creation&#39;&#39;</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&#39;&#39;&#39;1871–1900</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Member" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Francis,_Duke_of_Teck">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+  </rdf:Description>
+</rdf:RDF>

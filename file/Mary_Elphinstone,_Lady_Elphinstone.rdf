@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Rhodes">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidney_Buller-Fullerton-Elphinstone,_16th_Lord_Elphinstone">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Offspring110373998" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109918248" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Daughter109992837" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleOffspring110084043" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDaughtersOfBritishEarls" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdfs:label xml:lang="it">Mary Bowes-Lyon</rdfs:label>
+    <rdfs:label xml:lang="en">Mary Elphinstone, Lady Elphinstone</rdfs:label>
+    <rdfs:comment xml:lang="en">Mary Frances Buller-Fullerton-Elphinstone, Lady Elphinstone and Baroness Elphinstone DCVO (born Lady Mary Frances Bowes-Lyon; 30 August 1883 – 8 February 1961) was a maternal aunt and godparent of Elizabeth II.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Mary_Bowes-Lyon" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07lqnh" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6779476" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6779476" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Inveresk" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Scotland" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-02-08</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-2-8</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Angus" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Scotland" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1883-8-30</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1883-08-30</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1961_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Commander_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_British_earls" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bowes-Lyon_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1883_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2537689</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725014870</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Mary Elphinstone, Lady Elphinstone</foaf:name>
+    <foaf:name xml:lang="en">The Lady Elphinstone</foaf:name>
+    <dct:description xml:lang="en">sister of Queen Elizabeth The Queen Mother</dct:description>
+    <foaf:givenName xml:lang="en">Mary</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mary_Elphinstone,_Lady_Elphinstone" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mary_Elphinstone,_Lady_Elphinstone?oldid=725014870" />
+    <dbo:abstract xml:lang="en">Mary Frances Buller-Fullerton-Elphinstone, Lady Elphinstone and Baroness Elphinstone DCVO (born Lady Mary Frances Bowes-Lyon; 30 August 1883 – 8 February 1961) was a maternal aunt and godparent of Elizabeth II.</dbo:abstract>
+    <dbo:birthName xml:lang="en">Lady Mary Frances Bowes-Lyon</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1883</dbo:birthYear>
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Margaret_Rhodes" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/John_Elphinstone,_17th_Lord_Elphinstone" />
+    <dbo:deathYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1961</dbo:deathYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <dbo:personFunction rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone__1" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Sidney_Elphinstone,_16th_Lord_Elphinstone" />
+    <dbo:title xml:lang="en">Lady Elphinstone</dbo:title>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Aunt" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mary_Elphinstone,_Lady_Elphinstone">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Mary_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Mary_Elphinstone">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Mary_Frances_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Elphinstone">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Frances_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+  </rdf:Description>
+</rdf:RDF>

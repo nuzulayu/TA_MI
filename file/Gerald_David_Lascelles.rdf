@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Lascelles,_6th_Earl_of_Harewood">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maximilian_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angela_Lascelles">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Innes_Ireland">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_David_Lascelles">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Decision100162632" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Action100037396" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPossibleCut-and-pasteMoves" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Move100165942" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Choice100161243" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdfs:label xml:lang="pl">Gerald Lascelles</rdfs:label>
+    <rdfs:label xml:lang="nl">Gerald Lascelles</rdfs:label>
+    <rdfs:label xml:lang="en">Gerald David Lascelles</rdfs:label>
+    <rdfs:comment xml:lang="nl">Gerald David Lascelles (21 augustus 1924 - 27 februari 1998) was de jongste zoon van Henry Lascelles en Prinses Mary, de enige dochter van Koning George V en Koningin Mary. Gerald is een neef van Koningin Elizabeth II. Hij had vanaf zijn geboorte de titel The Honourable Gerald Lascelles.Gerald werd geboren in Goldsborough Hall, dicht bij Knaresborough, North Yorkshire en werd gedoopt met Eduard VIII en Koningin Elizabeth als peetouders. Op 15 juli 1952 trouwde Gerald met Angela Estree Dowding (20 april 1919 - 28 februari 2007) in St. Margaret&#39;s, Westminster. Ze kregen 1 zoon:</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Honourable Gerald David Lascelles (21 August 1924 – 27 February 1998) was the younger son of Henry Lascelles, 6th Earl of Harewood and Mary, Princess Royal, the only daughter of King George V of the United Kingdom and Mary of Teck. He was the first cousin of Queen Elizabeth II. He was styled The Honourable Gerald Lascelles. He and his first cousin, Princess Margaret, Countess of Snowdon, shared the same birthday. On 17 November 1978, Lascelles married his second wife, Elizabeth Evelyn Collingwood (23 April 1924 – 14 January 2006), in Vienna, Austria. They had a son:</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Gerald David Lascelles (ur. 21 sierpnia 1924 w Goldsborough Hall, Goldsborough, zm. 27 lutego 1998 w Bergerac) – młodszy syn Henry’ego Lascellesa i Marii Windsor, jedynej córki króla Jerzego V. Po abdykacji swego wuja Edwarda VIII zajmował 8 miejsce w sukcesji do brytyjskiego tronu.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gerald_Lascelles" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2962982" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Maximilian_Lascelles" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Gerald_Lascelles" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07nqx8" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2962982" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Bergerac,_Dordogne" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/France" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-02-27</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-2-27</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Yorkshire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Goldsborough_Hall" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-8-21</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-08-21</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Knaresborough" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lascelles_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1924_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Younger_sons_of_earls" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1998_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2570358</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">706509819</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Gerald Lascelles</foaf:name>
+    <foaf:name xml:lang="en">Gerald David Lascelles</foaf:name>
+    <dct:description xml:lang="en">younger son of Henry Lascelles, 6th Earl of Harewood</dct:description>
+    <foaf:givenName xml:lang="en">Gerald</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gerald_David_Lascelles" />
+    <foaf:surname xml:lang="en">Lascelles</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gerald_David_Lascelles?oldid=706509819" />
+    <dbo:abstract xml:lang="pl">Gerald David Lascelles (ur. 21 sierpnia 1924 w Goldsborough Hall, Goldsborough, zm. 27 lutego 1998 w Bergerac) – młodszy syn Henry’ego Lascellesa i Marii Windsor, jedynej córki króla Jerzego V. Po abdykacji swego wuja Edwarda VIII zajmował 8 miejsce w sukcesji do brytyjskiego tronu.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Honourable Gerald David Lascelles (21 August 1924 – 27 February 1998) was the younger son of Henry Lascelles, 6th Earl of Harewood and Mary, Princess Royal, the only daughter of King George V of the United Kingdom and Mary of Teck. He was the first cousin of Queen Elizabeth II. He was styled The Honourable Gerald Lascelles. He and his first cousin, Princess Margaret, Countess of Snowdon, shared the same birthday. Lascelles was born at Goldsborough Hall, near Knaresborough, North Yorkshire, and was baptised with The Prince of Wales and The Duchess of York as his godparents. After Edward VIII abdicated, he became 8th in the line of succession. On 15 July 1952, he married Angela Estree Lyssod D&#39;Arcy Dowding (20 April 1919 – 28 February 2007) at St. Margaret&#39;s, Westminster. They then moved into a house in Albion Mews, W2. Before divorcing in 1978, they had one son: 
+*  Henry Ulick Lascelles, born on 19 May 1953. Henry married first Alexandra Morton on 25 August 1979, divorced 1999, and second Fiona Wilmott in 2006. He has one son by his first marriage, Maximilian John Gerald, born 19 December 1991. On 17 November 1978, Lascelles married his second wife, Elizabeth Evelyn Collingwood (23 April 1924 – 14 January 2006), in Vienna, Austria. They had a son: 
+*  Martin David Lascelles (born 9 February 1962, London), before their marriage. Martin married Charmaine Eccleston in 1999, and they have a son, Alexander Joshua, born in 2002. Martin also has an illegitimate daughter with Carol Douet named Georgina Elizabeth. She was born in 1988. Lascelles was the president of the British Racing Drivers&#39; Club from 1964 to 1991 after the 5th Earl Howe died. Lord Howe had asked Lascelles to replace him. He was briefly a driver before this. In his role as BRDC president Lascelles was invited by the Australian Racing Drivers Club, promoters of the Bathurst 1000 Touring car race, to be the Grand Marshal for the 1985 race. He was also a passionate jazz enthusiast and collaborated with journalist and magazine editor Sinclair Traill in compiling the popular Just Jazz yearbooks in the 1950s. Lascelles died in Bergerac, France, in 1998.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Gerald David Lascelles (21 augustus 1924 - 27 februari 1998) was de jongste zoon van Henry Lascelles en Prinses Mary, de enige dochter van Koning George V en Koningin Mary. Gerald is een neef van Koningin Elizabeth II. Hij had vanaf zijn geboorte de titel The Honourable Gerald Lascelles.Gerald werd geboren in Goldsborough Hall, dicht bij Knaresborough, North Yorkshire en werd gedoopt met Eduard VIII en Koningin Elizabeth als peetouders. Op 15 juli 1952 trouwde Gerald met Angela Estree Dowding (20 april 1919 - 28 februari 2007) in St. Margaret&#39;s, Westminster. Ze kregen 1 zoon: 
+*  Henry Ulick (19 mei 1953) Ze scheidde in 1978. Gerald trouwde op 17 november 1978 met Elizabeth Evelyn Collingwood (23 april 1924 – 14 januari 2006) in Wenen, Oostenrijk. Ze hadden al een zoon: 
+*  Martin David (9 februari 1962) Hij was de president van de British Racing Drivers&#39; Club van 1964 tot 1991, nadat Francis Curzon was gestorven. Francis had hem gevraagd om hem op te volgen. Gerald stierf in 1998 in Bergerac (Dordogne), Frankrijk.</dbo:abstract>
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Angela_Lascelles" />
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Henry Lascelles</dbp:children>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Martin David Lascelles</dbp:children>
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Honourable" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Henry_Lascelles,_6th_Earl_of_Harewood" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/British_Racing_Drivers&#39;_Club" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1964</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GD_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gerald_David_Lascelles">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gerald_David_Lascelles" />
+  </rdf:Description>
+</rdf:RDF>

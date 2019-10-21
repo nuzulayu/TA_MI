@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Ansbach">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Augusta_of_Saxe-Gotha">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_of_Wales_Frederick_Louis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Edward,_Duke_of_York_and_Albany">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spark_(horse)">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_County,_Virginia">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Prince_of_Wales">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdfs:label xml:lang="en">Frederick, Prince of Wales</rdfs:label>
+    <rdfs:label xml:lang="es">Federico Luis de Gales</rdfs:label>
+    <rdfs:label xml:lang="pt">Frederico, Príncipe de Gales</rdfs:label>
+    <rdfs:label xml:lang="ar">فريدريك أمير ويلز</rdfs:label>
+    <rdfs:label xml:lang="de">Friedrich Ludwig von Hannover</rdfs:label>
+    <rdfs:label xml:lang="fr">Frédéric de Galles</rdfs:label>
+    <rdfs:label xml:lang="zh">弗雷德里克 (威尔士亲王)</rdfs:label>
+    <rdfs:label xml:lang="ru">Фредерик, принц Уэльский</rdfs:label>
+    <rdfs:label xml:lang="it">Federico, principe del Galles</rdfs:label>
+    <rdfs:label xml:lang="ja">フレデリック・ルイス (プリンス・オブ・ウェールズ)</rdfs:label>
+    <rdfs:label xml:lang="nl">Frederik, prins van Wales</rdfs:label>
+    <rdfs:label xml:lang="pl">Fryderyk Ludwik Hanowerski</rdfs:label>
+    <rdfs:comment xml:lang="es">Federico Luis de Gran Bretaña, Príncipe de Gales (en alemán: Friedrich Ludwig von Braunschweig-Lüneburg; 1707 - 1751) fue miembro de la familia real británica, siendo el hijo mayor del rey Jorge II. Es conocido por las relaciones hostiles que mantuvo con sus padres.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Frederik Lodewijk, prins van Wales (Hannover, 1 februari 1707 - Taplow, 31 maart 1751) was van 1727 tot 1751 de eerste troonopvolger van Groot-Brittannië. Hij was de oudste zoon van koning George II en Caroline van Brandenburg-Ansbach en de vader van de latere George III, die zijn grootvader later zou opvolgen als koning.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Frederico Luís (Hanôver, 1 de fevereiro de 1707 – Londres, 31 de março de 1751) foi o filho mais velho e herdeiro aparente do rei Jorge II da Grã-Bretanha e sua esposa a princesa Carolina de Ansbach. Ele mudou-se para a Inglaterra após a acessão de seu pai e tornou-se Príncipe de Gales. No entanto, ele morreu antes de Jorge II, e o trono, com a morte do rei em 25 de Outubro de 1760, foi herdado por seu filho, o futuro Jorge III do Reino Unido, que reinou entre 1760 e 1820.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Fryderyk Ludwik (ur. 1 lutego 1707 w Hanowerze, zm. 31 marca 1751 w Leicester House w Londynie), książę Walii, następca tronu Wielkiej Brytanii, najstarszy syn króla Jerzego II Hanowerskiego i Karoliny, córki Jana Fryderyka, margrabiego Brandenburg-Ansbach.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フレデリック・ルイス（Frederick Louis, 1707年2月1日 - 1751年3月31日）は、イギリス・ハノーヴァー朝の王族でイギリス国王兼ハノーファー選帝侯ジョージ2世と妃キャロライン・オブ・アーンズバックの長男。ジョージ3世の父。王太子（プリンス・オブ・ウェールズ）に叙されていたが、王位継承を果たさずに薨御した。ドイツ語ではフリードリヒ・ルートヴィヒ（Friedrich Ludwig）。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) فريدريك لويس، أمير ويلز (1 فبراير 1707 - 20 مارس 1751) ولي عهد العرش البريطاني منذ 1727م وحتى وفاته. كان فريدريك الابن الأكبر بين أبناء جورج الثاني وكارولين أميرة أنسباخ وهو والد جورج الثالث أيضًا. وطبقًا لمرسوم التولية المُصدق عام 1701م، فقد كان فريدريك على رأس قائمة الخلافة على العرش البريطاني، وقد انتقل إلى بريطانيا العظمى على إثر تولي والده عرش بريطانيا وأصبح أميرًا على ويلز. ومات فريدريك قبل والده، وإبان موت والده في 25 أكتوبر 1760م، انتقل العرش إلى ابن فريدريك الأكبر، جورج الثالث.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">威尔士亲王腓特烈王子（The Prince Frederick, Prince of Wales，1707年2月1日－1751年3月31日），全名：腓特烈·路易斯（Frederick Louis），又稱為不伦瑞克-吕讷堡的腓特烈·路德维格公爵。英国国王乔治二世长子，英国王位第一顺位继承人，威尔士亲王，但未及成为英国国王即逝世。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Frédéric de Galles (Frederick Louis) (1er février 1707 – 31 mars 1751), prince de Galles et duc d&#39;Édimbourg et de Cornouailles, fut un membre de la famille royale britannique et héritier présomptif à la couronne de Grande-Bretagne.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Friedrich Ludwig, englisch Frederick Louis oder Frederick Lewis, (* 31. Januar 1707 in Hannover; † 20. Märzjul./ 31. März 1751greg. in St James’s Palace) war der älteste Sohn Georgs II. von Großbritannien und dessen Ehefrau Caroline von Brandenburg-Ansbach.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Фредерик Луис (Льюис), принц Уэльский (англ. Frederick Louis/Lewis, Prince of Wales); 20 января (1 февраля) 1707 года, Ганновер — 20 марта 1751 года, Лондон) — наследник британского престола, старший сын короля Георга II и Каролины Бранденбург-Ансбахской; отец короля Георга III.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Frederick Louis, Prince of Wales (1 February 1707 – 31 March 1751) was heir apparent to the British throne from 1727 until his death. He was the eldest but estranged son of King George II and Caroline of Ansbach, as well as the father of King George III.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Frederik_Ludvík_Hannoverský" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/120667886" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Fryderyk_Ludwik_Hanowerski" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/웨일스_공_프레더릭" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Frederico,_Príncipe_de_Gales" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Friedrich_Ludwig_von_Hannover" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フレデリック・ルイス_(プリンス・オブ・ウェールズ)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dd1k" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Federico,_principe_del_Galles" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Frederik,_prins_van_Wales" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q165349" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Federico_Luis_de_Gales" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Φρειδερίκος,_Πρίγκιπας_της_Ουαλίας" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Frédéric_de_Galles" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q165349" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/St_James&#39;s_Palace" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Buckinghamshire,_England" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cliveden_House" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1751-03-31</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1751-3-20</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Holy_Roman_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hanover" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1707-1-20</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1707-02-01</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1751_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1707_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_cricketers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cornwall" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_Huguenot_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heirs_to_the_British_throne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_in_the_Peerage_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Westminster_Abbey" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heirs_apparent_who_never_acceded" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Dublin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Botanic_Gardens,_Kew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_cricketers_of_1701_to_1786" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50666</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740907793</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wardsbookofdays.com/24march.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.anusha.com/pafg733.htm#24060" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.npg.org.uk/collections/search/person/mp01678" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ftp.cac.psu.edu/~saw/royal/r09.html#I323" />
+    <foaf:name xml:lang="en">Frederick</foaf:name>
+    <foaf:name xml:lang="en">German: Friedrich Ludwig</foaf:name>
+    <foaf:name xml:lang="en">Frederick, Prince of Wales</foaf:name>
+    <foaf:name xml:lang="en">Frederick Louis</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Prince_of_Wales.jpg" />
+    <dct:description xml:lang="en">English cricketer</dct:description>
+    <foaf:givenName xml:lang="en">Frédéric</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Prince_of_Wales.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales?oldid=740907793" />
+    <dbo:abstract xml:lang="ja">フレデリック・ルイス（Frederick Louis, 1707年2月1日 - 1751年3月31日）は、イギリス・ハノーヴァー朝の王族でイギリス国王兼ハノーファー選帝侯ジョージ2世と妃キャロライン・オブ・アーンズバックの長男。ジョージ3世の父。王太子（プリンス・オブ・ウェールズ）に叙されていたが、王位継承を果たさずに薨御した。ドイツ語ではフリードリヒ・ルートヴィヒ（Friedrich Ludwig）。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">威尔士亲王腓特烈王子（The Prince Frederick, Prince of Wales，1707年2月1日－1751年3月31日），全名：腓特烈·路易斯（Frederick Louis），又稱為不伦瑞克-吕讷堡的腓特烈·路德维格公爵。英国国王乔治二世长子，英国王位第一顺位继承人，威尔士亲王，但未及成为英国国王即逝世。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Friedrich Ludwig, englisch Frederick Louis oder Frederick Lewis, (* 31. Januar 1707 in Hannover; † 20. Märzjul./ 31. März 1751greg. in St James’s Palace) war der älteste Sohn Georgs II. von Großbritannien und dessen Ehefrau Caroline von Brandenburg-Ansbach.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Frédéric de Galles (Frederick Louis) (1er février 1707 – 31 mars 1751), prince de Galles et duc d&#39;Édimbourg et de Cornouailles, fut un membre de la famille royale britannique et héritier présomptif à la couronne de Grande-Bretagne.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Fryderyk Ludwik (ur. 1 lutego 1707 w Hanowerze, zm. 31 marca 1751 w Leicester House w Londynie), książę Walii, następca tronu Wielkiej Brytanii, najstarszy syn króla Jerzego II Hanowerskiego i Karoliny, córki Jana Fryderyka, margrabiego Brandenburg-Ansbach.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фредерик Луис (Льюис), принц Уэльский (англ. Frederick Louis/Lewis, Prince of Wales); 20 января (1 февраля) 1707 года, Ганновер — 20 марта 1751 года, Лондон) — наследник британского престола, старший сын короля Георга II и Каролины Бранденбург-Ансбахской; отец короля Георга III. Фредерик, оставленный в Ганновере после переезда родителей в Великобританию, в дальнейшем не смог влиться в семью и всю жизнь оставался в политической оппозиции к отцу. Также, как когда-то Георг II, принц Уэльский сформировал собственный двор в Лестер-хаусе, где кроме участия в политике стал покровителем искусств. Благодаря своей азартной натуре, принц увлёкся игрой в крикет и развил в английском обществе интерес к этой игре как к серьёзной игре джентльменов. Политическим амбициям Фредерика не суждено было сбыться: принц Уэльский скончался в возрасте 44 лет, сделав наследником британского престола своего сына Георга.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Frederico Luís (Hanôver, 1 de fevereiro de 1707 – Londres, 31 de março de 1751) foi o filho mais velho e herdeiro aparente do rei Jorge II da Grã-Bretanha e sua esposa a princesa Carolina de Ansbach. Ele mudou-se para a Inglaterra após a acessão de seu pai e tornou-se Príncipe de Gales. No entanto, ele morreu antes de Jorge II, e o trono, com a morte do rei em 25 de Outubro de 1760, foi herdado por seu filho, o futuro Jorge III do Reino Unido, que reinou entre 1760 e 1820.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Frederick Louis, Prince of Wales (1 February 1707 – 31 March 1751) was heir apparent to the British throne from 1727 until his death. He was the eldest but estranged son of King George II and Caroline of Ansbach, as well as the father of King George III. Under the Act of Settlement passed by the English Parliament in 1701, Frederick was high in line of succession to the British throne. He moved to Great Britain following the accession of his father, and was created Prince of Wales. He predeceased his father, however, and upon the latter&#39;s death on 25 October 1760, the throne passed to Prince Frederick&#39;s eldest son, George III.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Frederik Lodewijk, prins van Wales (Hannover, 1 februari 1707 - Taplow, 31 maart 1751) was van 1727 tot 1751 de eerste troonopvolger van Groot-Brittannië. Hij was de oudste zoon van koning George II en Caroline van Brandenburg-Ansbach en de vader van de latere George III, die zijn grootvader later zou opvolgen als koning.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Federico Luis de Gran Bretaña, Príncipe de Gales (en alemán: Friedrich Ludwig von Braunschweig-Lüneburg; 1707 - 1751) fue miembro de la familia real británica, siendo el hijo mayor del rey Jorge II. Es conocido por las relaciones hostiles que mantuvo con sus padres.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) فريدريك لويس، أمير ويلز (1 فبراير 1707 - 20 مارس 1751) ولي عهد العرش البريطاني منذ 1727م وحتى وفاته. كان فريدريك الابن الأكبر بين أبناء جورج الثاني وكارولين أميرة أنسباخ وهو والد جورج الثالث أيضًا. وطبقًا لمرسوم التولية المُصدق عام 1701م، فقد كان فريدريك على رأس قائمة الخلافة على العرش البريطاني، وقد انتقل إلى بريطانيا العظمى على إثر تولي والده عرش بريطانيا وأصبح أميرًا على ويلز. ومات فريدريك قبل والده، وإبان موت والده في 25 أكتوبر 1760م، انتقل العرش إلى ابن فريدريك الأكبر، جورج الثالث. مشاريع شقيقة في كومنز صور وملفات عن: فريدريك أمير ويلز 
+* 32xبوابة أعلام 
+* 32xبوابة المملكة المتحدة 
+* 32xبوابة النمسا 
+* 32xبوابة اسكتلندا 
+* 32xبوابة ويلز25بك هذه بذرة مقالة عن حياة شخصية بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/London,_England" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Westminster_Abbey" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Augusta_of_Saxe-Gotha" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbo:title xml:lang="en">Prince of Wales</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">the future King George II</dbp:as>
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">the future King George IV</dbp:as>
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">the future King George III</dbp:as>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:creation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:creation>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1751-04-13</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Elizabeth_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Louisa_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Augusta_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Cumberland_and_Strathearn" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Frederick_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Edward,_Duke_of_York_and_Albany" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_William_Henry,_Duke_of_Gloucester_and_Edinburgh" />
+    <dbp:next rdf:resource="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Duke_of_Edinburgh" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Cornwall" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Rothesay" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Edinburgh" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1729</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1726</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1727</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Heir" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Great_Britain">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Cumberland_and_Strathearn">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elizabeth_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_William_Henry,_Duke_of_Gloucester_and_Edinburgh">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_public_art_in_Somerset">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Augusta_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louisa_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_1st_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis,_1st_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lewis_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis,_1st_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Ludwig_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick,_1st_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis,_1st_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Lewis_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis,_1st_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_Louis_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Friedrich_Ludwig_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Frederick,_Grand_Duke_of_Baden">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Amalie_of_Hesse-Darmstadt">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Louis">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdfs:label xml:lang="de">Karl Ludwig von Baden</rdfs:label>
+    <rdfs:label xml:lang="es">Carlos Luis de Baden</rdfs:label>
+    <rdfs:label xml:lang="pt">Carlos Luís, Príncipe-Herdeiro de Baden</rdfs:label>
+    <rdfs:label xml:lang="nl">Karel Lodewijk van Baden</rdfs:label>
+    <rdfs:label xml:lang="pl">Karol Ludwik Badeński (1755-1801)</rdfs:label>
+    <rdfs:label xml:lang="en">Charles Louis, Hereditary Prince of Baden</rdfs:label>
+    <rdfs:label xml:lang="it">Carlo Luigi di Baden</rdfs:label>
+    <rdfs:label xml:lang="ja">カール・ルートヴィヒ・フォン・バーデン</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles-Louis de Bade</rdfs:label>
+    <rdfs:label xml:lang="ru">Карл Людвиг Баденский</rdfs:label>
+    <rdfs:comment xml:lang="ja">カール・ルートヴィヒ・フォン・バーデン（Karl Ludwig von Baden, 1755年2月14日 - 1801年12月16日）は、バーデン＝ドゥルラハ辺境伯カール・フリードリヒ（後の初代バーデン大公）の長男。世子（Erbprinz）であったが、父より先に没したため即位することはなかった。 1755年2月14日、バーデン＝ドゥルラハ辺境伯カール・フリードリヒとその最初の妃であったヘッセン＝ダルムシュタット方伯ルートヴィヒ8世の娘カロリーネ・ルイーゼの間に第一子としてカールスルーエで生まれた。 1801年12月16日、カール・ルートヴィヒはスウェーデンのアルボーガ（現ヴェストマンランド地方ヴェストマンランド県）で死去した。バーデン辺境伯は1803年に選帝侯に、1806年に大公となるが、父カール・フリードリヒの死後、その地位は次男のカールが嗣いだ。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Charles Louis, Hereditary Prince of Baden (February 14, 1755 – December 16, 1801) was heir apparent of the Margraviate of Baden. He was born in Karlsruhe. He was the son of Margrave Charles Frederick (who in 1803, after Charles Louis&#39;s death, became the elector and in 1806 the first Grand Duke of Baden) and Landgravine Caroline Louise of Hesse-Darmstadt (July 11, 1723 - April 8, 1783), the daughter of Landgrave Louis VIII of Hesse-Darmstadt.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Charles Louis de Bade, né le 14 février 1755 à Karlsruhe, décédé le 16 décembre 1801 à Arboga (Suède).</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Карл Людвиг Баденский (нем. Karl Ludwig von Baden; 14 февраля 1755, Карлсруэ, Германия — 16 декабря 1801, Арбуга, Швеция) — наследный принц Бадена. Старший сын Баденского маркграфа Карла Фридриха и его первой жены Каролины Луизы Гессен-Дармштадтской. Карл Людвиг так и не взошел на Баденский трон, он родился и умер в правление своего отца.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carlos Luis, príncipe heredero de Baden (14 de febrero de 1755 - 16 de diciembre de 1801) era el heredero del Margraviato de Baden. Nació en Karlsruhe. Era hijo del Margrave Carlos Federico I de Baden (que en 1803, tras la muerte de Carlos Luis, se convirtió en el elector y en 1806 en el primer Gran Duque de Baden) y de la landgravina Carolina Luisa de Hesse-Darmstadt (11 de julio de 1723 - 8 de abril de 1783), hija del landgrave Luis VIII de Hesse-Darmstadt.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Karel Lodewijk (Karlsruhe, 14 februari 1755 – Arboga, 16 december 1801 was erfprins van Baden. Hij was de oudste zoon van markgraaf (en later groothertog) Karel Frederik en zijn eerste vrouw Caroline van Hessen-Darmstadt. Op 15 juli 1774 huwde hij te Darmstadt met zijn nicht prinses Amalia van Hessen-Darmstadt (1754 – 1832), dochter van landgraaf Lodewijk IX. Zij hadden de volgende kinderen:</rdfs:comment>
+    <rdfs:comment xml:lang="de">Karl Ludwig (* 14. Februar 1755 in Karlsruhe; † 16. Dezember 1801 in Arboga, Schweden) war Erbprinz von Baden. Da er vor seinem Vater, Karl Friedrich von Baden, starb, kam er nie an die Regierung. Durch die Verheiratung seiner Töchter mit gekrönten Häuptern wurde er zum Schwiegervater Europas.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Karol Ludwik Badeński (ur. 14 lutego 1755 w Karlsruhe, zm. 16 grudnia 1801 w Arboga) – następca tronu Badenii-Durlach i Badenii-Baden. Syn margrabiego Badenii-Durlach Karola Fryderyka i jego pierwszej żony Karoliny Hessen-Darmstadt. 15 lipca 1775 roku ożenił się z Amalią Fryderyką Hessen-Darmstadt, córką Ludwika IX landgrafa Hesji-Darmstadt i Karoliny Wittelsbach księżniczki Palatynatu-Zweibrücken. Mieli ośmioro dzieci: Karol Ludwik zmarł w 1801 roku. Jego ojciec został w 1806 wyniesiony do rangi wielkiego księcia, a jego następcą został jedyny syn Karola Ludwika – również Karol Ludwik.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Carlos Luís de Baden (Karlsruhe, 14 de fevereiro de 1755  — Arboga, 16 de dezembro de 1801) foi o herdeiro-aparente da Marca de Baden.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07w63t" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/カール・ルートヴィヒ・フォン・バーデン" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q60522" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carlo_Luigi_di_Baden" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karol_Ludwik_Badeński_(1755-1801)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charles-Louis_de_Bade" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Karl_Ludwig_von_Baden" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11772971X" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Karel_Lodewijk_van_Baden" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_Luis_de_Baden" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q60522" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carlos_Luís,_Príncipe-Herdeiro_de_Baden" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Arboga" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1801-12-16</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Karlsruhe_Palace" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Karlsruhe" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1755-2-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1755-02-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1755_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heirs_apparent_who_never_acceded" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1801_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hereditary_Princes_of_Baden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Zähringen" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2662127</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739938649</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Karl Ludwig</foaf:name>
+    <foaf:name xml:lang="en">Charles Louis, Hereditary Prince of Baden</foaf:name>
+    <foaf:name xml:lang="en">Charles Louis</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Charles_Louis,_hereditary_prince_of_Baden.jpg" />
+    <dct:description xml:lang="en">Heir apparent in the Margraviate of Baden</dct:description>
+    <foaf:givenName xml:lang="en">Charles</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles_Louis,_Hereditary_Prince_of_Baden" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Charles_Louis,_hereditary_prince_of_Baden.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles_Louis,_Hereditary_Prince_of_Baden?oldid=739938649" />
+    <dbo:abstract xml:lang="en">Charles Louis, Hereditary Prince of Baden (February 14, 1755 – December 16, 1801) was heir apparent of the Margraviate of Baden. He was born in Karlsruhe. He was the son of Margrave Charles Frederick (who in 1803, after Charles Louis&#39;s death, became the elector and in 1806 the first Grand Duke of Baden) and Landgravine Caroline Louise of Hesse-Darmstadt (July 11, 1723 - April 8, 1783), the daughter of Landgrave Louis VIII of Hesse-Darmstadt. He was an ancestor of Franz Joseph I of Austria, Elisabeth of Austria-Hungary, Nicholas II of Russia and his wife Alexandra Feodorovna (Alix of Hesse), Lord Mountbatten and Prince Philip, Duke of Edinburgh, among others.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Karol Ludwik Badeński (ur. 14 lutego 1755 w Karlsruhe, zm. 16 grudnia 1801 w Arboga) – następca tronu Badenii-Durlach i Badenii-Baden. Syn margrabiego Badenii-Durlach Karola Fryderyka i jego pierwszej żony Karoliny Hessen-Darmstadt. 15 lipca 1775 roku ożenił się z Amalią Fryderyką Hessen-Darmstadt, córką Ludwika IX landgrafa Hesji-Darmstadt i Karoliny Wittelsbach księżniczki Palatynatu-Zweibrücken. Mieli ośmioro dzieci: 
+*  Katarzyna Amalia (1776-1823) 
+*  Karolina Fryderyka (1776-1841) – druga żona króla Bawarii Maksymiliana I Wittelsbacha 
+*  Ludwika Maria (1779-1826) – żona cara Rosji Aleksandra I Romanowa 
+*  Fryderyka Dorota (1781-1826) – żona króla Szwecji Gustawa IV Adolfa Oldenburga 
+*  Maria Elżbieta (1782-1808) – żona księcia Brunszwiku Fryderyka Wilhelma Welfa 
+*  Karol Fryderyk (1784-1785) 
+*  Karol Ludwik (1786-1818) – wielki książę Badenii, mąż Stefanii de Beauharnais 
+*  Wilhelmina Luiza (1788-1836) – żona wielkiego księcia Hesji-Darmstadt Ludwika II Karol Ludwik zmarł w 1801 roku. Jego ojciec został w 1806 wyniesiony do rangi wielkiego księcia, a jego następcą został jedyny syn Karola Ludwika – również Karol Ludwik.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Charles Louis de Bade, né le 14 février 1755 à Karlsruhe, décédé le 16 décembre 1801 à Arboga (Suède).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Karel Lodewijk (Karlsruhe, 14 februari 1755 – Arboga, 16 december 1801 was erfprins van Baden. Hij was de oudste zoon van markgraaf (en later groothertog) Karel Frederik en zijn eerste vrouw Caroline van Hessen-Darmstadt. Op 15 juli 1774 huwde hij te Darmstadt met zijn nicht prinses Amalia van Hessen-Darmstadt (1754 – 1832), dochter van landgraaf Lodewijk IX. Zij hadden de volgende kinderen: 
+* Catharina Amalia (Karlsruhe 13 juli 1776 – Bruchsal 26 oktober 1823) 
+* Caroline Frederika (1776 – 1841); ∞ (1797) hertog Maximiliaan Jozef van Zweibrücken (1756 – 1825), later koning Maximiliaan I van Beieren 
+* Louise Maria (1779 – 1826); ∞ (1793) grootvorst Alexander Pavlovitsj van Rusland, later tsaar Alexander I van Rusland 
+* Frederika Dorothea (1781 – 1826); ∞ (1797) koning Gustaaf IV Adolf van Zweden (1778 – 1837) 
+* Maria Elisabeth (1782 – 1808); ∞ (1802) hertog Frederik Willem van Brunswijk (1771 – 1815) 
+* Karel Frederik (Karlsruhe 13 september 1784 – aldaar 1785) 
+* Karel Lodewijk Frederik (1786 – 1818), later groothertog van Baden; ∞ (1806) prinses Stéphanie de Beauharnais (1789 – 1860) 
+* Wilhelmina van Baden (1788 – 1836); ∞ (1804) prins Lodewijk van Hessen-Darmstadt (1777 – 1848), later groothertog Lodewijk II van Hessen en bij de Rijn</dbo:abstract>
+    <dbo:abstract xml:lang="de">Karl Ludwig (* 14. Februar 1755 in Karlsruhe; † 16. Dezember 1801 in Arboga, Schweden) war Erbprinz von Baden. Da er vor seinem Vater, Karl Friedrich von Baden, starb, kam er nie an die Regierung. Durch die Verheiratung seiner Töchter mit gekrönten Häuptern wurde er zum Schwiegervater Europas.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carlos Luis, príncipe heredero de Baden (14 de febrero de 1755 - 16 de diciembre de 1801) era el heredero del Margraviato de Baden. Nació en Karlsruhe. Era hijo del Margrave Carlos Federico I de Baden (que en 1803, tras la muerte de Carlos Luis, se convirtió en el elector y en 1806 en el primer Gran Duque de Baden) y de la landgravina Carolina Luisa de Hesse-Darmstadt (11 de julio de 1723 - 8 de abril de 1783), hija del landgrave Luis VIII de Hesse-Darmstadt.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Карл Людвиг Баденский (нем. Karl Ludwig von Baden; 14 февраля 1755, Карлсруэ, Германия — 16 декабря 1801, Арбуга, Швеция) — наследный принц Бадена. Старший сын Баденского маркграфа Карла Фридриха и его первой жены Каролины Луизы Гессен-Дармштадтской. Карл Людвиг так и не взошел на Баденский трон, он родился и умер в правление своего отца.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Carlos Luís de Baden (Karlsruhe, 14 de fevereiro de 1755  — Arboga, 16 de dezembro de 1801) foi o herdeiro-aparente da Marca de Baden.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">カール・ルートヴィヒ・フォン・バーデン（Karl Ludwig von Baden, 1755年2月14日 - 1801年12月16日）は、バーデン＝ドゥルラハ辺境伯カール・フリードリヒ（後の初代バーデン大公）の長男。世子（Erbprinz）であったが、父より先に没したため即位することはなかった。 1755年2月14日、バーデン＝ドゥルラハ辺境伯カール・フリードリヒとその最初の妃であったヘッセン＝ダルムシュタット方伯ルートヴィヒ8世の娘カロリーネ・ルイーゼの間に第一子としてカールスルーエで生まれた。 1801年12月16日、カール・ルートヴィヒはスウェーデンのアルボーガ（現ヴェストマンランド地方ヴェストマンランド県）で死去した。バーデン辺境伯は1803年に選帝侯に、1806年に大公となるが、父カール・フリードリヒの死後、その地位は次男のカールが嗣いだ。</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Landgravine_Caroline_Louise_of_Hesse-Darmstadt" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Frederick,_Grand_Duke_of_Baden" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Pforzheim" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Landgravine_Amalie_of_Hesse-Darmstadt" />
+    <dbo:title xml:lang="en">Hereditary Prince of Baden</dbo:title>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Charles Louis, Hereditary Prince of Baden</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Zähringen" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Charles Frederick, Hereditary Prince of Baden</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Marie_of_Baden_(1782–1808)" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Louise, Empress of Russia</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Wilhelmine_of_Baden" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Amalie</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederica_of_Baden" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Heir" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Marie_of_Baden_(1782–1808)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Wilhelmine_of_Baden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Baden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landgravine_Caroline_Louise_of_Hesse-Darmstadt">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Ludwig_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Alexeievna_(Louise_of_Baden)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margrave_Karl_Ludwig_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margrave_Charles_Louis_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Grand_Duke_of_Baden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Louis,_Margrave_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Ludwig,_Hereditary_Prince_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hereditary_Prince_Karl_Ludwig_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles_Louis,_Hereditary_Prince_of_Baden">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Parsons,_Countess_of_Rosse">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfGerman-JewishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="en">Anne Parsons, Countess of Rosse</rdfs:label>
+    <rdfs:comment xml:lang="en">Anne Parsons, Countess of Rosse (née Messel, previously Armstrong-Jones; 8 February 1902 – 3 July 1992), was a society hostess and one of the founders of The Victorian Society and the mother of Antony Armstrong-Jones, 1st Earl of Snowdon.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q16012729" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Anne,_6th_Countess_of_Rosse" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0lq4jvx" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anne_Parsons,_Countess_of_Rosse" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q16012729" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-7-3</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-2-8</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_socialites" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1902_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1992_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_German-Jewish_descent" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41575977</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743098899</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Anne, 6th Countess of Rosse</foaf:name>
+    <dct:description xml:lang="en">British socialite</dct:description>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anne_Parsons,_Countess_of_Rosse" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anne_Parsons,_Countess_of_Rosse?oldid=743098899" />
+    <dbo:abstract xml:lang="en">Anne Parsons, Countess of Rosse (née Messel, previously Armstrong-Jones; 8 February 1902 – 3 July 1992), was a society hostess and one of the founders of The Victorian Society and the mother of Antony Armstrong-Jones, 1st Earl of Snowdon.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Hostess" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Anne_Parsons,_Countess_of_Rosse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_6th_Countess_of_Rosse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne_Parsons,_Countess_of_Rosse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Countess_of_Rosse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne_Parsons,_Countess_of_Rosse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anne_Parsons,_Countess_of_Rosse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anne_Parsons,_Countess_of_Rosse" />
+  </rdf:Description>
+</rdf:RDF>

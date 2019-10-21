@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Shand_Kydd">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Convert109962414" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Viscountess110756061" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishCourtesyViscountesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromNorfolk" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfArmenianDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKing&#39;sLynnAndWestNorfolk(district)" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wife110780632" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConvertsToRomanCatholicismFromAnglicanism" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfAmericanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfIrishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109918248" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDaughtersOfBarons" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Offspring110373998" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromArgyllAndBute" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfScottishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleOffspring110084043" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Daughter109992837" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfEnglishDescent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfIndianDescent" />
+    <rdfs:label xml:lang="it">Frances Shand Kydd</rdfs:label>
+    <rdfs:label xml:lang="es">Frances Roche</rdfs:label>
+    <rdfs:label xml:lang="de">Frances Shand Kydd</rdfs:label>
+    <rdfs:label xml:lang="ja">フランセス・シャンド・キッド</rdfs:label>
+    <rdfs:label xml:lang="fr">Frances Burke-Roche</rdfs:label>
+    <rdfs:label xml:lang="en">Frances Shand Kydd</rdfs:label>
+    <rdfs:label xml:lang="pl">Frances Shand Kydd</rdfs:label>
+    <rdfs:label xml:lang="pt">Frances Shand Kydd</rdfs:label>
+    <rdfs:comment xml:lang="fr"> Pour les articles homonymes, voir Burke. Frances Ruth Burke-Roche, née le 20 janvier 1936 à Sandringham et morte le 3 juin 2004 à Seil, est une aristocrate britannique, mère de Diana, princesse de Galles.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Frances Ruth Shand Kydd (née Roche; 20 January 1936 – 3 June 2004) was the mother of Diana, Princess of Wales. Her biographer, Max Riddington, who was the writer of Frances: The Remarkable Story of Princess Diana&#39;s Mother, described Shand Kydd as a woman who was &quot;certainly complicated&quot; and also &quot;funny, warm, intelligent, and energetic.&quot; Following her breakup with John Spencer, Viscount Althorp in 1969, and Diana&#39;s death in 1997, Shand Kydd devoted the final years of her life to Roman Catholic charity work.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Frances Ruth Shand Kydd z domu Roche, dawniej hrabina Althorp (ur. 20 stycznia 1936, Sandringham House, zm. 3 czerwca 2004, Seil, Argyll and Bute) – pierwsza żona Johna Spencera, matka Diany, księżnej Walii. Zajmowała się działalnością charytatywną. Przyszła na świat 20 stycznia 1936 roku w Sandringham House w rodzinie Maurice&#39;a Roche&#39;a, 4. barona Fermoy i Ruth z domu Gill. W 1954 roku poślubiła starszego od siebie o dwanaście lat Johna Spencera. W 1967 roku związała się z Peterem Shandem Kyddem. Miała pięcioro dzieci z pierwszego małżeństwa:</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フランセス・シャンド・キッド（Frances Shand Kydd、旧姓スペンサー（Spencer）、バーク・ロッシュ（Burke Roche）、1936年1月20日 - 2004年6月3日）は、イギリス貴族の令嬢で、第8代スペンサー伯爵エドワード・スペンサーの先妻、ピーター・シャンド・キッドの二番目の妻。 前夫のスペンサー卿との間に元王太子妃ダイアナをもうけた。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Frances Ruth Shand Kydd (20 de janeiro de 1936 — 3 de junho de 2004) foi uma nobre britânica, melhor conhecida por ter sido a mãe de Diana, Princesa de Gales. Depois de dois casamentos fracassados e da morte de dois filhos, ela dedicou seus últimos anos de vida a trabalhos voluntários e à Igreja Católica.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Frances Ruth Burke Roche (20 de enero de 1936 – 3 de junio de 2004) fue la esposa de John Spencer, 8º Conde Spencer y madre de Diana, princesa de Gales. Después de dos matrimonios fallidos y la muerte de dos hijos, se dedicó durante los últimos años de su vida a la caridad.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Frances Ruth Shand Kydd (* 20. Januar 1936 in Sandringham, Norfolk, England; † 3. Juni 2004 auf Seil, Schottland) war die Mutter von Diana, Princess of Wales.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rz0L-1q_-Sx6Sevdw3ukWHw" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フランセス・シャンド・キッド" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02x3bb" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q256893" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q256893" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Frances_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Frances_Roche" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Frances_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Frances_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Frances_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Frances_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Frances_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Frances_Burke-Roche" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Seil" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Argyll_and_Bute" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-06-03</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-6-3</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Norfolk" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sandringham_House" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-01-20</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-1-20</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Irish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Roman_Catholics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Indian_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Armenian_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_Parkinson&#39;s_disease" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_brain_tumor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Seil" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_English_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Scottish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1936_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_courtesy_viscountesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Roman_Catholicism_from_Anglicanism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Sandringham,_Norfolk" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_American_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2004_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_cancer_in_Scotland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Argyll_and_Bute" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Spencer-Churchill_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_barons" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">617579</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744833065</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.innish.com/seil.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.althorp.com/home/index.asp" />
+    <foaf:name xml:lang="en">Frances Shand Kydd</foaf:name>
+    <dct:description xml:lang="en">British viscountess</dct:description>
+    <foaf:givenName xml:lang="en">Frances</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Frances_Shand_Kydd" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Frances_Shand_Kydd?oldid=744833065" />
+    <dbo:abstract xml:lang="pl">Frances Ruth Shand Kydd z domu Roche, dawniej hrabina Althorp (ur. 20 stycznia 1936, Sandringham House, zm. 3 czerwca 2004, Seil, Argyll and Bute) – pierwsza żona Johna Spencera, matka Diany, księżnej Walii. Zajmowała się działalnością charytatywną. Przyszła na świat 20 stycznia 1936 roku w Sandringham House w rodzinie Maurice&#39;a Roche&#39;a, 4. barona Fermoy i Ruth z domu Gill. W 1954 roku poślubiła starszego od siebie o dwanaście lat Johna Spencera. W 1967 roku związała się z Peterem Shandem Kyddem. Miała pięcioro dzieci z pierwszego małżeństwa: 1.  
+*  Elizabeth Sarah Lavinia Spencer (ur. 19 marca 1955 roku), żona Neila Edmunda McCorquodale 2.  
+*  Cynthia Jane Spencer (ur. 11 lutego 1957 roku) 3.  
+*  John Spencer (ur. 12 stycznia 1960 roku, zm. 10 godzin po urodzeniu) 4.  
+*  Diana Spencer (ur. 1 lipca 1961, zm. 31 sierpnia 1997 roku), pierwsza żona Karola, księcia Walii 5.  
+*  Charles Edward Maurice Spencer (ur. 20 maja 1964 roku) .</dbo:abstract>
+    <dbo:abstract xml:lang="de">Frances Ruth Shand Kydd (* 20. Januar 1936 in Sandringham, Norfolk, England; † 3. Juni 2004 auf Seil, Schottland) war die Mutter von Diana, Princess of Wales.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">フランセス・シャンド・キッド（Frances Shand Kydd、旧姓スペンサー（Spencer）、バーク・ロッシュ（Burke Roche）、1936年1月20日 - 2004年6月3日）は、イギリス貴族の令嬢で、第8代スペンサー伯爵エドワード・スペンサーの先妻、ピーター・シャンド・キッドの二番目の妻。 前夫のスペンサー卿との間に元王太子妃ダイアナをもうけた。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Frances Ruth Burke Roche (20 de enero de 1936 – 3 de junio de 2004) fue la esposa de John Spencer, 8º Conde Spencer y madre de Diana, princesa de Gales. Después de dos matrimonios fallidos y la muerte de dos hijos, se dedicó durante los últimos años de su vida a la caridad.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Frances Ruth Shand Kydd (née Roche; 20 January 1936 – 3 June 2004) was the mother of Diana, Princess of Wales. Her biographer, Max Riddington, who was the writer of Frances: The Remarkable Story of Princess Diana&#39;s Mother, described Shand Kydd as a woman who was &quot;certainly complicated&quot; and also &quot;funny, warm, intelligent, and energetic.&quot; Following her breakup with John Spencer, Viscount Althorp in 1969, and Diana&#39;s death in 1997, Shand Kydd devoted the final years of her life to Roman Catholic charity work.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Frances Ruth Shand Kydd (20 de janeiro de 1936 — 3 de junho de 2004) foi uma nobre britânica, melhor conhecida por ter sido a mãe de Diana, Princesa de Gales. Depois de dois casamentos fracassados e da morte de dois filhos, ela dedicou seus últimos anos de vida a trabalhos voluntários e à Igreja Católica.</dbo:abstract>
+    <dbo:abstract xml:lang="fr"> Pour les articles homonymes, voir Burke. Frances Ruth Burke-Roche, née le 20 janvier 1936 à Sandringham et morte le 3 juin 2004 à Seil, est une aristocrate britannique, mère de Diana, princesse de Galles.</dbo:abstract>
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Lady_Sarah_McCorquodale" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+    <dbo:religion rdf:resource="http://dbpedia.org/resource/Roman_Catholic" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Peter_Shand_Kydd" />
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Frances Ruth Roche</dbp:birthName>
+    <dbp:deathCause rdf:resource="http://dbpedia.org/resource/Brain_tumor" />
+    <dbp:deathCause rdf:resource="http://dbpedia.org/resource/Parkinson&#39;s_disease" />
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Honourable" />
+    <dbp:knownFor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mother of Diana, Princess of Wales</dbp:knownFor>
+    <dbp:nationality rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">British</dbp:nationality>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Ruth_Roche,_Baroness_Fermoy" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Edmund_Roche,_4th_Baron_Fermoy" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Mother" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer">
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Roche,_Baroness_Fermoy">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Spencer_Shand-Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_Princess_of_Wales">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Roche,_4th_Baron_Fermoy">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah_McCorquodale">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Ruth_Burke-Roche">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hon._Mrs._Shand_Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hon._Mrs_Shand_Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hon_Mrs._Shand_Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hon_Mrs_Shand_Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honourable_Mrs._Shand_Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honourable_Mrs_Shand_Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frances_Shand_Kydd">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedding_of_Charles,_Prince_of_Wales,_and_Lady_Diana_Spencer">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Kydd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Ruth_Burke_Roche">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Ruth_Roche">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+  </rdf:Description>
+</rdf:RDF>

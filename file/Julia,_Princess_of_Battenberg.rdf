@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_Hauke">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1823–1888)">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battenberg">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountsOfPoland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConvertsToLutheranismFromRomanCatholicism" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountesses" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Convert109962414" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromHesse" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWarsaw" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Countess109970402" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdfs:label xml:lang="fr">Julia Hauke</rdfs:label>
+    <rdfs:label xml:lang="it">Julia von Hauke</rdfs:label>
+    <rdfs:label xml:lang="pt">Julia de Hauke</rdfs:label>
+    <rdfs:label xml:lang="ar">جوليا هوك أميرة باتنبرغ</rdfs:label>
+    <rdfs:label xml:lang="en">Julia, Princess of Battenberg</rdfs:label>
+    <rdfs:label xml:lang="de">Julia Hauke</rdfs:label>
+    <rdfs:label xml:lang="es">Julia de Hauke</rdfs:label>
+    <rdfs:label xml:lang="ru">Юлия Баттенбергская</rdfs:label>
+    <rdfs:label xml:lang="nl">Julia Hauke</rdfs:label>
+    <rdfs:label xml:lang="pl">Julia Hauke</rdfs:label>
+    <rdfs:label xml:lang="ja">ユリア・ハウケ</rdfs:label>
+    <rdfs:comment xml:lang="en">Julia, Princess of Battenberg (24 November [O.S. 12 November] 1825 – 19 September 1895) was the wife of Prince Alexander of Hesse and by Rhine, the mother of Alexander, Prince of Bulgaria, and ancestress to the current generations of the British and the Spanish royal families.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">ولدت جوليا تريز سالوميا هوك في 12 نوفمبر 1825. زوجة ألكسندر أمير هسن والراين.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Julia Teresa von Hauke (ur. 12 listopada 1825 w Warszawie, zm. 19 września 1895 na zamku Heiligenberg w Jugenheim) – morganatyczna żona księcia Aleksandra Heskiego, matka Aleksandra I księcia Bułgarii. Zmarła w zamku Heiligenberg, gdzie razem z mężem Aleksandrem mieszkali od 1852. Julia i Aleksander mieli pięcioro dzieci: Głową rodu Battenberg-Mountbatten jest obecnie prawnuk Ludwika Aleksandra, Jerzy (George), 4. markiz Milford Haven, ur. 1961.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ユリア・ハウケ（Julia Hauke, 1825年11月12日 - 1895年9月19日）は、ポーランドの貴族女性で、ドイツのヘッセン大公子アレクサンダー・フォン・ヘッセン＝ダルムシュタットの妻。バッテンベルク家の始祖。 ヤン・マウリツィ・ハウケ伯爵とその妻ゾフィー・ラフォンテーヌの末娘として、ポーランド立憲王国のワルシャワで生まれた。父ハウケはドイツ系ポーランド人の軍人で、オーストリア・イタリア・ドイツの各地でナポレオン率いるフランス軍と戦い、半島戦争でも戦った。彼はのちロシア帝国軍に身を投じた。彼の能力を評価したロシア皇帝ニコライ1世により、彼は1829年にポーランド立憲王国の国防副大臣となり、伯爵となった。翌1830年に11月蜂起が起こり、ポーランドを治めていたコンスタンチン・パヴロヴィチ大公は逃げだそうとした。ハウケは大公をかばって路上で銃撃にあい、家族の眼前で絶命した。母ゾフィーは精神的ショックでしばらく後に亡くなったため、遺児たちの多くは皇帝が後見人となって引き取った。 1875年5月、ユリアはカトリックからルター派に改宗した。ユリアは、ハイリゲンベルク（ヘッセン南部ユーゲンハイム近郊）で亡くなった。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Юлия Тереза Саломея фон Гауке (польск. Julia Teresa Salomea von Hauke), или Юлия фон Баттенберг (нем. Julia von Battenberg; 12 ноября (24 ноября) 1825, Варшава, царство Польское, Российская империя — 19 сентября 1895 года, замок Хайлигенберг близ Югенхайма, Гессен-Дармштадт) — дочь российского графа и генерала от инфантерии Ганса Морица фон Гауке, в морганатическом браке с принцем Александром Гессен-Дармштадтским получила титул княгини фон Баттенберг.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Julia Theresia, prinses van Battenberg (Warschau, 24 november 1825 – Heiligenberg, Seeheim-Jugenheim, 19 september 1895) werd geboren als Julie Therese (vanaf 1830: Gräfin) Hauke en was de dochter van Johan Maurits graaf Hauke en Sophie Lafontaine. Ze trouwde met prins Alexander van Hessen.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Julia Teresa Salomé von Hauke (Varsovia, 12 de noviembre de 1825 - Castillo de Heiligenberg, 19 de septiembre de 1895) fue la esposa de Alejandro de Hesse-Darmstadt, tercer hijo del gran duque Luis II de Hesse-Darmstadt, y la madre del príncipe Alejandro I de Bulgaria. Sus descendientes forman parte de las familias reales de España y Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Julie Thérèse Hauke, (souvent appelée « von Hauke », mais le nom était Hauke, sans « von »), née le 24 novembre 1825 à Varsovie, morte le 19 septembre 1895 dans le château de Heiligenberg, titrée princesse de Battenberg (Son Altesse Sérénissime) Fille du comte Maurice Hauke (1775-1830) et de Sophie de la Fontaine (1790-1831), Julie est la petite fille de Frédéric Hauke et de Marie Salomée Schwepenhauser, elle-même fille d&#39;un pasteur du Palatinat. De cette union naquirent :</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Júlia Teresa de Hauke (12 de novembro de 1825 — 28 de outubro de 1895) foi a esposa do Príncipe Alexandre de Hesse, a mãe de Alexandre I da Bulgária e uma ancestral das atuais gerações das famílias reais britânica e espanhola.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Julia Teresa Salomea Hauke (nach 1851 auch Julie von Hauke genannt, * 12. November 1825 in Warschau; † 19. September 1895 auf Schloss Heiligenberg bei Jugenheim) war die morganatische Ehefrau von Prinz Alexander von Hessen, Mutter von Fürst Alexander von Bulgarien und Stammmutter des zweiten Hauses Battenberg (nachmals im englischen Zweig der Familie auch: Mountbatten).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Julia_von_Hauke" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Julia_de_Hauke" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Julia_Hauke" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/103615114X" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q237311" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Julie_von_Hauke" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Julia_Hauke" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ユリア・ハウケ" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Julia_Hauke" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Julia_Hauke" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Julia_Hauke" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01stqd" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/율리아_후케" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Princess_Julia_of_Battenberg" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Julia_de_Hauke" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q237311" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Jugenheim" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Seeheim-Jugenheim" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schloss_Heiligenberg_(Jugenheim)" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-9-19</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-09-19</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Congress_Poland" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Warsaw" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1825-11-24</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1825-11-12</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Polish_people_of_French_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Battenberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Polish_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Warsaw" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_ladies-in-waiting" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Counts_of_Poland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1895_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Morganatic_spouses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Lutheranism_from_Roman_Catholicism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1825_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308162</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744311921</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Julia Hauke</foaf:name>
+    <foaf:name xml:lang="en">Countess Julia Hauke</foaf:name>
+    <foaf:name xml:lang="en">Julie Therese Salomea Hauke</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/BASA-600K-3-435-1-Julia_Hauke.jpeg" />
+    <dct:description xml:lang="en">German noblewoman</dct:description>
+    <foaf:givenName xml:lang="en">Julia</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Julia,_Princess_of_Battenberg" />
+    <foaf:surname xml:lang="en">Hauke</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/BASA-600K-3-435-1-Julia_Hauke.jpeg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Julia,_Princess_of_Battenberg?oldid=744311921" />
+    <dbo:abstract xml:lang="en">Julia, Princess of Battenberg (24 November [O.S. 12 November] 1825 – 19 September 1895) was the wife of Prince Alexander of Hesse and by Rhine, the mother of Alexander, Prince of Bulgaria, and ancestress to the current generations of the British and the Spanish royal families.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ユリア・ハウケ（Julia Hauke, 1825年11月12日 - 1895年9月19日）は、ポーランドの貴族女性で、ドイツのヘッセン大公子アレクサンダー・フォン・ヘッセン＝ダルムシュタットの妻。バッテンベルク家の始祖。 ヤン・マウリツィ・ハウケ伯爵とその妻ゾフィー・ラフォンテーヌの末娘として、ポーランド立憲王国のワルシャワで生まれた。父ハウケはドイツ系ポーランド人の軍人で、オーストリア・イタリア・ドイツの各地でナポレオン率いるフランス軍と戦い、半島戦争でも戦った。彼はのちロシア帝国軍に身を投じた。彼の能力を評価したロシア皇帝ニコライ1世により、彼は1829年にポーランド立憲王国の国防副大臣となり、伯爵となった。翌1830年に11月蜂起が起こり、ポーランドを治めていたコンスタンチン・パヴロヴィチ大公は逃げだそうとした。ハウケは大公をかばって路上で銃撃にあい、家族の眼前で絶命した。母ゾフィーは精神的ショックでしばらく後に亡くなったため、遺児たちの多くは皇帝が後見人となって引き取った。 成長したユリアは、皇太子アレクサンドル（のちのアレクサンドル2世）の妃マリアの女官となった。皇太子妃の兄として宮廷に出入りのできたアレクサンダーがユリアを見初めたが、皇太子の義理の弟である大公子と一女官の恋愛沙汰を皇帝は認めなかった。2人はサンクトペテルブルクから駆け落ちし、1851年10月28日にブレスラウ（現ヴロツワフ、当時プロイセン領シュレージエン）で結婚した。 ユリアの爵位は大公家とは釣り合いの取れないものであるため、二人の結婚は貴賤結婚と見なされた。アレクサンダーの兄ルートヴィヒ3世大公は1851年にユリアをバッテンベルク伯爵夫人（Gräfin von Battenberg）に叙し、1858年にはバッテンベルク侯爵夫人（Fürstin von Battenberg）に引き上げた。これによりユリアとアレクサンダーの子供たちは公子公女を名乗れることとなったが、依然ヘッセン＝ダルムシュタット家の庶流に留められ、大公位の継承権を与えられることはなかった。 1875年5月、ユリアはカトリックからルター派に改宗した。ユリアは、ハイリゲンベルク（ヘッセン南部ユーゲンハイム近郊）で亡くなった。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Julia Teresa Salomé von Hauke (Varsovia, 12 de noviembre de 1825 - Castillo de Heiligenberg, 19 de septiembre de 1895) fue la esposa de Alejandro de Hesse-Darmstadt, tercer hijo del gran duque Luis II de Hesse-Darmstadt, y la madre del príncipe Alejandro I de Bulgaria. Sus descendientes forman parte de las familias reales de España y Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Julia Teresa Salomea Hauke (nach 1851 auch Julie von Hauke genannt, * 12. November 1825 in Warschau; † 19. September 1895 auf Schloss Heiligenberg bei Jugenheim) war die morganatische Ehefrau von Prinz Alexander von Hessen, Mutter von Fürst Alexander von Bulgarien und Stammmutter des zweiten Hauses Battenberg (nachmals im englischen Zweig der Familie auch: Mountbatten).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Julie Thérèse Hauke, (souvent appelée « von Hauke », mais le nom était Hauke, sans « von »), née le 24 novembre 1825 à Varsovie, morte le 19 septembre 1895 dans le château de Heiligenberg, titrée princesse de Battenberg (Son Altesse Sérénissime) Fille du comte Maurice Hauke (1775-1830) et de Sophie de la Fontaine (1790-1831), Julie est la petite fille de Frédéric Hauke et de Marie Salomée Schwepenhauser, elle-même fille d&#39;un pasteur du Palatinat. En 1851, elle épousa Alexandre de Hesse, fils cadet du grand-duc Louis IV de Hesse qui renonça pour elle à ses titres et à ses droits au trône de Hesse. Pour pouvoir épouser un prince de sang royal, elle fut créée princesse de Battenberg. De cette union naquirent : 
+*  Marie de Battenberg (1852-1923) épousa en 1871 Gustave d&#39;Erbach Schönberg (1840-1908). 
+*  Louis Alexandre de Battenberg (1854-1921), prince de Battenberg, épousa en 1884 Victoria de Hesse-Darmstadt. 
+*  Alexandre de Battenberg, (1857-1893) prince régnant de Bulgarie (1878/1886) épousa en 1889 Jeanne Loisinger (1865-1951). 
+*  Henri de Battenberg (1858-1896) épousa en 1885 Béatrice du Royaume-Uni (Saxe-Cobourg-Gotha) (1857-1944). 
+*  François-Joseph de Battenberg (1861-1924) épousa en 1897 Anne de Monténégro (1874-1971) fille de Nicolas Ier de Monténégro.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Júlia Teresa de Hauke (12 de novembro de 1825 — 28 de outubro de 1895) foi a esposa do Príncipe Alexandre de Hesse, a mãe de Alexandre I da Bulgária e uma ancestral das atuais gerações das famílias reais britânica e espanhola.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Julia Theresia, prinses van Battenberg (Warschau, 24 november 1825 – Heiligenberg, Seeheim-Jugenheim, 19 september 1895) werd geboren als Julie Therese (vanaf 1830: Gräfin) Hauke en was de dochter van Johan Maurits graaf Hauke en Sophie Lafontaine. Ze trouwde met prins Alexander van Hessen.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">ولدت جوليا تريز سالوميا هوك في 12 نوفمبر 1825. زوجة ألكسندر أمير هسن والراين.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Julia Teresa von Hauke (ur. 12 listopada 1825 w Warszawie, zm. 19 września 1895 na zamku Heiligenberg w Jugenheim) – morganatyczna żona księcia Aleksandra Heskiego, matka Aleksandra I księcia Bułgarii. Julia Teresa von Hauke była córką hr. Maurycego Haukego i Zofii Lafontaine. Została damą dworu cesarzowej Marii gdzie poznała jej brata, księcia Aleksandra von Hessen-Darmstadt. Ponieważ cesarz nie chciał zaakceptować ich związku, wyjechali do Wrocławia, gdzie pobrali się 28 października 1851. Julia w tym czasie była już w szóstym miesiącu ciąży. Nie pochodziła z rodu panującego i małżeństwo było morganatyczne, więc jej potomstwo nie miało praw do tytułów dziedziczonych po ojcu. Szwagier wielki książę Ludwik III nadał jej i potomstwu tytuł książąt Battenberg. Zmarła w zamku Heiligenberg, gdzie razem z mężem Aleksandrem mieszkali od 1852. Julia i Aleksander mieli pięcioro dzieci: 1.  
+*  Maria Karolina (ur. 15 lutego 1852, zm. 20 lipca 1923) 2.  
+*  Ludwik Aleksander (ur. 24 marca 1854, zm. 1921) 3.  
+*  Aleksander Józef (ur. 5 kwietnia 1857, zm. 17 listopada 1893) 4.  
+*  Henryk Maurycy (ur. 5 października 1858, zm. 20 stycznia 1896) 5.  
+*  Franz Josef (ur. 24 września 1861, zm. 1924) Najstarszy syn Julii, Ludwik Aleksander, otrzymał brytyjskie obywatelstwo. Podczas I wojny światowej zmienił nazwisko na Mountbatten (tłumaczenie niemieckiego Battenberg). Podobnie postąpili synowie Henryka Maurycego. Ta gałąź rodziny zrezygnowała z niemieckich tytułów. Król Jerzy V nadał im brytyjskie szlachectwo: Ludwik, żonaty z kuzynką Wiktorią Heską (1863 – 1950) został markizem Milford Haven, Aleksander, syn Henryka, markizem Carisbrooke, ale nie miał synów i tytuł wygasł z jego śmiercią w 1960. Młodszy syn Ludwika, Louis Mountbatten, ostatni wicekról Indii, otrzymał tytuły wicehrabiego Mountbatten i później hrabiego (earl) „Mountbatten of Burma”. I on nie posiadał synów, ale po jego śmierci królowa Elżbieta II nadała tytuł „Countess of Burma” jego starszej córce Patrycji (ur. 1924) i zezwoliła na jego dziedziczenie w linii żeńskiej. Głową rodu Battenberg-Mountbatten jest obecnie prawnuk Ludwika Aleksandra, Jerzy (George), 4. markiz Milford Haven, ur. 1961. Prapraprawnukiem Julii von Hauke (przez jej wnuczkę Wiktorię Eugenię, królową Hiszpanii) jest obecny król Hiszpanii, Filip VI. Jej praprawnukiem jest natomiast książę Walii, Karol.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Юлия Тереза Саломея фон Гауке (польск. Julia Teresa Salomea von Hauke), или Юлия фон Баттенберг (нем. Julia von Battenberg; 12 ноября (24 ноября) 1825, Варшава, царство Польское, Российская империя — 19 сентября 1895 года, замок Хайлигенберг близ Югенхайма, Гессен-Дармштадт) — дочь российского графа и генерала от инфантерии Ганса Морица фон Гауке, в морганатическом браке с принцем Александром Гессен-Дармштадтским получила титул княгини фон Баттенберг.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/John_Maurice_Hauke" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1823–1888)" />
+    <dbo:title xml:lang="en">Princess of Battenberg</dbo:title>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Julia Hauke, Princess of Battenberg</dbp:caption>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alexander,_Prince_of_Bulgaria" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Louis_of_Battenberg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Marie_of_Battenberg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Francis_Joseph_of_Battenberg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Battenberg" />
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sophie Lafontaine</dbp:mother>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Julia_von_Hauke">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_von_Hauke">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Julia,_Princess_of_Battenberg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Julia_of_Battenberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julie_von_Hauke">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Julia,_Princess_of_Battenberg" />
+  </rdf:Description>
+</rdf:RDF>

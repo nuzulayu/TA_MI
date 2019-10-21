@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_III_of_Hesse-Darmstadt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_III,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mathilde_Caroline_of_Bavaria">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromDarmstadt" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHereditaryGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdfs:label xml:lang="pl">Ludwik III (wielki książę Hesji)</rdfs:label>
+    <rdfs:label xml:lang="pt">Luís III, Grão-Duque de Hesse</rdfs:label>
+    <rdfs:label xml:lang="nl">Lodewijk III van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="es">Luis III de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="en">Louis III, Grand Duke of Hesse</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi III d&#39;Assia</rdfs:label>
+    <rdfs:label xml:lang="ru">Людвиг III (великий герцог Гессенский)</rdfs:label>
+    <rdfs:label xml:lang="fr">Louis III de Hesse</rdfs:label>
+    <rdfs:label xml:lang="ja">ルートヴィヒ3世 (ヘッセン大公)</rdfs:label>
+    <rdfs:label xml:lang="zh">路德维希三世 (黑森大公)</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig III. (Hessen-Darmstadt)</rdfs:label>
+    <rdfs:comment xml:lang="ja">ルートヴィヒ3世（Ludwig III., 1806年6月9日 - 1877年6月13日）は、ヘッセン大公国の第3代大公（在位：1848年 - 1877年）。ルートヴィヒ2世の長男。 1806年6月9日、ルートヴィヒ2世とその妃であったバーデン大公世子カール・ルートヴィヒの娘ヴィルヘルミーネの間に第一子としてダルムシュタットで生まれた。1833年12月26日、ミュンヘンでバイエルン王ルートヴィヒ1世の王女マティルデ・カロリーネ（1813年 - 1862年）と結婚した。 1848年、ルートヴィヒ2世の死去によって大公位に即いた。1866年の普墺戦争ではオーストリア帝国側についたため、敗戦後領土の一部をプロイセン王国へ割譲した。また戦後成立した北ドイツ連邦にはライン川以北のみが加盟した。1871年の普仏戦争ののちドイツ帝国が成立すると、ヘッセン大公国もその領邦の一つとなった。 大公妃マティルデ・カロリーネと死別したのち、ルートヴィヒ3世は1868年6月20日に Hochstätten 男爵夫人アンナ・マグダレーナ・アペルと貴賎結婚した。 ルートヴィヒ3世は1877年6月13日にゼーハイムで死去した。嫡子はおらず、甥のルートヴィヒ4世が大公位を嗣いだ。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Louis III, Grand Duke of Hesse and by Rhine (German: Großherzog Ludwig III von Hessen und bei Rhein; 9 June 1806, Darmstadt – 13 June 1877, Seeheim) was Grand Duke of Hesse and by Rhine from 1848 until his death in 1877.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Лю́двиг III Ге́ссенский (нем. Ludwig III von Hessen und bei Rhein; 9 июня 1806, Дармштадт — 13 июня 1877) — великий герцог Гессенский и Прирейнский в 1848—1877 годах.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">路德维希三世（Ludwig III.，1806年6月9日－1877年6月13日），黑森的第三任大公，1848年至1877年在位。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ludwik III (ur. 9 czerwca 1806 w Darmstadt, zm. 13 czerwca 1877 w Seeheim) – wielki książę Hesji od 1848 do śmierci. Jego następcą został jego bratanek Ludwik IV.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luís III (Darmstadt, 9 de junho de 1806 — Seeheim - Jugenheim, 13 de junho de 1877), grão-duque de Hesse e do Reno, foi o filho mais velho de Luís II de Hesse-Darmstadt e de sua consorte, Guilhermina de Bade. Em 26 de dezembro de 1833, em Munique, ele desposou a princesa Matilde Carolina da Baviera, a filha mais velha de Luís I da Baviera. O casamento não gerou filhos, e o grão-duque, em 1868, casou-se com a baronesa Magdalena de Hochstadten.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Luis III (9 de junio de 1806, Darmstadt - 13 de junio de 1877, Seeheim) fue el Gran Duque de Hesse y del Rhin desde 1848 hasta su muerte. Fue sucedido por su sobrino, Luis IV. Fue hijo del Gran Duque Luis II de Hesse-Darmstadt y su consorte Guillermina de Baden. El 26 de diciembre de 1833, en Múnich se casó con la Princesa Matilde de Baviera, la hija mayor de Luis I de Baviera. De esta unión no tuvieron descendencia y el Gran Duque se casó nuevamente en 1868 mediante un matrimonio morganático con la Baronesa Magdalena de Hochstadten.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ludwig III. von Hessen und bei Rhein (* 9. Juni 1806 in Darmstadt; † 13. Juni 1877 in Seeheim) war von 1848 bis 1877 Großherzog von Hessen.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Lodewijk III (Darmstadt, 9 juni 1806 - Seeheim-Jugenheim, 13 juni 1877) was van 1848 tot 1877 groothertog van Hessen en Rijn-Hessen. Hij was de oudste zoon van groothertog Lodewijk II en diens echtgenote Wilhelmina Louise van Baden, zuster van de Badense groothertog Karel. Op 26 december 1833 trad hij te München in het huwelijk met Mathilde, dochter van Lodewijk I van Beieren. Lodewijk III was na de dood van Mathilde in 1868 morganatisch hertrouwd met Anna Magdalena Appel, barones van Hochstätten. Hij stierf op 13 juni 1877 kinderloos en werd opgevolgd door zijn neef Lodewijk IV.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Louis III de Hesse-Darmstadt né le 9 juin 1806 et décédé le 13 juin 1877) fut grand-duc de Hesse et du Rhin de 1848 à 1877.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ルートヴィヒ3世_(ヘッセン大公)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/113795297" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louis_III_de_Hesse" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_III_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_III_d&#39;Assia" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.054hz0" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q57508" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_III_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luís_III,_Grão-Duque_de_Hesse" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57508" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Ludwig_III_dari_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ludwik_III_(wielki_książę_Hesji)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_III._(Hessen-Darmstadt)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Seeheim-Jugenheim" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1877-6-13</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1877-06-13</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1806-06-09</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1806-6-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hereditary_Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1877_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._George_of_the_Third_Degree" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1806_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1476069</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743042361</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://worldroots.com/cgi-bin/gasteldb?@I09160@/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ftp.cac.psu.edu/~saw/royal/r46.html#I2621/" />
+    <foaf:name xml:lang="en">Louis III, Grand Duke of Hesse</foaf:name>
+    <foaf:name xml:lang="en">Louis III</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig3Hesse.jpg" />
+    <dct:description xml:lang="en">Grand Duke of Hesse and by Rhine</dct:description>
+    <foaf:givenName xml:lang="en">Louis</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louis_III,_Grand_Duke_of_Hesse" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig3Hesse.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louis_III,_Grand_Duke_of_Hesse?oldid=743042361" />
+    <dbo:abstract xml:lang="ja">ルートヴィヒ3世（Ludwig III., 1806年6月9日 - 1877年6月13日）は、ヘッセン大公国の第3代大公（在位：1848年 - 1877年）。ルートヴィヒ2世の長男。 1806年6月9日、ルートヴィヒ2世とその妃であったバーデン大公世子カール・ルートヴィヒの娘ヴィルヘルミーネの間に第一子としてダルムシュタットで生まれた。1833年12月26日、ミュンヘンでバイエルン王ルートヴィヒ1世の王女マティルデ・カロリーネ（1813年 - 1862年）と結婚した。 1848年、ルートヴィヒ2世の死去によって大公位に即いた。1866年の普墺戦争ではオーストリア帝国側についたため、敗戦後領土の一部をプロイセン王国へ割譲した。また戦後成立した北ドイツ連邦にはライン川以北のみが加盟した。1871年の普仏戦争ののちドイツ帝国が成立すると、ヘッセン大公国もその領邦の一つとなった。 大公妃マティルデ・カロリーネと死別したのち、ルートヴィヒ3世は1868年6月20日に Hochstätten 男爵夫人アンナ・マグダレーナ・アペルと貴賎結婚した。 ルートヴィヒ3世は1877年6月13日にゼーハイムで死去した。嫡子はおらず、甥のルートヴィヒ4世が大公位を嗣いだ。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ludwik III (ur. 9 czerwca 1806 w Darmstadt, zm. 13 czerwca 1877 w Seeheim) – wielki książę Hesji od 1848 do śmierci. Jego następcą został jego bratanek Ludwik IV.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Lodewijk III (Darmstadt, 9 juni 1806 - Seeheim-Jugenheim, 13 juni 1877) was van 1848 tot 1877 groothertog van Hessen en Rijn-Hessen. Hij was de oudste zoon van groothertog Lodewijk II en diens echtgenote Wilhelmina Louise van Baden, zuster van de Badense groothertog Karel. Op 26 december 1833 trad hij te München in het huwelijk met Mathilde, dochter van Lodewijk I van Beieren. Voor hij de troon besteeg, gold hij als een tegenstander van de absolutistische en streng paapse tendensen die onder de heerschappij van zijn vader tot uiting kwamen. Zijn benoeming tot mederegent in het revolutiejaar 1848 (5 maart) werd dan ook met gejuich begroet. Na de dood van Lodewijk II op 16 juni van dat jaar werd hij als Lodewijk III groothertog. Hij deed aanvankelijk concessies aan de roep om meer vrijheid, maar gedurende de regering-Dalwigk (1852–1871) veranderde de overheid in een bureaucratisch en reactionair systeem dat onder invloed van groothertogin Mathilde en de Mainzer bisschop Wilhelm Emmanuel von Ketteler de Kerk vérgaande rechten en vrijheden ten koste van de staat toebedeelde. Als tegenstanders van een staatskerk stonden Dalwigk en Ketteler lijnrecht tegenover de Pruisische kanselier Otto von Bismarck in de Kulturkampf. Hessen streed in de Oostenrijks-Pruisische Oorlog van 1866 dan ook aan Oostenrijkse zijde. Na de oorlog te hebben verloren, moest Lodewijk het pas verkregen Landgraafschap Hessen-Homburg aan Pruisen afstaan en liet het noordelijke deel van zijn land deelnemen aan de Noord-Duitse Bond. In 1871 voegde het gehele land zich bij het Duitse Keizerrijk. Lodewijk ontsloeg het jaar daarop Dalwigk en luidde zo een periode van grote verandering in. Lodewijk III was na de dood van Mathilde in 1868 morganatisch hertrouwd met Anna Magdalena Appel, barones van Hochstätten. Hij stierf op 13 juni 1877 kinderloos en werd opgevolgd door zijn neef Lodewijk IV.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Louis III de Hesse-Darmstadt né le 9 juin 1806 et décédé le 13 juin 1877) fut grand-duc de Hesse et du Rhin de 1848 à 1877.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ludwig III. von Hessen und bei Rhein (* 9. Juni 1806 in Darmstadt; † 13. Juni 1877 in Seeheim) war von 1848 bis 1877 Großherzog von Hessen.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Louis III, Grand Duke of Hesse and by Rhine (German: Großherzog Ludwig III von Hessen und bei Rhein; 9 June 1806, Darmstadt – 13 June 1877, Seeheim) was Grand Duke of Hesse and by Rhine from 1848 until his death in 1877.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Лю́двиг III Ге́ссенский (нем. Ludwig III von Hessen und bei Rhein; 9 июня 1806, Дармштадт — 13 июня 1877) — великий герцог Гессенский и Прирейнский в 1848—1877 годах.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luís III (Darmstadt, 9 de junho de 1806 — Seeheim - Jugenheim, 13 de junho de 1877), grão-duque de Hesse e do Reno, foi o filho mais velho de Luís II de Hesse-Darmstadt e de sua consorte, Guilhermina de Bade. Em 26 de dezembro de 1833, em Munique, ele desposou a princesa Matilde Carolina da Baviera, a filha mais velha de Luís I da Baviera. O casamento não gerou filhos, e o grão-duque, em 1868, casou-se com a baronesa Magdalena de Hochstadten.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">路德维希三世（Ludwig III.，1806年6月9日－1877年6月13日），黑森的第三任大公，1848年至1877年在位。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Luis III (9 de junio de 1806, Darmstadt - 13 de junio de 1877, Seeheim) fue el Gran Duque de Hesse y del Rhin desde 1848 hasta su muerte. Fue sucedido por su sobrino, Luis IV. Fue hijo del Gran Duque Luis II de Hesse-Darmstadt y su consorte Guillermina de Baden. El 26 de diciembre de 1833, en Múnich se casó con la Princesa Matilde de Baviera, la hija mayor de Luis I de Baviera. De esta unión no tuvieron descendencia y el Gran Duque se casó nuevamente en 1868 mediante un matrimonio morganático con la Baronesa Magdalena de Hochstadten.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1877</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1848</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Wilhelmine_of_Baden" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Rosenhohe" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Mathilde_Caroline_of_Bavaria" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+    <dbo:title xml:lang="en">Grand Duke of Hesse and by Rhine</dbo:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rulers_of_Hesse" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1848</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Duke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchy_of_Hesse">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Wilhelmine_of_Baden">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_III_of_Hesse_and_the_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_III_of_Hesse_and_the_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louis_III,_Grand_Duke_of_Hesse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+</rdf:RDF>

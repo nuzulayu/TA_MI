@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Louis,_Count_of_Nassau-Saarbrücken">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Amalia">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat17th-centuryGermanPeople" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountessesOfNassau" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegentsOfGermany" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Regent110516117" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Countess109970402" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdfs:label xml:lang="fr">Anne-Amélie de Bade-Durlach</rdfs:label>
+    <rdfs:label xml:lang="en">Anna Amalia of Baden-Durlach</rdfs:label>
+    <rdfs:comment xml:lang="fr">Anne-Amélie de Bade-Durlach née le 9 juillet 1595 et décédée le 18 novembre 1651 à Sarrebruck) est la fille de Georges-Frédéric de Bade-Durlach et de sa première épouse, Julienne-Ursule de Salm-Neuville. Elle épouse en 1615 Guillaume de Nassau-Sarrebruck et ont 12 enfants : Ses enfants sont mineurs lorsque son mari décède en 1640. Elle exerce la régence jusqu&#39;à sa mort. 
+* Portail de l’Allemagne Portail de l’Allemagne   
+* Portail du Saint-Empire romain germanique Portail du Saint-Empire romain germanique</rdfs:comment>
+    <rdfs:comment xml:lang="en">Anna Amalia of Baden-Durlach (born: 9 July 1595; died: 18 November 1651 in Saarbrücken) was a daughter of Margrave George Frederick of Baden-Durlach and his first wife, Countess Juliana Ursula of Salm-Neuville. She married in 1615 Count William Louis of Nassau-Saarbrücken and had the following children: Her children were legally minors when her husband died in 1640. She took up the regency, until her death. After her death, John Louis acted as regent for Gustav Adolph and Walrad until the inheritance was divided when they came of age in 1659.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Anna_Amalia_of_Baden-Durlach" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2439614" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2439614" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Anne-Amélie_de_Bade-Durlach" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0h980c_" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Saarbrücken" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1651-11-18</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1595-7-9</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1595-07-09</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Countesses_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:17th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Zähringen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1595_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regents_of_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1651_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Margravines_of_Baden" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33440113</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744415765</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Anna Amalia of Baden-Durlach</foaf:name>
+    <dct:description xml:lang="en">Regent of Nassau-Saarbrücken</dct:description>
+    <foaf:givenName xml:lang="en">Anna</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anna_Amalia_of_Baden-Durlach" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anna_Amalia_of_Baden-Durlach?oldid=744415765" />
+    <dbo:abstract xml:lang="en">Anna Amalia of Baden-Durlach (born: 9 July 1595; died: 18 November 1651 in Saarbrücken) was a daughter of Margrave George Frederick of Baden-Durlach and his first wife, Countess Juliana Ursula of Salm-Neuville. She married in 1615 Count William Louis of Nassau-Saarbrücken and had the following children: 
+*  Anna Juliana (1617–1667), married Count Palatine Frederick of Zweibrücken 
+*  Maurice 
+*  Charlotte (1619–1687), married Louis Everhard of Leiningen-Westerburg 
+*  Crato (1621–1642), succeeded William Louis as Count of Nassau-Saarbrücken; died in battle at Straelen 
+*  Anna Amalia (1623–1695) 
+*  John Louis (1625–1690), married in 1649 Countess Palatine Dorothea Catherine of Birkenfeld-Bischweiler 
+*  Elisabeth Sybilla (1626–1627) 
+*  Maria Sybilla (1628–1699), married August Philipp, Duke of Schleswig-Holstein-Sonderburg-Beck 
+*  George Frederick (1630-1630) 
+*  Gustav Adolph (1632–1677), married in 1662 Eleonora Clara of Hohenlohe-Neuenstein 
+*  George Frederick (1633–1635) 
+*  Walrad (1635–1702), married in 1678 Catherine Françoise of Croÿ-Roeulx Her children were legally minors when her husband died in 1640. She took up the regency, until her death. After her death, John Louis acted as regent for Gustav Adolph and Walrad until the inheritance was divided when they came of age in 1659.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Anne-Amélie de Bade-Durlach née le 9 juillet 1595 et décédée le 18 novembre 1651 à Sarrebruck) est la fille de Georges-Frédéric de Bade-Durlach et de sa première épouse, Julienne-Ursule de Salm-Neuville. Elle épouse en 1615 Guillaume de Nassau-Sarrebruck et ont 12 enfants : 
+*  Anna Juliana (1617–1667), épouse le comte palatin Frédéric de Deux-Ponts 
+*  Maurice (1618) 
+*  Charlotte (1619–1687), épouse Louis Everhard de Leiningen-Westerburg 
+*  Crato de Nassau-Sarrebruck (en) (1621-1642), comte de Nassau-Sarrebruck de 1640 à 1642, tué à la bataille de Straelen 
+*  Anna Amélie (1623–1695), entrée dans les ordres 
+*  Jean-Louis de Nassau-Sarrebrück (en) (1625–1690), married in 1649 Dorothée de Birkenfeld-Bischweiler (en) 
+*  Élisabeth Sybille (1626–1627) 
+*  Marie-Sybille (1628–1699), épouse Auguste-Philippe de Schleswig-Holstein-Sonderbourg-Beck 
+*  George Frédéric (1630-1630) 
+*  Gustave-Adolphe de Nassau-Sarrebruck (en) (1632–1677), qui épouse en 1662 Éléonore de Hohenlohe-Neuenstein 
+*  George Frederick (1633–1635) 
+*  Valéran de Nassau-Usingen (1635–1702), marié en 1678 à Catherine Françoise de Croÿ-Roeulx Ses enfants sont mineurs lorsque son mari décède en 1640. Elle exerce la régence jusqu&#39;à sa mort. 
+* Portail de l’Allemagne Portail de l’Allemagne   
+* Portail du Saint-Empire romain germanique Portail du Saint-Empire romain germanique</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_Frederick,_Margrave_of_Baden-Durlach" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/William_Louis,_Count_of_Nassau-Saarbrücken" />
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Juliana Ursula of Salm-Neuville</dbp:mother>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Zähringen" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Regent of Nassau-Saarbrücken</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1640</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crato,_Count_of_Nassau-Saarbrücken">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walrad,_Prince_of_Nassau-Usingen">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Louis,_Count_of_Nassau-Ottweiler">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Adolph,_Count_of_Nassau-Saarbrücken">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anna_Amalia_of_Baden-Durlach">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anna_Amalia_of_Baden-Durlach" />
+  </rdf:Description>
+</rdf:RDF>

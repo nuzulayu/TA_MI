@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serena_Armstrong-Jones,_Viscountess_Linley">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Stanhope,_11th_Earl_of_Harrington">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stanhope">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsInThePeerageOfGreatBritain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdfs:label xml:lang="pt">Charles Stanhope, Visconde Petersham</rdfs:label>
+    <rdfs:label xml:lang="pl">Charles Stanhope (wicehrabia Petersham)</rdfs:label>
+    <rdfs:label xml:lang="en">Charles Stanhope, 12th Earl of Harrington</rdfs:label>
+    <rdfs:comment xml:lang="en">Charles Henry Leicester Stanhope, 12th Earl of Harrington (born 20 July 1945), styled as Viscount Petersham from birth till 2009, is the son of William Stanhope, 11th Earl of Harrington, and Eileen Grey, daughter of Sir John Foley Grey, 8th Baronet. He married, firstly, Virginia Freeman-Jackson, on 14 September 1966 and they were divorced in 1983. They had two children: He married, secondly, the showjumper Anita Fugelsang, formerly the wife of Michael Howard, 21st Earl of Suffolk.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Charles Henry Leicester Stanhope (ur. 20 lipca 1945), brytyjski arystokrata, najstarszy syn Williama Stanhope’a, 11. hrabiego Harrington i Eileen Foley Grey, córki sir Johna Greya, 8. baroneta. Od urodzenia nosi tytuł wicehrabiego Petersham, przysługujący mu jako dziedzicowi tytułu hrabiego (earl) Harrington. W 1967 r. jego ojciec odziedziczył tytuł wicehrabiego Stanhope of Mahon (należał wcześniej do innej linii rodu Stanhope&#39;ów). Petersham mógł więc używać tego nowego tytułu, który jest starszy (a co za tym idzie ważniejszy) od noszonego do tej pory, ale nie zdecydował się na zmianę tytułu. Jednak jego syn oraz kolejni dziedzice tytułu hrabiego Harrington będą mogli używać obu tytułów wicehrabiowskich. Przez ślub swojej córki z wicehrabią Linley, Petersham jest spowinowacony z brytyjską </rdfs:comment>
+    <rdfs:comment xml:lang="pt">Charles Henry Leicester Stanhope, Visconde Petersham (20 de julho de 1945 — ) é o filho mais velho de William Stanhope, 11° Conde de Harrington. Como herdeiro aparente ao condado de Harrington, ele detém o título de cortesia de Visconde Petersham (criado em 1742). Desde a extinção da linhagem dos Condes Stanhope, em 1967, ele tem o direito de usar o título Visconde Stanhope de Mahon (criado em 1717); contudo, ele escolheu permanecer estilizado Visconde Petersham. Em 14 de setembro de 1966, Charles Stanhope desposou Virginia Freeman-Jackson. Eles tiveram dois filhos e se divorciaram em 1983:</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06n62y" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5082627" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5082627" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Charles_Stanhope,_Visconde_Petersham" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Charles_Stanhope_(wicehrabia_Petersham)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-7-20</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Stanhope_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1945_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_in_the_Peerage_of_Great_Britain" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2116005</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">734974052</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://genealogics.org/pedigree.php?personID=I00087182&amp;tree=LEO" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thepeerage.com/p10534.htm#i105338" />
+    <foaf:name xml:lang="en">Charles Stanhope, 12th Earl of Harrington</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Earl of Harrington</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Coronet_of_a_British_Earl.svg" />
+    <dct:description xml:lang="en">Earl of Harrington</dct:description>
+    <foaf:givenName xml:lang="en">Charles</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles_Stanhope,_12th_Earl_of_Harrington" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Coronet_of_a_British_Earl.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles_Stanhope,_12th_Earl_of_Harrington?oldid=734974052" />
+    <dbo:abstract xml:lang="pt">Charles Henry Leicester Stanhope, Visconde Petersham (20 de julho de 1945 — ) é o filho mais velho de William Stanhope, 11° Conde de Harrington. Como herdeiro aparente ao condado de Harrington, ele detém o título de cortesia de Visconde Petersham (criado em 1742). Desde a extinção da linhagem dos Condes Stanhope, em 1967, ele tem o direito de usar o título Visconde Stanhope de Mahon (criado em 1717); contudo, ele escolheu permanecer estilizado Visconde Petersham. Em 14 de setembro de 1966, Charles Stanhope desposou Virginia Freeman-Jackson. Eles tiveram dois filhos e se divorciaram em 1983: 
+*  William Henry Leicester Stanhope, nascido em 14 de outubro de 1967. 
+*  Serena Alleyne Stanhope, nascida em 1º de maio de 1970. Casada com David Armstrong-Jones, Visconde Linley, filho da Princesa Margaret. Em 1984, Charles casou-se com Anita Fugelsang, ex-esposa de Michael Howard, 21° Conde de Suffolk. Stanhope aparece na Lista dos Ricos do Sunday Times de 2006 na 465° posição, com uma fortuna de £120 milhões de libras esterlinas.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Charles Henry Leicester Stanhope (ur. 20 lipca 1945), brytyjski arystokrata, najstarszy syn Williama Stanhope’a, 11. hrabiego Harrington i Eileen Foley Grey, córki sir Johna Greya, 8. baroneta. Od urodzenia nosi tytuł wicehrabiego Petersham, przysługujący mu jako dziedzicowi tytułu hrabiego (earl) Harrington. W 1967 r. jego ojciec odziedziczył tytuł wicehrabiego Stanhope of Mahon (należał wcześniej do innej linii rodu Stanhope&#39;ów). Petersham mógł więc używać tego nowego tytułu, który jest starszy (a co za tym idzie ważniejszy) od noszonego do tej pory, ale nie zdecydował się na zmianę tytułu. Jednak jego syn oraz kolejni dziedzice tytułu hrabiego Harrington będą mogli używać obu tytułów wicehrabiowskich. Przez ślub swojej córki z wicehrabią Linley, Petersham jest spowinowacony z brytyjską rodziną królewską. 14 września 1966 r. poślubił Virginię Alleyne Freeman-Jackson, córkę kapitana Harry&#39;ego Freeman-Jacksona i Dorothy Alleyne d&#39;Aubigny d&#39;Engelbronner, córki Louisa Antoine&#39;a d&#39;Aubigny d&#39;Engelbronner. Małżeństwo to zakończyło się rozwodem w 1983 r. Charles i Virginia mieli razem syna i córkę: 
+*  William Henry Leicester Stanhope (ur. 14 października 1967) 
+*  Serena Alleyne Stanhope (ur. 1 marca 1970), żona Davida Armstrong-Jonesa, wicehrabiego Linley (wnuka króla Jerzego VI) W 1984 r. poślubił Anitę Fugelsang. Małżonkowie nie mają dzieci. Na liście najbogatszych ludzi 2006 r. magazynu Sunday Times Petersham zajął 465. miejsce z majątkiem ocenianym na 120 milionów funtów.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Charles Henry Leicester Stanhope, 12th Earl of Harrington (born 20 July 1945), styled as Viscount Petersham from birth till 2009, is the son of William Stanhope, 11th Earl of Harrington, and Eileen Grey, daughter of Sir John Foley Grey, 8th Baronet. He married, firstly, Virginia Freeman-Jackson, on 14 September 1966 and they were divorced in 1983. They had two children: 
+* William Henry Leicester Stanhope, Viscount Petersham (born 14 October 1967), who is married to the former model Candida Bond, and has issue, one son, Hon. Augustus Stanhope, a Page of Honour  and one daughter. A supporter of the Save the Rhino campaign, he lives at the family&#39;s Scottish estate, Crimonmogate. 
+* Serena Armstrong-Jones, Viscountess Linley (née Hon. Serena Alleyne Stanhope; born 1970), married David Armstrong-Jones, Viscount Linley, nephew of Queen Elizabeth II on 8 October 1993, and has two children. He married, secondly, the showjumper Anita Fugelsang, formerly the wife of Michael Howard, 21st Earl of Suffolk. He was ranked 325th in the Sunday Times Rich List 2008 with an estimated wealth of £250m. He is the owner of some prime land in London. Though the net assets of his two main companies, Elvaston Investments and Stanhope Gardens, came in at about £5m in 2005, his total land holdings have been valued recently at about £250m.</dbo:abstract>
+    <dbp:networth rdf:datatype="http://dbpedia.org/datatype/poundSterling">2.5E8</dbp:networth>
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-07-20</dbp:birthDate>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Charles Henry Leicester Stanhope</dbp:birthName>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">William Stanhope, Viscount Petersham</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Serena Armstrong-Jones, Viscountess Linley</dbp:issue>
+    <dbp:otherTitles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Viscount Petersham</dbp:otherTitles>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/William_Stanhope,_11th_Earl_of_Harrington" />
+    <dbp:parents rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Eileen Foley Grey</dbp:parents>
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/William_Stanhope,_11th_Earl_of_Harrington" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1966</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Virginia Freeman-Jackson</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1983</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1984</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Anita Fugelsang</dbp:spouse>
+    <dbp:tenure rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-12</dbp:tenure>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Harrington" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Son" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Harrington">
+    <dbp:presentHolder rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stanhope,_Viscount_Petersham">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles_Stanhope,_12th_Earl_of_Harrington">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles_Stanhope,_12th_Earl_of_Harrington" />
+  </rdf:Description>
+</rdf:RDF>

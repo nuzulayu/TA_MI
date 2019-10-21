@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lloyd_George">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStampDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/President110467179" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Philatelist110422405" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPhilatelists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFieldMarshals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/InteriorDesigner110210648" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfYork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FieldMarshal110086821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110296176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheThistle" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheImperialServiceOrder" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfCanada" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfNewZealand" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFieldMarshalsOfTheGermanEmpire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfDanishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Admiral109771204" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FlagOfficer110094584" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEmperorsOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPhilatelists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPresidentsOfTheRoyalPhilatelicSocietyLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110295951" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfStPatrick" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Collector109936620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfSouthAfrica" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfAustralia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalNavyAdmirals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOfficersOfTheOrderOfTheBritishEmpire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheOrderOfTheDannebrog" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Defender109614684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfRothesay" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheVictorianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Preserver110466918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsOfChester" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Specialist110631941" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfCornwall" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfSaintHubert" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lawman110249459" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfScotland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emperor110053004" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMarshalsOfTheRoyalAirForce" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="ja">ジョージ5世 (イギリス王)</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج الخامس ملك المملكة المتحدة</rdfs:label>
+    <rdfs:label xml:lang="fr">George V</rdfs:label>
+    <rdfs:label xml:lang="pl">Jerzy V</rdfs:label>
+    <rdfs:label xml:lang="ru">Георг V</rdfs:label>
+    <rdfs:label xml:lang="nl">George V van het Verenigd Koninkrijk</rdfs:label>
+    <rdfs:label xml:lang="de">Georg V. (Vereinigtes Königreich)</rdfs:label>
+    <rdfs:label xml:lang="it">Giorgio V del Regno Unito</rdfs:label>
+    <rdfs:label xml:lang="zh">乔治五世</rdfs:label>
+    <rdfs:label xml:lang="es">Jorge V del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="pt">Jorge V do Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="en">George V</rdfs:label>
+    <rdfs:comment xml:lang="de">Georg V. (engl.: George V., gebürtig HRH Prince George Frederick Ernest Albert of Wales; * 3. Juni 1865 in Marlborough House, London; † 20. Januar 1936 in Sandringham House, Norfolk) aus dem Haus Sachsen-Coburg und Gotha war vom 6. Mai 1910 bis zu seinem Tode 1936 König des Vereinigten Königreichs Großbritannien und Irland (seit 1927 Nordirland) sowie Kaiser von Indien.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جورج الخامس (George V) (لندن 1865 -سِنْدْرِينْغْهم 1936)، ملك بريطانيا العظمى وآيرلندا، وإمبراطور الهند 1910 - 1936، وأحد أبناء الملك إدوارد السابع و حفيد ملكة بريطانيا الملكة فيكتوريا.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ジョージ5世（George V, George Frederick Ernest Albert, 1865年6月3日 – 1936年1月20日）は、グレートブリテン及びアイルランド連合王国（イギリス）ならびに海外自治領（the British Dominions beyond the Sea）の国王（1927年からはグレートブリテン、アイルランドならびに海外自治領の国王）、インド皇帝（在位：1910年5月6日 – 1936年1月20日）。ウィンザー朝の初代君主。</rdfs:comment>
+    <rdfs:comment xml:lang="en">George V (George Frederick Ernest Albert; 3 June 1865 – 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936. He was the second son of Albert Edward, Prince of Wales (later King Edward VII), and the grandson of the reigning British monarch, Queen Victoria. From the time of his birth, he was third in the line of succession behind his father and his elder brother, Prince Albert Victor, Duke of Clarence and Avondale. From 1877 to 1891, George served in the Royal Navy, until the unexpected death of his elder brother in early 1892 put him directly in line for the throne. On the death of his grandmother in 1901, George&#39;s father became King-Emperor of the British Empire, and George was created Prince of Wales. He </rdfs:comment>
+    <rdfs:comment xml:lang="ru">Георг V (англ. George V; 3 июня 1865 — 20 января 1936) — король Соединённого Королевства Великобритании и Ирландии и Соединённого Королевства Великобритании и Северной Ирландии с 6 мая 1910 года до своей смерти; второй сын принца и принцессы Уэльских (позднее Эдуарда VII и королевы Александры).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">George Frederik Ernst Albert, Engels: George Frederick Ernest Albert (Marlborough House (Londen), 3 juni 1865 - Sandringham House (Norfolk), 20 januari 1936) was de eerste Britse monarch uit het Huis Windsor, dat hijzelf had gecreëerd uit de Britse tak van het Huis Saksen-Coburg en Gotha. Hij was koning van het Verenigd Koninkrijk en van de andere gebieden binnen het Britse Rijk, maar George was ook keizer van Indië en de eerste koning van de Ierse Vrijstaat. George regeerde vanaf 6 mei 1910, tijdens de Eerste Wereldoorlog (1914-1918) tot aan zijn dood in 1936.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">George V (né George Frederick Ernest Albert, 3 juin 1865 - 20 janvier 1936) fut roi du Royaume-Uni et des dominions (Canada, Australie, Nouvelle-Zélande, Afrique du Sud, Irlande), et empereur des Indes du 6 mai 1910 jusqu&#39;à sa mort.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge V del Reino Unido (George Frederick Ernest Albert, 3 de junio de 1865 – 20 de enero de 1936) fue rey del Reino Unido y los dominios de la Mancomunidad Británica y emperador de la India del 6 de mayo de 1910 hasta su muerte en 1936.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jorge Frederico Ernesto Alberto (em inglês: George Frederick Ernest Albert; Londres, 3 de junho de 1865 – Sandringham, 20 de janeiro de 1936) foi Rei do Reino Unido e dos Domínios britânicos e Imperador da Índia como Jorge V de 1910 até sua morte.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jerzy V, właśc. Jerzy Fryderyk Ernest Albert, ang. George Frederic Ernest Albert (ur. 3 czerwca 1865 w Londynie, zm. 20 stycznia 1936 w Sandringham) – król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii (od 1927 Wielkiej Brytanii i Irlandii Północnej) i cesarz Indii od 6 maja 1910. W czasie I wojny światowej zmienił nazwisko na Windsor, gdyż dotychczasowe o niemieckim pochodzeniu (Coburg) źle się w Anglii kojarzyło. Za jego rządów w 1922 r. Imperium Brytyjskie osiągnęło rozmiar 36,6 milionów km², stając się największym imperium w historii ludzkości.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">乔治五世（英语：George V，1865年6月3日－1936年1月20日），全名乔治·弗雷德里克·厄内斯特·阿尔伯特（George Frederick Ernest Albert），爱德华七世和亚历山德拉皇后的次子。英国国王及印度皇帝，溫莎王朝的開創者。德国皇帝威廉二世的表弟。曾兼任德國元帥，现時在位的英女王伊丽莎白二世的祖父。乔治五世在位期間見證一九二二年大英帝國的最顛峰時期，帝國領土是全球土地面績的二十二點六個百份比，英皇的子民達到全球五分一的人口（4.58億人）。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Duke_of_York" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_descendants_of_George_V" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wedding_of_Prince_George" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/And_Princess_Mary_of_Teck" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118690469" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jerzy_V" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジョージ5世_(イギリス王)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q269412" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cmpn" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Jurgi_V.a_Erresuma_Batukoa" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γεώργιος_Ε΄_του_Ηνωμένου_Βασιλείου" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_V_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_V" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_V" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q269412" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/George_V_dari_Britania_Raya" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/268389473" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_V._(Vereinigtes_Königreich)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_V_do_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jiří_V." />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rlMLJjUYOSVGRAFSmiZ37WA" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_V_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_5세" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_V_del_Regno_Unito" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_V" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_V_van_het_Verenigd_Koninkrijk" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Sandringham_House" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Norfolk" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-1-20</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-01-20</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Marlborough_House" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-06-03</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-6-3</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_Saint_Hubert" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_the_Royal_Philatelic_Society_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Saxe-Ernestine_House_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1865_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Star_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_Ireland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_V" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._George_of_the_Third_Degree" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_philatelists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(United_Kingdom)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_House_Order_of_Hohenzollern" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Imperial_Service_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Danish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_Order_of_the_Wendish_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_St_Michael_and_St_George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Victorian_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marshals_of_the_Royal_Air_Force" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Colonial_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_South_Africa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_Australia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1936_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Field_marshals_of_the_German_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Navy_admirals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_New_Zealand" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_St_Patrick" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Emperors_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cornwall" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Indian_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_Warden_of_the_Cinque_Ports" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_York" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46823</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744217850</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.britishpathe.com/video/coronation-of-his-majesty-king-george-v" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.britishpathe.com/video/king-george-v-jubilee-speech-aka-george-5th" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.maxschoenherr.de/Archiv/londonNews1936.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.oxforddnb.com/view/article/33369" />
+    <foaf:name xml:lang="en">George Frederick Ernest Albert</foaf:name>
+    <foaf:name xml:lang="en">George V</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_George_V_1911_color-crop.jpg" />
+    <dct:description xml:lang="en">King of the United Kingdom and the British Dominions, and Emperor of India</dct:description>
+    <foaf:givenName xml:lang="en">George</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_V" />
+    <foaf:surname xml:lang="en">V</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_George_V_1911_color-crop.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_V?oldid=744217850" />
+    <dbo:abstract xml:lang="en">George V (George Frederick Ernest Albert; 3 June 1865 – 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936. He was the second son of Albert Edward, Prince of Wales (later King Edward VII), and the grandson of the reigning British monarch, Queen Victoria. From the time of his birth, he was third in the line of succession behind his father and his elder brother, Prince Albert Victor, Duke of Clarence and Avondale. From 1877 to 1891, George served in the Royal Navy, until the unexpected death of his elder brother in early 1892 put him directly in line for the throne. On the death of his grandmother in 1901, George&#39;s father became King-Emperor of the British Empire, and George was created Prince of Wales. He succeeded his father in 1910. He was the only Emperor of India to be present at his own Delhi Durbar. His reign saw the rise of socialism, communism, fascism, Irish republicanism, and the Indian independence movement, all of which radically changed the political landscape. The Parliament Act 1911 established the supremacy of the elected British House of Commons over the unelected House of Lords. As a result of the First World War (1914–18) the empires of his first cousins Tsar Nicholas II of Russia and Kaiser Wilhelm II of Germany fell while the British Empire expanded to its greatest effective extent. In 1917, George became the first monarch of the House of Windsor, which he renamed from the House of Saxe-Coburg and Gotha as a result of anti-German public sentiment. In 1924 he appointed the first Labour ministry and in 1931 the Statute of Westminster recognised the dominions of the Empire as separate, independent states within the Commonwealth of Nations. He had health problems throughout much of his later reign and at his death was succeeded by his eldest son, Edward VIII.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Георг V (англ. George V; 3 июня 1865 — 20 января 1936) — король Соединённого Королевства Великобритании и Ирландии и Соединённого Королевства Великобритании и Северной Ирландии с 6 мая 1910 года до своей смерти; второй сын принца и принцессы Уэльских (позднее Эдуарда VII и королевы Александры).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jerzy V, właśc. Jerzy Fryderyk Ernest Albert, ang. George Frederic Ernest Albert (ur. 3 czerwca 1865 w Londynie, zm. 20 stycznia 1936 w Sandringham) – król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii (od 1927 Wielkiej Brytanii i Irlandii Północnej) i cesarz Indii od 6 maja 1910. W czasie I wojny światowej zmienił nazwisko na Windsor, gdyż dotychczasowe o niemieckim pochodzeniu (Coburg) źle się w Anglii kojarzyło. Za jego rządów w 1922 r. Imperium Brytyjskie osiągnęło rozmiar 36,6 milionów km², stając się największym imperium w historii ludzkości.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge V del Reino Unido (George Frederick Ernest Albert, 3 de junio de 1865 – 20 de enero de 1936) fue rey del Reino Unido y los dominios de la Mancomunidad Británica y emperador de la India del 6 de mayo de 1910 hasta su muerte en 1936. Como segundo hijo de Alberto Eduardo, príncipe de Gales, y nieto de la monarca reinante británica, la reina Victoria, al momento de su nacimiento era tercero en la línea de sucesión, detrás de su padre y su hermano mayor, el príncipe Alberto Víctor, duque de Clarence y Avondale. Sirvió en la Royal Navy de 1877 a 1891, hasta que en enero de 1892, el inesperado fallecimiento de su hermano lo situó directamente en la línea de sucesión al trono. A la muerte de Victoria en 1901, Alberto Eduardo se convirtió en el rey Eduardo VII y Jorge fue nombrado príncipe de Gales. Tras la muerte de su padre en 1910, Jorge lo sucedió como rey emperador del Imperio británico. Fue el único emperador de la India en asistir a su propia Delhi Durbar. Como resultado de la Primera Guerra Mundial, cayeron los imperios de sus primos, el zar Nicolás II de Rusia y el káiser Guillermo II de Alemania, mientras el británico se expandía a su máxima extensión. En 1917, Jorge se convirtió en el primer monarca de la casa de Windsor, nombre con el que rebautizó a la casa de Sajonia-Coburgo-Gotha a consecuencia del antigermanismo imperante. Su reinado vio el surgimiento del socialismo, comunismo, fascismo, republicanismo irlandés y el movimiento de independencia de la India, que cambiaron radicalmente el panorama político. La ley del Parlamento de 1911 estableció la supremacía de la Cámara de los Comunes —cuyos miembros son electos democráticamente— sobre la Cámara de los Lores —cuyos miembros no tienen que pasar por elecciones. En 1924, designó por vez primera un primer ministro laborista y en 1931, el estatuto de Westminster reconoció los dominios del Imperio como reinos independientes dentro de la Mancomunidad Británica de Naciones. Se vio afectado por distintas enfermedades a lo largo de la última parte de su reinado y después de su muerte fue sucedido por su hijo mayor, Eduardo VIII.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">George Frederik Ernst Albert, Engels: George Frederick Ernest Albert (Marlborough House (Londen), 3 juni 1865 - Sandringham House (Norfolk), 20 januari 1936) was de eerste Britse monarch uit het Huis Windsor, dat hijzelf had gecreëerd uit de Britse tak van het Huis Saksen-Coburg en Gotha. Hij was koning van het Verenigd Koninkrijk en van de andere gebieden binnen het Britse Rijk, maar George was ook keizer van Indië en de eerste koning van de Ierse Vrijstaat. George regeerde vanaf 6 mei 1910, tijdens de Eerste Wereldoorlog (1914-1918) tot aan zijn dood in 1936. Vanaf zijn 12e jaar diende George in de Koninklijke Marine, maar toen zijn oudere broer, prins Albert Victor, hertog van Clarence, plotseling stierf, werd hij de troonopvolger en trouwde in 1893 zelfs met de verloofde van zijn broer, Mary van Teck, in haar familie beter bekend als &quot;May&quot;, een bijnaam die ze had gekregen naar de maand van haar geboorte. Ook al reisden ze door het Britse Rijk, toch bleef George liever thuis bij zijn postzegelverzameling. Toen zijn vader stierf in 1910, werd hij de nieuwe koning-keizer. Hij was de enige keizer van Indië die aanwezig was bij zijn Delhi Durbar (de kroningsceremonie van de koning/koningin van het Verenigd Koninkrijk als keizer/keizerin van Indië). Tijdens deze ceremonie werd hij gekroond met de Imperial Crown of India, die speciaal was gemaakt voor de kroning. Aan het einde van de Eerste Wereldoorlog deed George afstand van al zijn Duitse titels en namen. Hij veranderde de Duitse naam Saksen-Coburg en Gotha in Windsor. George werd geplaagd door ziekte, vooral in zijn latere regeringsperiode. Hij werd na zijn dood opgevolgd door zijn oudste zoon Eduard.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جورج الخامس (George V) (لندن 1865 -سِنْدْرِينْغْهم 1936)، ملك بريطانيا العظمى وآيرلندا، وإمبراطور الهند 1910 - 1936، وأحد أبناء الملك إدوارد السابع و حفيد ملكة بريطانيا الملكة فيكتوريا. حظي باحترام كبير وسط شعبه، نظرا لالتزامه الصارم بواجباته ومسؤولياته الملكية، كما تميزت فترة حكمه بخروج بريطانيا منتصرة من الحرب العالمية الأولى. قام عام 1917م بتغيير اسم العائلة المالكة من ساكس-كوبرغ إلى &quot;ويندسور&quot; (Windsor وتلفظ: وِنزَرْ). رغم صلاحياته المحدودة، فقد كان له تأثير كبير على السياسة البريطانية، وتجلى ذلك في مساهمته في تشكيل الحكومة عام 1931م , شهد عهده صعود الاشتراكية ، الشيوعية، الفاشية، الجمهوري الايرلندي، و حركة الاستقلال الهندية ، والتي غيرت بشكل جذري المشهد السياسي.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ジョージ5世（George V, George Frederick Ernest Albert, 1865年6月3日 – 1936年1月20日）は、グレートブリテン及びアイルランド連合王国（イギリス）ならびに海外自治領（the British Dominions beyond the Sea）の国王（1927年からはグレートブリテン、アイルランドならびに海外自治領の国王）、インド皇帝（在位：1910年5月6日 – 1936年1月20日）。ウィンザー朝の初代君主。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Jorge Frederico Ernesto Alberto (em inglês: George Frederick Ernest Albert; Londres, 3 de junho de 1865 – Sandringham, 20 de janeiro de 1936) foi Rei do Reino Unido e dos Domínios britânicos e Imperador da Índia como Jorge V de 1910 até sua morte. Jorge era neto da rainha Vitória e do príncipe Alberto e primo-irmão dos imperadores Nicolau II da Rússia e Guilherme II da Alemanha. De 1877 a 1891, ele serviu na Marinha Real. Com a morte de sua avó, em 1901, seu pai tornou-se rei, como Eduardo VII e Jorge recebeu a investidura de príncipe de Gales. Em 1910, com a morte do pai, tornou-se Rei-Imperador do Império Britânico, sendo o único imperador da Índia a estar presente em seu Delhi Durbar. Em 1917, Jorge tornou-se o primeiro monarca da Casa de Windsor, renomeada por ele em lugar da anterior Casa de Saxe-Coburgo-Gota, em virtude do sentimento anti-germânico que dominava o Reino Unido. Seu reinado foi testemunha de mudanças radicais no cenário político mundial, como a ascensão do socialismo, o comunismo, o fascismo, o republicanismo irlandês e o movimento de independência da Índia. A Lei Parlamentar de 1911 estabeleceu a supremacia da elegível Câmara dos Comuns sobre a Câmara dos Lordes. Em 1924, ele nomeou o primeiro gabinete trabalhista e, em 1931, o Estatuto de Westminster reconheceu os domínios do Império como reinos separados, independentes dentro da Commonwealth. Ele foi atormentado por uma doença em grande parte de seu reinado e, após sua morte, foi sucedido por seu filho mais velho, Eduardo VIII.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg V. (engl.: George V., gebürtig HRH Prince George Frederick Ernest Albert of Wales; * 3. Juni 1865 in Marlborough House, London; † 20. Januar 1936 in Sandringham House, Norfolk) aus dem Haus Sachsen-Coburg und Gotha war vom 6. Mai 1910 bis zu seinem Tode 1936 König des Vereinigten Königreichs Großbritannien und Irland (seit 1927 Nordirland) sowie Kaiser von Indien.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">George V (né George Frederick Ernest Albert, 3 juin 1865 - 20 janvier 1936) fut roi du Royaume-Uni et des dominions (Canada, Australie, Nouvelle-Zélande, Afrique du Sud, Irlande), et empereur des Indes du 6 mai 1910 jusqu&#39;à sa mort. George était le petit-fils de la reine Victoria et du prince Albert et le cousin germain du tsar Nicolas II de Russie et de l&#39;empereur Guillaume II d&#39;Allemagne. De 1877 à 1891, il servit dans la Royal Navy et atteignit le grade de capitaine de frégate. À la mort de Victoria en 1901, le père de George devint roi sous le nom d&#39;Édouard VII et George fut fait prince de Galles. À la mort de son père en 1910, il lui succéda en tant que roi-empereur de l&#39;Empire britannique sous le nom de George V. Il fut le seul empereur des Indes à assister à son darbâr à Delhi. À la suite de la Première Guerre mondiale, l&#39;Empire britannique atteignit son étendue maximale. En 1917, il devint le premier monarque de la Maison de Windsor après avoir renommé la Maison de Saxe-Cobourg et Gotha en raison des sentiments antigermaniques au Royaume-Uni. Son règne vit la montée en puissance du socialisme, du communisme, du fascisme, du républicanisme irlandais et de l&#39;indépendantisme indien qui changèrent radicalement le paysage politique. Le Parliament Act de 1911 établit la suprématie de la Chambre des communes élue par le peuple sur la Chambre des lords dont les membres sont nommés par le souverain. En 1924, George V nomma le premier Premier ministre britannique travailliste Ramsay MacDonald et en 1931, le Statut de Westminster supprima les droits d&#39;ingérence sur les dominions au sein du Commonwealth of Nations. Victime de problèmes de santé dans les dernières années de son règne, il mourut le 20 janvier 1936 et son fils aîné Edward lui succéda sous le nom d&#39;Édouard VIII.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">乔治五世（英语：George V，1865年6月3日－1936年1月20日），全名乔治·弗雷德里克·厄内斯特·阿尔伯特（George Frederick Ernest Albert），爱德华七世和亚历山德拉皇后的次子。英国国王及印度皇帝，溫莎王朝的開創者。德国皇帝威廉二世的表弟。曾兼任德國元帥，现時在位的英女王伊丽莎白二世的祖父。乔治五世在位期間見證一九二二年大英帝國的最顛峰時期，帝國領土是全球土地面績的二十二點六個百份比，英皇的子民達到全球五分一的人口（4.58億人）。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1910</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1910</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alexandra_of_Denmark" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St._George&#39;s_Chapel,_Windsor_Castle" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Full-length portrait in oils of George V</dbp:alt>
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Coronation portrait by Sir Luke Fildes, 1911</dbp:caption>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George V of the United Kingdom</dbp:commons>
+    <dbp:corType rdf:resource="http://dbpedia.org/resource/Delhi_Durbar" />
+    <dbp:corType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Britain</dbp:corType>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-06-22</dbp:coronation>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-12-12</dbp:coronation>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">q269412</dbp:d>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-01-28</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha" />
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Windsor</dbp:house>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_John_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_George,_Duke_of_Kent" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_VI" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester" />
+    <dbp:issueLink rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#Issue</dbp:issueLink>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George V of the United Kingdom</dbp:q>
+    <dbp:regType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prime Ministers</dbp:regType>
+    <dbp:regent rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">See list</dbp:regent>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Author:George V</dbp:s>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George V Signature.svg</dbp:signature>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:state rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">collapsed</dbp:state>
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of the United Kingdom and the British Dominions, Emperor of India</dbp:succession>
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Lord_Warden_of_the_Cinque_Ports" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Order_of_St_Michael_and_St_George" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Articles and topics related to George V</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Emperor_of_India" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">and the British Dominions,</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_British_monarchs" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Cornwall" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Rothesay" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-06</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1901</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1904</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Lyons">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramsay_MacDonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Baldwin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfrid_Laurier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Lyon_Mackenzie_King">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Sifton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Ceylon">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Fitzpatrick">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lloyd,_1st_Baron_Lloyd">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Albert_Manning_Aikins">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Gunn_(Australian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Brett">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Munro,_1st_Baron_Alness">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Walter_Scott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Massey">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aubin-Edmond_Arsenault">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Dalton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Cameron_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Howatt_Bell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_MacDonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Lygon,_7th_Earl_Beauchamp">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Milner,_1st_Viscount_Milner">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Haszard">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_David_Stewart">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_McKenna">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thane_Campbell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Lea">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_J._P._MacMillan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Langelier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Robson_Douglas">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Harold_Covert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._B._M._Hertzog_government">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_William_Newlands">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Grey,_4th_Earl_Grey">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidney_Webb,_1st_Baron_Passfield">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Bruce">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Arthur_of_Connaught__Prince_Arthur_of_Connaught__1">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn__the_Duke_of_Connaught_and_Strathearn__1">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Hunter_McMillan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_H._V._Bulyea">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Duncan_McGregor">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Arthur_Burrows">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Pollock">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Stanley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pratt,_4th_Marquess_Camden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyons_Government">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1915_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V,_Emperor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V,_Emperor_of_India">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medal_for_Long_Service_and_Good_Conduct_(Military)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Fischer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Caldecott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bird_baronets">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lindsay,_27th_Earl_of_Crawford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GV">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Clifford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Babington_Macaulay_Baxter">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Morley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lemuel_John_Tweedie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Crewe-Milnes,_1st_Marquess_of_Crewe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rufus_Isaacs,_1st_Marquess_of_Reading">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Bulwer-Lytton,_2nd_Earl_of_Lytton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mackenzie,_1st_Baron_Amulree">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Nigeria_Protectorate">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jordan_(diplomat)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clive_Wigram,_1st_Baron_Wigram">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Langstaff_Bowman">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Alexander_Mathieson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Dundas,_2nd_Marquess_of_Zetland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Pugsley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bathurst,_1st_Viscount_Bledisloe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Richard_Heartz">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_MacKeen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Buhagiar">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_W._Brown">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Drummond_McGregor">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nevile_Henderson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Michael_Uhrich">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_John_Marsden_Parker">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Chalmers,_1st_Baron_Chalmers">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_L._Walsh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Stanfield">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Graeme_Tyrrell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_V&#39;s_Silver_Jubilee">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1912_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1913_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clement_Attlee">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jellicoe,_1st_Earl_Jellicoe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R._B._Bennett">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Borden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Clementi">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Oxford_and_Asquith">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Stanley,_17th_Earl_of_Derby">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Efficiency_Decoration">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Campbell_Geddes">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_Thesiger,_1st_Viscount_Chelmsford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julian_Byng,_1st_Viscount_Byng_of_Vimy">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whitelaw_Reid">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Charles_Saunders">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eyre_Hutson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Kellaway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Hamilton,_3rd_Duke_of_Abercorn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Chalker_Crosbie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Oliver_(British_Columbia_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Horace_Rumbold,_9th_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_Olivier,_1st_Baron_Olivier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Shaw_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Long,_1st_Viscount_Long">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Bigge,_1st_Baron_Stamfordham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Monckton-Arundell,_8th_Viscount_Galway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Fitzalan-Howard,_15th_Duke_of_Norfolk">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_McElwaine">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ransley_Thacker">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Clark_(governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Cunliffe-Lister,_1st_Earl_of_Swinton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Évariste_Leblanc">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roundell_Palmer,_3rd_Earl_of_Selborne">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/13th_Frontier_Force_Rifles">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Black_(Canadian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Des_Brisay_de_Blois">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ugo_Pasquale_Mifsud">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mansfield,_1st_Viscount_Sandhurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Hickman">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allison_Dysart">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angus_Lewis_Macdonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Dow_Richards">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Gawler_Prior">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Murray">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Sidney_Harrington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harlan_Carey_Brewster">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Douglas_Hazen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Duncan_MacLean">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Percy_de_Wolfe_Tilley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Patrick_Cashin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Veniot">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_McBride">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodmond_Roblin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Edward_Foster">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_F._Lloyd">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_John_Bowser">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Guest">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_in_the_Irish_Free_State">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Samoa_Trust_Territory">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everard_im_Thurn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Wingate">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Hines_Page">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Rothery_Nutt">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Melville_Guest">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Straits_Settlements">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Finlay,_1st_Viscount_Finlay">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Jellicoe">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Ganong">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMY_Britannia_(Royal_Cutter_Yacht)">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Malone_(Australian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Scullin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Sankey,_1st_Viscount_Sankey">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Dugan,_1st_Baron_Dugan_of_Victoria">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Henry_Whitley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Henry">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Air_Force_Long_Service_and_Good_Conduct_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Peake">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Barwell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Hill">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murdock_MacKinnon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1914–15_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lint_voor_Verwonding">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medalje_voor_de_Anglo-Boere_Oorlog">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercantile_Marine_War_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Bruce_Alexander">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_William_Douglas_Willoughby">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_Free_State">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union_of_South_Africa">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stewart_(Canadian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Forbes_(New_Zealand_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Villiers,_6th_Earl_of_Clarendon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Forster,_1st_Baron_Forster">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Galway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Craig,_1st_Viscount_Craigavon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Baird,_1st_Viscount_Stonehaven">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Herbert_Clarke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchester_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Game">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George,_Duke_of_Kent">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Denman,_3rd_Baron_Denman">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Fisher">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._H._Asquith">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Buchan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Pattullo">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Somerset,_3rd_Baron_Raglan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Morison_Gibson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lomer_Gouin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Alexandre_Taschereau">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Squires">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Munro_Ferguson,_1st_Viscount_Novar">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Humble_Ward,_2nd_Earl_of_Dudley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_2nd_Dáil">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Marcil">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Dickson-Poynder,_1st_Baron_Islington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1914_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Cawley,_1st_Baron_Cawley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Fry_(British_Army_officer)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Gosling">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fielding_Clarke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1920_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Hill">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Ross_Welsh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Denmark">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Kent">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Gladstone,_1st_Viscount_Gladstone">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Windsor">
+    <dbp:founder rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Gascoyne-Cecil,_4th_Marquess_of_Salisbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meritorious_Service_Medal_(South_Africa)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Egbert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominion_of_New_Zealand">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_and_Ellice_Islands">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/130th_Baluchis">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Black_(nurse)">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_theatre_of_World_War_I">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_C._Alderdice">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Johnson_Clarke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Verran">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_MacGregor">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Plunket,_5th_Baron_Plunket">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Alexander">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guards_Division_(United_Kingdom)">
+    <dbo:patron rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Labour_Government_of_New_Zealand">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1911_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victory_Medal_(South_Africa)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_V_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1930_British_Empire_Games">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Charles_Drury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Joseph_Savage">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domhnall_Ua_Buachalla">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_FitzAlan-Howard,_1st_Viscount_FitzAlan_of_Derwent">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Governor-General_of_the_Irish_Free_State">
+    <dbp:appointer rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Mellon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Hughes">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_McNeill">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Healy_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cambridge,_1st_Earl_of_Athlone">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_B._Kellogg">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_W._Davis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitchell_Hepburn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_3rd_Dáil">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_4th_Dáil">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_5th_Dáil">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_6th_Dáil">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_7th_Dáil">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_War_(series)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Isaacs">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Efficiency_Decoration_(South_Africa)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Efficiency_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Efficiency_Medal_(South_Africa)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Granville_Ryrie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/V._S._Srinivasa_Sastri">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auckland_Geddes,_1st_Baron_Geddes">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Alphonse_Pantaléon_Pelletier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dudley_de_Chair">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esioff-Léon_Patenaude">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Donald_Ross">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Alexander_Harris">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crawford_Vaughan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_McCallum">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Champneys_Williams">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Layton_Butler">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Edward_Davidson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_rule_in_Burma">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Pollock,_1st_Viscount_Hanworth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Rous,_3rd_Earl_of_Stradbroke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Victorian_Chain">
+    <dbp:firstAward rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alanson_B._Houghton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_MacLaren">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wilson_Paterson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Euen_Mitchell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murchison_Fletcher">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Stuart_Lake">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/11th_Canadian_Parliament">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1914_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Karney_Young">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Ehrhardt">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Gough_Howell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Henry_Major">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_James_Muir_MacKenzie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Balfour">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._P._Herbert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Hore-Ruthven,_1st_Earl_of_Gowrie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Richards,_1st_Baron_Milverton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Cooper">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F._E._Smith,_1st_Earl_of_Birkenhead">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Coates">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_James_Palmer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodolphe_Lemieux">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Fuller,_1st_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vere_Ponsonby,_9th_Earl_of_Bessborough">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Johnston_Tupper">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Palmer,_2nd_Earl_of_Selborne">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hamilton-Gordon,_1st_Marquess_of_Aberdeen_and_Temair">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Godfrey_Huggins">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_the_Fifth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Cabinet_of_Southern_Rhodesia">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Strickland,_1st_Baron_Strickland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_United_Kingdom_during_World_War_I">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Rothschild,_1st_Baron_Rothschild">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evan_Wisdom">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Tennant_Molteno">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montagu_Sherard_Dawes_Butler">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cameron_Rutherford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonar_Law">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Wood,_1st_Earl_of_Halifax">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Greenfield">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Edward_Brownlee">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Gavin_Reid">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Cavendish,_9th_Duke_of_Devonshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Aberhart">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mulock">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Foljambe,_2nd_Earl_of_Liverpool">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Henry_Bourdillon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_War_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Cripps,_1st_Baron_Parmoor">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer,_6th_Earl_Spencer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Bell_(New_Zealand_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Grosvenor,_2nd_Duke_of_Westminster">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._E._B._Seely,_1st_Baron_Mottistone">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Kidd_Flemming">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Lowther,_1st_Viscount_Ullswater">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Whitney">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Cook">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Horne,_1st_Viscount_Horne_of_Slamannan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Richards_(Australian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Fraser_Tolmie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Gibson-Carmichael,_1st_Baron_Carmichael">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Mackenzie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Price">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Thynne,_5th_Marquess_of_Bath">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Warren">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amédée_E._Forget">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Rogers_(Lieutenant_Governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Morris,_1st_Baron_Morris">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freeman_Freeman-Thomas,_1st_Marquess_of_Willingdon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Fuller_(Australian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Cockshutt">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_George_Carroll">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bracken">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Howard_(Prime_Minister)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Philippe_Brodeur">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MacCallum_Grant">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narcisse_Pérodeau">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Simpson_Sproule">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Meighen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Fitzalan-Howard,_16th_Duke_of_Norfolk">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Raj">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dekoratie_voor_Trouwe_Dienst">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Allardyce">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_South_Africa">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cadogan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wynn-Carington,_1st_Marquess_of_Lincolnshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._A._L._Fisher">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Bridges">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Howard_Hearst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Forbes,_8th_Earl_of_Granard">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Luke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josiah_Wood">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Martin_Wilson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Havelock_McLean">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_Rhodesian_Legislative_Assembly">
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Frederick_Todd">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Edwin_Munroe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Cranswick_Tory">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hardinge,_1st_Baron_Hardinge_of_Penshurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Haig">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Henry_May">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Stillman_Barnard">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Clarke,_1st_Baron_Sydenham_of_Combe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._B._M._Hertzog">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Smuts">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Strathearn_Hendrie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Ward">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Botha">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_John_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Alexander_Bruce">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Edward_Stubbs">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Randolph_Bruce">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Reid,_1st_Earl_Loreburn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Charles_Fergusson,_7th_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Sévigny">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Emmott,_1st_Baron_Emmott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustine_Colin_Macdonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edgar_Nelson_Rhodes">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Howard_Armstrong">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Campion">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Duncan_McKenzie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquess_of_Milford_Haven">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neil_Primrose_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baron_Baden-Powell">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baron_Beaverbrook">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Avery_Dunning">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Murray_Anderson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Beatty">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Stewart_Henry">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Ferguson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Guthrie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Alexander_Murray">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Garfield_Gardiner">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Thomas_Milton_Anderson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King&#39;s_Regiment_(Liverpool)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_John_Patterson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Melville_Martin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_V">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tobias_Norris">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_James_Macnamara">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Herbert,_1st_Baron_Hemingford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_William_Fordham_Johnson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Culham_Woodward">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Hunter-Rodwell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Alexander_MacKinnon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Cameron_Nichol">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Kenya">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Frederick_Ernest_Albert">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chalmers_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Board_of_Ministers_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Anderson_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manning_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McCallum_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomson_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union_of_South_Africa_Commemoration_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_the_Fifth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_V_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_v_of_the_united_kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_Scotland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V,_King_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voluntary_Medical_Service_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_V_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_5">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Cabinet_of_J._B._M._Hertzog">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Cabinet_of_J._B._M._Hertzog">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Cabinet_of_Louis_Botha">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Third_Cabinet_of_J._B._M._Hertzog">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_V">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Cornwall_and_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coronation_of_King_George_V">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geo._5">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_V" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Louis,_Prince_of_Nassau-Saarbrücken">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Nassau-Saarbrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis,_Prince_of_Nassau-Saarbrücken">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdfs:label xml:lang="nl">Lodewijk van Nassau-Saarbrücken</rdfs:label>
+    <rdfs:label xml:lang="en">Louis, Prince of Nassau-Saarbrücken</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig (Nassau-Saarbrücken)</rdfs:label>
+    <rdfs:label xml:lang="es">Luis de Nassau-Saarbrücken</rdfs:label>
+    <rdfs:label xml:lang="ru">Людвиг (князь Нассау-Саарбрюккена)</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi di Nassau-Saarbrücken</rdfs:label>
+    <rdfs:comment xml:lang="nl">Lodewijk (Saarbrücken, 3 januari 1745 - Aschaffenburg, 2 maart 1794) was van 1768 tot 1794 vorst van Nassau-Saarbrücken en van 1789 tot 1794 hertog van Dillingen.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ludwig (* 3. Januar 1745 in Saarbrücken; † 2. März 1794 in Aschaffenburg) war von 1768 bis zur Französischen Revolution der letzte Fürst von Nassau-Saarbrücken.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Людвиг Нассау-Саарбрюккенский (нем. Ludwig von Nassau-Saarbrücken; 3 января 1745, Саарбрюккен — 2 марта 1794, Ашаффенбург) — последний князь Нассау-Саарбрюккена с 1768 года и до Французской революции.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Louis, Prince of Nassau-Saarbrücken (3 January 1745 in Saarbrücken – 2 March 1794 in Aschaffenburg) was the last ruling prince of Nassau-Saarbrücken. He ruled from 1768 until the French Revolution.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Príncpe Luis de Nassau-Saarbrücken (3 de enero de 1745, Saarbrücken - 2 de marzo de 1794, Aschaffenburg) fue el último príncipe reinante de Nassau-Saarbrücken. Gobernó desde 1768 hasta la Revolución francesa.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_di_Nassau-Saarbrücken" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Nassau-Saarbrücken" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Nassau-Saarbrücken" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_(Nassau-Saarbrücken)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/12862910X" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_van_Nassau-Saarbrücken" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q216418" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q216418" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_de_Nassau-Saarbrücken" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j7kdg7" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Aschaffenburg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1794-03-02</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1794-3-2</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saarbrücken" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1745-01-03</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1745-1-3</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1745_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1794_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saarbrücken" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35251193</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732755539</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.zeitensprung.de/intlud.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.saarland-biografien.de/Nassau-Saarbruecken-Ludwig-von" />
+    <foaf:name xml:lang="en">Louis, Prince of Nassau-Saarbrücken</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/LodewijkNassauSaarbrücken.jpg" />
+    <dct:description xml:lang="en">Prince of Nassau-Saarbrücken</dct:description>
+    <foaf:givenName xml:lang="en">Luigi</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louis,_Prince_of_Nassau-Saarbrücken" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/LodewijkNassauSaarbrücken.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louis,_Prince_of_Nassau-Saarbrücken?oldid=732755539" />
+    <dbo:abstract xml:lang="es">El Príncpe Luis de Nassau-Saarbrücken (3 de enero de 1745, Saarbrücken - 2 de marzo de 1794, Aschaffenburg) fue el último príncipe reinante de Nassau-Saarbrücken. Gobernó desde 1768 hasta la Revolución francesa.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Louis, Prince of Nassau-Saarbrücken (3 January 1745 in Saarbrücken – 2 March 1794 in Aschaffenburg) was the last ruling prince of Nassau-Saarbrücken. He ruled from 1768 until the French Revolution.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ludwig (* 3. Januar 1745 in Saarbrücken; † 2. März 1794 in Aschaffenburg) war von 1768 bis zur Französischen Revolution der letzte Fürst von Nassau-Saarbrücken.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Lodewijk (Saarbrücken, 3 januari 1745 - Aschaffenburg, 2 maart 1794) was van 1768 tot 1794 vorst van Nassau-Saarbrücken en van 1789 tot 1794 hertog van Dillingen.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Людвиг Нассау-Саарбрюккенский (нем. Ludwig von Nassau-Saarbrücken; 3 января 1745, Саарбрюккен — 2 марта 1794, Ашаффенбург) — последний князь Нассау-Саарбрюккена с 1768 года и до Французской революции.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/William_Henry,_Prince_of_Nassau-Saarbrücken" />
+    <dbo:placeOfBurial rdf:resource="http://dbpedia.org/resource/Usingen" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Louis, Prince of Nassau-Saarbrücken</dbp:caption>
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sophie of Erbach-Erbach</dbp:mother>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Katharina Kest, Countess of Ottweiler</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Wilhelmine of Schwarzburg-Rudolstadt</dbp:spouse>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1768</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Prince" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis,_Prince_of_Nassau-Saarbrucken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Nassau-Saarbrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louis,_Prince_of_Nassau-Saarbrücken">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Nassau-Saarbrücken" />
+  </rdf:Description>
+</rdf:RDF>

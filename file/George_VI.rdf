@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1948_Summer_Olympics">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Chifley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromNorfolk" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110295951" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheDistinguishedServiceOrder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Head110162991" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatColdWarLeaders" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FieldMarshal110086821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110296176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFieldMarshals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheLiberation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfMalta" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Defender109614684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Preserver110466918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheVictorianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lawman110249459" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMarshalsOfTheRoyalAirForce" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheThistle" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOfficersOfTheOrderOfTheBritishEmpire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfTrinityCollege,Cambridge" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FlagOfficer110094584" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Admiral109771204" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfCanada" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKing&#39;sLynnAndWestNorfolk(district)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfAustralia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfCeylon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEmperorsOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalNavyAdmiralsOfTheFleet" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsWhoWereFreemasons" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleWithASpeechImpediment" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfSouthAfrica" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfTheCommonwealth" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfStPatrick" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfNewZealand" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfPakistan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChiefCommandersOfTheLegionOfMerit" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfYork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheMilitaryOrderOfSavoy" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheRoyalHouseOfChakri" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldWarIIPoliticalLeaders" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheOrderOfTheDannebrog" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfWorldWarII" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalNavyOfficersOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emperor110053004" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfCambridge" />
+    <rdfs:label xml:lang="es">Jorge VI del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="zh">乔治六世</rdfs:label>
+    <rdfs:label xml:lang="nl">George VI van het Verenigd Koninkrijk</rdfs:label>
+    <rdfs:label xml:lang="de">Georg VI. (Vereinigtes Königreich)</rdfs:label>
+    <rdfs:label xml:lang="ja">ジョージ6世 (イギリス王)</rdfs:label>
+    <rdfs:label xml:lang="it">Giorgio VI del Regno Unito</rdfs:label>
+    <rdfs:label xml:lang="pl">Jerzy VI Windsor</rdfs:label>
+    <rdfs:label xml:lang="fr">George VI</rdfs:label>
+    <rdfs:label xml:lang="en">George VI</rdfs:label>
+    <rdfs:label xml:lang="pt">Jorge VI do Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="ru">Георг VI</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج السادس ملك المملكة المتحدة</rdfs:label>
+    <rdfs:comment xml:lang="nl">Albert Frederick Arthur George (Sandringham Estate, 14 december 1895 – aldaar, 6 februari 1952) was van 11 december 1936 tot aan zijn dood in 1952 koning van het Verenigd Koninkrijk en van de Britse Overzeese Gebieden. Hij was van 1936 tot 1947 de laatste keizer van Indië en tot 1949 de laatste koning van Ierland.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Georg VI., gebürtig Prince Albert Frederick Arthur George, Duke of York (* 14. Dezember 1895 in York Cottage, Sandringham, Norfolk; † 6. Februar 1952 in Sandringham House, Norfolk) aus dem Haus Windsor (bis 1917 Haus Sachsen-Coburg und Gotha) war vom 11. Dezember 1936 bis zu seinem Tode König des Vereinigten Königreichs Großbritannien und Nordirland, letzter Kaiser von Indien (bis 1947) sowie erstes Oberhaupt des Commonwealth of Nations (ab 1949). Nachfolgerin ist seine älteste Tochter Elisabeth II., die aktuelle britische Monarchin.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jerzy VI (ang. George VI, ur. 14 grudnia 1895 w Sandringham House, zm. 6 lutego 1952 tamże) – król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej i dominiów (1936–1952), cesarz Indii (1936–1947), król Indii (1947–1949), król Irlandii (1936–1949). Brat Edwarda VIII i jego następca (po abdykacji Edwarda). Zyskał popularność i szacunek, gdy podczas niemieckich nalotów na Londyn nie opuścił miasta, mimo iż dziewięć razy bombardowany był pałac.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alberto Frederico Artur Jorge (em inglês: Albert Frederick Arthur George; Norfolk, 14 de dezembro de 1895 — Norfolk, 6 de fevereiro de 1952) foi rei do Reino Unido e dos Domínios da Commonwealth com o título de Jorge VI. Foi o último imperador da Índia e primeiro chefe da Comunidade Britânica.</rdfs:comment>
+    <rdfs:comment xml:lang="en">George VI (Albert Frederick Arthur George; 14 December 1895 – 6 February 1952) was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death. He was the last Emperor of India and the first Head of the Commonwealth.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جورج السادس (George VI) (سندرينغهم 14 ديسمبر 1895 - 6 فبراير 1952). ملك بريطانيا العظمى وإيرلندا بالفترة بين 11 ديسمبر 1936 - 6 فبراير 1952، وآخر أباطرة الهند من 1936 - 1947. كان الابن الثاني لوالده الملك جورج الخامس كان لقبه الرسمي قبل التتويج الأمير ألبرت دوق يورك. حل محل أخيه إدوارد الثامن على رأس التاج البريطاني في 11 ديسمبر 1936 عندما تخلى الأخير ومن تلقاء نفسه عن العرش. شاركت بريطانيا أثناء حكمه في الحرب العالمية الثانية وخرجت منها منتصرة. اتخذ مع عائلته موقفاً شجاعاً عندما قرروا البقاء في لندن أثناء الغارات الجوية الألمانية واعتبر موقفه رمزاً للصمود البريطاني، وحظي الملك باحترام الشعب.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ジョージ6世（英語: George VI、アルバート・フレデリック・アーサー・ジョージ、英語: Albert Frederick Arthur George、1895年12月14日 - 1952年2月6日）は、グレートブリテンおよび北アイルランド連合王国（イギリス）ならびに海外自治領（The British Dominions beyond the Sea）の国王（在位：1936年12月11日 - 1952年2月6日）。また、最後のインド皇帝（在位：1936年 - 1947年）にして、最初のイギリス連邦元首 (en:Head of the Commonwealth)（在位：1949年4月28日 - 1952年2月6日）でもあった。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">George VI, né Albert Frederick Arthur George le 14 décembre 1895 et mort le 6 février 1952, a été roi du Royaume-Uni et des autres dominions du Commonwealth britannique du 11 décembre 1936 jusqu&#39;à sa mort. Il a également été le dernier empereur des Indes et le premier chef du Commonwealth.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">乔治六世（英语：George VI，1895年12月14日－1952年2月6日），原名阿尔伯特·弗雷德里克·亚瑟·乔治（英语：Albert Frederick Arthur George），英国国王及众英联邦自治领国王，1936年12月11日至1952年2月6日其过世在位。乔治六世亦为末任印度皇帝及首任英联邦元首。 乔治六世于其曾祖母维多利亚女王治时出生，以其曾祖父阿尔伯特亲王得名，并在登基前称阿尔伯特。作为乔治五世次子，阿尔伯特原先无望继承王位，其早年活在其长兄爱德华的阴影之下。他青年时就读于海军学院，并于第一次世界大战期间于皇家海军及皇家空军服役。1920年阿尔伯特受封为约克公爵。1923年其与伊丽莎白·鲍斯-莱昂女勋爵成婚，育有二女伊丽莎白及玛格丽特。1920年代中期其接受言语治疗以矫正其口吃，但这一缺陷并未彻底得到解决。 1936年乔治五世过世，爱德华登基为爱德华八世。同年他宣布希望同美籍离异名流华里丝·辛普森成婚；首相斯坦利·鲍德温告知爱德华因为政治及宗教原因，其若迎娶一离异女性，即将无法继续担任国王。由此爱德华决定退位以同辛普森成婚，阿尔伯特即即位为乔治六世，亦为温莎王朝第三位君主。 乔治在位后期饱受健康问题困扰，最终于1952年过世，其女伊丽莎白即位，称伊丽莎白二世。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge VI del Reino Unido (Albert Frederick Arthur George; Sandringham House, 14 de diciembre de 1895-ibídem, 6 de febrero de 1952) fue rey del Reino Unido y sus dominios de ultramar desde el 11 de diciembre de 1936 hasta su muerte. Fue el último emperador de la India (hasta el 14 de agosto de 1947), y el primer jefe de la Mancomunidad de Naciones.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Nel 1920 fu nominato dal padre duca di York e conte di Inverness. Nel 1923 sposò nell&#39;abbazia di Westminster lady Elizabeth Bowes-Lyon, dalla quale ebbe le due figlie, Elisabetta e Margaret. L&#39;11 dicembre 1936, in seguito all&#39;abdicazione del fratello Edoardo VIII, salì al trono prendendo il nome di Giorgio VI, poiché il suo primo nome Albert suonava troppo tedesco.Fu incoronato il 12 maggio 1937 nell&#39;abbazia di Westminster insieme alla moglie, la regina Elizabeth Bowes-Lyon; questa fu la prima incoronazione trasmessa dalla radio e registrata per la riproduzione privata dalla BBC.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Гео́рг VI (англ. George VI, крестильные имена Альберт Фредерик Артур Георг; 14 декабря 1895, Йорк-Коттедж, Сандрингем, Норфолк, Англия — 6 февраля 1952, Сандрингем) — король Соединённого Королевства Великобритании и Северной Ирландии, Канады, Австралии и Южной Африки с 11 декабря 1936 года. Из династии Виндзоров. Вступил на престол после отречения брата, Эдуарда VIII. Вошёл в историю прежде всего как символ борьбы Великобритании и стран Британской империи против нацистской Германии во Второй мировой войне.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/And_Lady_Elizabeth_Bowes-Lyon" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wedding_of_Prince_Albert" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Duke_of_York" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cultural_depictions_of_King_George_VI" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cm83" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_VI_del_Regno_Unito" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jiří_VI." />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_VI_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/George_VI" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_VI" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/8330386" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_VI_do_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q280856" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジョージ6世_(イギリス王)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_VI_van_het_Verenigd_Koninkrijk" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0n_7kj0" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwS8NZpwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Jurgi_VI.a_Erresuma_Batukoa" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_6세" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_VI_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_VI" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γεώργιος_ΣΤ΄_του_Ηνωμένου_Βασιλείου" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q280856" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_VI" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118690477" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_VI._(Vereinigtes_Königreich)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/George_VI_dari_Britania_Raya" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jerzy_VI_Windsor" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Sandringham_House" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-02-06</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-2-6</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/York_Cottage" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sandringham_House" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-12-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Thistle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Liberation" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_lung_cancer" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_High_Commissioner_to_the_General_Assembly_of_the_Church_of_Scotland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Edward_VIII_abdication_crisis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_cancer_in_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Aviz" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Christ_(Portugal)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Military_William_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_thrombosis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_New_Zealand" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Sandringham,_Norfolk" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Pahlevi" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_the_Royal_House_of_Chakri" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_the_Royal_Naval_College,_Osborne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Vladimir,_4th_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Empire_in_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_Ceylon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_South_Africa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Victorian_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Star_of_Ethiopia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_White_Eagle_(Serbia)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chief_Commanders_of_the_Legion_of_Merit" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_York" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Phoenix_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Saint-Charles" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Saint_James_of_the_Sword" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Military_Order_of_Savoy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_Australia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_the_Commonwealth" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_St_Patrick" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Emperors_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_VI" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Collars_of_the_Order_of_Saints_George_and_Constantine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marshals_of_the_Royal_Air_Force" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Freemasons" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royalty_and_nobility_with_disabilities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Al_Rafidain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_II_political_leaders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_Pakistan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_St_Michael_and_St_George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Navy_officers_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Navy_admirals_of_the_fleet" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1895_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Croix_of_the_Légion_d&#39;honneur" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1952_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46755</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743168021</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch?v=p1TubkzxPFY" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch?v=m-vlrXBqGw8" />
+    <foaf:name xml:lang="en">George VI</foaf:name>
+    <foaf:name xml:lang="en">Albert Frederick Arthur George</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_George_VI_of_England,_formal_photo_portrait,_circa_1940-1946.jpg" />
+    <dct:description xml:lang="en">King of the United Kingdom</dct:description>
+    <foaf:givenName xml:lang="en">George</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_VI" />
+    <foaf:surname xml:lang="en">VI</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_George_VI_of_England,_formal_photo_portrait,_circa_1940-1946.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_VI?oldid=743168021" />
+    <dbo:abstract xml:lang="ar">جورج السادس (George VI) (سندرينغهم 14 ديسمبر 1895 - 6 فبراير 1952). ملك بريطانيا العظمى وإيرلندا بالفترة بين 11 ديسمبر 1936 - 6 فبراير 1952، وآخر أباطرة الهند من 1936 - 1947. كان الابن الثاني لوالده الملك جورج الخامس كان لقبه الرسمي قبل التتويج الأمير ألبرت دوق يورك. حل محل أخيه إدوارد الثامن على رأس التاج البريطاني في 11 ديسمبر 1936 عندما تخلى الأخير ومن تلقاء نفسه عن العرش. شاركت بريطانيا أثناء حكمه في الحرب العالمية الثانية وخرجت منها منتصرة. اتخذ مع عائلته موقفاً شجاعاً عندما قرروا البقاء في لندن أثناء الغارات الجوية الألمانية واعتبر موقفه رمزاً للصمود البريطاني، وحظي الملك باحترام الشعب. كان متزوجاً من إليزابيث بويه ليون (الملكة إليزابيث بعد جلوسه على العرش) ولديه منها ابنتان هما الأميرة إليزابيث (الملكة إليزابيث الثانية وليه عهده ووريثته على العرش) والأميرة مارجريت. توفي في 6 فبراير 1952 بسبب سرطان الرئة وحلت محله على العرش ابنته الأميرة إليزابيث (الملكة إليزابيث الثانية بعد ذلك).كان مصابا بسرطان الرئة و تم استئصال رئته اليسرى. و في 13.01.1952 خالف نصيحة الأطباء و خرج لتوديع ابنته في المطار و في صباح 6 فبراير وجد الملك ميتا في سريره عن عمر يناهز 56 عاما و كان سبب الوفاة خثار في الأوعية الأكليلية.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alberto Frederico Artur Jorge (em inglês: Albert Frederick Arthur George; Norfolk, 14 de dezembro de 1895 — Norfolk, 6 de fevereiro de 1952) foi rei do Reino Unido e dos Domínios da Commonwealth com o título de Jorge VI. Foi o último imperador da Índia e primeiro chefe da Comunidade Britânica. Como segundo filho de Jorge V não era esperado que herdasse o trono, o que fez com que passasse parte de sua vida sob a sombra da popularidade de seu irmão mais velho, Eduardo. Serviu à marinha e à força aérea durante a Primeira Guerra Mundial, retomando seus compromissos públicos usuais após o término do conflito. Casou-se com Lady Isabel Bowes-Lyon em 1923 e teve duas filhas: Isabel e Margarida. Em 1936, com a morte de seu pai, seu irmão mais velho ascendeu ao trono como Eduardo VIII. No entanto, menos de um ano depois, o novo rei manifestou o interesse de casar-se com a socialite norte-americana Wallis Simpson, com quem já mantinha um relacionamento. Advertido pelo primeiro-ministro Stanley Baldwin de que razões políticas e religiosas impediam tal consórcio, Eduardo VIII decidiu abdicar em favor de Jorge, que se tornou o terceiro monarca da Casa de Windsor. Durante o reinado de Jorge VI, acelerou-se o processo de desmembramento do Império Britânico e sua transição para a Comunidade de Nações. No dia de sua ascensão, o Oireachtas, parlamento do Estado Livre Irlandês, retirou a menção direta ao monarca de sua Constituição, declarando formalmente a república e deixando a Comunidade de Nações em 1949. Em 1939, o Império e a Comunidade de Nações, com exceção do Estado Livre Irlandês, declararam guerra à Alemanha Nazista. Nos dois anos seguintes, declarou-se guerra também à Itália e ao Japão. Embora o Reino Unido e seus aliados tenham saído vitoriosos do conflito, os Estados Unidos e a União Soviética elevaram-se como proeminentes potências mundiais, enquanto o Império Britânico declinava. Em junho de 1948, pouco menos de um ano após a independência da Índia e do Paquistão, Jorge abandonou o título de Imperador da Índia, mas manteve o status de rei de ambos os países (a Índia se tornaria uma república em 1950, como país-membro da Comunidade de Nações). Nessa época, o rei adotou o novo título de Chefe da Comunidade Britânica. Atormentado por problemas de saúde nos últimos anos de seu reinado, Jorge VI morreu em 1952, sendo sucedido por sua filha mais velha, Isabel II.</dbo:abstract>
+    <dbo:abstract xml:lang="en">George VI (Albert Frederick Arthur George; 14 December 1895 – 6 February 1952) was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death. He was the last Emperor of India and the first Head of the Commonwealth. Known as Albert until his accession, George VI was born in the reign of his great-grandmother Queen Victoria, and was named after his great-grandfather Albert, Prince Consort. As the second son of King George V, he was not expected to inherit the throne and spent his early life in the shadow of his elder brother, Edward. He attended naval college as a teenager, and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923 and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he never fully overcame. George&#39;s elder brother ascended the throne as Edward VIII upon the death of their father in 1936. However, later that year Edward revealed his desire to marry the divorced American socialite Wallis Simpson. British Prime Minister Stanley Baldwin advised Edward that for political and religious reasons he could not marry a divorced woman and remain king. Edward abdicated in order to marry, and George ascended the throne as the third monarch of the House of Windsor. During George&#39;s reign the break-up of the British Empire and its transition into the Commonwealth of Nations accelerated. The parliament of the Irish Free State removed direct mention of the monarch from the country&#39;s constitution on the day of his accession. The following year, a new Irish constitution changed the name of the state to Ireland and established the office of President. From 1939, the Empire and Commonwealth – except Ireland – was at war with Nazi Germany. War with Italy and Japan followed in 1940 and 1941, respectively. Though Britain and its allies were ultimately victorious in 1945, the United States and the Soviet Union rose as pre-eminent world powers and the British Empire declined. After the independence of India and Pakistan in 1947, George remained king of both countries, but the title Emperor of India was abandoned in June 1948. Ireland formally declared itself a republic and left the Commonwealth in 1949, and India became a republic within the Commonwealth the following year. George adopted the new title of Head of the Commonwealth. He was beset by health problems in the later years of his reign. He was succeeded by his elder daughter, Elizabeth II.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge VI del Reino Unido (Albert Frederick Arthur George; Sandringham House, 14 de diciembre de 1895-ibídem, 6 de febrero de 1952) fue rey del Reino Unido y sus dominios de ultramar desde el 11 de diciembre de 1936 hasta su muerte. Fue el último emperador de la India (hasta el 14 de agosto de 1947), y el primer jefe de la Mancomunidad de Naciones. Como segundo hijo del rey Jorge V y de la reina María, no estaba previsto que heredara el trono tras la muerte de su padre. En 1909 inició su carrera en la Armada Real Británica, llegando a tomar parte, como oficial del buque HMS Collingwood, en la Batalla de Jutlandia durante la Primera Guerra Mundial. Se casó con lady Isabel Bowes-Lyon en 1923, matrimonio que tuvo dos hijas, Isabel (quien le sucedió como la reina Isabel II) y Margarita Rosa. El hermano mayor de Jorge VI, Eduardo, ascendió al trono tras la muerte de su padre en 1936. Sin embargo, menos de un año después, anunció sus intenciones de casarse con una estadounidense plebeya, Wallis Simpson. El primer ministro británico Stanley Baldwin advirtió al rey que, por razones políticas y religiosas, no podría seguir siéndolo en caso de casarse con Simpson, quien se había divorciado en dos ocasiones. Eduardo VIII abdicó de la Corona Británica el 11 de diciembre de 1936 para poder casarse con Simpson. Entonces, inesperadamente, Jorge subió al trono como tercer monarca de la Casa de Windsor. La pérdida de poder por parte del Reino Unido en el Estado Libre Irlandés y la guerra contra la Alemania Nazi y sus aliados marcaron su reinado. Además de la independencia de la India y Pakistán en 1947 y la fundación de la República de Irlanda en 1949, el reinado de Jorge VI vio la aceleración de la desintegración del Imperio y su transición a la Mancomunidad de Naciones. El estado de salud de Jorge VI empeoró gradualmente. Falleció a la edad de 56 años, el 6 de febrero de 1952 mientras dormía, a causa de una trombosis coronaria. A su muerte, su hija Isabel le sucedió en el trono británico.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jerzy VI (ang. George VI, ur. 14 grudnia 1895 w Sandringham House, zm. 6 lutego 1952 tamże) – król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej i dominiów (1936–1952), cesarz Indii (1936–1947), król Indii (1947–1949), król Irlandii (1936–1949). Brat Edwarda VIII i jego następca (po abdykacji Edwarda). Zyskał popularność i szacunek, gdy podczas niemieckich nalotów na Londyn nie opuścił miasta, mimo iż dziewięć razy bombardowany był pałac.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">George VI, né Albert Frederick Arthur George le 14 décembre 1895 et mort le 6 février 1952, a été roi du Royaume-Uni et des autres dominions du Commonwealth britannique du 11 décembre 1936 jusqu&#39;à sa mort. Il a également été le dernier empereur des Indes et le premier chef du Commonwealth. Il n&#39;était pas prévu que le second fils du roi George V régnât. Albert passa donc les premières années de sa vie dans l&#39;ombre de son frère aîné, David (futur Édouard VIII). Le prince Albert servit dans la Royal Navy et la Royal Air Force durant la Première Guerre mondiale. Après la guerre il remplit les habituels engagements publics de son rang. Il épousa Elizabeth Bowes-Lyon en 1923 et ils eurent deux filles, Elizabeth et Margaret. À la mort de son père en 1936, son frère accéda au trône sous le nom d&#39;Édouard VIII. Toutefois, moins d&#39;un an plus tard, Édouard exprima le désir de se marier avec Wallis Simpson, une mondaine américaine deux fois divorcée. Pour des raisons politiques et religieuses, le Premier ministre britannique, Stanley Baldwin, informa Édouard qu&#39;il ne pouvait pas l&#39;épouser et rester roi. Édouard VIII choisit d&#39;abdiquer et Albert surmontant ses bégaiements, monta sur le trône sous le nom de George VI, devenant ainsi le troisième monarque issu de la maison de Windsor. Durant le règne de George VI, la dislocation de l&#39;Empire britannique et sa transition vers le Commonwealth of Nations s&#39;accéléra. Le parlement de l&#39;État libre d&#39;Irlande supprima toute référence au roi dans sa constitution le jour de son accession au trône ; le pays devint officiellement une république en 1949 et quitta le Commonwealth. George VI mena le Royaume-Uni pendant la Seconde Guerre mondiale mais le pays perdit son statut de superpuissance au profit des États-Unis et de l&#39;Union soviétique. Après l’indépendance de l’Inde et du Pakistan en 1947, George resta roi de ces deux nations mais le titre d&#39;empereur des Indes fut abandonné. Victime de problèmes de santé dans les dernières années de son règne, il mourut le 6 février 1952 et sa fille Elizabeth lui succéda sous le nom d&#39;Élisabeth II.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Nel 1920 fu nominato dal padre duca di York e conte di Inverness. Nel 1923 sposò nell&#39;abbazia di Westminster lady Elizabeth Bowes-Lyon, dalla quale ebbe le due figlie, Elisabetta e Margaret. L&#39;11 dicembre 1936, in seguito all&#39;abdicazione del fratello Edoardo VIII, salì al trono prendendo il nome di Giorgio VI, poiché il suo primo nome Albert suonava troppo tedesco.Fu incoronato il 12 maggio 1937 nell&#39;abbazia di Westminster insieme alla moglie, la regina Elizabeth Bowes-Lyon; questa fu la prima incoronazione trasmessa dalla radio e registrata per la riproduzione privata dalla BBC. Evento centrale del suo regno fu la seconda guerra mondiale, combattuta dal Regno Unito, alleato della Francia e poi degli Stati Uniti, contro l&#39;Asse italo-tedesco. Durante tutta la guerra, e in modo particolare durante il difficile periodo dei bombardamenti su Londra, seppe conquistare la stima e l&#39;affetto dei suoi sudditi, rimanendo sempre saldamente al suo posto e rifiutando ogni fuga, contribuendo anzi, con i suoi discorsi radiofonici, a tenere alto il morale del paese durante la resistenza all&#39;attacco subito dalla Germania nazista. Nel dopoguerra fu tra i principali promotori della ripresa economica e sociale del Regno Unito.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg VI., gebürtig Prince Albert Frederick Arthur George, Duke of York (* 14. Dezember 1895 in York Cottage, Sandringham, Norfolk; † 6. Februar 1952 in Sandringham House, Norfolk) aus dem Haus Windsor (bis 1917 Haus Sachsen-Coburg und Gotha) war vom 11. Dezember 1936 bis zu seinem Tode König des Vereinigten Königreichs Großbritannien und Nordirland, letzter Kaiser von Indien (bis 1947) sowie erstes Oberhaupt des Commonwealth of Nations (ab 1949). Nachfolgerin ist seine älteste Tochter Elisabeth II., die aktuelle britische Monarchin.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">乔治六世（英语：George VI，1895年12月14日－1952年2月6日），原名阿尔伯特·弗雷德里克·亚瑟·乔治（英语：Albert Frederick Arthur George），英国国王及众英联邦自治领国王，1936年12月11日至1952年2月6日其过世在位。乔治六世亦为末任印度皇帝及首任英联邦元首。 乔治六世于其曾祖母维多利亚女王治时出生，以其曾祖父阿尔伯特亲王得名，并在登基前称阿尔伯特。作为乔治五世次子，阿尔伯特原先无望继承王位，其早年活在其长兄爱德华的阴影之下。他青年时就读于海军学院，并于第一次世界大战期间于皇家海军及皇家空军服役。1920年阿尔伯特受封为约克公爵。1923年其与伊丽莎白·鲍斯-莱昂女勋爵成婚，育有二女伊丽莎白及玛格丽特。1920年代中期其接受言语治疗以矫正其口吃，但这一缺陷并未彻底得到解决。 1936年乔治五世过世，爱德华登基为爱德华八世。同年他宣布希望同美籍离异名流华里丝·辛普森成婚；首相斯坦利·鲍德温告知爱德华因为政治及宗教原因，其若迎娶一离异女性，即将无法继续担任国王。由此爱德华决定退位以同辛普森成婚，阿尔伯特即即位为乔治六世，亦为温莎王朝第三位君主。 在乔治在位期间，大英帝国解体过程加速，逐渐演变为英联邦。爱尔兰自由邦议会在其即位日将英国君主之名从宪法中去除。次年，新爱尔兰宪法将国名更改为爱尔兰，并立爱尔兰总统为国家元首。1939年，大英帝国及英联邦（除爱尔兰）同纳粹德国开战，1940年和1941年亦同意大利及日本开战。1945年英国及其盟友最终取胜，但此时帝国的超级大国地位已被崛起的美国和苏联取代。1947年印度和巴基斯坦独立，乔治仍为两国国王，但于1948年6月放弃“印度皇帝”一头衔。1949年爱尔兰正式宣布改制为共和国并脱离联邦；次年印度亦改制为共和国，但仍为英联邦成员。乔治开始使用英联邦元首这一新头衔。 乔治在位后期饱受健康问题困扰，最终于1952年过世，其女伊丽莎白即位，称伊丽莎白二世。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Albert Frederick Arthur George (Sandringham Estate, 14 december 1895 – aldaar, 6 februari 1952) was van 11 december 1936 tot aan zijn dood in 1952 koning van het Verenigd Koninkrijk en van de Britse Overzeese Gebieden. Hij was van 1936 tot 1947 de laatste keizer van Indië en tot 1949 de laatste koning van Ierland. Als tweede zoon van koning George V was hij aanvankelijk niet voorbestemd om zijn vader op te volgen als koning en stond hij, vooral in zijn jeugd, in de schaduw van zijn oudere broer Eduard (die in de familie en bij zijn vrienden beter bekend was als David). Albert diende tijdens de Eerste Wereldoorlog bij de marine en na die oorlog nam hij zijn publieke functies waar. Hij trouwde met Elizabeth Bowes-Lyon in 1923. Uit dit huwelijk werden twee dochters geboren: Elizabeth, die na zijn dood koningin werd, en Margaret. Na de dood van hun vader in 1936 besteeg Alberts broer de troon als Eduard VIII. Minder dan een jaar later deed Eduard VIII afstand van de troon, omdat hij wilde trouwen met de al twee keer gescheiden Amerikaanse Wallis Simpson. De toenmalige Britse minister-president, Stanley Baldwin, informeerde Eduard dat hij niet kon trouwen met mevrouw Simpson én koning blijven; hij moest op dat moment een keuze maken. Eduard VIII koos voor de liefde en deed afstand van de troon, een unicum in de Britse geschiedenis. Hoewel hij er geweldig tegenop zag, want hij was verlegen en stotterde, moest Albert nu koning worden. Hij besteeg de troon als George VI, de derde monarch uit het huis Windsor. Zijn vrouw, koningin-gemalin Elizabeth, heeft het Eduard en Wallis altijd kwalijk genomen dat zij dit haar man hebben aangedaan. Vierentwintig uur na zijn troonsbestijging nam het Ierse parlement (de Oireachtas), de External Relations Act aan. Hierdoor had de Engelse monarch geen macht meer in Ierland. Drie jaar later was het Britse Rijk in oorlog met nazi-Duitsland, daarna met Italië en ook nog met het Keizerrijk Japan. De Tweede Wereldoorlog had grote gevolgen voor het Verenigd Koninkrijk. De positie van &#39;s werelds grootste mogendheid werd overgenomen door twee rivaliserende supermachten: de Verenigde Staten en de Sovjet-Unie. Bovendien begon het rijk na de oorlog uiteen te vallen; de onafhankelijkheid van India en Pakistan in 1947 en de stichting van de Ierse Republiek in 1949 heeft George VI nog meegemaakt.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ジョージ6世（英語: George VI、アルバート・フレデリック・アーサー・ジョージ、英語: Albert Frederick Arthur George、1895年12月14日 - 1952年2月6日）は、グレートブリテンおよび北アイルランド連合王国（イギリス）ならびに海外自治領（The British Dominions beyond the Sea）の国王（在位：1936年12月11日 - 1952年2月6日）。また、最後のインド皇帝（在位：1936年 - 1947年）にして、最初のイギリス連邦元首 (en:Head of the Commonwealth)（在位：1949年4月28日 - 1952年2月6日）でもあった。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Гео́рг VI (англ. George VI, крестильные имена Альберт Фредерик Артур Георг; 14 декабря 1895, Йорк-Коттедж, Сандрингем, Норфолк, Англия — 6 февраля 1952, Сандрингем) — король Соединённого Королевства Великобритании и Северной Ирландии, Канады, Австралии и Южной Африки с 11 декабря 1936 года. Из династии Виндзоров. Вступил на престол после отречения брата, Эдуарда VIII. Вошёл в историю прежде всего как символ борьбы Великобритании и стран Британской империи против нацистской Германии во Второй мировой войне. Царствование Георга ознаменовано распадом Британской империи и преобразованием её в Содружество наций. Он был последним императором Индии (с 12 декабря 1936 по 15 августа 1947) и последним королём Ирландии (до 18 апреля 1949). Носил титул главы Содружества наций (англ. Head of the Commonwealth) с 29 апреля 1949 года.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1936</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1936</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Elizabeth_Bowes-Lyon" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Formal portrait,  1940–46</dbp:caption>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George VI of the United Kingdom</dbp:commons>
+    <dbp:corType rdf:resource="http://dbpedia.org/resource/Coronation_of_King_George_VI_and_Queen_Elizabeth" />
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-05-12</dbp:coronation>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">q280856</dbp:d>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-02-15</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Windsor" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Margaret,_Countess_of_Snowdon" />
+    <dbp:issueLink rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#Issue</dbp:issueLink>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Prince_Andrew,_Duke_of_York" />
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George VI of the United Kingdom</dbp:q>
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Merged with the Crown</dbp:reason>
+    <dbp:regType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prime Ministers</dbp:regType>
+    <dbp:regent rdf:resource="http://dbpedia.org/resource/List_of_Prime_Ministers_of_King_George_VI" />
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Author:George VI of the United Kingdom</dbp:s>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:state rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">collapsed</dbp:state>
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">and the British Dominions</dbp:succession>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_British_monarchs" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(Royal Auxiliary Air Force from 1947)</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">British Dominions</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of the United Kingdom and the</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Air Commodore-in-Chief of the Air Training Corps</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Articles and topics related to George VI</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Emperor of India1</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Inverness" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Grand_Masters_of_the_Grand_Lodge_of_Scotland" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Head_of_the_Commonwealth" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Baron_Killarney" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Air Commodore-in-Chief of the Auxiliary Air Force</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_York" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1920</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1941</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1949</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Lyons">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Baldwin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Lyon_Mackenzie_King">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Ceylon">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Newall,_1st_Baron_Newall">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lloyd,_1st_Baron_Lloyd">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joey_Smallwood">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Fearns_Nicoll">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khawaja_Nazimuddin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Outerbridge">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Miller_(Saskatchewan)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Playford_IV">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Elliot_(Scottish_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jestyn_Llewellin,_1st_Baron_Llewellin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_MacDonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Walter_Jones">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malik_Ghulam_Muhammad">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thane_Campbell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hope,_2nd_Marquess_of_Linlithgow">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Francis_Mathers">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Ernest_Kendall">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Harold_Covert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aureole_(horse)">
+    <dbo:breeder rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Air_Crew_Europe_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burma_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France_and_Germany_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._B._M._Hertzog_government">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_V1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_J._Bowlen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Duplessis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Aitchison_Young">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_George_Jansen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacific_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Pollock">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Henry_Vaughan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_Caine">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pratt,_4th_Marquess_Camden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyons_Government">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HM_King_George_VI">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI,_Emperor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Caldecott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wood,_2nd_Earl_of_Halifax">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Rankine_(governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Simonds,_1st_Viscount_Simonds">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Dundas,_2nd_Marquess_of_Zetland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Duncan_(Governor-General)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_James_Manion">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_C._Bowen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Weaver">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarence_Wallace">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nevile_Henderson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Africa_Service_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Peter_McNab">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union_of_South_Africa_King&#39;s_Medal_for_Bravery,_Gold">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Primrose">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1937_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maxwell_MacLagan_Wedderburn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clement_Attlee">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earle_Page">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_St._Laurent">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neville_Chamberlain">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Menzies">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Keith,_Baron_Keith_of_Avonholm">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Vereker,_6th_Viscount_Gort">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominion_of_India">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Hamilton,_3rd_Duke_of_Abercorn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Loder,_2nd_Baron_Wakehurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_William_Lemuel_Prowse">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bradford_William_LePage">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D._S._Senanayake">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Mudie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Monckton-Arundell,_8th_Viscount_Galway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_McElwaine">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ransley_Thacker">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roland_Fairbairn_McWilliams">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Clark_(governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Cunningham_(governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Cunliffe-Lister,_1st_Earl_of_Swinton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Des_Brisay_de_Blois">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-François_Casgrain">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Stirling_MacMillan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allison_Dysart">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angus_Lewis_Macdonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Lloyd_Campbell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Manningham-Buller,_1st_Viscount_Dilhorne">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuart_Garson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Addison,_1st_Viscount_Addison">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_in_the_Irish_Free_State">
+    <dbp:lastMonarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Samoa_Trust_Territory">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Crookshank">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I._I._Chundrigar">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Kerr,_11th_Marquess_of_Lothian">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transvaal_Scottish_Regiment">
+    <dbp:postIncumbent rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1938_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Seeds">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1950_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Endersby_Harwood">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Straits_Settlements">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Douglas">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Dugan,_1st_Baron_Dugan_of_Victoria">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colony_of_Singapore">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Ali_Jinnah">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_of_Pakistan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Interim_Government_of_India">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union_of_South_Africa">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Air_Efficiency_Award">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Edinburgh">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Villiers,_6th_Earl_of_Clarendon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Craig,_1st_Viscount_Craigavon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stanhope,_7th_Earl_Stanhope">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hart_(Canadian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Logue">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Game">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morrison,_1st_Viscount_Dunrossil">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Buchan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adélard_Godbout">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Pattullo">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Lawson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidney_Holland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_McKell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Sidney,_1st_Viscount_De_L&#39;Isle">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Fraser_(New_Zealand_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clementine_Churchill">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaspard_Fauteux">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Allison_Glen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_King_Murray,_Lord_Birnam">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jogendra_Nath_Mandal">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugène_Fiset">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Lavarack">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1939–1945_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rise_of_Neville_Chamberlain">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1943_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Ross_Welsh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Windsor">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_II">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_VI" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_VI" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Manning">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italy_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominion_of_New_Zealand">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atlantic_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crown_Colony_of_Labuan">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_vi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sahibzada_Mohammad_Kursheed">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_in_Newfoundland_and_Labrador">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Labour_Government_of_New_Zealand">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_Scotland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Freyberg,_1st_Baron_Freyberg">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Daniel_Conant">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Joseph_Savage">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willoughby_Norrie,_1st_Baron_Norrie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Forde">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Curtin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cambridge,_1st_Earl_of_Athlone">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitchell_Hepburn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_9th_Dáil">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_P._Kennedy_Sr.">
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/George_VI" />
+    -->
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Freeston">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Borg_Olivier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Ormsby-Gore,_4th_Baron_Harlech">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Africa_Star">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Edward_Matthews">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Mair">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esioff-Léon_Patenaude">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lewis_Williams_Douglas">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sao_Shwe_Thaik">
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Walsh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eben_Dönges">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Layton_Butler">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_rule_in_Burma">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallas_Brooks">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Laurence_MacLaren">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Alphonsus_Bernard">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_MacLaren">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Euen_Mitchell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Attlee,_Countess_Attlee">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Rhodes_Bromet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murchison_Fletcher">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/18th_Canadian_Parliament">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1951_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Andre_Doyle">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Barton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Gough_Howell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Enoch_Jenkins">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hare,_5th_Earl_of_Listowel">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._P._Herbert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Hore-Ruthven,_1st_Earl_of_Gowrie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Fadden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Richards,_1st_Baron_Milverton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Cooper">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stuart,_1st_Viscount_Stuart_of_Findhorn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolaas_Jacobus_de_Wet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Johnston_Tupper">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Arden-Clarke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Godfrey_Huggins">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1939_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1941_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timeline_of_the_first_prime_ministership_of_Winston_Churchill">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_Canada">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D._S._Senanayake_cabinet">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Gairdner">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Stanley,_Lord_Stanley_(politician,_born_1894)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Marquis,_1st_Earl_of_Woolton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbrand_Sackville,_9th_Earl_De_La_Warr">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_Tyrrell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Stanley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Lucas_Guest">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montagu_Sherard_Dawes_Butler">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_O&#39;Malley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Treatt">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Arthur_Banks">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Wavell,_1st_Earl_Wavell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Wood,_1st_Earl_of_Halifax">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Aberhart">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Northcott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Garvey">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Inskip,_1st_Viscount_Caldecote">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_Medal_1939–1945">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Leveson-Gower,_4th_Earl_Granville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Lascelles">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gideon_Brand_van_Zyl">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Somerset,_10th_Duke_of_Beaufort">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_B._McNair">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bracken">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Defence_Medal_(United_Kingdom)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Hanson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcot_Ramasamy_Mudaliar">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Fitzalan-Howard,_16th_Duke_of_Norfolk">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Raj">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herwald_Ramsbotham,_1st_Viscount_Soulbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Binney">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_McGirr">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_VI">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cadogan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Grantham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Hamber">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Fletcher,_1st_Baron_Winster">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Head,_1st_Viscount_Head">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Luke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Alexander_Douglas_McCurdy">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Gilbert_Winant">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khwaja_Shahabuddin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Twining">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_Rhodesian_Legislative_Assembly">
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_George_Clark_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_VI_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Hardinge,_2nd_Baron_Hardinge_of_Penshurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_François_Malan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Cavendish,_10th_Duke_of_Devonshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enrico_Mizzi">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Henry_May">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._B._M._Hertzog">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Smuts">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Alexander_Bruce">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Edward_Stubbs">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Irwin_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Boffa">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Ross_Macdonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdur_Rab_Nishtar">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grantley_Herbert_Adams">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Nixon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liaquat_Ali_Khan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Baldwin_of_Bewdley">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Lloyd-George_of_Dwyfor">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boss_Johnson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_A._Drew">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_Frost">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Laird_Kennedy">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._Averell_Harriman">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_John_Patterson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Lyttelton,_1st_Viscount_Chandos">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Neill">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Herbert,_1st_Baron_Hemingford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Monck-Mason_Moore">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Kenya">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Frederick_Arthur_George">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Donald_Patrick,_Lord_Patrick">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1942_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1944_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1945_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1946_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1947_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1948_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Board_of_Ministers_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI,_King_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_India">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI_of_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_the_Sixth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_Duke_of_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Cornwall_and_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrews_ministry_(Northern_Ireland)">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert,_Duke_of_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Cornwall_and_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_vi_of_the_united_kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedding_of_Prince_Albert,_Duke_of_York,_and_Lady_Elizabeth_Bowes-Lyon">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Jan_Smuts_government">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_African_Medal_for_War_Services">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medal_for_Long_Service_and_Good_Conduct_(South_Africa)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union_of_South_Africa_King&#39;s_Medal_for_Bravery,_Silver">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GVIR">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dookie_(dog)">
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Cabinet_of_D.F._Malan">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fourth_Cabinet_of_J._B._M._Hertzog">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Third_Cabinet_of_J._B._M._Hertzog">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Third_Cabinet_of_Jan_Smuts">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_VI">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Vi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_george_the_6th">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geo._6">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_VI" />
+  </rdf:Description>
+</rdf:RDF>

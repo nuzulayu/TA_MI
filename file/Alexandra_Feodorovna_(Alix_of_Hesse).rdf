@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trans-Siberian_Railway_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_the_Great_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mosaic_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosebud_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alix_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_Coronation_Egg">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alice_of_the_United_Kingdom">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Tatiana_Nikolaevna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alix_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alix_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussian-GermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDamesOfTheOrderOfQueenMariaLuisa" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPassionBearers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dame109989045" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Girl110129825" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryRussianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Saint110546850" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emperor110053004" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianEmpresses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLadiesOfTheRoyalOrderOfVictoriaAndAlbert" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictimsOfRedTerrorInSovietRussia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Carrier109897696" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConvertsToEasternOrthodoxyFromProtestantism" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryChristianFemaleSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedGermanWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedPeopleFromHesse" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lady110243137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoodPerson110138767" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEasternOrthodoxPeopleExecutedByTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianTsarinas" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Convert109962414" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Czarina109987573" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Empress110053439" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianOrthodoxSaints" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEasternOrthodoxSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromDarmstadt" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfHolstein-Gottorp" />
+    <rdfs:label xml:lang="es">Alejandra Fiódorovna Románova</rdfs:label>
+    <rdfs:label xml:lang="ja">アレクサンドラ・フョードロヴナ (ニコライ2世皇后)</rdfs:label>
+    <rdfs:label xml:lang="fr">Alix de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="pt">Alexandra Feodorovna</rdfs:label>
+    <rdfs:label xml:lang="ar">ألكسندرا فيودورفنا</rdfs:label>
+    <rdfs:label xml:lang="ru">Александра Фёдоровна (жена Николая II)</rdfs:label>
+    <rdfs:label xml:lang="zh">亚历山德拉·费奥多罗芙娜皇后 (尼古拉二世)</rdfs:label>
+    <rdfs:label xml:lang="it">Aleksandra Fëdorovna Romanova</rdfs:label>
+    <rdfs:label xml:lang="pl">Aleksandra Romanowa (1872–1918)</rdfs:label>
+    <rdfs:label xml:lang="de">Alix von Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="nl">Alix van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="en">Alexandra Feodorovna (Alix of Hesse)</rdfs:label>
+    <rdfs:comment xml:lang="pt">Alexandra Feodorovna (Darmstadt, 6 de junho de 1872 – Ecaterimburgo, 17 de julho de 1918), nascida princesa Alice de Hesse e Reno, foi a esposa do imperador Nicolau II e Imperatriz Consorte do Império Russo de 1894 até abolição da monarquia em 1917. Era a sexta filha, a quarta menina, de Luís IV, Grão-Duque de Hesse e Reno, com sua esposa a princesa Alice do Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Victoria Alix Helena Louise Beatrice von Hessen und bei Rhein, VA (* 6. Juni 1872 in Darmstadt; † in der Nacht auf den 17. Juli 1918 in Jekaterinburg) war großherzogliche Prinzessin von Hessen-Darmstadt und durch ihre Heirat mit dem späteren Kaiser Nikolaus II. als Alexandra Fjodorowna (russisch Александра Фёдоровна) die letzte Kaiserin von Russland.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Nata Alice Vittoria Elena Luisa Beatrice d&#39;Assia e di Renania, (Darmstadt, 6 giugno 1872 - Ekaterinburg, 17 Luglio 1918) fu in nubilato una principessa del Granducato d&#39;Assia e del Reno, nipote della regina Vittoria del Regno Unito, ricevette il nome di Aleksandra Fëodorovna dopo la sua conversione alla Chiesa ortodossa russa, prima del matrimonio con Nicola II di Russia e divenne infine Imperatrice consorte di tutte le Russie. Era portatrice sana di emofilia come la nonna materna Vittoria e trasmise la malattia al figlio Aleksej Nikolaevič. La costante preoccupazione per la salute dell&#39;erede la portò ad affidarsi a vari santoni e presunti guaritori, tra i quali emerse Rasputin.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La princesse Alix Victoria Héléna Louise Béatrice de Hesse et du Rhin, née le 6 juin 1872 et assassinée le 17 juillet 1918, est un membre de la famille grand-ducale de Hesse et du Rhin. Épouse du tsar Nicolas II de Russie en 1894, elle est la dernière impératrice de Russie, sous le nom d&#39;Alexandra Fiodorovna Romanova (en russe : Александра Фёдоровна Романова).</rdfs:comment>
+    <rdfs:comment xml:lang="ar">أليكس أميرة هيسن والراين، عرفت فيما بعد بالكسندرا فيودورفنا (بالروسية: Императрица Александра Фёдоровна Imperatritsa Aleksandra Fyodorovna). ولدت ألكسندرا في 6 يونيو 1872 في القصر الجديد في دارمشتات.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Alexandra Feodorovna (Russian: Александра Фёдоровна) (6 June 1872 – 17 July 1918), was Empress of Russia as the spouse of Nicholas II, the last ruler of the Russian Empire. Originally known as Alix of Hesse and by Rhine, she was a granddaughter of Queen Victoria of the United Kingdom. Upon being received into the Russian Orthodox Church, she was given the name Alexandra Feodorovna and—having been put to death along with her immediate family while in Soviet captivity in 1918—was canonized in 2000 as Saint Alexandra the Passion Bearer.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">亚历山德拉·费奥多罗芙娜皇后（俄語：Императрица Александра Фёдоровна）1872年6月6日－1918年7月17日），是俄罗斯帝国末代沙皇尼古拉二世的皇后。亦是俄罗斯历代上最后一位皇后。 原名維多莉亞·阿歷克絲·海倫·露薏絲·貝婭特麗絲（德語：Viktoria Alix Helene Luise Beatrice Prinzessin von Hessen und bei Rhein），或称阿歷克絲公主，是德意志帝國黑森和萊茵大公國的公主，由東正教教堂受洗後按照俄国宫廷传统，改名為亞歷山德拉·費奧多蘿芙娜。她也是著名的血友病基因携带者。她支持以專制手段來控制國家，與俄羅斯東正教顛僧拉斯普京的關係也是她生命中重要的一部分。十月革命推翻罗曼诺夫王朝后，她与丈夫及子女被布尔什维克秘密处决。2000年与家人，被俄羅斯東正教会封為殉道聖人。或称聖亞歷山德拉。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Алекса́ндра Фёдоровна (Фео́доровна, урождённая принцесса Виктория Алиса Елена Луиза Беатриса Гессен-Дармштадтская, нем. Victoria Alix Helena Louise Beatrice von Hessen und bei Rhein, Николай II называл её также Аликс — производное от Алиса и Александра; 6 июня 1872, Дармштадт — 17 июля 1918, Екатеринбург) — российская императрица, супруга Николая II (c 1894 года). Четвёртая дочь великого герцога Гессенского и Рейнского Людвига IV и герцогини Алисы, дочери английской королевы Виктории. Тезоименитство (в православии) — 23 апреля по юлианскому календарю, память мученицы Александры.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Victoria Alix Helena Louise Beatrice van Hessen-Darmstadt (Darmstadt, 6 juni 1872 — Jekaterinenburg, 17 juli 1918) was de laatste tsarina van Rusland. Nadat ze bekeerd was tot de Russisch-orthodoxe Kerk om met de latere tsaar Nicolaas II van Rusland te kunnen trouwen, droeg ze de naam Alexandra Fjodorovna (Russisch: Александра Фёдоровна). Alexandra werd in 1918 met haar echtgenoot en kinderen door de bolsjewieken vermoord. Alexandra en haar gezin werden in 2000 door de Russisch-orthodoxe Kerk tot strastoterpets verklaard.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Aleksandra Fiodorowna, urodzona jako Alicja Wiktoria Helena Ludwika Beatrycze Hessen-Darmstadt (ur. 6 czerwca 1872 w Darmstadt, zm. 17 lipca 1918 w Jekaterynburgu) – ostatnia cesarzowa Rosji jako żona cesarza Mikołaja II. Święta prawosławna.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アレクサンドラ・フョードロヴナ（русский: Александра Фёдоровна, ラテン文字転写: Alexandra Feodrovna、1872年6月6日 - 1918年7月17日）は、ロシア皇帝ニコライ2世の皇后。アレクセイ皇太子、オリガ皇女、タチアナ皇女、マリア皇女、アナスタシア皇女の母。ラスプーチンの熱心な信者でパトロンでもあった。1918年7月17日未明に監禁先のエカテリンブルクのイパチェフ館において一家ともども殺された。 正教会で聖人（新致命者）。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Alejandra Fiódorovna Románova (en ruso: Императрица Алексáндра Фё́доровна, Imperatritsa Aleksandra Fiódorovna) (Darmstadt, 6 de junio de 1872-Ekaterimburgo, 17 de julio de 1918) fue la última emperatriz de Rusia como consorte del zar Nicolás II. Nacida con el nombre de Alix de Hesse y el Rin, era nieta de la reina Victoria del Reino Unido. Al ser recibida en la Iglesia ortodoxa rusa, se le dio el nombre de Alejandra Fiódorovna y en 2000 fue canonizada como Santa Alejandra Portadora de la Pasión junto con el resto de su familia tras su ejecución por los bolcheviques el 17 de julio de 1918. Alejandra era tía abuela materna del príncipe Felipe, duque de Edimbugo y prima hermana por dos veces de la reina Isabel II del Reino Unido.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wedding_of_Nicholas_II" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Aleksandra_Fëdorovna_Romanova" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexandra_Feodorovna" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/알렉산드라_표도로브나_(1872년)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q152094" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alix_von_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alejandra_Fiódorovna_Románova" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Aleksandra_Romanowa_(1872–1918)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q152094" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Alexandra_Fjodorovna_Ruská" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Alexandra_Feodorovna" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118648047" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/32018530" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alix_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレクサンドラ・フョードロヴナ_(ニコライ2世皇后)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alix_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0d7d5" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Yekaterinburg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_SFSR" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ipatiev_House" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-7-17</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-07-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/German_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1872-6-6</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1872-06-06</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1918_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_tsarinas" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_Russian_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Murdered_Russian_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian-German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_female_saints_of_the_Late_Modern_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_executions_by_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Russian_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_Red_Terror_in_Soviet_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_empresses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Peter_and_Paul_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Holstein-Gottorp" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Passion_bearers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Queen_Maria_Luisa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ladies_of_the_Royal_Order_of_Victoria_and_Albert" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nicholas_II_of_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_German_women" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Eastern_Orthodox_people_executed_by_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1872_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_Russian_women" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_people_from_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Christian_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_saints_of_the_Eastern_Orthodox_Church" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Eastern_Orthodoxy_from_Protestantism" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49861</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744660913</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bl.uk/eblj/2006articles/article4.html" />
+    <foaf:name xml:lang="en">Alexandra Fyodorovna</foaf:name>
+    <foaf:name xml:lang="en">Alexandra Feodorovna</foaf:name>
+    <foaf:name xml:lang="en">()</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexandra_Fyodorovna_LOC_01137u.jpg" />
+    <dct:description xml:lang="en">wife of Nicholas II of Russia</dct:description>
+    <foaf:givenName xml:lang="en">Alexandra</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+    <foaf:surname xml:lang="en">Romanova</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexandra_Fyodorovna_LOC_01137u.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Alix_of_Hesse)?oldid=744660913" />
+    <dbo:abstract xml:lang="de">Victoria Alix Helena Louise Beatrice von Hessen und bei Rhein, VA (* 6. Juni 1872 in Darmstadt; † in der Nacht auf den 17. Juli 1918 in Jekaterinburg) war großherzogliche Prinzessin von Hessen-Darmstadt und durch ihre Heirat mit dem späteren Kaiser Nikolaus II. als Alexandra Fjodorowna (russisch Александра Фёдоровна) die letzte Kaiserin von Russland.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La princesse Alix Victoria Héléna Louise Béatrice de Hesse et du Rhin, née le 6 juin 1872 et assassinée le 17 juillet 1918, est un membre de la famille grand-ducale de Hesse et du Rhin. Épouse du tsar Nicolas II de Russie en 1894, elle est la dernière impératrice de Russie, sous le nom d&#39;Alexandra Fiodorovna Romanova (en russe : Александра Фёдоровна Романова).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Aleksandra Fiodorowna, urodzona jako Alicja Wiktoria Helena Ludwika Beatrycze Hessen-Darmstadt (ur. 6 czerwca 1872 w Darmstadt, zm. 17 lipca 1918 w Jekaterynburgu) – ostatnia cesarzowa Rosji jako żona cesarza Mikołaja II. Święta prawosławna.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Alejandra Fiódorovna Románova (en ruso: Императрица Алексáндра Фё́доровна, Imperatritsa Aleksandra Fiódorovna) (Darmstadt, 6 de junio de 1872-Ekaterimburgo, 17 de julio de 1918) fue la última emperatriz de Rusia como consorte del zar Nicolás II. Nacida con el nombre de Alix de Hesse y el Rin, era nieta de la reina Victoria del Reino Unido. Al ser recibida en la Iglesia ortodoxa rusa, se le dio el nombre de Alejandra Fiódorovna y en 2000 fue canonizada como Santa Alejandra Portadora de la Pasión junto con el resto de su familia tras su ejecución por los bolcheviques el 17 de julio de 1918. Alejandra era tía abuela materna del príncipe Felipe, duque de Edimbugo y prima hermana por dos veces de la reina Isabel II del Reino Unido. Alejandra es recordada por ser la última zarina de Rusia como consecuencia de la Revolución de Octubre, además de ser una de los portadores reales más famosos de la hemofilia, y por su apoyo al control autocrático sobre el país. Su amistad con el místico ruso Grigori Rasputin también fue un factor importante en su vida.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Alexandra Feodorovna (Russian: Александра Фёдоровна) (6 June 1872 – 17 July 1918), was Empress of Russia as the spouse of Nicholas II, the last ruler of the Russian Empire. Originally known as Alix of Hesse and by Rhine, she was a granddaughter of Queen Victoria of the United Kingdom. Upon being received into the Russian Orthodox Church, she was given the name Alexandra Feodorovna and—having been put to death along with her immediate family while in Soviet captivity in 1918—was canonized in 2000 as Saint Alexandra the Passion Bearer. Alexandra was the last Tsaritsa of Russia and one of the most famous royal carriers of the haemophilia disease that descended from Queen Victoria. Her reputation for influencing her husband&#39;s resistance to the surrender of autocratic authority over the country and her known faith in the Russian mystic, Grigori Rasputin, severely damaged her popularity and that of the Romanov monarchy in its final years. She served as Regent of the Empire during the absence of her spouse in the First World War in 1915-1917.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Victoria Alix Helena Louise Beatrice van Hessen-Darmstadt (Darmstadt, 6 juni 1872 — Jekaterinenburg, 17 juli 1918) was de laatste tsarina van Rusland. Nadat ze bekeerd was tot de Russisch-orthodoxe Kerk om met de latere tsaar Nicolaas II van Rusland te kunnen trouwen, droeg ze de naam Alexandra Fjodorovna (Russisch: Александра Фёдоровна). Alexandra werd in 1918 met haar echtgenoot en kinderen door de bolsjewieken vermoord. Alexandra en haar gezin werden in 2000 door de Russisch-orthodoxe Kerk tot strastoterpets verklaard.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Nata Alice Vittoria Elena Luisa Beatrice d&#39;Assia e di Renania, (Darmstadt, 6 giugno 1872 - Ekaterinburg, 17 Luglio 1918) fu in nubilato una principessa del Granducato d&#39;Assia e del Reno, nipote della regina Vittoria del Regno Unito, ricevette il nome di Aleksandra Fëodorovna dopo la sua conversione alla Chiesa ortodossa russa, prima del matrimonio con Nicola II di Russia e divenne infine Imperatrice consorte di tutte le Russie. Era portatrice sana di emofilia come la nonna materna Vittoria e trasmise la malattia al figlio Aleksej Nikolaevič. La costante preoccupazione per la salute dell&#39;erede la portò ad affidarsi a vari santoni e presunti guaritori, tra i quali emerse Rasputin. Scoppiata la rivoluzione di febbraio, la monarchia dei Romanov fu dichiarata decaduta e la famiglia imperiale venne fatta prigioniera. Aleksandra fu fucilata, con il resto della sua famiglia, a Casa Ipat&#39;ev, il 17 luglio 1918. Nel 2000 la Chiesa ortodossa l&#39;ha canonizzata come Santa Aleksandra Fëdorovna Portatrice della Passione.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alexandra Feodorovna (Darmstadt, 6 de junho de 1872 – Ecaterimburgo, 17 de julho de 1918), nascida princesa Alice de Hesse e Reno, foi a esposa do imperador Nicolau II e Imperatriz Consorte do Império Russo de 1894 até abolição da monarquia em 1917. Era a sexta filha, a quarta menina, de Luís IV, Grão-Duque de Hesse e Reno, com sua esposa a princesa Alice do Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Алекса́ндра Фёдоровна (Фео́доровна, урождённая принцесса Виктория Алиса Елена Луиза Беатриса Гессен-Дармштадтская, нем. Victoria Alix Helena Louise Beatrice von Hessen und bei Rhein, Николай II называл её также Аликс — производное от Алиса и Александра; 6 июня 1872, Дармштадт — 17 июля 1918, Екатеринбург) — российская императрица, супруга Николая II (c 1894 года). Четвёртая дочь великого герцога Гессенского и Рейнского Людвига IV и герцогини Алисы, дочери английской королевы Виктории. Тезоименитство (в православии) — 23 апреля по юлианскому календарю, память мученицы Александры.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">أليكس أميرة هيسن والراين، عرفت فيما بعد بالكسندرا فيودورفنا (بالروسية: Императрица Александра Фёдоровна Imperatritsa Aleksandra Fyodorovna). ولدت ألكسندرا في 6 يونيو 1872 في القصر الجديد في دارمشتات.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">亚历山德拉·费奥多罗芙娜皇后（俄語：Императрица Александра Фёдоровна）1872年6月6日－1918年7月17日），是俄罗斯帝国末代沙皇尼古拉二世的皇后。亦是俄罗斯历代上最后一位皇后。 原名維多莉亞·阿歷克絲·海倫·露薏絲·貝婭特麗絲（德語：Viktoria Alix Helene Luise Beatrice Prinzessin von Hessen und bei Rhein），或称阿歷克絲公主，是德意志帝國黑森和萊茵大公國的公主，由東正教教堂受洗後按照俄国宫廷传统，改名為亞歷山德拉·費奧多蘿芙娜。她也是著名的血友病基因携带者。她支持以專制手段來控制國家，與俄羅斯東正教顛僧拉斯普京的關係也是她生命中重要的一部分。十月革命推翻罗曼诺夫王朝后，她与丈夫及子女被布尔什维克秘密处决。2000年与家人，被俄羅斯東正教会封為殉道聖人。或称聖亞歷山德拉。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アレクサンドラ・フョードロヴナ（русский: Александра Фёдоровна, ラテン文字転写: Alexandra Feodrovna、1872年6月6日 - 1918年7月17日）は、ロシア皇帝ニコライ2世の皇后。アレクセイ皇太子、オリガ皇女、タチアナ皇女、マリア皇女、アナスタシア皇女の母。ラスプーチンの熱心な信者でパトロンでもあった。1918年7月17日未明に監禁先のエカテリンブルクのイパチェフ館において一家ともども殺された。 正教会で聖人（新致命者）。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1917</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1894</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse_and_by_Rhine" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Alice_of_the_United_Kingdom" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Russian_consorts" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-01</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II_of_Russia">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse-Darmstadt)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Alexandra_Fyodorovna_(Alix_of_Hesse)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Rome">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alix_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_alix_of_hesse_and_by_rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moscow_Kremlin_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Fedorovna_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Palace_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanov_Tercentenary_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Alexandra_Feodorvna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Federovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Fyodorovna_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Fyodorovna_of_Hesse_and_by_the_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Fedorovna_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Feodorovna_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Hesse_and_by_Rhine_(Alexandra_Fyodorovna)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alix_of_Hesse_and_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alix_of_Hesse_and_by_Rhine_(Alexandra_Fyodorovna)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Feodorovna">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alix_von_Hessen">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alix_of_Hesse-Darmstadt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Alexandra_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alix">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Fyodorovna_(Alix_of_Hesse)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktoria_Alix_Helena_Luise_Beatrice_Prinzessin_von_Hessen_und_bei_Rhein">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Императрица_Александра_Фёдоровна_Романова">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra,_Empress_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basket_of_Wild_Flowers">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandra_Fyodorovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Alexandra_Feodorovna_(Alix_of_Hesse)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alexandra_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+  </rdf:Description>
+</rdf:RDF>

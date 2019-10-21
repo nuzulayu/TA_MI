@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Rhodes">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Denys_Rhodes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denys_Rhodes">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishWriters" />
+    <rdfs:label xml:lang="en">Denys Rhodes</rdfs:label>
+    <rdfs:comment xml:lang="en">Denys Gravenor Rhodes (9 July 1919 – 30 October 1981) was an English writer. He was best known for his novel The Syndicate which was adapted into a 1968 film. He was married twice, once to actress Rachel Gurney (1946-1950) and secondly to The Honourable Margaret Elphinstone (1925- ), a first cousin of Elizabeth II. They had four children: their eldest daughter Annabel served as a bridesmaid to Princess Margaret in 1960.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5259866" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Denys_Rhodes" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Denys_Rhodes" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05b0qy1" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5259866" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-10-30</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1919-7-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1981_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1919_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_writers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21027212</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719943944</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thepeerage.com/p5265.htm#i52649" />
+    <foaf:name xml:lang="en">Denys Rhodes</foaf:name>
+    <dct:description xml:lang="en">British writer</dct:description>
+    <foaf:givenName xml:lang="en">Denys</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Denys_Rhodes" />
+    <foaf:surname xml:lang="en">Rhodes</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Denys_Rhodes?oldid=719943944" />
+    <dbo:abstract xml:lang="en">Denys Gravenor Rhodes (9 July 1919 – 30 October 1981) was an English writer. He was best known for his novel The Syndicate which was adapted into a 1968 film. He was married twice, once to actress Rachel Gurney (1946-1950) and secondly to The Honourable Margaret Elphinstone (1925- ), a first cousin of Elizabeth II. Born in Ireland (though his father was from New Zealand), Rhodes served in the Second World War with the Rifle Brigade, fighting in North Africa and Italy. After his second marriage he lived and wrote in rural Devon, until inoperable lung cancer led to a move nearer London. They were offered The Garden House in Windsor Great Park by the Queen, where his wife has continued to live since his death and wrote her 2011 memoir The Final Curtsey. They had four children: their eldest daughter Annabel served as a bridesmaid to Princess Margaret in 1960.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Writer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rachel_Gurney">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Denys_Rhodes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Denys_Rhodes">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Denys_Rhodes" />
+  </rdf:Description>
+</rdf:RDF>

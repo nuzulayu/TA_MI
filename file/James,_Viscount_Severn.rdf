@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viscount_Severn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_NN_Windsor,_Viscount_Severn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NN_Windsor,_Viscount_Severn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_James_of_Wessex">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lord_NN_Windsor,_Viscount_Severn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Harry">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophie,_Countess_of_Wessex">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James,_Viscount_Severn">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromFrimley" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBagshot" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishCourtesyViscounts" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Viscount110756148" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Juvenile109622049" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109917593" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalChildren" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdfs:label xml:lang="nl">James Mountbatten-Windsor</rdfs:label>
+    <rdfs:label xml:lang="pt">Jaime, Visconde Severn</rdfs:label>
+    <rdfs:label xml:lang="ru">Джеймс, виконт Северн</rdfs:label>
+    <rdfs:label xml:lang="es">Jacobo Windsor</rdfs:label>
+    <rdfs:label xml:lang="zh">詹姆斯 (塞文子爵)</rdfs:label>
+    <rdfs:label xml:lang="pl">Jakub (wicehrabia Severn)</rdfs:label>
+    <rdfs:label xml:lang="en">James, Viscount Severn</rdfs:label>
+    <rdfs:label xml:lang="it">James, visconte Severn</rdfs:label>
+    <rdfs:label xml:lang="ar">جيمس، الفيكونت سيفيرن</rdfs:label>
+    <rdfs:label xml:lang="ja">ジェームズ (セヴァーン子爵)</rdfs:label>
+    <rdfs:label xml:lang="fr">James Mountbatten-Windsor</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جيمس، الفيكونت سيفيرن (بالإنجليزية: James, Viscount Severn) واسمه عند الولادة جيمس الكسندر ثيو فيليب مونتباتن وندسور ؛ من مواليد (17 ديسمبر 2007)، وهو الطفل الثاني والابن الوحيد لأمير إدوارد. وهو التاسع في خط الخلافة على عرش المملكة المتحدة ودول الكومنولث 
+* 32xبوابة أعلام 
+* 32xبوابة المملكة المتحدة 
+* 32xبوابة ملكية25بك هذه بذرة مقالة عن حياة شخصية بحاجة للتوسيع. شارك في تحريرها.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Джеймс Виндзор, виконт Северн (англ. James Windsor, Viscount Severn, р. 17 декабря 2007, Фримли, Суррей; имена при крещении Джеймс Александр Филип Тео) — второй ребёнок и единственный сын младшего сына королевы Елизаветы II принца Эдварда, графа Уэссекского и его супруги Софи. Является десятым в порядке наследования британского престола.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">セヴァーン子爵ジェームズ（James、Viscount Severn、全名:James Alexander Philip Theo、2007年12月17日 - ）は、イギリスの王族。ウェセックス伯爵エドワードとソフィーの長男である。エリザベス2世の孫にあたる。 フリムリーのフリムリー・パーク・ホスピタルで生まれた。父エドワードが保有しているウェセックス伯爵位の法定推定相続人として「セヴァーン子爵」の儀礼称号を称している。 イギリス王位継承順位はウェセックス伯爵エドワードに次ぎ、2015年5月5日現在10位。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jaime Alexandre Filipe Téo Mountbatten-Windsor (Frimley, 17 de dezembro de 2007) é o filho mais novo e único menino do príncipe Eduardo, Conde de Wessex e Sofia Rhys-Jones, sendo o neto da rainha Isabel II do Reino Unido e do príncipe Filipe, Duque de Edimburgo. Atualmente ele é o décimo na linha de sucessão ao trono britânico.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jakub, wicehrabia Severn, właśc. ang. James Alexander Philip Theo, Viscount Severn, ur. 17 grudnia 2007 w Frimley) - członek brytyjskiej rodziny królewskiej, wnuk królowej Elżbiety II, syn Edwarda, hrabiego Wesseksu (Earl of Wessex) i jego żony Sophie. Ochrzczony został 19 kwietnia 2008 w Zamku w Windsorze przez biskupa Davida Connera. Jego rodzicami chrzestnymi byli Denise Poulton, Jeanye Irwin, Alastair Bruce, Duncan Bullivant i Tom Hill. Mieszka w Bagshot Park razem z rodzicami i siostrą.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">James Alexander Philip Theo Mountbatten-Windsor, burggraaf Severn (Frimley, 17 december 2007) is het jongste kind van Edward, graaf van Wessex en diens echtgenote Sophie Rhys-Jones. Hij is een kleinkind van koningin Elizabeth II. James is geboren in het Frimley Park Hospital in Surrey via een keizersnede om 16.20 uur. Hij woog bij zijn geboorte 2800 gram. Zijn naam werd pas enkele dagen na zijn geboorte bekendgemaakt. Hij is op 19 april 2008 gedoopt.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">塞文子爵詹姆斯（James, Viscount Severn，2007年12月17日－），英國女王伊丽莎白二世和菲利普親王的孙子、爱德华王子與蘇菲·惠斯-鍾斯唯一一位儿子，塞文子爵詹姆斯也是大英國協王國中王位繼承順序排名第10位。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jacobo, vizconde Severn (James Alexander Philip Theo Mountbatten-Windsor; nacido el 17 de diciembre de 2007) es un miembro de la Familia Real Británica. Él es el segundo hijo y único varón del príncipe Eduardo, conde de Wessex y Sofía, condesa de Wessex, y es el décimo en la línea al trono. Es la persona de más alta jerarquía en la línea de sucesión, que no utiliza el estilo de Alteza Real.</rdfs:comment>
+    <rdfs:comment xml:lang="en">James, Viscount Severn (James Alexander Philip Theo Mountbatten-Windsor; born 17 December 2007), is the younger child and only son of the Earl and Countess of Wessex, and the youngest grandchild of Queen Elizabeth II and the Duke of Edinburgh. At birth, he was eighth in line to succeed his grandmother; he is currently tenth.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">James Alexander Philip Theo Mountbatten-Windsor, vicomte Severn, né le 17 décembre 2007 à Frimley (Surrey), est un membre de la famille royale britannique, fils cadet du prince Edward, comte de Wessex et de son épouse la comtesse Sophie, petit-fils de la reine Élisabeth II du Royaume-Uni. Bien que sa sœur Louise soit de 4 ans son aînée, il la précède néanmoins dans l’ordre de succession au trône britannique selon la règle de primogéniture masculine, le classant ainsi au 10e rang.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jaime,_Visconde_Severn" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/James_Mountbatten-Windsor" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q550183" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03gwk86" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/James_Mountbatten-Windsor" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/James,_visconte_Severn" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jakub_(wicehrabia_Severn)" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/James,_vikomt_Severn" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jacobo_Windsor" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/James,_Viscount_Severn" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジェームズ_(セヴァーン子爵)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q550183" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/James,_Viscount_Severn" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/세번_자작_제임스" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rR01aqBdkTFye3Hm-5MRhfg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Frimley" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Surrey" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Frimley_Park_Hospital" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-12-17</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_courtesy_viscounts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountbatten-Windsor_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2007_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_children" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Frimley" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Bagshot" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14750504</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742903693</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">James, Viscount Severn</foaf:name>
+    <foaf:name xml:lang="en">James Mountbatten-Windsor</foaf:name>
+    <foaf:name xml:lang="en">James Alexander Philip Theo Mountbatten-Windsor</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/James,_Viscount_Severn_2016.jpg" />
+    <dct:description xml:lang="en">son of Prince Edward, Earl of Wessex</dct:description>
+    <foaf:givenName xml:lang="en">James</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/James,_Viscount_Severn" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/James,_Viscount_Severn_2016.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/James,_Viscount_Severn?oldid=742903693" />
+    <dbo:abstract xml:lang="ja">セヴァーン子爵ジェームズ（James、Viscount Severn、全名:James Alexander Philip Theo、2007年12月17日 - ）は、イギリスの王族。ウェセックス伯爵エドワードとソフィーの長男である。エリザベス2世の孫にあたる。 フリムリーのフリムリー・パーク・ホスピタルで生まれた。父エドワードが保有しているウェセックス伯爵位の法定推定相続人として「セヴァーン子爵」の儀礼称号を称している。 イギリス王位継承順位はウェセックス伯爵エドワードに次ぎ、2015年5月5日現在10位。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">塞文子爵詹姆斯（James, Viscount Severn，2007年12月17日－），英國女王伊丽莎白二世和菲利普親王的孙子、爱德华王子與蘇菲·惠斯-鍾斯唯一一位儿子，塞文子爵詹姆斯也是大英國協王國中王位繼承順序排名第10位。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jakub, wicehrabia Severn, właśc. ang. James Alexander Philip Theo, Viscount Severn, ur. 17 grudnia 2007 w Frimley) - członek brytyjskiej rodziny królewskiej, wnuk królowej Elżbiety II, syn Edwarda, hrabiego Wesseksu (Earl of Wessex) i jego żony Sophie. Jest 10. w kolejce do Tronu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, zaraz po swoim ojcu i przed starszą siostrą Louise. Oficjalnie, jako wnuk monarchy w linii męskiej, posiada tytuł Jego Królewskiej Wysokości Księcia Jakuba z Wesseksu (of Wessex), jednak na życzenie jego rodziców podobnie jak w przypadku jego siostry nie używa się go. Ochrzczony został 19 kwietnia 2008 w Zamku w Windsorze przez biskupa Davida Connera. Jego rodzicami chrzestnymi byli Denise Poulton, Jeanye Irwin, Alastair Bruce, Duncan Bullivant i Tom Hill. Mieszka w Bagshot Park razem z rodzicami i siostrą.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جيمس، الفيكونت سيفيرن (بالإنجليزية: James, Viscount Severn) واسمه عند الولادة جيمس الكسندر ثيو فيليب مونتباتن وندسور ؛ من مواليد (17 ديسمبر 2007)، وهو الطفل الثاني والابن الوحيد لأمير إدوارد. وهو التاسع في خط الخلافة على عرش المملكة المتحدة ودول الكومنولث 
+* 32xبوابة أعلام 
+* 32xبوابة المملكة المتحدة 
+* 32xبوابة ملكية25بك هذه بذرة مقالة عن حياة شخصية بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jacobo, vizconde Severn (James Alexander Philip Theo Mountbatten-Windsor; nacido el 17 de diciembre de 2007) es un miembro de la Familia Real Británica. Él es el segundo hijo y único varón del príncipe Eduardo, conde de Wessex y Sofía, condesa de Wessex, y es el décimo en la línea al trono. Es la persona de más alta jerarquía en la línea de sucesión, que no utiliza el estilo de Alteza Real.</dbo:abstract>
+    <dbo:abstract xml:lang="en">James, Viscount Severn (James Alexander Philip Theo Mountbatten-Windsor; born 17 December 2007), is the younger child and only son of the Earl and Countess of Wessex, and the youngest grandchild of Queen Elizabeth II and the Duke of Edinburgh. At birth, he was eighth in line to succeed his grandmother; he is currently tenth.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Джеймс Виндзор, виконт Северн (англ. James Windsor, Viscount Severn, р. 17 декабря 2007, Фримли, Суррей; имена при крещении Джеймс Александр Филип Тео) — второй ребёнок и единственный сын младшего сына королевы Елизаветы II принца Эдварда, графа Уэссекского и его супруги Софи. Является десятым в порядке наследования британского престола.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Jaime Alexandre Filipe Téo Mountbatten-Windsor (Frimley, 17 de dezembro de 2007) é o filho mais novo e único menino do príncipe Eduardo, Conde de Wessex e Sofia Rhys-Jones, sendo o neto da rainha Isabel II do Reino Unido e do príncipe Filipe, Duque de Edimburgo. Atualmente ele é o décimo na linha de sucessão ao trono britânico.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">James Alexander Philip Theo Mountbatten-Windsor, vicomte Severn, né le 17 décembre 2007 à Frimley (Surrey), est un membre de la famille royale britannique, fils cadet du prince Edward, comte de Wessex et de son épouse la comtesse Sophie, petit-fils de la reine Élisabeth II du Royaume-Uni. Bien que sa sœur Louise soit de 4 ans son aînée, il la précède néanmoins dans l’ordre de succession au trône britannique selon la règle de primogéniture masculine, le classant ainsi au 10e rang.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">James Alexander Philip Theo Mountbatten-Windsor, burggraaf Severn (Frimley, 17 december 2007) is het jongste kind van Edward, graaf van Wessex en diens echtgenote Sophie Rhys-Jones. Hij is een kleinkind van koningin Elizabeth II. James is geboren in het Frimley Park Hospital in Surrey via een keizersnede om 16.20 uur. Hij woog bij zijn geboorte 2800 gram. Zijn naam werd pas enkele dagen na zijn geboorte bekendgemaakt. Hij is op 19 april 2008 gedoopt. James, burggraaf Severn, heeft een oudere zus: Lady Louise Mountbatten-Windsor (8 november 2003). De burggraaf heeft met zijn geboorte zijn zus van de negende plaats van troonopvolging verdrongen, aangezien mannen voor gaan op vrouwen. Hij is als oudste zoon opvolger van zijn vaders titel. Op dit moment zou dat betekenen dat hij de titel &quot;graaf van Wessex&quot; erft na diens dood.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Edward,_Earl_of_Wessex" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Sophie,_Countess_of_Wessex" />
+    <dbo:title xml:lang="en">Viscount Severn</dbo:title>
+    <dbp:dateOfChristening rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-04-19</dbp:dateOfChristening>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">James at Trooping the Colour in 2016</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Windsor" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_throne" />
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lord Severn</dbp:titles>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbp:years>
+    <dbp:placeOfChristening rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Windsor Castle, Berkshire</dbp:placeOfChristening>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Severn_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Edward,_Earl_of_Wessex">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Wessex">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Windsor,_Viscount_Severn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Severn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Alexander_Philip_Theo_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Mountbatten-Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/James,_Viscount_Severn">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/James,_Viscount_Severn" />
+  </rdf:Description>
+</rdf:RDF>

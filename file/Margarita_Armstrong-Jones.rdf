@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armstrong-Jones">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Margarita_Armstrong-Jones" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley">
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Margarita_Armstrong-Jones" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margarita_Armstrong-Jones">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdfs:label xml:lang="en">Margarita Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="nl">Margarita Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="pt">Margarita Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="pl">Margarita Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="ja">マーガリタ・アームストロング＝ジョーンズ</rdfs:label>
+    <rdfs:comment xml:lang="ja">マーガリタ・アームストロング＝ジョーンズ（英語: Margarita Armstrong-Jones, 2002年5月14日 - ）は、イギリス国王ジョージ6世の曾孫。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Margarita Elizabeth Rose Alleyne Armstrong-Jones (born 14 May 2002) is the only daughter and youngest child of Viscount and Viscountess Linley. She is the only granddaughter of Princess Margaret and the first of three granddaughters of the Earl of Snowdon.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Margarita Elizabeth Rose Alleyne Armstrong-Jones (Londen, 14 mei 2002) is de enige dochter van David Armstrong-Jones en Serena Armstrong-Jones. Ze werd 3 maanden na de dood van haar grootmoeder Prinses Margaret geboren. Ze heeft de titel The Honourable Margarita Armstrong-Jones. Maar als haar vader de tweede graaf van Snowdon wordt, krijgt zij de titel &#39;Lady Margarita Armstrong-Jones&#39;. Tijdens het huwelijk van prins William met Kate Middleton was Margarita een van de bruidsmeisjes.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Margarita Elisabeth Rose Alleyne Armstrong-Jones (ur. 14 maja 2002 r. w Londynie) - córka Davida Armstrong-Jonesa, wicehrabiego Linley (wnuka króla Jerzego VI) i Sereny Armstrong-Jones, z domu Stanhope, córki wicehrabiego Petersham. Obecnie jest 20. w linii sukcesji do brytyjskiego tronu. Pierwsze imię, Margarita, jak również i trzecie, Rose, nosi na pamiątkę swojej babki księżniczki Małgorzaty Windsor, imię Alleyne jest używane w rodzinie jej matki od wielu pokoleń.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Margarita possui um irmão mais velho: Charles, nascido em 1999.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Margarita_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Margarita_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Margarita_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Margarita_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027qq3" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rANZO6mU3SQysprlTmdfl_A" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/マーガリタ・アームストロング＝ジョーンズ" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2414886" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2414886" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Margarita_Armstrong-Jones" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-5-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-05-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2002_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Armstrong-Jones_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Mary&#39;s_School,_Ascot" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431396</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742993192</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.angelfire.com/realm/gotha/gotha/greatbritain.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/12/26/nqueen26.xml" />
+    <foaf:name xml:lang="en">Margarita Armstrong-Jones</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/The_royal_family_on_the_balcony_(cropped).jpg" />
+    <dct:description xml:lang="en">Great-niece of Queen Elizabeth II</dct:description>
+    <foaf:givenName xml:lang="en">Margarita</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Margarita_Armstrong-Jones" />
+    <foaf:surname xml:lang="en">Armstrong-Jones</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/The_royal_family_on_the_balcony_(cropped).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Margarita_Armstrong-Jones?oldid=742993192" />
+    <dbo:abstract xml:lang="pt">Margarita possui um irmão mais velho: Charles, nascido em 1999.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Margarita Elizabeth Rose Alleyne Armstrong-Jones (Londen, 14 mei 2002) is de enige dochter van David Armstrong-Jones en Serena Armstrong-Jones. Ze werd 3 maanden na de dood van haar grootmoeder Prinses Margaret geboren. Ze heeft de titel The Honourable Margarita Armstrong-Jones. Maar als haar vader de tweede graaf van Snowdon wordt, krijgt zij de titel &#39;Lady Margarita Armstrong-Jones&#39;. Margarita is op dit moment twintigste in lijn van de Britse troonopvolging. Ze is vernoemd naar haar grootmoeder, Prinses Margaret, en naar Elizabeth, de koningin-moeder en Koningin Elizabeth II. Rose was, volgens haar vader, geselecteerd door haar oudere broer Charles (1999). Alleyne is een naam van haar moeder. Tijdens het huwelijk van prins William met Kate Middleton was Margarita een van de bruidsmeisjes.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Margarita Elisabeth Rose Alleyne Armstrong-Jones (ur. 14 maja 2002 r. w Londynie) - córka Davida Armstrong-Jonesa, wicehrabiego Linley (wnuka króla Jerzego VI) i Sereny Armstrong-Jones, z domu Stanhope, córki wicehrabiego Petersham. Obecnie jest 20. w linii sukcesji do brytyjskiego tronu. Pierwsze imię, Margarita, jak również i trzecie, Rose, nosi na pamiątkę swojej babki księżniczki Małgorzaty Windsor, imię Alleyne jest używane w rodzinie jej matki od wielu pokoleń.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">マーガリタ・アームストロング＝ジョーンズ（英語: Margarita Armstrong-Jones, 2002年5月14日 - ）は、イギリス国王ジョージ6世の曾孫。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Margarita Elizabeth Rose Alleyne Armstrong-Jones (born 14 May 2002) is the only daughter and youngest child of Viscount and Viscountess Linley. She is the only granddaughter of Princess Margaret and the first of three granddaughters of the Earl of Snowdon.</dbo:abstract>
+    <dbo:birthName xml:lang="en">Margarita Elizabeth Rose Alleyne Armstrong-Jones</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2002</dbo:birthYear>
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Serena_Armstrong-Jones,_Viscountess_Linley" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Margarita  at the wedding of the Duke and Duchess of Cambridge in 2011</dbp:caption>
+    <dbp:honorificPrefix rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(The Honourable)</dbp:honorificPrefix>
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_throne" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Margarita_Armstrong-Jones">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Margarita_Armstrong-Jones" />
+  </rdf:Description>
+</rdf:RDF>

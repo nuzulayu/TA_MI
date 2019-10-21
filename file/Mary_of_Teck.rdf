@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mildred_Anne_Butler">
+    <dbp:patrons rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Prince_of_Wales_(1902)">
+    <dbp:shipChristened rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Mary_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evelyn_Cavendish,_Duchess_of_Devonshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary_Adelaide_of_Cambridge">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Mary_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George,_Duke_of_Kent">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Denmark">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Queen_Mary">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_of_Teck">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lady110243137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emperor110053004" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Empress110053439" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consort109958724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Queen110499857" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLadiesOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDamesOfTheOrderOfQueenMariaLuisa" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithQueenMary,UniversityOfLondon" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Girl110129825" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDamesOfTheOrderOfLouise" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dame109989045" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKensington" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/QueenDowager110500506" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/QueenMother110500603" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatQueenMothers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfYork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfRothesay" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincessesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLadiesOfTheRoyalOrderOfVictoriaAndAlbert" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfTeck" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheOrderOfTheCrownOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishWomen" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOfficersOfTheOrderOfTheBritishEmpire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIndianEmpresses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomenOfTheVictorianEra" />
+    <rdfs:label xml:lang="pl">Maria Teck</rdfs:label>
+    <rdfs:label xml:lang="ar">ماري تك</rdfs:label>
+    <rdfs:label xml:lang="de">Maria von Teck</rdfs:label>
+    <rdfs:label xml:lang="it">Mary di Teck</rdfs:label>
+    <rdfs:label xml:lang="ja">メアリー・オブ・テック</rdfs:label>
+    <rdfs:label xml:lang="nl">Mary van Teck</rdfs:label>
+    <rdfs:label xml:lang="en">Mary of Teck</rdfs:label>
+    <rdfs:label xml:lang="es">María de Teck</rdfs:label>
+    <rdfs:label xml:lang="ru">Мария Текская</rdfs:label>
+    <rdfs:label xml:lang="zh">特克的玛丽</rdfs:label>
+    <rdfs:label xml:lang="fr">Mary de Teck</rdfs:label>
+    <rdfs:label xml:lang="pt">Maria de Teck</rdfs:label>
+    <rdfs:comment xml:lang="pl">Maria Teck, urodzona jako Victoria Mary Augusta Louise Olga Pauline Claudine Agnes (ur. 26 maja 1867 w Londynie, zm. 24 marca 1953 tamże) – od 6 lipca 1893 do 20 stycznia 1936 żona Jerzego V z dynastii Sachsen-Coburg-Gotha (późniejsi Windsorowie). Królowa Wielkiej Brytanii i cesarzowa Indii w latach 1910-1936, królowa-wdowa od 1936 do śmierci. Maria spokrewniona była z królewskim domem panującym. Jej matka była wnuczką króla Wielkiej Brytanii Jerzego III. Poprzez ojca była także spokrewniona z Habsburgami.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Vitória Maria Augusta Luísa Olga Paulina Claudina Agnes (em inglês: Victoria Maria Augusta Louise Olga Pauline Claudine Agnes) (Londres, 26 de maio de 1867 — Westminster, 24 de março de 1953) foi rainha consorte do Reino Unido e dos Domínios britânicos e imperatriz consorte da Índia, como a esposa do rei-imperador Jorge V.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Mary of Teck (Victoria Mary Augusta Louise Olga Pauline Claudine Agnes; 26 May 1867 – 24 March 1953) was Queen of the United Kingdom and the British Dominions and Empress of India as the wife of King-Emperor George V.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">ماري تك (فيكتوريا ماري أوغستا لويز أولغا بولين كلودين أغنيس، ولدت في 26 مايو عام 1867 – توفيت في 24 مارس عام 1953) كانت زوجة الملك-الإمبراطور للمملكة المتحدة جورج الخامس وبالتالي فكانت الملكة القرينة للمملكة المتحدة و المستعمرات البريطانية (دومينيون) والإمبراطورة القرينة للهند. منذ ولادتها كانت أميرة قلعة تك، في مملكة فورتمبيرغ، وحصلت على اللقَب التَشريفيّ صاحبة السمو الأميري. كانت تدعى ب (ماي) في عائلتها بصورة غير رسمية تيمناً بالشهر الذي ولدت فيه. كانت معروفة بتحديد طابع العائلة المالكة البريطانية كنموذج للشكلية والمِلْكِيَّة ، خاصة خلال المناسبات الرسمية.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Sebbene tecnicamente principessa Von Teck, del Regno di Württemberg, nacque e fu allevata nel Regno Unito. I suoi genitori erano Francesco, Duca di Teck, che era di origine tedesca, e la Principessa Maria Adelaide di Cambridge, un membro della famiglia reale britannica. Per la sua famiglia, era informalmente nota come &quot;May&quot;, dopo la sua nascita. All&#39;età di 24 anni fu promessa al Principe Alberto Vittorio, Duca di Clarence e Avondale, figlio maggiore del Principe di Galles, ma sei settimane dopo l&#39;annuncio del fidanzamento egli morì inaspettatamente di polmonite. L&#39;anno successivo divenne fidanzata con il fratello di Alberto Vittorio, Giorgio, che successivamente diventò re Giorgio V.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Mary de Teck (Victoria Marie Augusta Louise Olga Pauline Claudine Agnes de Teck) née le 26 mai 1867 à Londres et morte le 24 mars 1953 dans la même ville, était l&#39;épouse de George V du Royaume-Uni. La reine Mary portait le titre de reine consort du Royaume-Uni et impératrice des Indes. Avant l&#39;accession au trône de George V, elle avait successivement porté, en raison de son mariage, les titres de duchesse d&#39;York puis de duchesse de Cornouailles et enfin de princesse de Galles.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Викто́рия Мари́я Авгу́ста Луи́за О́льга Паули́на Клоди́на Агне́сса Те́кская (англ. Victoria Mary Augusta Louise Olga Pauline Claudine Agnes of Teck; 26 мая 1867, Кенсингтонский дворец, Лондон — 24 марта 1953, Мальборо-Хаус, Лондон) — супруга Георга V, короля Великобритании и Ирландии, императора Индии, мать Эдуарда VIII и Георга VI и бабушка королевы Елизаветы II.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">特克的瑪麗（Mary of Teck，1867年5月26日－1953年3月24日），全名維多利亞·瑪麗·奧古斯塔·路易斯·奧爾加·保琳·克勞丁·阿格尼斯（英语：Victoria Mary Augusta Louise Olga Pauline Claudine Agnes），是喬治五世的妻子，两人共育有五子一女。曾任英國兼英屬自治領皇后、以及印度皇后。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Victoria Maria Augusta Louise Olga Pauline Claudine Agnes van Teck (Engels: Victoria Mary) (Kensington Palace, Londen, 26 mei 1867 – Marlborough House, Londen, 24 maart 1953) was de gemalin van de Britse koning George V met wie ze in 1893 trouwde. Aanvankelijk was ze verloofd met zijn oudere broer die echter in 1892 overleed.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Victoria Mary Augusta Louise Olga Pauline Claudine Agnes von Teck, VA, (* 26. Mai 1867 im Kensington Palace, London; † 24. März 1953 in Marlborough House) war als Gemahlin von König Georg V. ab 1910 Königin von Großbritannien und Irland (ab 1927 Königin von Großbritannien und Nordirland) sowie Kaiserin von Indien. Nach dem Tod ihres Mannes im Jahr 1936 war Queen Mary offiziell „Königinwitwe“ (Dowager Queen).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">メアリー・オブ・テック（英語: Mary of Teck, 1867年5月26日 - 1953年3月24日）は、イギリス国王ジョージ5世の妃。</rdfs:comment>
+    <rdfs:comment xml:lang="es">María de Teck (Victoria Mary Augusta Louise Olga Pauline Claudine Agnes von Teck, 26 de mayo de 1867 – 24 de marzo de 1953) fue la esposa del rey-emperador Jorge V del Reino Unido y por tanto reina consorte del Reino Unido y los dominios británicos y emperatriz de la India. Por nacimiento era princesa de Teck, en el Reino de Wurtemberg, y recibió el tratamiento de Alteza Serenísima.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/And_Princess_Mary_of_Teck" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wedding_of_Prince_George" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Duke_of_York" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Maria_Teck" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Mary_dari_Teck" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Mary_di_Teck" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Mary_de_Teck" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q76927" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q76927" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/María_de_Teck" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cz4l" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Marie_z_Tecku" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118869701" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4r0tTGQqVqQs66uxnwL1yc8w" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Mary_of_Teck" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/メアリー・オブ・テック" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Mary_van_Teck" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Maria_von_Teck" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μαίρη_του_Τεκ" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/테크의_메리" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Maria_de_Teck" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Marlborough_House" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1953-03-24</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1953-3-24</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kensington_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-5-26</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-05-26</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_of_the_Victorian_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_V" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Queen_of_Sheba" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Queen_Mary_University_of_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Royal_Red_Cross" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1953_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_York" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Queen_mothers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ladies_of_the_Royal_Order_of_Victoria_and_Albert" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ladies_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:The_Queen&#39;s_Own_Rifles_of_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Indian_empresses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_the_British_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1867_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Crown_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Star_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Louise" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mary_of_Teck" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Star_of_Ethiopia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Saint_Isabel" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Queen_Maria_Luisa" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48419</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744942286</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Victoria Mary Augusta Louise Olga Pauline Claudine Agnes</foaf:name>
+    <foaf:name xml:lang="en">Mary of Teck</foaf:name>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Queenmaryformalportrait_edit3.jpg" />
+    <dct:description xml:lang="en">Queen consort of the United Kingdom Empress of India</dct:description>
+    <foaf:givenName xml:lang="en">Mary</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mary_of_Teck" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Queenmaryformalportrait_edit3.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mary_of_Teck?oldid=744942286" />
+    <dbo:abstract xml:lang="pt">Vitória Maria Augusta Luísa Olga Paulina Claudina Agnes (em inglês: Victoria Maria Augusta Louise Olga Pauline Claudine Agnes) (Londres, 26 de maio de 1867 — Westminster, 24 de março de 1953) foi rainha consorte do Reino Unido e dos Domínios britânicos e imperatriz consorte da Índia, como a esposa do rei-imperador Jorge V. Embora fosse tecnicamente uma princesa de Teck, do Reino de Württemberg, ela nasceu e foi criada no Reino Unido. Seus pais eram o príncipe Francisco, Duque de Teck, que era de origem alemã, e a princesa Maria Adelaide de Cambridge, membro da família real britânica. Por haver nascido no mês de maio, ela era chamada familiarmente de &quot;May&quot;. Aos 24 anos de idade, Maria foi prometida em casamento ao príncipe Alberto Vitor, filho mais velho do príncipe de Gales, mas, seis semanas após o anúncio do noivado, ele morreu inesperadamente de pneumonia. No ano seguinte, ela envolveu-se com o irmão de Alberto, Jorge, que posteriormente tornou-se rei. Antes da ascensão do marido, ela foi sucessivamente duquesa de Iorque, duquesa da Cornualha e princesa de Gales. Como rainha consorte, desde 1910, ela apoiou o marido ao longo da Primeira Guerra Mundial, durante seus problemas de saúde e nas maiores mudanças políticas que se seguiram ao término da guerra, com a ascensão do socialismo e do nazifascismo. Com a morte de Jorge V, em 1936, seu filho mais velho subiu ao trono, como Eduardo VIII. Porém, ele abdicou no mesmo ano para se casar com a socialite americana divorciada Wallis Simpson. Maria apoiou seu segundo filho, Alberto, que reinou como Jorge VI até sua morte, em 1952. Ela morreu no ano seguinte, no início do reinado de sua neta, Isabel II.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Victoria Mary Augusta Louise Olga Pauline Claudine Agnes von Teck, VA, (* 26. Mai 1867 im Kensington Palace, London; † 24. März 1953 in Marlborough House) war als Gemahlin von König Georg V. ab 1910 Königin von Großbritannien und Irland (ab 1927 Königin von Großbritannien und Nordirland) sowie Kaiserin von Indien. Nach dem Tod ihres Mannes im Jahr 1936 war Queen Mary offiziell „Königinwitwe“ (Dowager Queen).</dbo:abstract>
+    <dbo:abstract xml:lang="es">María de Teck (Victoria Mary Augusta Louise Olga Pauline Claudine Agnes von Teck, 26 de mayo de 1867 – 24 de marzo de 1953) fue la esposa del rey-emperador Jorge V del Reino Unido y por tanto reina consorte del Reino Unido y los dominios británicos y emperatriz de la India. Por nacimiento era princesa de Teck, en el Reino de Wurtemberg, y recibió el tratamiento de Alteza Serenísima. María nació y creció en Inglaterra debido a que su padre, de origen alemán, estaba casado con una princesa que era miembro de la familia real británica. A la edad de 24 años se comprometió con el príncipe Alberto Víctor, duque de Clarence y Avondale, heredero al trono británico, pero el príncipe murió de pulmonía de forma inesperada seis semanas después de haberse anunciado el compromiso. Al año siguiente se comprometió con el nuevo heredero, Jorge, hermano de Alberto. Antes de que este accediera al trono, fue sucesivamente duquesa de York, duquesa de Cornualles y princesa de Gales. Como reina consorte desde 1910, cuidó a su marido durante sus problemas de salud, apoyándole en las dificultades surgidas durante la Primera Guerra Mundial y en los importantes cambios políticos que se presentaron como consecuencia de esta y del surgimiento del socialismo y el nacionalismo en Inglaterra. Después de la muerte de Jorge V en 1936, su hijo mayor Eduardo se convirtió en el rey-emperador, pero abdicó el mismo año para casarse con la socialité estadounidense y dos veces divorciada Wallis Simpson. La reina brindó apoyo a Alberto, su segundo hijo, que ocupó el trono como Jorge VI hasta su muerte en 1952. María murió al año siguiente, al inicio del reinado de su nieta Isabel II del Reino Unido. Por un breve período, hubo tres reinas en el país: la propia María, su nuera la reina madre Isabel e Isabel II.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Mary de Teck (Victoria Marie Augusta Louise Olga Pauline Claudine Agnes de Teck) née le 26 mai 1867 à Londres et morte le 24 mars 1953 dans la même ville, était l&#39;épouse de George V du Royaume-Uni. La reine Mary portait le titre de reine consort du Royaume-Uni et impératrice des Indes. Avant l&#39;accession au trône de George V, elle avait successivement porté, en raison de son mariage, les titres de duchesse d&#39;York puis de duchesse de Cornouailles et enfin de princesse de Galles. La reine Mary manifesta un intérêt aigu pour les affaires de l&#39;État. Elle fut aussi la première épouse royale à assister au couronnement des successeurs de son mari. La valeur de sa collection de joyaux, amassés au fil des ans, est aujourd&#39;hui inestimable.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Victoria Maria Augusta Louise Olga Pauline Claudine Agnes van Teck (Engels: Victoria Mary) (Kensington Palace, Londen, 26 mei 1867 – Marlborough House, Londen, 24 maart 1953) was de gemalin van de Britse koning George V met wie ze in 1893 trouwde. Aanvankelijk was ze verloofd met zijn oudere broer die echter in 1892 overleed.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">ماري تك (فيكتوريا ماري أوغستا لويز أولغا بولين كلودين أغنيس، ولدت في 26 مايو عام 1867 – توفيت في 24 مارس عام 1953) كانت زوجة الملك-الإمبراطور للمملكة المتحدة جورج الخامس وبالتالي فكانت الملكة القرينة للمملكة المتحدة و المستعمرات البريطانية (دومينيون) والإمبراطورة القرينة للهند. منذ ولادتها كانت أميرة قلعة تك، في مملكة فورتمبيرغ، وحصلت على اللقَب التَشريفيّ صاحبة السمو الأميري. كانت تدعى ب (ماي) في عائلتها بصورة غير رسمية تيمناً بالشهر الذي ولدت فيه. ولدت ماري وترعرعت في إنجلترا بسبب أن والدها، ذو الأصل الألماني، كان متزوج بأميرة كانت عضو في العائلة البريطانية المالكة. عند بلوغها سن الرابعة والعشرون كانت مخطوبة من الأمير ألبرت دوق كلارنس وأفوندال وهو وريث العرش البريطاني، ولكن توفي الأمير بشكل غير متوقع بسبب الالتهاب الرئوي عقب ستة أسابيع من أعلان الخطوبة. وفي السنة التالية أصبحت مخطوبة لولي العهد الجديد، جورج، شقيق ألبرت. قبل تولي الملك العرش، كانت على التوالي دوقة يورك ودوقة كورنوال وأميرة ويلز. كملكة قرينة منذ 1910، أعتنت بزوجها خلال مشاكله الصحية، ودعمته خلال الصعوبات التي ظهرت خلال الحرب العالمية الأولى وكذلك في التغييرات السياسية الهامة التي ظهرت كنتيجة للحرب وظهور الاشتراكية والقومية في أنجلترا. عقب وفاة جروج الخامس في 1936، أصبح ابنها الأكبر إدوارد هو الملك-الإمبراطور، ولكنه تخلى عن العرش في نفس السنة لأجل التزوج من سيدة المجتمع الأمريكية والمطلقة مرتين واليس سمبسون. قدمت الملكة الدعم لألبرت، ابنها الثاني، الذي ورث العرش كجروج السادس حتى وفاته في 1952. توفت ماري في السنة التالية، في بداية حكم حفيدتها إليزابيث الثانية للملكة المتحدة. خلال فترة قصيرة، كان هناك ثلاث ملكات في البلد: ماري نفسها وزوجة ابنها الملكة إليزابيث الأم وإليزابيث الثانية. كانت معروفة بتحديد طابع العائلة المالكة البريطانية كنموذج للشكلية والمِلْكِيَّة ، خاصة خلال المناسبات الرسمية.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">特克的瑪麗（Mary of Teck，1867年5月26日－1953年3月24日），全名維多利亞·瑪麗·奧古斯塔·路易斯·奧爾加·保琳·克勞丁·阿格尼斯（英语：Victoria Mary Augusta Louise Olga Pauline Claudine Agnes），是喬治五世的妻子，两人共育有五子一女。曾任英國兼英屬自治領皇后、以及印度皇后。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Sebbene tecnicamente principessa Von Teck, del Regno di Württemberg, nacque e fu allevata nel Regno Unito. I suoi genitori erano Francesco, Duca di Teck, che era di origine tedesca, e la Principessa Maria Adelaide di Cambridge, un membro della famiglia reale britannica. Per la sua famiglia, era informalmente nota come &quot;May&quot;, dopo la sua nascita. All&#39;età di 24 anni fu promessa al Principe Alberto Vittorio, Duca di Clarence e Avondale, figlio maggiore del Principe di Galles, ma sei settimane dopo l&#39;annuncio del fidanzamento egli morì inaspettatamente di polmonite. L&#39;anno successivo divenne fidanzata con il fratello di Alberto Vittorio, Giorgio, che successivamente diventò re Giorgio V. Prima dell&#39;ascesa del marito fu in successione Duchessa di York, Duchessa di Cornovaglia e poi Principessa di Galles. Come sua regina consorte dal 1910, sostenne suo marito durante la prima guerra mondiale, il suo cattivo stato di salute e i principali cambiamenti politici derivanti dalle conseguenze della guerra ed il sorgere del socialismo e del nazionalismo. Dopo la morte di Giorgio nel 1936, suo figlio maggiore salì al trono col nome di Edoardo VIII del Regno Unito, ma con suo grande sgomento egli abdicò lo stesso anno per sposare l&#39;americana Wallis Simpson. Sostenne il suo secondo figlio, Alberto, che salì al trono come Giorgio VI, fino alla morte di lui nel 1952. Mary morì l&#39;anno successivo, al principio del regno di sua nipote, Elisabetta II. Per breve tempo, ci furono tre regine nel paese: la regina Nonna Mary, Elisabetta la regina Madre ed Elisabetta II.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Maria Teck, urodzona jako Victoria Mary Augusta Louise Olga Pauline Claudine Agnes (ur. 26 maja 1867 w Londynie, zm. 24 marca 1953 tamże) – od 6 lipca 1893 do 20 stycznia 1936 żona Jerzego V z dynastii Sachsen-Coburg-Gotha (późniejsi Windsorowie). Królowa Wielkiej Brytanii i cesarzowa Indii w latach 1910-1936, królowa-wdowa od 1936 do śmierci. Maria spokrewniona była z królewskim domem panującym. Jej matka była wnuczką króla Wielkiej Brytanii Jerzego III. Poprzez ojca była także spokrewniona z Habsburgami.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Викто́рия Мари́я Авгу́ста Луи́за О́льга Паули́на Клоди́на Агне́сса Те́кская (англ. Victoria Mary Augusta Louise Olga Pauline Claudine Agnes of Teck; 26 мая 1867, Кенсингтонский дворец, Лондон — 24 марта 1953, Мальборо-Хаус, Лондон) — супруга Георга V, короля Великобритании и Ирландии, императора Индии, мать Эдуарда VIII и Георга VI и бабушка королевы Елизаветы II. По рождению принадлежала к морганатической ветви Вюртембергского королевского дома. Родилась и выросла в Великобритании при дворе королевы Виктории. В 1893 году вышла замуж за 2-го сына принца Уэльского Эдуарда, принца Георга, герцога Йоркского, наследника престола после смерти старшего брата, невестой которого была Мария. До вступления мужа на престол в 1910 году была принцессой Уэльской и герцогиней Корнуольской. Став королевой, поддерживала мужа в Первой мировой войне и политической нестабильности после войны. В 1936 году овдовела и стала королевой-матерью своего сына, короля Эдуарда VIII, но тот отрёкся от престола в том же году к большому негодованию королевы Марии ради женитьбы на американке Уоллис Симпсон. После этого оказывала поддержку своему второму сыну, королю Георгу VI вплоть до его смерти в 1952 году. Умерла на следующий год во время правления своей внучки Елизаветы II.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Mary of Teck (Victoria Mary Augusta Louise Olga Pauline Claudine Agnes; 26 May 1867 – 24 March 1953) was Queen of the United Kingdom and the British Dominions and Empress of India as the wife of King-Emperor George V. Although technically a princess of Teck, in the Kingdom of Württemberg, she was born and raised in England. Her parents were Francis, Duke of Teck, who was of German extraction, and Princess Mary Adelaide of Cambridge, a granddaughter of King George III. She was informally known as &quot;May&quot;, after her birth month. At the age of 24 she was betrothed to Prince Albert Victor, Duke of Clarence and Avondale, the eldest son of the Prince of Wales, but six weeks after the announcement of the engagement he died unexpectedly of pneumonia. The following year she became engaged to Albert Victor&#39;s next surviving brother, George, who subsequently became King. Before her husband&#39;s accession she was successively Duchess of York, Duchess of Cornwall, and Princess of Wales. As queen consort from 1910, she supported her husband through the First World War, his ill health and major political changes arising from the aftermath of the war, and the rise of socialism and nationalism. After George&#39;s death in 1936, she became queen mother when her eldest son, Edward, ascended the throne, but to her dismay he abdicated later the same year in order to marry twice-divorced American socialite Wallis Simpson. She supported her second son, Albert, who succeeded to the throne as George VI, until his death in 1952. She died the following year, during the reign of her granddaughter Queen Elizabeth II, who had not yet been crowned.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">メアリー・オブ・テック（英語: Mary of Teck, 1867年5月26日 - 1953年3月24日）は、イギリス国王ジョージ5世の妃。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1936</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1910</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Mary_Adelaide_of_Cambridge" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St_George&#39;s_Chapel_at_Windsor_Castle" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/King_George_V" />
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mary in tiara and gown wearing a choker necklace and a string of pearls</dbp:alt>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen Mary of the United Kingdom, formal portrait</dbp:caption>
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-06-22</dbp:coronation>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1953-03-31</dbp:dateOfBurial>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Teck / Cambridge</dbp:house>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_George,_Duke_of_Kent" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary,_Princess_Royal_and_Countess_of_Harewood" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/King_Edward_VIII" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/King_George_VI" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_John_of_the_United_Kingdom" />
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen consort of the United Kingdom and the British Dominions, Empress consort of India</dbp:succession>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Grand_Masters_of_the_Order_of_the_British_Empire" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_British_consorts" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Empress_of_India" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1936</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1910</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry,_Duke_of_Gloucester">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother">
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RMS_Queen_Mary">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RMS_Queen_Mary_2">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/May_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis,_Duke_of_Teck">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Prince_George_(1895)">
+    <dbp:shipChristened rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_public_art_in_Staffordshire">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/127th_Baluch_Light_Infantry">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_of_teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Ashley-Cooper,_9th_Earl_of_Shaftesbury">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_John_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Mary_Augusta_Louise_Olga_Pauline_Claudine_Agnes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary,_Princess_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mary_of_Teck">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Mary_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+  </rdf:Description>
+</rdf:RDF>

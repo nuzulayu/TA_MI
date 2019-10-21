@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Batenberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_von_Battenberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Todor_Burmov">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Slivnitsa">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Casimir_Ehrnrooth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_I_of_Bulgaria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonid_Sobolev">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_of_Battenberg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryBulgarianMonarchs" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromVerona" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsWhoAbdicated" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBulgarianPrinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBulgarianPeople" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheSerbo-BulgarianWar" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBulgarianMonarchs" />
+    <rdfs:label xml:lang="de">Alexander I. (Bulgarien)</rdfs:label>
+    <rdfs:label xml:lang="pl">Aleksander I Battenberg</rdfs:label>
+    <rdfs:label xml:lang="en">Alexander of Battenberg</rdfs:label>
+    <rdfs:label xml:lang="ru">Александр Баттенберг</rdfs:label>
+    <rdfs:label xml:lang="nl">Alexander I van Bulgarije</rdfs:label>
+    <rdfs:label xml:lang="es">Alejandro I de Bulgaria</rdfs:label>
+    <rdfs:label xml:lang="fr">Alexandre Ier de Bulgarie</rdfs:label>
+    <rdfs:label xml:lang="pt">Alexandre I da Bulgária</rdfs:label>
+    <rdfs:label xml:lang="ja">アレクサンダル (ブルガリア公)</rdfs:label>
+    <rdfs:label xml:lang="ar">ألكسندر الأول باتنبرغ</rdfs:label>
+    <rdfs:label xml:lang="it">Alessandro I di Bulgaria</rdfs:label>
+    <rdfs:label xml:lang="zh">亞歷山大一世 (保加利亞)</rdfs:label>
+    <rdfs:comment xml:lang="nl">Alexander Jozef van Battenberg (Bulgaars: Александър Йозеф фон Батенберг) (Verona, 25 april 1857 – Graz, 17 november 1893) was van 29 april 1879 tot 7 september 1886 de eerste vorst van Bulgarije. Hij was de tweede zoon van prins Alexander van Hessen uit diens morganatische huwelijk met Julia van Hauke, prinses van Battenberg. Hij was een neef van tsaar Alexander II van Rusland die getrouwd was met zijn tante aan vaderskant.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アレクサンダル1世（ブルガリア語: Александър I、1857年4月5日 - 1893年11月17日）は、ブルガリア公（在位：1879年4月29日 - 1886年9月7日）。ドイツ名はアレクサンダー・ヨーゼフ・フォン・バッテンベルク（ドイツ語: Alexander Joseph von Battenberg）。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Alexandre Ier de Bulgarie ou Alexandre de Battenberg, né le 5 avril 1857 à Vérone et mort le 17 novembre 1893 à Graz, est le premier souverain de la Principauté de Bulgarie de 1879 à 1886.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Александр Баттенберг (5 (17) апреля 1857 — 23 октября (4 ноября) 1893) — первый князь Болгарии из германской династии Баттенбергов, генерал-лейтенант российской армии (15 (27) апреля 1880).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">亚历山大一世（保加利亚语：Александър I，1857年4月5日－1893年11月17日），全名是巴滕堡的亞歷山大·約瑟夫（Александър Йозеф Батенберг），保加利亚大公。是保加利亚巴滕堡王朝的第一任、也是唯一一任君主，1857年4月5日生于德国巴滕贝格王室家族。1879年4月29日到1886年9月7日在位。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Alexander I. (* 5. April 1857 in Verona; † 17. November 1893 in Graz), geboren als Prinz Alexander Joseph von Battenberg, war von 1879 bis 1886 gewählter Fürst von Bulgarien.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Alejandro José de Battenberg (5 de abril de 1857 - 17 de noviembre de 1893) fue el primer príncipe (Knyaz) de la moderna Bulgaria, reinando desde el 29 de abril de 1879 hasta el 7 de septiembre de 1886.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">ألكسندر الأول باتنبرغ (بالبلغارية: Александър I Батенберг) ـ (5 أبريل 1857 ـ 23 أكتوبر 1893) هو الابن الثاني للأمير ألكسندر أمير هسن والراين والكونتيسة جوليا هوك أميرة باتنبرغ. كان أول أمير (نياز) لبلغاريا الحديثة في الفترة من سنة 1879 إلى تنازله عن العرش سنة 1886. كان يعرف داخل أسرته بلقب &quot;ساندرو&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Aleksander I Battenberg, właśc. Aleksander Józef von Battenberg z dynastii Hessen-Darmstadt, (ur. 5 kwietnia 1857 r. w Weronie, zm. 17 listopada 1893 r. w Grazu) – syn księcia Aleksandra Heskiego z morganatycznego małżeństwa z Julią Hauke (córką polskiego generała Maurycego Haukego-Bosaka). Jego młodszym bratem był Henryk Battenberg. Pomimo akceptacji Battenberga przez państwa zachodnie, Rosja nie wyrażając zgody na jego powrót – zmusiła młodego księcia do abdykacji 6 września 1886.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alexandre José de Battenberg (Alexander Joseph von Battenberg) (5 de abril de 1857 - 17 de novembro de 1893) foi o primeiro príncipe-regente (knyaz) da Bulgária moderna, tendo reinado de 29 de abril de 1879 a 7 de setembro de 1886.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Alexander Joseph GCB (Bulgarian: Александър I Батенберг; 5 April 1857 – 23 October 1893), known as Alexander of Battenberg, was the first prince (knyaz) of modern Bulgaria from 1879 until his abdication in 1886.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Alexandr_I._Bulharský" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alexandre_Ier_de_Bulgarie" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/알렉산더르_1세" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q159591" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alessandro_I_di_Bulgaria" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Alexander_Battenberg" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Aleksander_I_Battenberg" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alexander_I_van_Bulgarije" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexandre_I_da_Bulgária" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alejandro_I_de_Bulgaria" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j5c5" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレクサンダル_(ブルガリア公)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alexander_I._(Bulgarien)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q159591" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118653520" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Alexander_of_Battenberg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Graz" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Austria-Hungary" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-10-23</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Verona" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Lombardy–Venetia" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1857-4-5</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1857-04-05</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Governors-general" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1857_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._George_of_the_Fourth_Degree" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_who_abdicated" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1893_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Verona" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Battenberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Bravery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Governors-General_of_Eastern_Rumelia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Saint_Alexander_(Bulgaria)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Serbo-Bulgarian_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Battenberg_Mausoleum" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Bulgarian_monarchs" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69882</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743043138</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://stara-sofia.com/dvorec.html" />
+    <foaf:name xml:lang="en">Alexander Joseph von Battenberg</foaf:name>
+    <foaf:name xml:lang="en">Alexander I</foaf:name>
+    <foaf:name xml:lang="en">Alexander of Battenberg</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Alexander I of Bulgaria</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander_I_of_Bulgaria_by_Dimitar_Karastoyanov.jpg" />
+    <dct:description xml:lang="en">First prince of modern Bulgaria 1879-1886</dct:description>
+    <foaf:givenName xml:lang="en">Alessandro</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alexander_of_Battenberg" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander_I_of_Bulgaria_by_Dimitar_Karastoyanov.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Alexander_of_Battenberg?oldid=743043138" />
+    <dbo:abstract xml:lang="pt">Alexandre José de Battenberg (Alexander Joseph von Battenberg) (5 de abril de 1857 - 17 de novembro de 1893) foi o primeiro príncipe-regente (knyaz) da Bulgária moderna, tendo reinado de 29 de abril de 1879 a 7 de setembro de 1886.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">亚历山大一世（保加利亚语：Александър I，1857年4月5日－1893年11月17日），全名是巴滕堡的亞歷山大·約瑟夫（Александър Йозеф Батенберг），保加利亚大公。是保加利亚巴滕堡王朝的第一任、也是唯一一任君主，1857年4月5日生于德国巴滕贝格王室家族。1879年4月29日到1886年9月7日在位。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アレクサンダル1世（ブルガリア語: Александър I、1857年4月5日 - 1893年11月17日）は、ブルガリア公（在位：1879年4月29日 - 1886年9月7日）。ドイツ名はアレクサンダー・ヨーゼフ・フォン・バッテンベルク（ドイツ語: Alexander Joseph von Battenberg）。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Aleksander I Battenberg, właśc. Aleksander Józef von Battenberg z dynastii Hessen-Darmstadt, (ur. 5 kwietnia 1857 r. w Weronie, zm. 17 listopada 1893 r. w Grazu) – syn księcia Aleksandra Heskiego z morganatycznego małżeństwa z Julią Hauke (córką polskiego generała Maurycego Haukego-Bosaka). Jego młodszym bratem był Henryk Battenberg. Pierwszy władca (posługujący się tytułem księcia) niepodległej Bułgarii od 29 kwietnia 1879 r., panujący do 6 września 1886 r., wybrany przez pierwsze wielkie Zgromadzenie Narodowe w Wielkim Tyrnowie. Niedoświadczony jeszcze wówczas młodzieniec przyjął imię Aleksandra I. 18 września 1885 r. dokonano zamachu stanu w sąsiedniej Rumelii Wschodniej i proklamowano zjednoczenie z Bułgarią. Ostrożny Battenberg obawiając się reakcji mocarstw, nie przyjął tytułu księcia Rumelii, tylko został jej generałem-gubernatorem. Niespełna rok później 21 (9) sierpnia 1886 r. grupa liberalnych oficerów prorosyjskiej orientacji przejęła władzę w Sofii, wymuszając na nim abdykację, ten chociaż namaszczony przez Rosję księciem Bułgarii, został przez nią zmuszony do wyjazdu do Lwowa. Pucz zorganizowany przez stronnictwo rusofilów, pozostających w opozycji do dominującej partii liberalnej Przywódca kontrreformistów – Stefan Stambołow, uzyskawszy poparcie wojska oraz narodu, odmówił legalności puczystom. Bezradny ówczesny rząd składając dymisję, stworzył możliwości do działania Petko Karawełowa – lidera liberałów. Opanowali oni ponownie Sofię, w tym samym czasie skazując puczystów na więzienie. Z opanowanej stolicy Aleksander został wezwany ponownie, z prośbą o objęcie władzy. Pomimo akceptacji Battenberga przez państwa zachodnie, Rosja nie wyrażając zgody na jego powrót – zmusiła młodego księcia do abdykacji 6 września 1886. W późniejszym okresie podczas obrad Wielkiego Zgromadzenia 25 lipca 1887 roku, nowym księciem wybrany został Ferdynand I Koburg, któremu stanowczo sprzeciwiała się Rosja. Wybór ten spowodował znaczne ochłodzenie na linii Sofia–St. Petersburg</dbo:abstract>
+    <dbo:abstract xml:lang="de">Alexander I. (* 5. April 1857 in Verona; † 17. November 1893 in Graz), geboren als Prinz Alexander Joseph von Battenberg, war von 1879 bis 1886 gewählter Fürst von Bulgarien.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Alexandre Ier de Bulgarie ou Alexandre de Battenberg, né le 5 avril 1857 à Vérone et mort le 17 novembre 1893 à Graz, est le premier souverain de la Principauté de Bulgarie de 1879 à 1886.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Alexander Joseph GCB (Bulgarian: Александър I Батенберг; 5 April 1857 – 23 October 1893), known as Alexander of Battenberg, was the first prince (knyaz) of modern Bulgaria from 1879 until his abdication in 1886.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Alexander Jozef van Battenberg (Bulgaars: Александър Йозеф фон Батенберг) (Verona, 25 april 1857 – Graz, 17 november 1893) was van 29 april 1879 tot 7 september 1886 de eerste vorst van Bulgarije. Hij was de tweede zoon van prins Alexander van Hessen uit diens morganatische huwelijk met Julia van Hauke, prinses van Battenberg. Hij was een neef van tsaar Alexander II van Rusland die getrouwd was met zijn tante aan vaderskant. Alexander bracht in zijn jonge jaren veel tijd door in Sint-Petersburg. Hij en zijn oom, de tsaar, waren erg aan elkaar gehecht. Bulgarije werd in 1878 door het Vrede van Berlijn een zelfstandig vorstendom onder soevereiniteit van het Ottomaanse Rijk. Tsaar Alexander II raadde de Bulgaren aan zijn neef als staatshoofd te kiezen en op 29 april 1879 gebeurde dat unaniem. Alexander was op dat moment luitenant in Potsdam (Pruisen) en voordat hij naar Bulgarije ging, bezocht hij de tsaar, alle Europese grootmachten en de sultan van het Ottomaanse Rijk. Daarna voer hij op een Russisch oorlogsschip naar Varna, legde op 8 juli de eed af in Tirnova en ging naar Sofia, waar hij zeer enthousiast werd begroet door het volk. Alexander had geen enkele ervaring of opleiding in het besturen van een land en hij had het er dan ook moeilijk mee. Hij werd continu vernederd door vertegenwoordigers van Rusland die hem duidelijk maakten dat verwacht werd dat hij slechts een marionet zou zijn. De Bulgaarse politiek zelf maakte het hem ook niet makkelijk. De politici waren hun vrijheid nog niet gewend en geschillen gingen niet zelden gepaard met geweld. Na het twee jaar op deze manier geprobeerd te hebben, greep Alexander op 9 mei 1881 met toestemming van de nieuwe tsaar Alexander III de absolute macht en zette de radicaaldemocratische grondwet voor een periode van zeven jaar buitenspel. De Bulgaarse liberale en radicale politici waren furieus. Twee Russische generaals, Leonid Sobolev en Nikolai baron von Kaulbars, die door Rusland naar Bulgarije waren gezonden, namen nu de macht over. Nadat prins Alexander vergeefs had geprobeerd deze generaals te laten terugroepen, herstelde hij - tot vreugde van de Bulgaarse politieke partijen - op 18 september 1883 de grondwet. De verhouding met de tsaar werd hierdoor ernstig verstoord, ook omdat Alexander nu echt de Bulgaren steunde. Op 18 september 1885 ontstond er in de Ottomaanse provincie Oost-Roemelië een opstand tegen de Turken (revolutie van Philippopel) en de provincie werd onder de naam Zuid-Bulgarije met Alexanders toestemming aan Bulgarije toegevoegd. Alexander was een goed militair en diplomaat. Hij weerstond een invasie van Servië en achtervolgde koning Milan I na de Slag bij Slivnitsa (19 november 1885) tot aan de Servische stad Pirot, die hij veroverde. Door deze overwinning wist de prins het na lang onderhandelen op 5 april 1886 bij sultan Abdülhamit II voor elkaar te krijgen dat hij voor een periode van vijf jaar Oost-Roemelië mocht besturen. Deze overeenkomst werd hem in Bulgarije echter niet in dank afgenomen. Enige legerofficieren voelden zich tekortgedaan en zwoeren tegen de prins samen. In de nacht van 20 augustus werd hij in een paleis in Sofia gevangengenomen en gedwongen af te treden. Vervolgens werd hij overgedragen aan de Russische autoriteiten. De voorzitter van het parlement, Stefan Stambolov, wierp echter de door de Russen ingestelde voorlopige regering omver en nodigde Alexander uit terug te keren. Diens positie was echter onhoudbaar geworden. Otto von Bismarck, in samenwerking met de Russische en Oostenrijkse regering, verbood hem de samenzweerders te straffen. Alexander deed daarom troonsafstand en verliet op 8 september 1886 het land. Tien maanden later, op 7 juli 1887, werd Ferdinand van Saksen-Coburg-Gotha tot nieuwe prins gekozen. Alexander trok zich na zijn aftreden terug uit de openbaarheid. Een paar jaar later trouwde hij met de pianiste en operazangeres Johanna Loisinger en op 6 februari 1889 nam hij de titel &#39;graaf van Hartenau&#39; aan. Hij vestigde zich in Graz en werd generaal-majoor in het Oostenrijks-Hongaarse leger. Na een kort ziekbed stierf hij op 17 november 1893. Zijn stoffelijk overschot werd naar Sofia vervoerd en in een te zijner ere gebouwd mausoleum geplaatst.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Александр Баттенберг (5 (17) апреля 1857 — 23 октября (4 ноября) 1893) — первый князь Болгарии из германской династии Баттенбергов, генерал-лейтенант российской армии (15 (27) апреля 1880).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Alejandro José de Battenberg (5 de abril de 1857 - 17 de noviembre de 1893) fue el primer príncipe (Knyaz) de la moderna Bulgaria, reinando desde el 29 de abril de 1879 hasta el 7 de septiembre de 1886.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">ألكسندر الأول باتنبرغ (بالبلغارية: Александър I Батенберг) ـ (5 أبريل 1857 ـ 23 أكتوبر 1893) هو الابن الثاني للأمير ألكسندر أمير هسن والراين والكونتيسة جوليا هوك أميرة باتنبرغ. كان أول أمير (نياز) لبلغاريا الحديثة في الفترة من سنة 1879 إلى تنازله عن العرش سنة 1886. كان يعرف داخل أسرته بلقب &quot;ساندرو&quot;.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1879</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1879</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1823–1888)" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Julia_von_Hauke" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Constantine_II_of_Bulgaria" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Battenberg_Mausoleum" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Johanna_Loisinger" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Ferdinand_I_of_Bulgaria" />
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:as rdf:resource="http://dbpedia.org/resource/List_of_Bulgarian_monarchs" />
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/Serene_Highness" />
+    <dbp:first rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">James David</dbp:first>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Battenberg_family" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Count Asen of Hartenau</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Countess Tsvetana of Hartenau</dbp:issue>
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Constantine_II_of_Bulgaria" />
+    <dbp:last rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Bourchier</dbp:last>
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Serene Highness</dbp:offstyle>
+    <dbp:reason rdf:resource="http://dbpedia.org/resource/Ottoman_era_in_the_history_of_Bulgaria" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_Bulgarian_monarchs" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Eastern_Rumelia" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Prime_Ministers_of_Bulgaria" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Bulgarian_monarchs" />
+    <dbp:volume rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:volume>
+    <dbp:wstitle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Alexander</dbp:wstitle>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-13</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-29</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-05</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Prince" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_of_Bulgaria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanian_War_of_Independence">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Battenberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_Rumelia">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russo-Turkish_War_(1877–78)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kliment_of_Tarnovo">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Racho_Petrov">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasil_Radoslavov">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander,_Prince_of_Bulgaria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battenberg">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragan_Tsankov">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petko_Karavelov">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_I_Joseph">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Lesovoy">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Krylov_(general)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Batemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandar,_Prince_of_Bulgaria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Alexander_of_Battenberg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_of_Battenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_of_Battenberg" />
+  </rdf:Description>
+</rdf:RDF>

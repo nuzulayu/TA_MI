@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Ansbach">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Anne,_Princess_Royal_and_Princess_of_Orange">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_IV,_Prince_of_Orange">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_V,_Prince_of_Orange">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdfs:label xml:lang="fr">Anne de Hanovre</rdfs:label>
+    <rdfs:label xml:lang="de">Anna von Großbritannien, Irland und Hannover</rdfs:label>
+    <rdfs:label xml:lang="pt">Ana, Princesa Real e Princesa de Orange</rdfs:label>
+    <rdfs:label xml:lang="es">Ana de Hannover</rdfs:label>
+    <rdfs:label xml:lang="nl">Anna van Hannover</rdfs:label>
+    <rdfs:label xml:lang="ru">Анна Ганноверская</rdfs:label>
+    <rdfs:label xml:lang="en">Anne, Princess Royal and Princess of Orange</rdfs:label>
+    <rdfs:label xml:lang="it">Anna di Hannover</rdfs:label>
+    <rdfs:label xml:lang="pl">Anna Hanowerska (księżna Oranii)</rdfs:label>
+    <rdfs:label xml:lang="ar">آن أميرة أورانج</rdfs:label>
+    <rdfs:label xml:lang="ja">アン (オラニエ公妃)</rdfs:label>
+    <rdfs:comment xml:lang="en">Anne, Princess Royal and Princess of Orange (2 November 1709 – 12 January 1759) was the second child and eldest daughter of King George II of Great Britain and his consort, Caroline of Ansbach. She was the spouse of William IV, Prince of Orange, the first hereditary stadtholder of the Netherlands. Princess Anne was the second daughter of a British sovereign to hold the title Princess Royal. She was Regent of the Netherlands from 1751 until her death in 1759, exercising extensive powers on behalf of her son William V. She was known as an Anglophile due to her English upbringing and family connections, but was unable to convince the Dutch Republic to enter the Seven Years&#39; War on the side of the British.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アン（イギリス名：Princess Anne, Princess Royal and Princess of Orange, 1709年11月2日 - 1759年1月12日）は、イギリス王およびハノーファー選帝侯ジョージ2世と王妃キャロラインの長女。オランダ総督、オラニエ公ウィレム4世の妃。ドイツ名、オランダ名はアンナ（Anna von(van) Hannover）。 ハノーファーで生まれる。祖父ゲオルク・ルートヴィヒ選帝侯がイギリス王位を継承してジョージ1世となったのは5年後の1714年であり、父ゲオルク・アウグストが王位と選帝侯位を継承したのは1727年である。同年、王の長女の称号プリンセス・ロイヤルを授けられた。 1734年にオラニエ公ウィレム4世と結婚した。2人の間の子供のうち2人は流産し、3人は夭逝して、成人したのはカロリーネ（ナッサウ＝ヴァイルブルク侯カール・クリスティアンに嫁ぐ）、ウィレム5世（オラニエ公）の2人だった。 ウィレム4世は1747年にイギリスの後押しでオランダ連邦共和国の全州総督の地位に就いた。また、この総督職は世襲が正式に定められた。ウィレム4世が1751年に死去すると、ウィレム5世は3歳でオラニエ公を継承し、アンは1759年に死去するまで後見した。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Anna Hanowerska (2 listopada 1709, 12 stycznia 1759) – księżniczka królewska, księżna Oranii-Nassau. Była drugim dzieckiem i najstarszą córką Jerzego II Hanowerskiego, króla Anglii, i jego żony – Karoliny z Ansbachu. Urodziła się w elektorskim pałacu Herrenhausen, w Hanowerze - pięć lat, przed ty, gdy jej dziadek (Jerzy Ludwik, elektor Hanoweru) został królem Anglii jako Jerzy I. Anna została księżną Brunszwiku i Lüneburga. Jej dziadek został królem Anglii w 1714, a w 1727 tron odziedziczył ojciec Anny.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">А́нна, Короле́вская принце́сса Великобрита́нии и Ирла́ндии и принце́сса Ора́нская (англ. Anne, Princess Royal and Princess of Orange; 2 ноября 1709 — 12 января 1759) — второй ребёнок и старшая дочь короля Великобритании Георга II и Каролины Бранденбург-Ансбахской; жена Вильгельма IV Оранского, первого наследственного штатгальтера Нидерландов, регент Нидерландов при своём малолетнем сыне Вильгельме V.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Ana de Hannover (Schloss Herrenhausen, en Hannover, Alemania, 2 de noviembre de 1709 - La Haya, 12 de enero de 1759) fue la segunda de los nueve hijos del duque Jorge Augusto de Brünswick-Luneburgo (futuro rey Jorge II de Gran Bretaña) y de su esposa, la margravina Carolina de Brandeburgo-Ansbach. Segunda Princesa Real del Reino Unido. En 1714, su abuelo Jorge Luis accede al trono de Gran Bretaña como Jorge I; Ana -de 5 años-, junto a sus padres y hermanos menores, se trasladan a Inglaterra. Murió en La Haya el 12 de enero de 1759, a los 50 años de edad.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Anna van Hannover (Engels: Anne, Princess Royal and Princess of Orange) (kasteel Herrenhausen bij Hannover, 2 november 1709 – Den Haag, 12 januari 1759) was het tweede kind van de latere Britse koning George II, de reden dat zij zowel in Engeland als in Nederland &#39;Princess Royal&#39; werd genoemd. Zij werd vooral bekend als vrouw van prins Willem IV, erfstadhouder van de Republiek der Verenigde Provinciën.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Anne de Hanovre (en anglais Anne of Hanover), née le 2 novembre 1709, décédée le 12 janvier 1759 à La Haye. Régente des Pays-Bas de 1751 à 1759.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ana, Princesa Real e Princesa de Orange (Hanôver, 2 de novembro de 1709 – Haia, 12 de janeiro de 1759) foi a filha mais velha do rei Jorge II da Grã-Bretanha e da rainha Carolina de Ansbach. Foi a esposa de Guilherme IV, Príncipe de Orange e primeiro estatuder hereditário das Províncias Unidas dos Países Baixos. Ana foi a segunda detentora do título Princesa Real. Também foi regente dos Países Baixos de 1751 até sua morte em nome de seu filho Guilherme V</rdfs:comment>
+    <rdfs:comment xml:lang="ar">آن أميرة أورانج (2 نوفمبر 1709-12 يناير 1759م) هي الابنة الثانية لجورج الثاني ملك بريطانيا العظمى وزوجته كارولين أميرة أنسبش، وهي زوجة ويليام الرابع أمير أورانج.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Prinzessin Anne, Princess Royal und Prinzessin von Oranien (* 2. November 1709 in Herrenhausen; † 12. Januar 1759 in Den Haag) war das zweite Kind und die älteste Tochter des britischen Königs und Braunschweiger Kurfürsten Georg II. und dessen Frau Caroline von Ansbach. Sie war die Ehefrau des ersten Erbstatthalters der Niederlande, Wilhelms IV. Anne war die zweite Trägerin des Titels Princess Royal, der den ältesten Töchtern eines britischen Monarchen verliehen werden kann, sowie Prinzregentin von Friesland.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Anna_van_Hannover" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q239487" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Anna_Hanowerska_(księżna_Oranii)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Anna_di_Hannover" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ana,_Princesa_Real_e_Princesa_de_Orange" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Anna_Hannoverská" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q239487" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Anna_von_Großbritannien,_Irland_und_Hannover" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Άννα_της_Μεγάλης_Βρετανίας_(1709–1759)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119237547" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.023n95" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ana_de_Hannover" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Anne_de_Hanovre" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アン_(オラニエ公妃)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/The_Hague" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1759-01-12</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1759-1-12</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hanover" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Herrenhausen" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1709-11-2</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1709-11-02</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1759_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dutch_regents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_in_the_Royal_Crypt_at_Nieuwe_Kerk,_Delft" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_Royal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1709_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_female_rulers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_English_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dutch_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_Dutch_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_of_Orange" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_Scottish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_Huguenot_descent" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399199</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743063317</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Princess Anne</foaf:name>
+    <foaf:name xml:lang="en">Anne, Princess Royal and Princess of Orange</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Accama_Anna_van_Hannover.jpg" />
+    <dct:description xml:lang="en">Dutch princess</dct:description>
+    <foaf:givenName xml:lang="en">Anne</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anne,_Princess_Royal_and_Princess_of_Orange" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Accama_Anna_van_Hannover.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anne,_Princess_Royal_and_Princess_of_Orange?oldid=743063317" />
+    <dbo:abstract xml:lang="es">Ana de Hannover (Schloss Herrenhausen, en Hannover, Alemania, 2 de noviembre de 1709 - La Haya, 12 de enero de 1759) fue la segunda de los nueve hijos del duque Jorge Augusto de Brünswick-Luneburgo (futuro rey Jorge II de Gran Bretaña) y de su esposa, la margravina Carolina de Brandeburgo-Ansbach. Segunda Princesa Real del Reino Unido. En 1714, su abuelo Jorge Luis accede al trono de Gran Bretaña como Jorge I; Ana -de 5 años-, junto a sus padres y hermanos menores, se trasladan a Inglaterra. Al morir su abuelo, el 11 de junio de 1727, su padre sube al trono como Jorge II. El 30 de agosto de ese año, Jorge II le concede el título de Princess Royal. Se casó en la Capilla Real del palacio de St. James, el 25 de marzo de 1734, con Guillermo IV, príncipe de Orange-Nassau-Dietz. El 4 de mayo de 1747, su esposo es confirmado Estatúder Hereditario de las Provincias Unidas de los Países Bajos. De su matrimonio nacieron seis hijos, de los cuales el primogénito varón y las dos hijas siguientes nacieron muertos, además de otra hija fallecida al mes de nacer. Su hija mayor superviviente, Carolina, se casó con su primo lejano, el príncipe Carlos Cristián de Nassau-Weilburg. El menor de todos los hijos, y único varón vivo, Guillermo Batavo, era el heredero presunto. El 22 de octubre de 1751, Guillermo IV murió, siendo sucedido por su hijo Guillermo Batavo (de apenas 3 años de edad), con el nombre de Guillermo V. Ana entonces asume el cargo de princesa-regente por la minoridad de su hijo. En un principio, se mostró como una líder prudente y capaz, pero con el transcurso del tiempo su gobierno se volvió tiránico e impredecible. Murió en La Haya el 12 de enero de 1759, a los 50 años de edad.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Anna van Hannover (Engels: Anne, Princess Royal and Princess of Orange) (kasteel Herrenhausen bij Hannover, 2 november 1709 – Den Haag, 12 januari 1759) was het tweede kind van de latere Britse koning George II, de reden dat zij zowel in Engeland als in Nederland &#39;Princess Royal&#39; werd genoemd. Zij werd vooral bekend als vrouw van prins Willem IV, erfstadhouder van de Republiek der Verenigde Provinciën.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Anna Hanowerska (2 listopada 1709, 12 stycznia 1759) – księżniczka królewska, księżna Oranii-Nassau. Była drugim dzieckiem i najstarszą córką Jerzego II Hanowerskiego, króla Anglii, i jego żony – Karoliny z Ansbachu. Urodziła się w elektorskim pałacu Herrenhausen, w Hanowerze - pięć lat, przed ty, gdy jej dziadek (Jerzy Ludwik, elektor Hanoweru) został królem Anglii jako Jerzy I. Anna została księżną Brunszwiku i Lüneburga. Jej dziadek został królem Anglii w 1714, a w 1727 tron odziedziczył ojciec Anny. 30 sierpnia 1727 Jerzy II nadał Annie jako swojej najstarszej córce, tytuł Princess Royal. W 1642 ówczesny król Karol I Stuart nadał ten tytuł swojej najstarszej córce – Marii Stuart, późniejszej księżnej Oranii (matce Wilhelma III Orańskiego). Potem tytułu przestano używać aż do panowania Jerzego II.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アン（イギリス名：Princess Anne, Princess Royal and Princess of Orange, 1709年11月2日 - 1759年1月12日）は、イギリス王およびハノーファー選帝侯ジョージ2世と王妃キャロラインの長女。オランダ総督、オラニエ公ウィレム4世の妃。ドイツ名、オランダ名はアンナ（Anna von(van) Hannover）。 ハノーファーで生まれる。祖父ゲオルク・ルートヴィヒ選帝侯がイギリス王位を継承してジョージ1世となったのは5年後の1714年であり、父ゲオルク・アウグストが王位と選帝侯位を継承したのは1727年である。同年、王の長女の称号プリンセス・ロイヤルを授けられた。 1734年にオラニエ公ウィレム4世と結婚した。2人の間の子供のうち2人は流産し、3人は夭逝して、成人したのはカロリーネ（ナッサウ＝ヴァイルブルク侯カール・クリスティアンに嫁ぐ）、ウィレム5世（オラニエ公）の2人だった。 ウィレム4世は1747年にイギリスの後押しでオランダ連邦共和国の全州総督の地位に就いた。また、この総督職は世襲が正式に定められた。ウィレム4世が1751年に死去すると、ウィレム5世は3歳でオラニエ公を継承し、アンは1759年に死去するまで後見した。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinzessin Anne, Princess Royal und Prinzessin von Oranien (* 2. November 1709 in Herrenhausen; † 12. Januar 1759 in Den Haag) war das zweite Kind und die älteste Tochter des britischen Königs und Braunschweiger Kurfürsten Georg II. und dessen Frau Caroline von Ansbach. Sie war die Ehefrau des ersten Erbstatthalters der Niederlande, Wilhelms IV. Anne war die zweite Trägerin des Titels Princess Royal, der den ältesten Töchtern eines britischen Monarchen verliehen werden kann, sowie Prinzregentin von Friesland.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Anne, Princess Royal and Princess of Orange (2 November 1709 – 12 January 1759) was the second child and eldest daughter of King George II of Great Britain and his consort, Caroline of Ansbach. She was the spouse of William IV, Prince of Orange, the first hereditary stadtholder of the Netherlands. Princess Anne was the second daughter of a British sovereign to hold the title Princess Royal. She was Regent of the Netherlands from 1751 until her death in 1759, exercising extensive powers on behalf of her son William V. She was known as an Anglophile due to her English upbringing and family connections, but was unable to convince the Dutch Republic to enter the Seven Years&#39; War on the side of the British.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ana, Princesa Real e Princesa de Orange (Hanôver, 2 de novembro de 1709 – Haia, 12 de janeiro de 1759) foi a filha mais velha do rei Jorge II da Grã-Bretanha e da rainha Carolina de Ansbach. Foi a esposa de Guilherme IV, Príncipe de Orange e primeiro estatuder hereditário das Províncias Unidas dos Países Baixos. Ana foi a segunda detentora do título Princesa Real. Também foi regente dos Países Baixos de 1751 até sua morte em nome de seu filho Guilherme V</dbo:abstract>
+    <dbo:abstract xml:lang="ru">А́нна, Короле́вская принце́сса Великобрита́нии и Ирла́ндии и принце́сса Ора́нская (англ. Anne, Princess Royal and Princess of Orange; 2 ноября 1709 — 12 января 1759) — второй ребёнок и старшая дочь короля Великобритании Георга II и Каролины Бранденбург-Ансбахской; жена Вильгельма IV Оранского, первого наследственного штатгальтера Нидерландов, регент Нидерландов при своём малолетнем сыне Вильгельме V.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">آن أميرة أورانج (2 نوفمبر 1709-12 يناير 1759م) هي الابنة الثانية لجورج الثاني ملك بريطانيا العظمى وزوجته كارولين أميرة أنسبش، وهي زوجة ويليام الرابع أمير أورانج.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Anne de Hanovre (en anglais Anne of Hanover), née le 2 novembre 1709, décédée le 12 janvier 1759 à La Haye. Régente des Pays-Bas de 1751 à 1759.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1751</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1734</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Nieuwe_Kerk_(Delft)" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/William_IV,_Prince_of_Orange" />
+    <dbo:title xml:lang="en">Princess Royal</dbo:title>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by Bernard Accama, 1736</dbp:caption>
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hanover" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Carolina_of_Orange-Nassau" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/William_V,_Prince_of_Orange" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Anna</dbp:issue>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Princess_consort_of_Orange" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Princess_consort_of_Orange" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Princess_Royal" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1727</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1734</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Great_Britain">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_of_Orange">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Carolina_of_Orange-Nassau">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal_&amp;_Princess_of_Orange">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anne,_Princess_Royal_and_Princess_of_Orange">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_van_Hannover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+  </rdf:Description>
+</rdf:RDF>

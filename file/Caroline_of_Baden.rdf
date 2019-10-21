@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Anna_of_Bavaria_(1805–1877)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Amalie_of_Hesse-Darmstadt">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maximilian_I_Joseph_of_Bavaria">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Sophie_of_Bavaria">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Baden">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfBaden" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfBerg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTwinPeopleFromGermany" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElectoralPrincessesOfBavaria" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKarlsruhe" />
+    <rdfs:label xml:lang="ru">Каролина Баденская</rdfs:label>
+    <rdfs:label xml:lang="pt">Carolina de Baden</rdfs:label>
+    <rdfs:label xml:lang="fr">Caroline de Bade</rdfs:label>
+    <rdfs:label xml:lang="it">Carolina di Baden</rdfs:label>
+    <rdfs:label xml:lang="ja">カロリーネ・フォン・バーデン</rdfs:label>
+    <rdfs:label xml:lang="es">Carolina de Baden</rdfs:label>
+    <rdfs:label xml:lang="de">Karoline von Baden</rdfs:label>
+    <rdfs:label xml:lang="pl">Karolina Fryderyka Badeńska</rdfs:label>
+    <rdfs:label xml:lang="nl">Caroline van Baden</rdfs:label>
+    <rdfs:label xml:lang="en">Caroline of Baden</rdfs:label>
+    <rdfs:comment xml:lang="fr">Frederica Caroline Wilhelmina de Bade est née le 13 juillet 1776 à Karlsruhe, et décédée le 13 novembre 1841 à Munich. Elle devint reine consort de Bavière.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フリーデリケ・カロリーネ・ヴィルヘルミーネ・フォン・バーデン（ドイツ語: Friederike Karoline Wilhelmine von Baden, 1776年1月13日 - 1841年11月13日）は、バイエルン王マクシミリアン1世の2度目の妻。最初のバイエルン王妃となった。 バーデン大公世子カール・ルートヴィヒとその妃アマーリエ（ヘッセン＝ダルムシュタット方伯ルートヴィヒ9世の娘）の娘として、カールスルーエで生まれた。双子の姉妹にカタリーナ・アマーリエがいる。他に同母妹にはロシア皇后エリザヴェータ・アレクセーエヴナ、スウェーデン王妃フリーデリケがいる。 1797年3月にカールスルーエで、母の従弟にあたるプファルツ＝ツヴァイブリュッケン公マクシミリアンと結婚した。マクシミリアンの先妻アウグステ・ヴィルヘルミーネもまたカロリーネの母の従妹であったが、前年の1796年に病没していた。マクシミリアンは2年後の1799年にバイエルン選帝侯を継承し、1806年にはバイエルン王となった。2人の間には2組の双子を含め8子が生まれた。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Karolina Fryderyka Wilhelmina (ur. 13 lipca 1776 w Karlsruhe; zm. 13 listopada 1841 w Monachium), księżniczka Badenii i Hochbergu, królowa Bawarii. Karolina Badeńska była najstarszą córką księcia Badenii Karola Ludwika i jego żony Amalii Fryderyki. Miała bliźniaczą siostrę Katarzynę Amalię (1776-1823). Prócz swej bliźniaczej siostry Karolina miała siedmioro rodzeństwa w tym carową Rosji Luizę, królową Szwecji Fryderykę Dorotę i wielką księżnę Hesji i Renu Wilhelminę. Karolina była ulubioną córką swojej matki[potrzebny przypis]. Była wyznania protestanckiego.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Caroline of Baden (Friederike Karoline Wilhelmine; 13 July 1776 – 13 November 1841) (German: Friederike Karoline Wilhelmine) of Baden was an Electress of Bavaria and later the first Queen consort of Bavaria as the spouse of King Maximilian I Joseph.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Фридерика Каролина Вильгельмина Баденская (нем. Friederike Karoline (Caroline) Wilhelmine von Baden; 13 июля 1776, Карлсруэ — 13 ноября 1841, Мюнхен) — принцесса Баденская, курфюрстина Баварская, впоследствии первая королева Баварии, супруга короля Максимилиана I. Старшая сестра русской императрицы Елизаветы Алексеевны и королевы Швеции Фредерики. Бабушка австрийского императора Франца Иосифа I и императрицы Сиси.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Frederika Caroline Wilhelmina van Baden (Karlsruhe, 13 juli 1776 - München, 13 november 1841) was de tweede echtgenote van koning Maximiliaan I Jozef van Beieren. Zij werd geboren in Karlsruhe als prinses Frederika Caroline Wilhelmina, markgravin van Baden. Haar ouders waren Karel Lodewijk van Baden en Amalia van Hessen-Darmstadt. Zij trouwde in 1797 met Maximiliaan, die kort daarvoor weduwnaar was geworden, na het overlijden van zijn vrouw (overigens een oudere nicht van Caroline), Augusta Wilhelmina van Hessen-Darmstadt.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Frederica Carolina Guilhermina de Baden (Karlsruhe, 13 de julho de 1776 — Munique, 13 de novembro de 1841) foi a filha mais velha de Carlos Luís, Príncipe-Herdeiro de Baden, e de sua esposa, Amália de Hesse-Darmstadt. Ela tinha uma irmã gêmea, Catarina Amália Cristiana Luísa.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Appartenente al ramo degli Zähringen, era figlia di Carlo Luigi, principe ereditario di Baden, e di Amelia d&#39;Assia-Darmstadt. Aveva una sorella gemella: Amalia Cristiana (1776-1823), e numerosi altri fratelli, tra i quali: 
+*  Luisa, imperatrice consorte di Alessandro I di Russia; 
+*  Federica, regina consorte di Gustavo IV Adolfo di Svezia; 
+*  Carlo granduca di Baden dal 1811.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carolina de Baden (nombre completo Federica Carolina Guillermina; Karlsruhe, 13 de julio de 1776 - Múnich, 13 de noviembre de 1841), Princesa alemana, procedente de la familia Zähringen. Era hija de Carlos Luis, príncipe heredero de Baden, y de la landgravina Amalia de Hesse-Darmstadt. Sus abuelos fueron Carlos Federico, margrave de Baden, y Luis IX, landgrave de Hesse-Darmstadt. Tuvo una hermana gemela, llamada Catalina Amalia Cristina Luisa, y muchos hermanos más. Del matrimonio nacieron:</rdfs:comment>
+    <rdfs:comment xml:lang="de">Friederike Karoline (oder Caroline) Wilhelmine von Baden (* 13. Juli 1776 in Karlsruhe; † 13. November 1841 in München) war eine Prinzessin von Baden und seit dem 1. Januar 1806 die erste Königin des neu proklamierten Königreichs Bayern.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karolina_Fryderyka_Badeńska" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/カロリーネ・フォン・バーデン" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/바덴의_카롤리네" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carolina_de_Baden" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119072858" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02qw3v8" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carolina_di_Baden" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Karoline_von_Baden" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/20482271" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carolina_de_Baden" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Caroline_de_Bade" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Caroline_of_Baden" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Caroline_van_Baden" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Karolína_Frederika_Vilemína_Bádenská" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q170195" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q170195" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Bavaria" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Munich" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1841-11-13</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Margraviate_of_Baden" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Karlsruhe" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1776-7-13</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1776-07-13</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electresses_of_Bavaria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electoral_Princesses_of_Bavaria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Zähringen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1841_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1776_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Theatine_Church,_Munich" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Twin_people_from_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Berg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bavarian_queens_consort" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Wittelsbach" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10954823</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">713960395</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=12477502" />
+    <foaf:name xml:lang="en">Friederike Karoline Wilhelmine</foaf:name>
+    <foaf:name xml:lang="en">Caroline of Baden</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Karoline_Königin_von_Bayern.jpg" />
+    <dct:description xml:lang="en">Queen of Bavaria</dct:description>
+    <foaf:givenName xml:lang="en">Caroline</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Caroline_of_Baden" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Karoline_Königin_von_Bayern.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Caroline_of_Baden?oldid=713960395" />
+    <dbo:abstract xml:lang="pt">Frederica Carolina Guilhermina de Baden (Karlsruhe, 13 de julho de 1776 — Munique, 13 de novembro de 1841) foi a filha mais velha de Carlos Luís, Príncipe-Herdeiro de Baden, e de sua esposa, Amália de Hesse-Darmstadt. Ela tinha uma irmã gêmea, Catarina Amália Cristiana Luísa.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Karolina Fryderyka Wilhelmina (ur. 13 lipca 1776 w Karlsruhe; zm. 13 listopada 1841 w Monachium), księżniczka Badenii i Hochbergu, królowa Bawarii. Karolina Badeńska była najstarszą córką księcia Badenii Karola Ludwika i jego żony Amalii Fryderyki. Miała bliźniaczą siostrę Katarzynę Amalię (1776-1823). Prócz swej bliźniaczej siostry Karolina miała siedmioro rodzeństwa w tym carową Rosji Luizę, królową Szwecji Fryderykę Dorotę i wielką księżnę Hesji i Renu Wilhelminę. Karolina była ulubioną córką swojej matki[potrzebny przypis]. Była wyznania protestanckiego. 9 marca 1797 roku została drugą żoną Maksymiliana, księcia Palatynatu-Zweibrücken, który dwa lata później został elektorem Bawarii i Palatynatu Reńskiego. 1 stycznia 1806 roku Karolina Fryderyka została królową nowo proklamowanego królestwa Bawarii. Bliźniacza siostra Karoliny również mieszkała w Bawarii.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Caroline of Baden (Friederike Karoline Wilhelmine; 13 July 1776 – 13 November 1841) (German: Friederike Karoline Wilhelmine) of Baden was an Electress of Bavaria and later the first Queen consort of Bavaria as the spouse of King Maximilian I Joseph.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">フリーデリケ・カロリーネ・ヴィルヘルミーネ・フォン・バーデン（ドイツ語: Friederike Karoline Wilhelmine von Baden, 1776年1月13日 - 1841年11月13日）は、バイエルン王マクシミリアン1世の2度目の妻。最初のバイエルン王妃となった。 バーデン大公世子カール・ルートヴィヒとその妃アマーリエ（ヘッセン＝ダルムシュタット方伯ルートヴィヒ9世の娘）の娘として、カールスルーエで生まれた。双子の姉妹にカタリーナ・アマーリエがいる。他に同母妹にはロシア皇后エリザヴェータ・アレクセーエヴナ、スウェーデン王妃フリーデリケがいる。 1797年3月にカールスルーエで、母の従弟にあたるプファルツ＝ツヴァイブリュッケン公マクシミリアンと結婚した。マクシミリアンの先妻アウグステ・ヴィルヘルミーネもまたカロリーネの母の従妹であったが、前年の1796年に病没していた。マクシミリアンは2年後の1799年にバイエルン選帝侯を継承し、1806年にはバイエルン王となった。2人の間には2組の双子を含め8子が生まれた。 
+* 男児（1799年） - 死産。 
+* マクシミリアン・ヨーゼフ・カール・フリードリヒ（1800年 - 1803年） 
+* エリーザベト・ルドヴィカ（1801年 - 1873年） - 双子の姉。プロイセン王フリードリヒ・ヴィルヘルム4世妃。 
+* アマーリエ・アウグステ（1801年 - 1873年） - 双子の妹。ザクセン王ヨハン妃。 
+* マリー・アンナ・レオポルディーネ（1805年 - 1877年） - 双子の姉。ザクセン王フリードリヒ・アウグスト妃。 
+* ゾフィー・フリーデリケ・ドロテア・ヴィルヘルミーネ（1805年 - 1872年） - 双子の妹。オーストリア大公フランツ・カール妃。オーストリア皇帝フランツ・ヨーゼフ1世の母。 
+* ルドヴィカ・ヴィルヘルミーネ（1808年 - 1892年） - バイエルン公マクシミリアン・ヨーゼフ妃。オーストリア皇后エリーザベトの母。 
+* マクシミリアーネ・ヨーゼファ・カロリーネ（1810年 - 1821年）</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Frederica Caroline Wilhelmina de Bade est née le 13 juillet 1776 à Karlsruhe, et décédée le 13 novembre 1841 à Munich. Elle devint reine consort de Bavière.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Friederike Karoline (oder Caroline) Wilhelmine von Baden (* 13. Juli 1776 in Karlsruhe; † 13. November 1841 in München) war eine Prinzessin von Baden und seit dem 1. Januar 1806 die erste Königin des neu proklamierten Königreichs Bayern.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Appartenente al ramo degli Zähringen, era figlia di Carlo Luigi, principe ereditario di Baden, e di Amelia d&#39;Assia-Darmstadt. Aveva una sorella gemella: Amalia Cristiana (1776-1823), e numerosi altri fratelli, tra i quali: 
+*  Luisa, imperatrice consorte di Alessandro I di Russia; 
+*  Federica, regina consorte di Gustavo IV Adolfo di Svezia; 
+*  Carlo granduca di Baden dal 1811.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фридерика Каролина Вильгельмина Баденская (нем. Friederike Karoline (Caroline) Wilhelmine von Baden; 13 июля 1776, Карлсруэ — 13 ноября 1841, Мюнхен) — принцесса Баденская, курфюрстина Баварская, впоследствии первая королева Баварии, супруга короля Максимилиана I. Старшая сестра русской императрицы Елизаветы Алексеевны и королевы Швеции Фредерики. Бабушка австрийского императора Франца Иосифа I и императрицы Сиси.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Frederika Caroline Wilhelmina van Baden (Karlsruhe, 13 juli 1776 - München, 13 november 1841) was de tweede echtgenote van koning Maximiliaan I Jozef van Beieren. Zij werd geboren in Karlsruhe als prinses Frederika Caroline Wilhelmina, markgravin van Baden. Haar ouders waren Karel Lodewijk van Baden en Amalia van Hessen-Darmstadt. Zij trouwde in 1797 met Maximiliaan, die kort daarvoor weduwnaar was geworden, na het overlijden van zijn vrouw (overigens een oudere nicht van Caroline), Augusta Wilhelmina van Hessen-Darmstadt. Het paar kreeg acht kinderen, waaronder een doodgeboren zoontje. Haar dochter Sophie zou de moeder worden van keizer Frans Jozef I van Oostenrijk, haar dochter Ludovika zou de moeder worden van diens vrouw Elisabeth (&quot;Sisi&quot;).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carolina de Baden (nombre completo Federica Carolina Guillermina; Karlsruhe, 13 de julio de 1776 - Múnich, 13 de noviembre de 1841), Princesa alemana, procedente de la familia Zähringen. Era hija de Carlos Luis, príncipe heredero de Baden, y de la landgravina Amalia de Hesse-Darmstadt. Sus abuelos fueron Carlos Federico, margrave de Baden, y Luis IX, landgrave de Hesse-Darmstadt. Tuvo una hermana gemela, llamada Catalina Amalia Cristina Luisa, y muchos hermanos más. El 9 de marzo de 1797, Carolina se casó en Karlsruhe con Maximiliano, duque de Zweibrücken que dos años después será Príncipe Elector de Baviera. Del matrimonio nacieron: 
+*  Un hijo nacido muerto en 1799. 
+*  Maximiliano (1800-1803). 
+*  Las gemelas: 
+*  Isabel Luisa (1801-1873), casada en 1823 con el rey Federico Guillermo IV de Prusia. 
+*  Amalia Augusta (1801-1877), casada en 1822 con el rey Juan I de Sajonia. 
+*  Las gemelas: 
+*  María Ana, casada en 1833 con el rey Federico Augusto II de Sajonia. 
+*  Sofía (1805-1872), casada en 1824 con el archiduque Francisco Carlos de Austria. 
+*  Ludovica de Baviera (1808-1892), casada en 1828 con Maximiliano, Duque en Baviera. 
+*  Maximiliana (1810-1821).</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1799</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Landgravine_Amalie_of_Hesse-Darmstadt" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_Louis,_Hereditary_Prince_of_Baden" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Archduchess_Maria_Leopoldine_of_Austria-Este" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Theatinerkirche_(Munich)" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Maximilian_I_Joseph_of_Bavaria" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Therese_of_Saxe-Hildburghausen" />
+    <dbp:after rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Last of title</dbp:after>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Princess_Augusta_Wilhelmine_of_Hesse-Darmstadt" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Archduchess_Maria_Leopoldine_of_Austria-Este" />
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">New title</dbp:before>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Zähringen" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Elisabeth_Ludovika_of_Bavaria" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Ludovika_of_Bavaria" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Maximiliana_of_Bavaria" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Maria_Anna_of_Bavaria_(1805–1877)" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Amalie_Auguste_of_Bavaria" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Sophie_of_Bavaria" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Maximilian Joseph Charles</dbp:issue>
+    <dbp:predecessor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Herself as Electress consort of Bavaria</dbp:predecessor>
+    <dbp:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-01</dbp:reign>
+    <dbp:reignType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tenure</dbp:reignType>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheran" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Kingdom_of_Bavaria" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Electress" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Therese_of_Saxe-Hildburghausen" />
+    <dbp:successor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Herself as Queen consort of Bavaria</dbp:successor>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Palatinate-Zweibrücken" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Kingdom_of_Bavaria" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Electress" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1806</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1797</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1799</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Electress" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elisabeth_Ludovika_of_Bavaria">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friederike_Karoline_Wilhelmine_Margravine_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karoline_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maximiliana_of_Bavaria">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amalie_Auguste_of_Bavaria">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friederike_Karoline_Wilhelmine_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friederike_Karoline_Wilhelmine_Margravine_von_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karoline_Friederike_Wilhelmine_of_Baden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Caroline_of_Baden">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Caroline_of_Baden" />
+  </rdf:Description>
+</rdf:RDF>

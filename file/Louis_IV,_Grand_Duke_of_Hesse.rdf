@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV_of_Hesse-Darmstadt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_IV,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elisabeth_of_Hesse_and_by_Rhine_(1864–1918)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchy_of_Hesse">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Marie_of_Hesse_and_by_Rhine">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_of_Hesse_and_by_Rhine">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromDarmstadt" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdfs:label xml:lang="nl">Lodewijk IV van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi IV d&#39;Assia</rdfs:label>
+    <rdfs:label xml:lang="en">Louis IV, Grand Duke of Hesse</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig IV. (Hessen-Darmstadt)</rdfs:label>
+    <rdfs:label xml:lang="fr">Louis IV de Hesse</rdfs:label>
+    <rdfs:label xml:lang="es">Luis IV de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="ar">لويس الرابع دوق هسن</rdfs:label>
+    <rdfs:label xml:lang="ja">ルートヴィヒ4世 (ヘッセン大公)</rdfs:label>
+    <rdfs:label xml:lang="ru">Людвиг IV (великий герцог Гессенский)</rdfs:label>
+    <rdfs:label xml:lang="zh">路德维希四世 (黑森大公)</rdfs:label>
+    <rdfs:label xml:lang="pl">Ludwik IV (wielki książę Hesji)</rdfs:label>
+    <rdfs:label xml:lang="pt">Luís IV, Grão-Duque de Hesse</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (أبريل 2016) 25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) لويس الرابع اسمه الحقيقي كارل فريدريش فيلهلم لودفيغ، ولد في 12 سبتمبر 1837 وتوفي في 13 مارس 1892، وكان الدوق الأكبر لهسن والراين، توج من 13 يونيو 1877 حتى وفاته.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Frederik Willem Lodewijk Karel (Bessungen (Darmstadt), 12 september 1837 - Darmstadt, 13 maart 1892) was van 1877 tot 1892 groothertog van Hessen en aan de Rijn. Hij was de zoon van Karel van Hessen-Darmstadt, een broer van groothertog Lodewijk III, en van Elisabeth van Pruisen. Lodewijk en Alice kregen samen zeven kinderen: Op 1 mei 1882 benoemde koning Willem III der Nederlanden Lodewijk IV tot commandeur in de Militaire Willems-Orde. Het was een onderscheiding uit beleefdheid.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Luis IV de Hesse-Darmstadt (Darmstadt, 12 de septiembre de 1837 - ibídem, 13 de marzo de 1892) fue Gran Duque de Hesse-Darmstadt (1877-1892). Sobrino del Gran Duque Luis III de Hesse-Darmstadt, esposo de la Princesa Alicia del Reino Unido; descendientes suyos son Lord Luis Mountbatten o el Príncipe Felipe, Duque de Edimburgo.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luís IV (nascido Frederico Guilherme Luís Carlos, 12 de setembro de 1837 – 13 de março de 1892), foi o quarto grão-duque de Hesse e do Reno, reinando desde o dia 13 de junho de 1877 até à sua morte. Através do seu casamento e dos seus filhos, estava ligado à família real britânica, à família imperial russa e outras casas reais europeias. Era pai da princesa Alice de Hesse e do Reno, que mais tarde se tornaria a czarina Alexandra Feodorovna da Rússia.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Людвиг IV Гессенский, полное имя Фридрих Вильгельм Людвиг Карл (нем. Friedrich Wilhelm Ludwig Karl von Hessen und bei Rhein; 12 сентября 1837 — 13 марта 1892) — великий герцог Гессенский и Прирейнский в 1877—1892 годах.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Friedrich Wilhelm Ludwig IV. Karl von Hessen und bei Rhein (* 12. September 1837 in Bessungen; † 13. März 1892 in Darmstadt) war von 1877 bis 1892 Großherzog von Hessen und bei Rhein.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Friedrich Wilhelm Ludwig IV. Karl von Hessen und bei Rhein (ur. 12 września 1837 w Bessungen, zm. 13 marca 1892 w Darmstadt) – był w latach 1877–1892 wielkim księciem Hesji.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il suo nome completo era Federico Guglielmo Luigi IV Carlo d&#39;Assia. Per matrimonio egli era legato alle casate reali d&#39;Inghilterra, Russia e molte altre casate reali europee.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ルートヴィヒ4世（ドイツ語: Ludwig IV., 1837年9月12日 - 1892年3月13日）は、ヘッセン大公国の第4代大公（在位：1877年 - 1892年）。全名はフリードリヒ・ヴィルヘルム・ルートヴィヒ・カール（Friedrich Wilhelm Ludwig Karl）。ルートヴィヒ2世の大公子カール（1809年 - 1877年）とその妻であったエリーザベト（プロイセン王フリードリヒ・ヴィルヘルム2世の王子ヴィルヘルムの娘）の息子。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Louis IV (Friedrich Wilhelm Ludwig Karl) (12 September 1837 – 13 March 1892), was the Grand Duke of Hesse and by Rhine, reigning from 13 June 1877 until his death. Through his own and his children&#39;s marriages he was connected to the British Royal Family, to the Imperial House of Russia and to other reigning dynasties of Europe.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">路德维希四世（Ludwig IV.，1837年9月12日－1892年3月13日），全名弗里德里希·威廉·路德维希·卡尔（Friedrich Wilhelm LUDWIG Karl），黑森的第四任大公，1877年至1892年在位。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Louis IV de Hesse (en allemand Ludwig IV von Hessen), né le 12 septembre 1837 et mort le 13 mars 1892, a été Grand-duc de Hesse de 1877 à 1892.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Grandchildren_of_Victoria" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Albert" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11767026X" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ludwik_IV_(wielki_książę_Hesji)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louis_IV_de_Hesse" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/루트비히_4세_(헤센)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q164498" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q164498" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ルートヴィヒ4世_(ヘッセン大公)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_IV_d&#39;Assia" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_IV_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_IV_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_IV._(Hessen-Darmstadt)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luís_IV,_Grão-Duque_de_Hesse" />
+    <owl:sameAs rdf:resource="http://purl.org/collections/nl/am/p-30027" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Ludvík_IV._Hesenský" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01tzc8" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/German_Empire" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1892-3-13</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1892-03-13</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Bessungen" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/German_Confederation" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1837-09-12</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1837-9-12</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_First_Chamber_of_the_Estates_of_the_Grand_Duchy_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Commander_of_the_Military_William_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Colonel_generals_of_Prussia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1837_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1892_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Mausoleum_for_the_Grand_Ducal_House_of_Hesse,_Rosenhöhe_(Darmstadt)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316937</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732375485</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Louis IV</foaf:name>
+    <foaf:name xml:lang="en">()</foaf:name>
+    <foaf:name xml:lang="en">Louis IV, Grand Duke of Hesse</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Duke_Ludwig_IV_of_Hesse-Darmstadt_and_by_Rhine.jpg" />
+    <dct:description xml:lang="en">German noble</dct:description>
+    <foaf:givenName xml:lang="en">Louis</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louis_IV,_Grand_Duke_of_Hesse" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Grand_Duke_Ludwig_IV_of_Hesse-Darmstadt_and_by_Rhine.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louis_IV,_Grand_Duke_of_Hesse?oldid=732375485" />
+    <dbo:abstract xml:lang="de">Friedrich Wilhelm Ludwig IV. Karl von Hessen und bei Rhein (* 12. September 1837 in Bessungen; † 13. März 1892 in Darmstadt) war von 1877 bis 1892 Großherzog von Hessen und bei Rhein.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il suo nome completo era Federico Guglielmo Luigi IV Carlo d&#39;Assia. Per matrimonio egli era legato alle casate reali d&#39;Inghilterra, Russia e molte altre casate reali europee.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Людвиг IV Гессенский, полное имя Фридрих Вильгельм Людвиг Карл (нем. Friedrich Wilhelm Ludwig Karl von Hessen und bei Rhein; 12 сентября 1837 — 13 марта 1892) — великий герцог Гессенский и Прирейнский в 1877—1892 годах.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Louis IV de Hesse (en allemand Ludwig IV von Hessen), né le 12 septembre 1837 et mort le 13 mars 1892, a été Grand-duc de Hesse de 1877 à 1892.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Luis IV de Hesse-Darmstadt (Darmstadt, 12 de septiembre de 1837 - ibídem, 13 de marzo de 1892) fue Gran Duque de Hesse-Darmstadt (1877-1892). Sobrino del Gran Duque Luis III de Hesse-Darmstadt, esposo de la Princesa Alicia del Reino Unido; descendientes suyos son Lord Luis Mountbatten o el Príncipe Felipe, Duque de Edimburgo.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ルートヴィヒ4世（ドイツ語: Ludwig IV., 1837年9月12日 - 1892年3月13日）は、ヘッセン大公国の第4代大公（在位：1877年 - 1892年）。全名はフリードリヒ・ヴィルヘルム・ルートヴィヒ・カール（Friedrich Wilhelm Ludwig Karl）。ルートヴィヒ2世の大公子カール（1809年 - 1877年）とその妻であったエリーザベト（プロイセン王フリードリヒ・ヴィルヘルム2世の王子ヴィルヘルムの娘）の息子。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (أبريل 2016) 25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) لويس الرابع اسمه الحقيقي كارل فريدريش فيلهلم لودفيغ، ولد في 12 سبتمبر 1837 وتوفي في 13 مارس 1892، وكان الدوق الأكبر لهسن والراين، توج من 13 يونيو 1877 حتى وفاته.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">路德维希四世（Ludwig IV.，1837年9月12日－1892年3月13日），全名弗里德里希·威廉·路德维希·卡尔（Friedrich Wilhelm LUDWIG Karl），黑森的第四任大公，1877年至1892年在位。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Louis IV (Friedrich Wilhelm Ludwig Karl) (12 September 1837 – 13 March 1892), was the Grand Duke of Hesse and by Rhine, reigning from 13 June 1877 until his death. Through his own and his children&#39;s marriages he was connected to the British Royal Family, to the Imperial House of Russia and to other reigning dynasties of Europe.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Frederik Willem Lodewijk Karel (Bessungen (Darmstadt), 12 september 1837 - Darmstadt, 13 maart 1892) was van 1877 tot 1892 groothertog van Hessen en aan de Rijn. Hij was de zoon van Karel van Hessen-Darmstadt, een broer van groothertog Lodewijk III, en van Elisabeth van Pruisen. Op 1 juli 1862 huwde hij op het eiland Wight prinses Alice, de tweede dochter van de Britse koningin Victoria en verkreeg van zijn schoonmoeder het predicaat Koninklijke Hoogheid en de titel ridder in de Orde van de Kousenband. Zijn nieuwe predicaat was overigens slechts geldig in Groot-Brittannië, in Duitsland behield hij zijn status van Groothertogelijke Hoogheid. Alice was een zuster van prinses Victoria, waardoor Lodewijk een zwager van zijn jeugdvriend de latere keizer Frederik III werd. Lodewijk en Alice kregen samen zeven kinderen: 
+*  Victoria (5 april 1863 - 24 september 1950), getrouwd met Lodewijk Alexander van Battenberg; alzo grootmoeder van Philip Mountbatten (1921-), de echtgenoot van koningin Elisabeth II van Engeland (1926-) 
+*  Elisabeth (1 november 1864 - 18 juli 1918), getrouwd met grootvorst Sergej Aleksandrovitsj van Rusland; door haar huwelijk kreeg ze de naam Elisabeth Fjodorovna 
+*  Irene (11 juli 1866 - 11 november 1953), getrouwd met prins Albert Willem Hendrik van Pruisen 
+*  Ernst Lodewijk (25 november 1868 - 9 oktober 1937), eerst getrouwd met prinses Victoria Melita van Saksen-Coburg en Gotha (in 1901 gescheiden); nadien gehuwd met Eleonore van Solms-Hohensolms-Lich 
+*  Frederik (7 oktober 1870 - 29 mei 1873), overleden aan hemofilie na een val uit het raam 
+*  Alix (&quot;Sunny&quot;) (6 juni 1872 - 17 juli 1918), getrouwd met tsaar Nicolaas II van Rusland; door haar huwelijk kreeg ze de naam  Alexandra Fjodorovna 
+*  Marie (24 mei 1874 - 16 november 1878), overleden aan difterie Lodewijk streed in de Oostenrijks-Pruisische Oorlog van 1866 als aanvoerder van de Hessische cavalerie aan Oostenrijkse zijde. Nadat dit land de strijd had verloren, voegde Lodewijk III zich bij Pruisen. Gedurende de Frans-Pruisische Oorlog van 1870-1871 leidde hij het Hessische contingent van de legers van de Noord-Duitse Bond. Bij de dood van zijn kinderloos gebleven oom op 13 juni 1877 verkreeg hij als Lodewijk IV de groothertogelijke titel. De in het naburige Bonn studerende Pruisische prins Wilhelm (II), de latere keizer van Duitsland, bezocht het gezin regelmatig en werd hopeloos verliefd op Lodewijks dochter Elisabeth (&quot;Ella&quot;) - zijn nicht. Er zijn aanwijzingen dat er enige tijd sprake was van een huwelijk tussen de twee, maar zij wees hem af en een huwelijk tussen neef en nicht werd toch niet raadzaam geacht. Groothertogin Alice stierf in 1878. Lodewijk sloot op 30 april 1884 een morganatisch huwelijk met Alexandrina Hutten-Czapska, voormalig echtgenote van Alexander Kolémine, Russisch zaakgelastigde te Darmstadt. Hij schonk haar de titel gravin van Romrod. Dit huwelijk veroorzaakte echter een groot schandaal en werd nog datzelfde jaar ontbonden. Op 1 mei 1882 benoemde koning Willem III der Nederlanden Lodewijk IV tot commandeur in de Militaire Willems-Orde. Het was een onderscheiding uit beleefdheid. Lodewijk IV stierf op 13 maart 1892 en werd opgevolgd door zijn zoon Ernst Lodewijk. Lodewijk IV ligt begraven in het groothertogelijke mausoleum te Rosenhöhe bij Darmstadt.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luís IV (nascido Frederico Guilherme Luís Carlos, 12 de setembro de 1837 – 13 de março de 1892), foi o quarto grão-duque de Hesse e do Reno, reinando desde o dia 13 de junho de 1877 até à sua morte. Através do seu casamento e dos seus filhos, estava ligado à família real britânica, à família imperial russa e outras casas reais europeias. Era pai da princesa Alice de Hesse e do Reno, que mais tarde se tornaria a czarina Alexandra Feodorovna da Rússia.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Friedrich Wilhelm Ludwig IV. Karl von Hessen und bei Rhein (ur. 12 września 1837 w Bessungen, zm. 13 marca 1892 w Darmstadt) – był w latach 1877–1892 wielkim księciem Hesji.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1892</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1877</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Charles_of_Hesse_and_by_Rhine" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Elisabeth_of_Prussia" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Louis_III,_Grand_Duke_of_Hesse" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Alice_of_the_United_Kingdom" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+    <dbo:title xml:lang="en">Grand Duke of Hesse and by Rhine</dbo:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rulers_of_Hesse" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1877</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Duke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Friedrich_of_Hesse_and_by_Rhine">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elisabeth_of_Prussia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_IV_von_Hessen_und_bei_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse_and_by_the_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_IV,_Grand_Duke_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_IV_of_Hesse_and_the_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duke_Ludwig_IV_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louis_IV,_Grand_Duke_of_Hesse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+</rdf:RDF>

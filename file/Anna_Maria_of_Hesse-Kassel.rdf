@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Louis,_Count_of_Nassau-Saarbrücken">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_IV,_Landgrave_of_Hesse-Kassel">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John,_Count_of_Nassau-Idstein">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Maria">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountessesOfNassau" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountesses" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Countess109970402" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdfs:label xml:lang="de">Anna Maria von Hessen-Kassel</rdfs:label>
+    <rdfs:label xml:lang="en">Anna Maria of Hesse-Kassel</rdfs:label>
+    <rdfs:label xml:lang="ru">Анна Мария Гессен-Кассельская</rdfs:label>
+    <rdfs:comment xml:lang="de">Anna Maria von Hessen-Kassel (* 27. Januar 1567 in Kassel; † 21. November 1626 in Neunkirchen) war eine Prinzessin von Hessen-Kassel und durch Heirat Gräfin von Nassau-Saarbrücken.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Анна Мария Гессен-Кассельская (нем. Anna Maria von Hessen-Kassel; 27 января 1567, Кассель — 21 ноября 1626, Нойнкирхен) — принцесса Гессен-Кассельская, в замужестве графиня Нассау-Саарбрюккенская.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Anna Maria of Hesse-Kassel (27 January 1567, Kassel – 21 November 1626, Neunkirchen) was a princess of Hesse-Kassel by birth and by marriage Countess of Nassau-Saarbrücken.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Anna_Maria_of_Hesse-Kassel" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q562285" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/136829767" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gx2p7v" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q562285" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Anna_Maria_von_Hessen-Kassel" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Neunkirchen,_Saarland" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1626-11-21</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kassel" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1567-01-27</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1567-1-27</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Stiftskirche_Sankt_Arnual_(Saarbrücken)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1567_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Countesses_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1626_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32053738</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">721561135</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=SnQAAAAAcAAJ&amp;pg=RA1-PA307" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.saarland-biografien.de/index2.php?option=com_content&amp;do_pdf=1&amp;id=517" />
+    <foaf:name xml:lang="en">Anna Maria of Hesse-Kassel</foaf:name>
+    <dct:description xml:lang="en">Countess of Nassau-Saarbrücken by marriage</dct:description>
+    <foaf:givenName xml:lang="en">Anna</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anna_Maria_of_Hesse-Kassel" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anna_Maria_of_Hesse-Kassel?oldid=721561135" />
+    <dbo:abstract xml:lang="ru">Анна Мария Гессен-Кассельская (нем. Anna Maria von Hessen-Kassel; 27 января 1567, Кассель — 21 ноября 1626, Нойнкирхен) — принцесса Гессен-Кассельская, в замужестве графиня Нассау-Саарбрюккенская.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Anna Maria von Hessen-Kassel (* 27. Januar 1567 in Kassel; † 21. November 1626 in Neunkirchen) war eine Prinzessin von Hessen-Kassel und durch Heirat Gräfin von Nassau-Saarbrücken.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Anna Maria of Hesse-Kassel (27 January 1567, Kassel – 21 November 1626, Neunkirchen) was a princess of Hesse-Kassel by birth and by marriage Countess of Nassau-Saarbrücken.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/William_IV,_Landgrave_of_Hesse-Kassel" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Sabine_of_Württemberg" />
+    <dbo:placeOfBurial rdf:resource="http://dbpedia.org/resource/Saarbrücken" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+    <dbp:artikel rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">LUDWIG II. gen. Felix von Nassau-Saarbrücken</dbp:artikel>
+    <dbp:autor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Joachim Conrad</dbp:autor>
+    <dbp:band rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</dbp:band>
+    <dbp:spalten rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">856</dbp:spalten>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Princess" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Casimir,_Count_of_Nassau-Weilburg">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anna_Maria_of_Hesse-Kassel">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+  </rdf:Description>
+</rdf:RDF>

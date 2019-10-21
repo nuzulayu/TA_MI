@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_VI">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Lyons">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Baldwin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallis_Simpson">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Lyon_Mackenzie_King">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Ceylon">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Elliot_(Scottish_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_MacDonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thane_Campbell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hope,_2nd_Marquess_of_Linlithgow">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Harold_Covert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_viii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._B._M._Hertzog_government">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Duplessis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Pollock">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pratt,_4th_Marquess_Camden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyons_Government">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Caldecott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Langstaff_Bowman">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Dundas,_2nd_Marquess_of_Zetland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thelma_Furness,_Viscountess_Furness">
+    <dbo:partner rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nevile_Henderson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Peter_McNab">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Primrose">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_L._Walsh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clement_Attlee">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Hamilton,_3rd_Duke_of_Abercorn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Monckton-Arundell,_8th_Viscount_Galway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_McElwaine">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ransley_Thacker">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Clark_(governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Cunliffe-Lister,_1st_Earl_of_Swinton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Des_Brisay_de_Blois">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-François_Casgrain">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allison_Dysart">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angus_Lewis_Macdonald">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Samoa_Trust_Territory">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Wales_Borderers">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Endersby_Harwood">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Straits_Settlements">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Dugan,_1st_Baron_Dugan_of_Victoria">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_Free_State">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union_of_South_Africa">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Villiers,_6th_Earl_of_Clarendon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Craig,_1st_Viscount_Craigavon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stanhope,_7th_Earl_Stanhope">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Game">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seaforth_Highlanders">
+    <dbp:colonelOfTheRegiment rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morrison,_1st_Viscount_Dunrossil">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Buchan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adélard_Godbout">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Pattullo">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Alexandre_Taschereau">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Settling_Accounts">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Ross_Welsh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Prince_of_Wales">
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Windsor">
+    <dbp:firstHolder rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+    <dbp:lastHolder rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Governor110140314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheThistle" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromRichmond,London" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfNewZealand" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEmperorsOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishGovernorsOfTheBahamas" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfCanada" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110451263" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Survivor110681194" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FieldMarshal110086821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110296176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lawman110249459" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Migrant110314952" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfEngland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Preserver110466918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfWorldWarII" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHonoraryFellowsOfTheRoyalSocietyOfEdinburgh" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfSouthAfrica" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfAustralia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOfficersOfTheOrderOfTheBritishEmpire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfStPatrick" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Defender109614684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfJusticeOfTheOrderOfStJohn" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromRichmondUponThames(LondonBorough)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsWhoAbdicated" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110295951" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMarshalsOfTheRoyalAirForce" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFieldMarshals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldWarIIPoliticalLeaders" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emigrant110051975" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishEmigrantsToFrance" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfMagdalenCollege,Oxford" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfScotland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsOfChester" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrenadierGuardsOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalNavyAdmiralsOfTheFleet" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAttemptedAssassinationSurvivors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfRothesay" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfCornwall" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheVictorianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emperor110053004" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FlagOfficer110094584" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Admiral109771204" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfTheUnitedKingdom" />
+    <rdfs:label xml:lang="pt">Eduardo VIII do Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="fr">Édouard VIII</rdfs:label>
+    <rdfs:label xml:lang="pl">Edward VIII Windsor</rdfs:label>
+    <rdfs:label xml:lang="zh">爱德华八世</rdfs:label>
+    <rdfs:label xml:lang="en">Edward VIII</rdfs:label>
+    <rdfs:label xml:lang="ru">Эдуард VIII</rdfs:label>
+    <rdfs:label xml:lang="ja">エドワード8世 (イギリス王)</rdfs:label>
+    <rdfs:label xml:lang="nl">Eduard VIII van het Verenigd Koninkrijk</rdfs:label>
+    <rdfs:label xml:lang="ar">إدوارد الثامن ملك المملكة المتحدة</rdfs:label>
+    <rdfs:label xml:lang="it">Edoardo VIII del Regno Unito</rdfs:label>
+    <rdfs:label xml:lang="es">Eduardo VIII del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="de">Eduard VIII.</rdfs:label>
+    <rdfs:comment xml:lang="en">Edward VIII (Edward Albert Christian George Andrew Patrick David; 23 June 1894 – 28 May 1972) was King of the United Kingdom and the Dominions of the British Empire, and Emperor of India, from 20 January 1936 until his abdication on 11 December the same year. Edward was the eldest son of King George V and Queen Mary. He was created Prince of Wales on his sixteenth birthday, nine weeks after his father succeeded as king. As a young man, he served in the British Army during the First World War and undertook several overseas tours on behalf of his father.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Édouard VIII, né Edward Albert Christian George Andrew Patrick David le 23 juin 1894 et mort le 28 mai 1972 fut roi du Royaume-Uni et des autres dominions du Commonwealth britannique et empereur des Indes du 20 janvier 1936 au 11 décembre 1936.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Eduardo VIII del Reino Unido (Edward Albert Christian George Andrew Patrick David), después conocido como duque de Windsor (23 de junio de 1894 – 28 de mayo de 1972), fue rey del Reino Unido y los dominios de la Mancomunidad Británica y emperador de la India, desde la muerte de su padre el 20 de enero de 1936 hasta su abdicación el 11 de diciembre del mismo año.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">爱德华八世（英语：Edward VIII，1894年6月23日－1972年5月28日），全名爱德华·阿尔伯特·克里斯蒂安·乔治·安德鲁·帕特里克·大卫（Edward Albert Christian George Andrew Patrick David），英国及大英帝国各自治领国王，印度皇帝，1936年1月20日即位，同年12月11日退位。 爱德华为英国国王乔治五世及玛丽王后长子，16岁生日时（亦为其父即位九周后）受封为威尔士亲王。第一次世界大战期间其于英国陆军服役，并于青年时期代其父亲访问海外诸多国家地区。 1936年年初乔治五世过世，爱德华即位为王。他对宫廷礼数颇不耐烦，无视宪政传统，引发英国政界关切。在即位数月后他向美籍名流华里丝·辛普森（已一次离异，并寻求第二次离异）求婚，引发宪政危机。英国及各自治领首相及总理反对这一婚事，认为民众无法接受一两度离异且前夫均在世者将成为王后这一现实。除此之外，由于英国国教会是时反对前配偶仍在世离异者再婚，这一婚事亦将同爱德华的教会领袖身份发生冲突。爱德华意识到若其坚持同辛普森成婚，首相斯坦利·鲍德温及其政府将集体辞职，触发大选，由此违背国王作为政治中立立宪君主的宪政方针。最终他选择退位，同辛普森继续关系，其王位由其弟阿尔伯特继承，即乔治六世。爱德华总共在位326日，是英国历史上在位时间最短的君主之一。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Sul trono britannico è successivamente salito il fratello Alberto, come re Giorgio VI, e questi l&#39;8 marzo 1937 ha nominato Edoardo Duca di Windsor. Nel corso della Seconda guerra mondiale è stato nominato Governatore e Comandante in capo delle Bahamas.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Eduardo Alberto Cristiano Jorge André Patrício Davi (em inglês: Edward Albert Christian George Andrew Patrick David) (White Lodge, 23 de junho de 1894 – Neuilly-sur-Seine, 28 de maio de 1972) foi rei do Reino Unido e dos Domínios da Commonwealth e imperador da Índia, entre 20 de janeiro e 11 de dezembro de 1936, com o título de Eduardo VIII.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) إدوارد الثامن (بالإنجليزية: Edward VIII) (الاسم الكامل: إدوارد ألبيرت كريستيان جورج آندرو باتريك دايفيد وينزر) (23 يونيو 1894 – 28 مايو 1972) كان ملك المملكة المتحدة ودول الكومونولث وأيرلندا والهند، منذ وفاة والده جورج الخامس في 20 يناير 1936 حتى تنازله عن العرش في 11 ديسمبر من نفس العام ليتزوج من واليس سمبسون. وكان ثاني حاكم من بيت وينزر.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эдуа́рд VIII (англ. Edward VIII; имена в крещении Эдуард Альберт Кристиан Георг Андрей Патрик Давид; 23 июня 1894 — 28 мая 1972) — король Соединенного Королевства Великобритании и Ирландии, император Индии на протяжении 10 месяцев: с 20 января по 11 декабря 1936 года; не был коронован. Отрёкся от престола, чтобы вступить в брак с разведённой Уоллис Симпсон, на что правительство Великобритании не давало согласия. При этом он заявил: «Я нашёл невозможным… исполнять обязанности короля без помощи и поддержки женщины, которую я люблю».</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eduard VIII., gebürtig Edward Albert Christian George Andrew Patrick David, genannt David, (* 23. Juni 1894 in der White Lodge in London; † 28. Mai 1972 in Paris) war von 1910 bis 1936 Prince of Wales, vom Januar 1936 bis zu seiner Abdankung im Dezember des gleichen Jahres König des Vereinigten Königreichs und Kaiser von Indien und ab Dezember 1936 Duke of Windsor. Eduard war der zweite Monarch aus dem 1917 neubegründeten Hause Windsor.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Eduard Albert Christiaan George Andreas Patrick David (Engels: Edward Albert Christian George Andrew Patrick David) (White Lodge, 23 juni 1894 – Parijs, 28 mei 1972) was van 20 januari 1936 tot 11 december 1936 koning van het Verenigd Koninkrijk en keizer van Indië. Hij stamde uit het Huis Windsor.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">エドワード8世（英語: Edward VIII、エドワード・アルバート・クリスチャン・ジョージ・アンドルー・パトリック・デイヴィッド、Edward Albert Christian George Andrew Patrick David、1894年6月23日 - 1972年5月28日）は、グレートブリテンおよび北アイルランド連合王国（イギリス）ならびに海外自治領（The British Dominions beyond the Sea）の国王、インド皇帝（在位：1936年1月20日 - 1936年12月11日）。ウィンザー朝の第2代国王。退位後の称号でウィンザー公爵（The Prince Edward, Duke of Windsor）としても知られる。 離婚歴のある平民のアメリカ人女性ウォリス・シンプソンと結婚するためにグレートブリテン王国成立以降のイギリス国王としては歴代最短の在任期間わずか325日で退位した「王冠を賭けた恋」で知られている。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Edward VIII – właśc. Edward Albert Chrystian Jerzy Andrzej Patryk Dawid, ang. Edward Albert Christian George Andrew Patrick David (ur. 23 czerwca 1894 w Richmond, zm. 28 maja 1972 w Paryżu) – książę Walii od 1911 (inaugurowany w Caernarfon), król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej i dominiów, cesarz Indii, Obrońca Wiary od 20 stycznia 1936 do abdykacji 11 grudnia 1936. Po ustąpieniu z tronu otrzymał tytuł księcia Windsoru (Duke of Windsor).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwFc_S5wpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Eduard_VIII_van_het_Verenigd_Koninkrijk" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eduard_VIII." />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q590227" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118528963" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Edward_VIII_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Edward_VIII" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Eduard_VIII." />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Εδουάρδος_Η΄_του_Ηνωμένου_Βασιλείου" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/에드워드_8세" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Edward_VIII_dari_Britania_Raya" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Édouard_VIII" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Eduardo_VIII_do_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cms2" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エドワード8世_(イギリス王)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Edoardo_VIII_del_Regno_Unito" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q590227" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Eduardo_VIII_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Edward_VIII" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Eduardo_VIII.a_Erresuma_Batukoa" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Edward_VIII_Windsor" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/France" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Paris" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Villa_Windsor" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Neuilly-sur-Seine" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1972-05-28</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1972-5-28</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/White_Lodge" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Municipal_Borough_of_Richmond_(Surrey)" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Richmond,_London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1894-06-23</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1894-6-23</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Sun_of_Peru" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Magdalen_College,_Oxford" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Condor_of_the_Andes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grenadier_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1894_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Emperors_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Star_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Richmond,_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Navy_admirals_of_the_fleet" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1972_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Queen&#39;s_Privy_Council_for_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_who_abdicated" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_New_Zealand" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Edward_VIII" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Victorian_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_Justice_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cornwall" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_governors_of_the_Bahamas" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_South_Africa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_Australia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marshals_of_the_Royal_Air_Force" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_cancer_in_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_St_Patrick" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Carol_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Indian_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_memoirists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Christ_(Portugal)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_emigrants_to_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Edward_VIII_abdication_crisis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Fellows_of_the_Royal_Society_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Royal_Burial_Ground,_Frogmore" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Military_Cross" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18835362</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743067766</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.britishpathe.com/video/the-king-abdicates-version-2-of-2" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.britishpathe.com/video/abdication-speech-by-edward-viii" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch?v=tR3Jo1FWzpI" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch?v=opPFgTAsQaI" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch?v=gmc6Uw_CTCQ" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch?v=CF5ESUJRarY" />
+    <foaf:name xml:lang="en">Edward Albert Christian George Andrew Patrick David</foaf:name>
+    <foaf:name xml:lang="en">Edward VIII</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/HRH_The_Prince_of_Wales_No_4_(HS85-10-36416).jpg" />
+    <dct:description xml:lang="en">king of the United Kingdom and its dominions in 1936</dct:description>
+    <foaf:givenName xml:lang="en">Edward</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Edward_VIII" />
+    <foaf:surname xml:lang="en">VIII</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/HRH_The_Prince_of_Wales_No_4_(HS85-10-36416).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Edward_VIII?oldid=743067766" />
+    <dbo:abstract xml:lang="zh">爱德华八世（英语：Edward VIII，1894年6月23日－1972年5月28日），全名爱德华·阿尔伯特·克里斯蒂安·乔治·安德鲁·帕特里克·大卫（Edward Albert Christian George Andrew Patrick David），英国及大英帝国各自治领国王，印度皇帝，1936年1月20日即位，同年12月11日退位。 爱德华为英国国王乔治五世及玛丽王后长子，16岁生日时（亦为其父即位九周后）受封为威尔士亲王。第一次世界大战期间其于英国陆军服役，并于青年时期代其父亲访问海外诸多国家地区。 1936年年初乔治五世过世，爱德华即位为王。他对宫廷礼数颇不耐烦，无视宪政传统，引发英国政界关切。在即位数月后他向美籍名流华里丝·辛普森（已一次离异，并寻求第二次离异）求婚，引发宪政危机。英国及各自治领首相及总理反对这一婚事，认为民众无法接受一两度离异且前夫均在世者将成为王后这一现实。除此之外，由于英国国教会是时反对前配偶仍在世离异者再婚，这一婚事亦将同爱德华的教会领袖身份发生冲突。爱德华意识到若其坚持同辛普森成婚，首相斯坦利·鲍德温及其政府将集体辞职，触发大选，由此违背国王作为政治中立立宪君主的宪政方针。最终他选择退位，同辛普森继续关系，其王位由其弟阿尔伯特继承，即乔治六世。爱德华总共在位326日，是英国历史上在位时间最短的君主之一。 退位后的爱德华受封温莎公爵。辛普森第二次离婚手续完结后，爱德华于1937年6月3日与其在法国成婚；同年夫妻二人巡访德国。第二次世界大战期间，爱德华起初驻于英国驻法国军事使团，但后被私下指控为纳粹主义同情者，故被调离欧洲，至巴哈马任总督。战后爱德华退休并在法国度过余生。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эдуа́рд VIII (англ. Edward VIII; имена в крещении Эдуард Альберт Кристиан Георг Андрей Патрик Давид; 23 июня 1894 — 28 мая 1972) — король Соединенного Королевства Великобритании и Ирландии, император Индии на протяжении 10 месяцев: с 20 января по 11 декабря 1936 года; не был коронован. Отрёкся от престола, чтобы вступить в брак с разведённой Уоллис Симпсон, на что правительство Великобритании не давало согласия. При этом он заявил: «Я нашёл невозможным… исполнять обязанности короля без помощи и поддержки женщины, которую я люблю». Вскоре по отречении, 8 марта 1937 года, получил титул герцога Виндзорского (англ. Duke of Windsor). Известен своими личными контактами с руководством нацистской Германии, имевшими место после отречения. В 1940—1945 годах был губернатором Багамских островов, после войны жил во Франции. Его поступок был воспет Гарри Белафонте, в песне «Love Alone». Также об истории Эдуарда и Уоллис повествует фильм Мадонны «МЫ. Верим в любовь».</dbo:abstract>
+    <dbo:abstract xml:lang="en">Edward VIII (Edward Albert Christian George Andrew Patrick David; 23 June 1894 – 28 May 1972) was King of the United Kingdom and the Dominions of the British Empire, and Emperor of India, from 20 January 1936 until his abdication on 11 December the same year. Edward was the eldest son of King George V and Queen Mary. He was created Prince of Wales on his sixteenth birthday, nine weeks after his father succeeded as king. As a young man, he served in the British Army during the First World War and undertook several overseas tours on behalf of his father. Edward became king on his father&#39;s death in early 1936. He showed impatience with court protocol, and caused concern among politicians by his apparent disregard for established constitutional conventions. Only months into his reign, he caused a constitutional crisis by proposing marriage to Wallis Simpson, an American who had divorced her first husband and was seeking a divorce from her second. The prime ministers of the United Kingdom and the Dominions opposed the marriage, arguing that the people would never accept a divorced woman with two living ex-husbands as queen consort. Additionally, such a marriage would have conflicted with Edward&#39;s status as the titular head of the Church of England, which at the time opposed the remarriage of divorced people if their former spouses were still alive. Edward knew that the British government, led by Prime Minister Stanley Baldwin, would resign if the marriage went ahead, which could have forced a general election and would ruin his status as a politically neutral constitutional monarch. Choosing not to end the relationship, Edward abdicated. He was succeeded by his younger brother Albert, who chose George VI as his regnal name. With a reign of 326 days, Edward was one of the shortest-reigning monarchs in British history. After his abdication, he was created Duke of Windsor. He married Simpson in France on 3 June 1937, after her second divorce became final. Later that year, the couple toured Germany. During the Second World War, he was at first stationed with the British Military Mission to France but, after private accusations that he held Nazi sympathies, he was appointed Governor of the Bahamas. After the war, Edward spent the rest of his life in retirement in France.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Eduard Albert Christiaan George Andreas Patrick David (Engels: Edward Albert Christian George Andrew Patrick David) (White Lodge, 23 juni 1894 – Parijs, 28 mei 1972) was van 20 januari 1936 tot 11 december 1936 koning van het Verenigd Koninkrijk en keizer van Indië. Hij stamde uit het Huis Windsor.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Edward VIII – właśc. Edward Albert Chrystian Jerzy Andrzej Patryk Dawid, ang. Edward Albert Christian George Andrew Patrick David (ur. 23 czerwca 1894 w Richmond, zm. 28 maja 1972 w Paryżu) – książę Walii od 1911 (inaugurowany w Caernarfon), król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej i dominiów, cesarz Indii, Obrońca Wiary od 20 stycznia 1936 do abdykacji 11 grudnia 1936. Po ustąpieniu z tronu otrzymał tytuł księcia Windsoru (Duke of Windsor).</dbo:abstract>
+    <dbo:abstract xml:lang="it">Sul trono britannico è successivamente salito il fratello Alberto, come re Giorgio VI, e questi l&#39;8 marzo 1937 ha nominato Edoardo Duca di Windsor. Nel corso della Seconda guerra mondiale è stato nominato Governatore e Comandante in capo delle Bahamas.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Édouard VIII, né Edward Albert Christian George Andrew Patrick David le 23 juin 1894 et mort le 28 mai 1972 fut roi du Royaume-Uni et des autres dominions du Commonwealth britannique et empereur des Indes du 20 janvier 1936 au 11 décembre 1936. Avant son accession au trône, Edward était prince de Galles, duc de Cornouailles et de Rothesay. Il participa à la Première Guerre mondiale au sein des forces armées britanniques et réalisa plusieurs voyages pour le compte de son père, le roi George V. Edward eut des liaisons avec de nombreuses femmes mariées et souvent plus âgées que lui, mais resta célibataire jusqu&#39;à ce qu&#39;il devienne roi. Edward monta sur le trône à la mort de son père en janvier 1936 sous le nom d&#39;Édouard VIII. Il montra rapidement son refus des protocoles de la cour et les hommes politiques s&#39;inquiétaient de son apparent mépris des conventions établies. Quelques mois après le début de son règne, il provoqua une crise constitutionnelle en demandant en mariage la mondaine américaine Wallis Simpson qui avait divorcé de son premier époux et était en instance de divorce d&#39;avec le second. Les Premiers ministres du Royaume-Uni et des dominions s&#39;opposèrent à cette union en avançant que le peuple n&#39;accepterait jamais comme reine une femme dont les deux ex-époux étaient encore en vie. De plus, un tel mariage serait entré en conflit avec le statut d&#39;Édouard VIII de chef suprême de l&#39;Église d&#39;Angleterre, qui s&#39;opposait au remariage de personnes divorcées si leurs anciens époux ou épouses étaient toujours en vie. Édouard VIII savait que le gouvernement dirigé par le Premier ministre Stanley Baldwin démissionnerait si le mariage avait lieu et que cela l&#39;obligerait à organiser des élections générales perdant ainsi son statut de monarque politiquement neutre. Il choisit d&#39;abdiquer plutôt que de renoncer à sa relation. Son frère cadet Albert monta sur le trône sous le nom de George VI. Avec un règne de 326 jours, Édouard VIII est l&#39;un des monarques ayant eu le règne le plus court de l&#39;histoire de la monarchie britannique et il ne fut jamais couronné. Après son abdication, il reçut le titre de Duc de Windsor et épousa Wallis Simpson en France le 3 juin 1937 après l&#39;officialisation du second divorce de celle-ci. Plus tard dans l&#39;année, le couple se rendit en Allemagne. Durant la Seconde Guerre mondiale, il fut initialement stationné avec le corps expéditionnaire britannique en France, mais après des accusations de sympathies nazies, il fut nommé gouverneur général des Bahamas. Après la guerre, il ne reçut pas d&#39;autres fonctions officielles et il passa le reste de sa vie en France.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Eduardo VIII del Reino Unido (Edward Albert Christian George Andrew Patrick David), después conocido como duque de Windsor (23 de junio de 1894 – 28 de mayo de 1972), fue rey del Reino Unido y los dominios de la Mancomunidad Británica y emperador de la India, desde la muerte de su padre el 20 de enero de 1936 hasta su abdicación el 11 de diciembre del mismo año. Antes de su ascenso al trono, Eduardo ostentó sucesivamente los títulos de príncipe Eduardo de York, príncipe Eduardo de Cornualles y York, duque de Cornualles y Rothesay, y príncipe de Gales. En su juventud sirvió en la Primera Guerra Mundial, realizó varias giras por el extranjero en representación de su padre, Jorge V, y fue asociado con una sucesión de mujeres casadas de mayor edad que la suya. A sólo unos meses de iniciar su reinado, Eduardo causó una crisis constitucional cuando le propuso matrimonio a la celebridad estadounidense y dos veces divorciada Wallis Simpson. Los primeros ministros del Reino Unido y los dominios se opusieron al matrimonio, argumentando que el pueblo nunca la aceptaría como reina. Eduardo sabía que el gobierno encabezado por el primer ministro británico Stanley Baldwin renunciaría si los planes de matrimonio seguían adelante, lo que obligaría a convocar nuevas elecciones generales y podría arruinar irremediablemente su condición de monarca constitucional, políticamente neutral. En lugar de renunciar a su amor por la señora Simpson, Eduardo decidió abdicar. Fue sucedido por su hermano menor, Alberto, que eligió usar el nombre de Jorge VI. Con un reinado de sólo 325 días, Eduardo fue uno de los monarcas de más corta duración en el trono en la historia del Reino Unido y nunca llegó a ser coronado. Después de su abdicación fue nombrado duque de Windsor y, en 1937, recorrió la Alemania nazi. Durante la Segunda Guerra Mundial fue destinado en un primer momento con la Misión militar británica a Francia, pero, después de acusaciones privadas de que mantenía simpatías pronazis, fue enviado a las Bahamas como gobernador. Después de la guerra, nunca se le dio otro cargo oficial y pasó el resto de su vida en el retiro.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) إدوارد الثامن (بالإنجليزية: Edward VIII) (الاسم الكامل: إدوارد ألبيرت كريستيان جورج آندرو باتريك دايفيد وينزر) (23 يونيو 1894 – 28 مايو 1972) كان ملك المملكة المتحدة ودول الكومونولث وأيرلندا والهند، منذ وفاة والده جورج الخامس في 20 يناير 1936 حتى تنازله عن العرش في 11 ديسمبر من نفس العام ليتزوج من واليس سمبسون. وكان ثاني حاكم من بيت وينزر. قبل أن يصبح ملكاً، كانت له عدة تسميات: الأمير إدوارد من يورك، والأمير إدوارد من يورك وكورنول، ودوق كورنول، ودوق روثيساي، وأمير ويلز. بعد تنازله عن الملكية عاد للقبه السابق &quot;الأمير إدوارد&quot;، ثم أصبح دوق وينزر في 8 مارس 1937. خلال الحرب العالمية الثانية تم تعيينه كحاكم على جزر البهاما. يعد إدوارد الثامن الحاكم البريطاني الوحيد الذي تنازل متعمداً عن الحكم في 11 ديسمبر 1936. كما جاء تنازله عن ملكية أيرلندا في اليوم التالي. تعتبر فترة حكم إدوارد الثامن ثالث أقصر الفترات في تاريخ بريطانيا، بعد ليدي جين غراي وإدوارد الخامس.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eduard VIII., gebürtig Edward Albert Christian George Andrew Patrick David, genannt David, (* 23. Juni 1894 in der White Lodge in London; † 28. Mai 1972 in Paris) war von 1910 bis 1936 Prince of Wales, vom Januar 1936 bis zu seiner Abdankung im Dezember des gleichen Jahres König des Vereinigten Königreichs und Kaiser von Indien und ab Dezember 1936 Duke of Windsor. Eduard war der zweite Monarch aus dem 1917 neubegründeten Hause Windsor.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Eduardo Alberto Cristiano Jorge André Patrício Davi (em inglês: Edward Albert Christian George Andrew Patrick David) (White Lodge, 23 de junho de 1894 – Neuilly-sur-Seine, 28 de maio de 1972) foi rei do Reino Unido e dos Domínios da Commonwealth e imperador da Índia, entre 20 de janeiro e 11 de dezembro de 1936, com o título de Eduardo VIII. Antes de sua ascensão ao trono, Eduardo foi Príncipe de Gales, Duque da Cornualha e Rothesay. Quando jovem, serviu nas Forças Armadas do Reino Unido durante a Primeira Guerra Mundial e realizou várias viagens ao exterior em nome de seu pai, Jorge V. Esteve envolvido com várias mulheres mais velhas e casadas, mas permaneceu solteiro até depois de sua abdicação como rei. Eduardo tornou-se rei com a morte de seu pai, no início de 1936. Ele mostrava-se impaciente com os protocolos da corte e sua aparente indiferença para com as convenções constitucionais estabelecidas preocupava os políticos. Com poucos meses de reinado, ele causou uma crise constitucional ao propor casamento à socialite americana Wallis Simpson, divorciada do primeiro marido e em vias de se divorciar do segundo. Os primeiros-ministros do Reino Unido e dos domínios eram contrários ao casamento, argumentando que o povo nunca aceitaria uma mulher divorciada com dois ex-maridos vivos como rainha. Além disso, tal casamento entraria em conflito com o status de Eduardo como Governador Supremo da Igreja de Inglaterra, que proibia o casamento de pessoas divorciadas enquanto seus ex-cônjuges ainda estivessem vivos. Eduardo sabia que o governo liderado pelo primeiro-ministro britânico Stanley Baldwin renunciaria se os planos de casamento fossem em frente, o que poderia arrastar o rei a uma eleição geral e arruinar seu status de monarca constitucional politicamente neutro. Optando por não encerrar seu relacionamento com Wallis Simpson, Eduardo acabou por abdicar, sendo sucedido por seu irmão mais novo, Alberto, que escolheu o nome de reinado de Jorge VI. Ocupando o trono por apenas 326 dias, Eduardo foi um dos monarcas com o reinado mais curto em toda a história britânica e da Commonwealth. Ele nunca foi coroado. Após sua abdicação, foi-lhe concedido o título de Duque de Windsor. Casou-se com Wallis Simpson na França, em 3 de junho de 1937, após a confirmação do segundo divórcio dela. Nesse mesmo ano, o casal visitou a Alemanha. Durante a Segunda Guerra Mundial, ele serviu inicialmente na missão militar britânica na França, mas, após acusações de que nutria simpatias pelo nazismo, foi designado governador das Bahamas. Com o término da guerra, ele nunca mais desempenhou outra função oficial, passando o resto de sua vida retirado na França.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">エドワード8世（英語: Edward VIII、エドワード・アルバート・クリスチャン・ジョージ・アンドルー・パトリック・デイヴィッド、Edward Albert Christian George Andrew Patrick David、1894年6月23日 - 1972年5月28日）は、グレートブリテンおよび北アイルランド連合王国（イギリス）ならびに海外自治領（The British Dominions beyond the Sea）の国王、インド皇帝（在位：1936年1月20日 - 1936年12月11日）。ウィンザー朝の第2代国王。退位後の称号でウィンザー公爵（The Prince Edward, Duke of Windsor）としても知られる。 離婚歴のある平民のアメリカ人女性ウォリス・シンプソンと結婚するためにグレートブリテン王国成立以降のイギリス国王としては歴代最短の在任期間わずか325日で退位した「王冠を賭けた恋」で知られている。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1936</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1936</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mary_of_Teck" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Royal_Burial_Ground,_Frogmore" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Wallis_Simpson" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_VI" />
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward in military uniform, 1919</dbp:caption>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward VIII of the United Kingdom</dbp:commons>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Q590227</dbp:d>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1972-06-05</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Windsor" />
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward VIII of the United Kingdom</dbp:q>
+    <dbp:regType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prime Ministers</dbp:regType>
+    <dbp:regent rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">See list</dbp:regent>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Author:Edward VIII of the United Kingdom</dbp:s>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edwardsig.svg</dbp:signature>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:state rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">collapsed</dbp:state>
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of the United Kingdom and the British Dominions, Emperor of India</dbp:succession>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Cornwall" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Grand_Masters_of_the_Order_of_St_Michael_and_St_George" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Articles and topics related to Edward VIII</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of the United Kingdom and the</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Grand_Masters_of_the_Order_of_the_British_Empire" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Windsor" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Governor_of_the_Bahamas" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_University_of_Cape_Town" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">British Dominions; Emperor of India</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Air Commodore-in-Chief of the Auxiliary Air Force</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Rothesay" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1910</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1917</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1918</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1940</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1937</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1932</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-20</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominion_of_New_Zealand">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Labour_Government_of_New_Zealand">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Joseph_Savage">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domhnall_Ua_Buachalla">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Governor-General_of_the_Irish_Free_State">
+    <dbp:appointer rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitchell_Hepburn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Isaacs">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Ormsby-Gore,_4th_Baron_Harlech">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esioff-Léon_Patenaude">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Layton_Butler">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_rule_in_Burma">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murray_MacLaren">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Euen_Mitchell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murchison_Fletcher">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/18th_Canadian_Parliament">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Barton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Gough_Howell">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Enoch_Jenkins">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._P._Herbert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Hore-Ruthven,_1st_Earl_of_Gowrie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Richards,_1st_Baron_Milverton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Cooper">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Johnston_Tupper">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Albert_Christian_George_Andrew_Patrick_David_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Godfrey_Huggins">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montagu_Sherard_Dawes_Butler">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Wood,_1st_Earl_of_Halifax">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Aberhart">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Inskip,_1st_Viscount_Caldecote">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freeman_Freeman-Thomas,_1st_Marquess_of_Willingdon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Somerset,_10th_Duke_of_Beaufort">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bracken">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Fitzalan-Howard,_16th_Duke_of_Norfolk">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Raj">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herwald_Ramsbotham,_1st_Viscount_Soulbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Edward_VIII">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Prime_Ministers_of_King_George_VI">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cadogan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Hamber">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_Rhodesian_Legislative_Assembly">
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Edwin_Munroe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Hardinge,_2nd_Baron_Hardinge_of_Penshurst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Cavendish,_10th_Duke_of_Devonshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._B._M._Hertzog">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Alexander_Bruce">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Edward_Stubbs">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Murray_Anderson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_John_Patterson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Herbert,_1st_Baron_Hemingford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_William_Fordham_Johnson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Kenya">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Board_of_Ministers_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_the_Eighth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_8th">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_the_8th">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward,_1st_Duke_of_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward,_Duke_of_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_of_Cornwall_and_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Edward_VIII_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Edward,_1st_Duke_of_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Edward,_Duke_of_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Edward_of_Cornwall_and_York">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_of_Scotland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_viii_of_the_united_kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Third_Cabinet_of_J._B._M._Hertzog">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_of_India">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_(Windsor)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_8">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edw._8">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VIII_of_Canada">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Edward_VIII">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+  </rdf:Description>
+</rdf:RDF>

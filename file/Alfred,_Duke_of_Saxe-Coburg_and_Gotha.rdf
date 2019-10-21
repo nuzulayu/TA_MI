@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Victoria">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdfs:label xml:lang="pt">Alfredo, Duque de Saxe-Coburgo-Gota</rdfs:label>
+    <rdfs:label xml:lang="pl">Alfred Sachsen-Coburg-Gotha</rdfs:label>
+    <rdfs:label xml:lang="it">Alfredo, duca di Sassonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="en">Alfred, Duke of Saxe-Coburg and Gotha</rdfs:label>
+    <rdfs:label xml:lang="ru">Альфред Саксен-Кобург-Готский</rdfs:label>
+    <rdfs:label xml:lang="ar">ألفريد دوق ساكس كوبورغ وغوتا</rdfs:label>
+    <rdfs:label xml:lang="fr">Alfred Ier de Saxe-Cobourg et Gotha</rdfs:label>
+    <rdfs:label xml:lang="nl">Alfred van Saksen-Coburg en Gotha</rdfs:label>
+    <rdfs:label xml:lang="es">Alfredo de Sajonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="zh">阿尔弗雷德 (萨克森-科堡-哥达公爵)</rdfs:label>
+    <rdfs:label xml:lang="ja">アルフレート (ザクセン＝コーブルク＝ゴータ公)</rdfs:label>
+    <rdfs:label xml:lang="de">Alfred (Sachsen-Coburg und Gotha)</rdfs:label>
+    <rdfs:comment xml:lang="ar">ألفريد إرنست ألبرت عاش بين (6 أغسطس 1844م - 30 يوليو 1900م) حكم بصفته دوق ساكس كوبورغ وغوتا من 1893م حتى 1900م. وكان الرابع بين أبناء الملكة فيكتوريا والأمير ألبرت والثاني بين الذكور، وعرف بصفته دوقًا لإدنبرة من 1866م حتى خلفه عمه إرنست الثاني دوق ساكس كوبورغ وغوتا الحاكم لهما في الإمبراطورية الألمانية.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アルフレート（Alfred, 1844年8月6日 - 1900年7月30日）は、第3代ザクセン＝コーブルク＝ゴータ公（在位：1893年 - 1900年）。全名はドイツ語でアルフレート・エルンスト・アルベルト（Alfred Ernst Albert）もしくは英語でアルフレッド・アーネスト・アルバート（Alfred Ernest Albert）。ニックネームはアッフィ（Alfie）。ザクセン＝コーブルク＝ゴータ公子アルベルト（英語名アルバート）とその妻であったイギリス女王ヴィクトリアの次男。イギリス王族としてエディンバラ公にも叙されていた。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alfredo Ernesto Alberto (6 de agosto de 1844 – 30 de julho de 1900) foi o terceiro duque de Saxe-Coburgo-Gota tendo exercido o seu título entre 1893 e 1900. Era também um membro da família real britânica, o quarto filho da rainha Vitória e do príncipe Alberto de Saxe-Coburgo-Gota. Foi proclamado Duque de Edimburgo, Conde de Kent e Conde de Ulster de acordo com as leis do Reino Unido a 24 de maio de 1866. Ele sucedeu o seu tio paterno Ernesto II como duque de Saxe-Coburgo-Gota no Império Alemão a 23 de agosto de 1893.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Alfred von Sachsen-Coburg und Gotha, Prinz von Großbritannien und Irland, Duke of Edinburgh, Earl of Kent und Earl of Ulster (* 6. August 1844 in Windsor Castle, Berkshire, England; † 30. Juli 1900 in Schloss Rosenau, bei Coburg), war ein britischer Marineoffizier und ab 1893 regierender Herzog von Sachsen-Coburg und Gotha. Er war der zweitgeborene Sohn der britischen Königin Victoria und ihres Gemahls Albert von Sachsen-Coburg und Gotha und der Bruder der deutschen Kaiserin Victoria und des britischen Königs Eduard VII.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">阿尔弗雷德，全名阿尔弗雷德·恩斯特·阿尔伯特（Alfred Ernest Albert，1844年8月6日－1900年7月30日），英國维多利亚女王和艾伯特親王(Consort Albert)的二儿子。第三位萨克森-科堡-哥达公爵(1893年-1900年)，1866年5月24日英国贵族院授與他爱丁堡公爵、肯特伯爵和尤尔斯特伯爵（Duke of Edinburgh, Earl of Kent and Earl of Ulster）头衔。1893年8月23日他继承他的伯父恩斯特二世在德意志帝国的萨克森-科堡和哥达公爵爵位。 1856年阿尔弗雷德王子决定按照自己的意愿，进入皇家海军服役。1858年8月他通过考试，被任命为尤里亚勒斯号（HMS Euryalus，又稱欧娅露丝号）船员，1860年7月他正式访问开普敦，1862年希腊国王奥托退位，希腊国会投票拥戴阿尔弗雷德继位，但政治公约使英国政府不可能答应他们的愿望。1863年2月24日阿尔弗雷德晋升为中尉，在霍恩洛厄-兰根堡的维克多亲王的（HMS Racoon）舰服役，1866年2月23日晋升为舰长。随后被任命指挥护卫舰HMS Galatea号。 1868年，阿尔弗雷德在新南威尔士悉尼郊区海滩野餐上逃过了一次暗杀。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Alfred Ernst Albert (Windsor Castle, 6 augustus 1844 - Rosenau bij Coburg, 30 juli 1900), hertog van Edinburgh, was van 1893 tot 1900 hertog van Saksen-Coburg en Gotha. Hij was de tweede zoon van de Britse koningin Victoria en haar gemaal Albert van Saksen-Coburg-Gotha. Eduard VII was aldus zijn broer en de Duitse keizerin Victoria zijn zuster.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Alfred (Alfred Ernest Albert; 6 August 1844 – 30 July 1900) reigned as Duke of Saxe-Coburg and Gotha from 1893 to 1900. He was the second son and fourth child of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha. He was known as the Duke of Edinburgh from 1866 until he succeeded his paternal uncle Ernest II as the reigning Duke of Saxe-Coburg and Gotha in the German Empire.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Принц Альфред (англ. Prince Alfred Ernest Albert), Альфред Саксен-Кобург-Готский (нем. Alfred von Sachsen-Coburg und Gotha; 6 августа 1844, Виндзорский замок, Беркшир — 31 июля 1900, замок Розенау, близ Кобурга) — герцог Эдинбургский, граф Ольстерский и Кентский с 24 мая 1866 по 23 августа 1893 года, затем герцог Саксен-Кобург-Готский с 22 августа 1893 года. Сын королевы Великобритании Виктории и её мужа Альберта. Известный филателист. Адмирал флота (3 июня 1893 года).</rdfs:comment>
+    <rdfs:comment xml:lang="es">Alfredo, duque de Sajonia-Coburgo-Gotha (castillo de Windsor, Londres, 6 de agosto de 1844 - castillo de Rosenau, Coburgo, 30 de julio de 1900), fue un príncipe británico conocido como Alfredo, duque de Edimburgo, hasta su ascenso al trono del ducado germánico. Alfredo era el cuarto de los nueve hijos de la reina Victoria del Reino Unido y de su esposo, Alberto de Sajonia-Coburgo-Gotha.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Alfred Ernest Albert de Saxe-Cobourg et Gotha, duc de Saxe-Cobourg-Gotha, est né au Palais de Buckingham en Londres le 6 août 1844 et est décédé à Cobourg le 31 juillet 1900. Membre de la famille royale britannique, il règne sur le duché de Cobourg de 1893 à sa mort. Il est le quatrième enfant et le deuxième fils de la reine Victoria du Royaume-Uni et du prince Albert de Saxe-Cobourg-Gotha (futur prince Albert, Prince Consort).</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Alfred, właśc. ang. Alfred Ernest Albert (ur. 6 sierpnia 1844 w zamku Windsor, zm. 30 lipca 1900 w zamku Rosenau w Coburgu) – książę Saksonii-Coburg-Gotha, książę Zjednoczonego Królestwa, członek brytyjskiej Rodziny Królewskiej, par Zjednoczonego Królestwa jako książę Edynburga, hrabia Kentu i hrabia Ulsteru. Drugi syn i czwarte dziecko królowej brytyjskiej Wiktorii i księcia Alberta von Sachsen-Coburg-Gotha. W rodzinie znany był jako „Affie”.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alfredo,_duca_di_Sassonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alfredo_de_Sajonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Alfréd_Sasko-Kobursko-Gothajský" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alfred_van_Saksen-Coburg_en_Gotha" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.016dk4" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alfred_Ier_de_Saxe-Cobourg_et_Gotha" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/알프레트_폰_작센코부르크고타_공작" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alfred_(Sachsen-Coburg_und_Gotha)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Alfred,_Adipati_Saxe-Coburg_dan_Gotha" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アルフレート_(ザクセン＝コーブルク＝ゴータ公)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q158143" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Alfred_Sachsen-Coburg-Gotha" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q158143" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alfredo,_Duque_de_Saxe-Coburgo-Gota" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119212323" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Coburg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/German_Empire" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Saxe-Coburg_and_Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schloss_Rosenau,_Coburg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-07-30</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-7-30</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Windsor_Castle" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Berkshire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1844-08-06</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1844-8-6</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_St_Michael_and_St_George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1900_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Southern_Cross" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Tower_and_Sword" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_esophageal_cancer" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_philatelists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Windsor,_Berkshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Coburg_and_Gotha" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fathers_of_philately" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_cancer_in_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_St_Patrick" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_connected_with_Plymouth" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Star_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_Order_of_the_Wendish_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Ludwigsorden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_of_Ulster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Indian_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Golden_Lion_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(United_Kingdom)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Croix_of_the_Légion_d&#39;honneur" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Thistle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Masters_of_the_Saxe-Ernestine_House_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Ducal_Family_Mausoleum,_Glockenburg_Cemetery,_Coburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Navy_admirals_of_the_fleet" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_Royal_College_of_Music" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1844_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_Royal_National_College_for_the_Blind" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Red_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_Justice_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_shooting_survivors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Order_of_Kamehameha_I" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">167608</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743995848</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://dictionaryofsydney.org/event/assassination_attempt_on_prince_alfred_1868" />
+    <foaf:name xml:lang="en">Alfred, Duke of Saxe-Coburg and Gotha</foaf:name>
+    <foaf:name xml:lang="en">Alfred Ernest Albert</foaf:name>
+    <foaf:name xml:lang="en">Alfred</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alfred-sachsen-coburg-gotha.jpg" />
+    <dct:description xml:lang="en">Duke of Saxe-Coburg and Gotha</dct:description>
+    <foaf:givenName xml:lang="en">Alfred</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alfred-sachsen-coburg-gotha.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Alfred,_Duke_of_Saxe-Coburg_and_Gotha?oldid=743995848" />
+    <dbo:abstract xml:lang="zh">阿尔弗雷德，全名阿尔弗雷德·恩斯特·阿尔伯特（Alfred Ernest Albert，1844年8月6日－1900年7月30日），英國维多利亚女王和艾伯特親王(Consort Albert)的二儿子。第三位萨克森-科堡-哥达公爵(1893年-1900年)，1866年5月24日英国贵族院授與他爱丁堡公爵、肯特伯爵和尤尔斯特伯爵（Duke of Edinburgh, Earl of Kent and Earl of Ulster）头衔。1893年8月23日他继承他的伯父恩斯特二世在德意志帝国的萨克森-科堡和哥达公爵爵位。 1856年阿尔弗雷德王子决定按照自己的意愿，进入皇家海军服役。1858年8月他通过考试，被任命为尤里亚勒斯号（HMS Euryalus，又稱欧娅露丝号）船员，1860年7月他正式访问开普敦，1862年希腊国王奥托退位，希腊国会投票拥戴阿尔弗雷德继位，但政治公约使英国政府不可能答应他们的愿望。1863年2月24日阿尔弗雷德晋升为中尉，在霍恩洛厄-兰根堡的维克多亲王的（HMS Racoon）舰服役，1866年2月23日晋升为舰长。随后被任命指挥护卫舰HMS Galatea号。 1868年，阿尔弗雷德在新南威尔士悉尼郊区海滩野餐上逃过了一次暗杀。 1878年12月30日晋升为海军少将(Rear Admiral)，1882年11月10日擢海军中将，1887年10月18日擢海军上将，1893年6月3日擢海军元帅，并赐节杖。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Alfred Ernest Albert de Saxe-Cobourg et Gotha, duc de Saxe-Cobourg-Gotha, est né au Palais de Buckingham en Londres le 6 août 1844 et est décédé à Cobourg le 31 juillet 1900. Membre de la famille royale britannique, il règne sur le duché de Cobourg de 1893 à sa mort. Il est le quatrième enfant et le deuxième fils de la reine Victoria du Royaume-Uni et du prince Albert de Saxe-Cobourg-Gotha (futur prince Albert, Prince Consort).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alfredo Ernesto Alberto (6 de agosto de 1844 – 30 de julho de 1900) foi o terceiro duque de Saxe-Coburgo-Gota tendo exercido o seu título entre 1893 e 1900. Era também um membro da família real britânica, o quarto filho da rainha Vitória e do príncipe Alberto de Saxe-Coburgo-Gota. Foi proclamado Duque de Edimburgo, Conde de Kent e Conde de Ulster de acordo com as leis do Reino Unido a 24 de maio de 1866. Ele sucedeu o seu tio paterno Ernesto II como duque de Saxe-Coburgo-Gota no Império Alemão a 23 de agosto de 1893.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Alfred (Alfred Ernest Albert; 6 August 1844 – 30 July 1900) reigned as Duke of Saxe-Coburg and Gotha from 1893 to 1900. He was the second son and fourth child of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha. He was known as the Duke of Edinburgh from 1866 until he succeeded his paternal uncle Ernest II as the reigning Duke of Saxe-Coburg and Gotha in the German Empire.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アルフレート（Alfred, 1844年8月6日 - 1900年7月30日）は、第3代ザクセン＝コーブルク＝ゴータ公（在位：1893年 - 1900年）。全名はドイツ語でアルフレート・エルンスト・アルベルト（Alfred Ernst Albert）もしくは英語でアルフレッド・アーネスト・アルバート（Alfred Ernest Albert）。ニックネームはアッフィ（Alfie）。ザクセン＝コーブルク＝ゴータ公子アルベルト（英語名アルバート）とその妻であったイギリス女王ヴィクトリアの次男。イギリス王族としてエディンバラ公にも叙されていた。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Alfred von Sachsen-Coburg und Gotha, Prinz von Großbritannien und Irland, Duke of Edinburgh, Earl of Kent und Earl of Ulster (* 6. August 1844 in Windsor Castle, Berkshire, England; † 30. Juli 1900 in Schloss Rosenau, bei Coburg), war ein britischer Marineoffizier und ab 1893 regierender Herzog von Sachsen-Coburg und Gotha. Er war der zweitgeborene Sohn der britischen Königin Victoria und ihres Gemahls Albert von Sachsen-Coburg und Gotha und der Bruder der deutschen Kaiserin Victoria und des britischen Königs Eduard VII.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">ألفريد إرنست ألبرت عاش بين (6 أغسطس 1844م - 30 يوليو 1900م) حكم بصفته دوق ساكس كوبورغ وغوتا من 1893م حتى 1900م. وكان الرابع بين أبناء الملكة فيكتوريا والأمير ألبرت والثاني بين الذكور، وعرف بصفته دوقًا لإدنبرة من 1866م حتى خلفه عمه إرنست الثاني دوق ساكس كوبورغ وغوتا الحاكم لهما في الإمبراطورية الألمانية.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Alfred, właśc. ang. Alfred Ernest Albert (ur. 6 sierpnia 1844 w zamku Windsor, zm. 30 lipca 1900 w zamku Rosenau w Coburgu) – książę Saksonii-Coburg-Gotha, książę Zjednoczonego Królestwa, członek brytyjskiej Rodziny Królewskiej, par Zjednoczonego Królestwa jako książę Edynburga, hrabia Kentu i hrabia Ulsteru. Drugi syn i czwarte dziecko królowej brytyjskiej Wiktorii i księcia Alberta von Sachsen-Coburg-Gotha. W rodzinie znany był jako „Affie”.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Alfredo, duque de Sajonia-Coburgo-Gotha (castillo de Windsor, Londres, 6 de agosto de 1844 - castillo de Rosenau, Coburgo, 30 de julio de 1900), fue un príncipe británico conocido como Alfredo, duque de Edimburgo, hasta su ascenso al trono del ducado germánico. Alfredo era el cuarto de los nueve hijos de la reina Victoria del Reino Unido y de su esposo, Alberto de Sajonia-Coburgo-Gotha.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Принц Альфред (англ. Prince Alfred Ernest Albert), Альфред Саксен-Кобург-Готский (нем. Alfred von Sachsen-Coburg und Gotha; 6 августа 1844, Виндзорский замок, Беркшир — 31 июля 1900, замок Розенау, близ Кобурга) — герцог Эдинбургский, граф Ольстерский и Кентский с 24 мая 1866 по 23 августа 1893 года, затем герцог Саксен-Кобург-Готский с 22 августа 1893 года. Сын королевы Великобритании Виктории и её мужа Альберта. Известный филателист. Адмирал флота (3 июня 1893 года).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Alfred Ernst Albert (Windsor Castle, 6 augustus 1844 - Rosenau bij Coburg, 30 juli 1900), hertog van Edinburgh, was van 1893 tot 1900 hertog van Saksen-Coburg en Gotha. Hij was de tweede zoon van de Britse koningin Victoria en haar gemaal Albert van Saksen-Coburg-Gotha. Eduard VII was aldus zijn broer en de Duitse keizerin Victoria zijn zuster.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1893</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1893</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Queen_Victoria" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Coburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Maria_Alexandrovna_of_Russia" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Charles_Edward,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:title xml:lang="en">Duke of Edinburgh</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Anthony_Hoskins" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Algernon_Frederick_Rous_de_Horsey" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/William_Dowell_(Royal_Navy_officer)" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Lord_John_Hay_(Royal_Navy_admiral_of_the_fleet)" />
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Beatrice_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alfred,_Hereditary_Prince_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Marie_of_Romania" />
+    <dbp:occupation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Military</dbp:occupation>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Mediterranean_Fleet" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Saxe-Coburg_and_Gotha" />
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Channel_Fleet" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Commander-in-Chief,_Plymouth" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Honorary Colonel of the</dbp:title>
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1893</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1890</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1868</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1886</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1883</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Hereditary_Prince_of_Saxe-Coburg_and_Gotha">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_of_Romania">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_of_Saxe-Coburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Edinburgh_Alfred">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alfred_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Hoskins">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_John_Hay_(Royal_Navy_officer,_born_1827)">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alfred,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Beatrice_of_Saxe-Coburg_and_Gotha">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Maria_Alexandrovna_of_Russia">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Duke_of_Edinburgh">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algernon_Lyons">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_cruiser_Gerzog_Edinburgski">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alfred_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Coburg_and_Gotha">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saxe-Coburg_and_Gotha">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_Prince_Consort">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algernon_Frederick_Rous_de_Horsey">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Ernest_Albert">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Ernest_Albert_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alfred_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alfred,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Saxe-Coburg_and_Gotha_Alfred">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Edward,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alfred,_Duke_of_Saxe-Coburg_and_Gotha_and_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Dowell_(Royal_Navy_officer)">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Duke_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alfred,_Duke_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alfred_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_&amp;_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Alfred,_Duke_of_Saxe-Coburg_and_Gotha">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+</rdf:RDF>

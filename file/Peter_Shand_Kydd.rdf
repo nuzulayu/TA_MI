@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Shand_Kydd">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Peter_Shand_Kydd" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Shand_Kydd">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdfs:label xml:lang="en">Peter Shand Kydd</rdfs:label>
+    <rdfs:label xml:lang="pt">Peter Shand Kydd</rdfs:label>
+    <rdfs:comment xml:lang="en">Peter Shand Kydd (1925 – 23 March 2006) was the former stepfather of Diana, Princess of Wales, and an heir to the wallpaper fortune built by his father Norman Shand Kydd (1895-1962). His mother was Francis Madalein Foy (died 1983). He was half-brother to the former champion amateur jockey William Shand Kydd (1937-2014), who was brother-in-law of John Bingham, 7th Earl of Lucan.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Peter Shand Kydd (23 de março de 1925 - 23 de março de 2006) foi um empresário britânico, melhor conhecido por ter sido o padrasto de Diana, Princesa de Gales.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Peter_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Shand_Kydd" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03475m" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7176877" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7176877" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-3-23</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-1-1</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_emigrants_to_Australia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2006_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1925_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">704672</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741497729</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Peter Shand Kydd</foaf:name>
+    <dct:description xml:lang="en">stepfather of Diana, Princess of Wales</dct:description>
+    <foaf:givenName xml:lang="en">Peter</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Peter_Shand_Kydd" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Peter_Shand_Kydd?oldid=741497729" />
+    <dbo:abstract xml:lang="en">Peter Shand Kydd (1925 – 23 March 2006) was the former stepfather of Diana, Princess of Wales, and an heir to the wallpaper fortune built by his father Norman Shand Kydd (1895-1962). His mother was Francis Madalein Foy (died 1983). He was half-brother to the former champion amateur jockey William Shand Kydd (1937-2014), who was brother-in-law of John Bingham, 7th Earl of Lucan. Shand Kydd sold the family business in 1962 and moved his family to Australia, where he became a sheep farmer. After selling the sheep farm and returning to England, he began an affair with Diana&#39;s mother Viscountess Althorp, while married to his first wife, Janet Munro Kerr, granddaughter of John Martin Munro Kerr. After divorce proceedings were finalized for both Shand Kydd and the Viscountess, they were married on 2 May 1969 and lived in Buckinghamshire and Aldwick, West Sussex, finally settling on a 1,000 acre (4 km²) farm on the remote Scottish island of Seil. Their marriage faltered, and Shand Kydd had married Marie-Pierre Palmer, who ran a champagne-importing business in London. Shand Kydd married Palmer in 1993 and their relationship lasted until April 1995. Afterwards he chose to live close to his first wife Janet.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Peter Shand Kydd (23 de março de 1925 - 23 de março de 2006) foi um empresário britânico, melhor conhecido por ter sido o padrasto de Diana, Princesa de Gales.</dbo:abstract>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Kingdom" />
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Stepfather" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Peter_Shand_Kydd">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Peter_Shand_Kydd" />
+  </rdf:Description>
+</rdf:RDF>

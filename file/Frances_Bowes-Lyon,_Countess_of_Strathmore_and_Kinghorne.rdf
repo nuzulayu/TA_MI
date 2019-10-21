@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdfs:label xml:lang="es">Frances Smith</rdfs:label>
+    <rdfs:label xml:lang="en">Frances Bowes-Lyon, Countess of Strathmore and Kinghorne</rdfs:label>
+    <rdfs:label xml:lang="nl">Frances Smith</rdfs:label>
+    <rdfs:comment xml:lang="nl">Frances Dora Bowes-Lyon, gravin van Strathmore en Kinghorne (Blendon Hall, 29 juli 1832 – Londen, 5 februari 1922) was een overgrootmoeder van de Britse koningin Elizabeth II. Frances Dora Smith was een dochter van Oswald Smith en Henrietta Hodgson. Op 28 september 1853 trouwde zij met Claude Bowes-Lyon. Het echtpaar kreeg elf kinderen.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Frances Dora Bowes-Lyon, Countess of Strathmore and Kinghorne (née Smith; 29 July 1832 – 5 February 1922) was a British noblewoman. She was the paternal grandmother of Queen Elizabeth, the Queen Mother, and thus a great-grandmother of Queen Elizabeth II. On 28 September 1853, she married Claude Bowes-Lyon. He became the 13th holder of the Earldom of Strathmore and Kinghorne following the death of his brother Thomas in 1865. Frances then assumed the title and style of Countess of Strathmore and Kinghorne. Together the couple had 11 children.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Frances Dora Bowes-Lyon, Condesa de Strathmore y Kinghorne (nacida Smith; 29 de julio de 1832 – 5 de febrero de 1922) fue una noble británica. Fue la abuela de Isabel Bowes-Lyon y bisabuela de la Reina Isabel II. Su padre fue Oswald Smith y su madre Henrietta Mildred Hodgson.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2592020" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Frances_Smith" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02pynd4" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Frances_Smith" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2592020" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1922-02-05</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1922-2-5</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Marylebone" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1832-07-29</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1832-7-29</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1832_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bowes-Lyon_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1922_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Smith_and_Carington_family" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9976192</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736114116</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Frances Bowes-Lyon, Countess of Strathmore and Kinghorne</foaf:name>
+    <foaf:name xml:lang="en">The Countess of Strathmore and Kinghorne</foaf:name>
+    <dct:description xml:lang="en">Great-grandmother of Elizabeth II</dct:description>
+    <foaf:givenName xml:lang="en">Frances</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne?oldid=736114116" />
+    <dbo:abstract xml:lang="en">Frances Dora Bowes-Lyon, Countess of Strathmore and Kinghorne (née Smith; 29 July 1832 – 5 February 1922) was a British noblewoman. She was the paternal grandmother of Queen Elizabeth, the Queen Mother, and thus a great-grandmother of Queen Elizabeth II. Her father was Oswald Smith (7 July 1794 – 18 June 1863), of Blendon Hall, Bexley, Kent (Bexley being annexed to London only in 1894) and her mother was Henrietta Mildred Hodgson (6 January 1805–19 November 1891). Her paternal grandparents were George Smith and wife Frances Mary Mosley, daughter of Sir John Parker Mosley, 1st Baronet, and wife Elizabeth Bayley, granddaughter of Nicholas Mosley and wife Elizabeth Parker, and sister of Sir Oswald Mosley, 2nd Baronet, great-great-grandfather of Oswald Mosley. On 28 September 1853, she married Claude Bowes-Lyon. He became the 13th holder of the Earldom of Strathmore and Kinghorne following the death of his brother Thomas in 1865. Frances then assumed the title and style of Countess of Strathmore and Kinghorne. Together the couple had 11 children.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Frances Dora Bowes-Lyon, gravin van Strathmore en Kinghorne (Blendon Hall, 29 juli 1832 – Londen, 5 februari 1922) was een overgrootmoeder van de Britse koningin Elizabeth II. Frances Dora Smith was een dochter van Oswald Smith en Henrietta Hodgson. Op 28 september 1853 trouwde zij met Claude Bowes-Lyon. Het echtpaar kreeg elf kinderen. 
+* Claude (1855-1944), de veertiende graaf van Strathmore en Kinghorne, 
+* Francis (1856-1948), 
+* Ernest (1858-1891), 
+* Herbert (1860-1897),  
+* Patrick (1863-1946), 
+* Constance Frances (1865-1951), 
+* Kenneth (1867-1911), 
+* Mildred Marion (1868-1897), 
+* Maud Agness (1870-1941), 
+* Evelyn Mary (1872-1876),  
+* Malcolm (1874-1957).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Frances Dora Bowes-Lyon, Condesa de Strathmore y Kinghorne (nacida Smith; 29 de julio de 1832 – 5 de febrero de 1922) fue una noble británica. Fue la abuela de Isabel Bowes-Lyon y bisabuela de la Reina Isabel II. Su padre fue Oswald Smith y su madre Henrietta Mildred Hodgson.</dbo:abstract>
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:burialPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Glamis Castle, Angus</dbp:burialPlace>
+    <dbp:father rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Oswald Smith</dbp:father>
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Right_Honourable" />
+    <dbp:mother rdf:resource="http://dbpedia.org/resource/Henrietta_Mildred_Hodgson" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Noblewoman" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Dora_Smith">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Smith">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+</rdf:RDF>

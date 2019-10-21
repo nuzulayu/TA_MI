@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Frederick_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary_Adelaide_of_Cambridge">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Campbell,_9th_Duke_of_Argyll">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishArmyGenerals" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheSecondBoerWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMarquessesInThePeerageOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfTeck" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfJusticeOfTheOrderOfStJohn" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/General110123844" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeneralOfficer110125786" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheOrderOfStMichaelAndStGeorge" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGraduatesOfTheRoyalMilitaryCollege,Sandhurst" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtWellingtonCollege,Berkshire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat17thLancersOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marquis110295479" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishLifeGuardsOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdfs:label xml:lang="nl">Adolf van Teck</rdfs:label>
+    <rdfs:label xml:lang="en">Adolphus Cambridge, 1st Marquess of Cambridge</rdfs:label>
+    <rdfs:label xml:lang="pt">Adolfo Cambridge, 1.º Marquês de Cambridge</rdfs:label>
+    <rdfs:label xml:lang="es">Adolfo de Teck</rdfs:label>
+    <rdfs:label xml:lang="pl">Adolf Cambridge</rdfs:label>
+    <rdfs:label xml:lang="de">Adolphus Cambridge, 1. Marquess of Cambridge</rdfs:label>
+    <rdfs:label xml:lang="it">Adolfo Cambridge, I marchese di Cambridge</rdfs:label>
+    <rdfs:label xml:lang="ja">アドルファス・ケンブリッジ (初代ケンブリッジ侯爵)</rdfs:label>
+    <rdfs:comment xml:lang="pt">Adolfo Cambridge, 1.º Marquês de Cambridge GCB, GCVO, CMG (13 de agosto de 1868 - 23 de outubro de 1927) era um membro da família real britânica, e irmão da rainha Maria do Reino Unido. Em 1900, ele sucedeu seu pai como Duque de Teck no Reino de Württemberg. Ele abandonou seus títulos alemães em 1917, para se tornar Marquês de Cambridge.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Adolf Charles Alexander Albert Edward George Philip Louis Landislaus (Kensington Palace in Londen, 13 augustus 1868 – Shotton Hall in Shrewsbury, 23 oktober 1927), 1e markies van Cambridge, was een lid van de Britse koninklijke familie. Hij was de oudste broer van koningin Mary, de gemalin van koning George V. Hij volgde zijn vader in 1900 op als hertog van Teck in het Koninkrijk van Württemberg. Hij deed in 1917 afstand van al zijn Duitse titels en werd “markies van Cambridge”.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ケンブリッジ侯爵アドルファス・チャールズ・アレグザンダー・アルバート・エドワード・ジョージ・フィリップ・ルイス・ラースロー・ケンブリッジ（Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus、1868年8月13日‐1927年10月23日）は、グレートブリテンおよびアイルランド連合王国の貴族。父はヴュルテンベルクの王族・テック公フランツ・パウル。母はジョージ3世の第7王子ケンブリッジ公アドルファスと妃オーガスタの娘メアリー・アデレード。姉は英国国王ジョージ5世王妃メアリー。弟にテック公フランシス、アスローン伯アレグザンダーがいる。 1968年、ケンジントン宮殿でテック公夫妻の第2子かつ長男として生まれた。家族からは「ドリー」と愛称で呼ばれた。 ウェリントン大学で学んだ。 1894年、ウェストミンスター公爵ヒュー・ルーパス・グローヴナーの娘マーガレットと結婚。 
+* ジョージ（第2代ケンブリッジ侯爵） 
+* メアリー（第10代ボーフォート公爵ヘンリー夫人） 
+* ヘレナ（ジョン・ギブス夫人） の3子が誕生した。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Adolf Karol Aleksander Albert Edward Jerzy Filip Ludwik Teck ( ur. 13 sierpnia 1868 w Londynie, zm. 23 października 1927 w Shrewsbury) – brytyjski arystokrata, książę Teck, członek Brytyjskiej rodziny Królewskiej, 1. markiz Cambridge. Syn księcia Franciszka i księżniczki Marii Adelajdy. Jego dziadkami byli książę Aleksander Wirtemberski i hrabina Claudine Rhédey von Kis-Rhéde, oraz Adolf Hanowerski, książę Cambridge i Augusta Wilhelmina Heska. 12 grudnia 1894 roku ożenił się z Małgorzatą Grosvenor, córką Hugh Lupus Grosvenor, księcia Westminster. Para miała czwórkę dzieci:</rdfs:comment>
+    <rdfs:comment xml:lang="es">Adolfo Cambridge, 1.er marqués de Cambridge, GCB, GCVO, CMG (Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus) nacido Príncipe Adolfo de Teck y después el Duque de Teck (13 de agosto de 1868 - 23 de octubre de 1927), fue miembro de la Familia Real Británica y hermano menor de la reina María, consorte del rey Jorge V. En 1900, sucedió a su padre como Duque de Teck en el Reino de Wurtemberg. Renunció a sus títulos alemanes en 1917, convirtiéndose en Marques de Cambridge.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Adolphus Cambridge, 1st Marquess of Cambridge GCB, GCVO, CMG (Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus; 13 August 1868 – 23 October 1927), born Prince Adolphus of Teck and later The Duke of Teck, was a member of the British Royal Family, a great-grandson of King George III and younger brother of Queen Mary, the consort of King George V. In 1900, he succeeded his father as Duke of Teck in the Kingdom of Württemberg. He relinquished his German titles in 1917 to become Marquess of Cambridge.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Adolphus Cambridge, 1. Marquess of Cambridge, GCB, GCVO, CMG, vollständiger Name Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus von Teck (* 13. August 1868 im Kensington Palace in London; † 23. Oktober 1927 in Shotton Hall, Shrewsbury) war ein Mitglied der britischen Königsfamilie, der jüngere Bruder von Königin Mary. Adolphus war der letzte Herzog von Teck im Königreich Württemberg.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1050401832" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q336084" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Adolfo_de_Teck" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Adolfo_Cambridge,_1.º_Marquês_de_Cambridge" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q336084" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Adolphus_Cambridge,_1._Marquess_of_Cambridge" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アドルファス・ケンブリッジ_(初代ケンブリッジ侯爵)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01q6h3" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Adolf_Cambridge" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Adolf_van_Teck" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Adolfo_Cambridge,_I_marchese_di_Cambridge" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shrewsbury" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-10-23</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kensington_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-08-13</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-8-13</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Crown_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marquesses_in_the_Peerage_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Life_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Order_of_St_Michael_and_St_George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Royal_Burial_Ground,_Frogmore" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1927_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Württemberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_generals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:17th_Lancers_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Wellington_College,_Berkshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_Justice_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Graduates_of_the_Royal_Military_College,_Sandhurst" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_the_Second_Boer_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_Order_of_the_Wendish_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1868_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">287475</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744089643</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Prince Adolphus</foaf:name>
+    <foaf:name xml:lang="en">Adolphus Cambridge, 1st Marquess of Cambridge</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Adolphus,_Duke_of_Teck_and_Marquess_of_Cambridge.jpg" />
+    <dct:description xml:lang="en">British Army general</dct:description>
+    <foaf:givenName xml:lang="en">Adolphe</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Adolphus,_Duke_of_Teck_and_Marquess_of_Cambridge.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Adolphus_Cambridge,_1st_Marquess_of_Cambridge?oldid=744089643" />
+    <dbo:abstract xml:lang="es">Adolfo Cambridge, 1.er marqués de Cambridge, GCB, GCVO, CMG (Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus) nacido Príncipe Adolfo de Teck y después el Duque de Teck (13 de agosto de 1868 - 23 de octubre de 1927), fue miembro de la Familia Real Británica y hermano menor de la reina María, consorte del rey Jorge V. En 1900, sucedió a su padre como Duque de Teck en el Reino de Wurtemberg. Renunció a sus títulos alemanes en 1917, convirtiéndose en Marques de Cambridge.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ケンブリッジ侯爵アドルファス・チャールズ・アレグザンダー・アルバート・エドワード・ジョージ・フィリップ・ルイス・ラースロー・ケンブリッジ（Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus、1868年8月13日‐1927年10月23日）は、グレートブリテンおよびアイルランド連合王国の貴族。父はヴュルテンベルクの王族・テック公フランツ・パウル。母はジョージ3世の第7王子ケンブリッジ公アドルファスと妃オーガスタの娘メアリー・アデレード。姉は英国国王ジョージ5世王妃メアリー。弟にテック公フランシス、アスローン伯アレグザンダーがいる。 1968年、ケンジントン宮殿でテック公夫妻の第2子かつ長男として生まれた。家族からは「ドリー」と愛称で呼ばれた。 ウェリントン大学で学んだ。 テック公家がヴュルテンベルク王国の王族（王位継承権を持たない）であったため、自身もヴュルテンベルクの王侯としての称号を保持していたが、第一次世界大戦で英国王室がドイツ帝国における称号を全て放棄したため、王室に連なるドイツ系英国貴族も同様に称号を放棄した。そのため、義兄ジョージ5世より、母メアリーの実家であるケンブリッジ公爵家（1917年当時はすでに断絶）の後継としてケンブリッジ侯爵を受爵し、息子ジョージは儀礼称号としてエルサム伯爵を称した。弟アレグザンダーはアイルランドにちなんだアスローン伯爵を受爵、テック公を継承したフランシスは1910年に死去していたため、その子孫がドイツでのテック公を放棄した後、英国貴族としてのテック公を受爵した。 1894年、ウェストミンスター公爵ヒュー・ルーパス・グローヴナーの娘マーガレットと結婚。 
+* ジョージ（第2代ケンブリッジ侯爵） 
+* メアリー（第10代ボーフォート公爵ヘンリー夫人） 
+* ヘレナ（ジョン・ギブス夫人） の3子が誕生した。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Adolf Charles Alexander Albert Edward George Philip Louis Landislaus (Kensington Palace in Londen, 13 augustus 1868 – Shotton Hall in Shrewsbury, 23 oktober 1927), 1e markies van Cambridge, was een lid van de Britse koninklijke familie. Hij was de oudste broer van koningin Mary, de gemalin van koning George V. Hij volgde zijn vader in 1900 op als hertog van Teck in het Koninkrijk van Württemberg. Hij deed in 1917 afstand van al zijn Duitse titels en werd “markies van Cambridge”.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Adolphus Cambridge, 1st Marquess of Cambridge GCB, GCVO, CMG (Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus; 13 August 1868 – 23 October 1927), born Prince Adolphus of Teck and later The Duke of Teck, was a member of the British Royal Family, a great-grandson of King George III and younger brother of Queen Mary, the consort of King George V. In 1900, he succeeded his father as Duke of Teck in the Kingdom of Württemberg. He relinquished his German titles in 1917 to become Marquess of Cambridge.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Adolf Karol Aleksander Albert Edward Jerzy Filip Ludwik Teck ( ur. 13 sierpnia 1868 w Londynie, zm. 23 października 1927 w Shrewsbury) – brytyjski arystokrata, książę Teck, członek Brytyjskiej rodziny Królewskiej, 1. markiz Cambridge. Syn księcia Franciszka i księżniczki Marii Adelajdy. Jego dziadkami byli książę Aleksander Wirtemberski i hrabina Claudine Rhédey von Kis-Rhéde, oraz Adolf Hanowerski, książę Cambridge i Augusta Wilhelmina Heska. Uczęszczał do Wellington College, w wieku 19 lat rozpoczął naukę w Royal Military Academy at Sandhurst. Tak jak ojciec oraz dziadkowie poświecił się karierze wojskowej. Po ślubie swojej siostry Marii z księciem Jerzym stał się członkiem rodziny królewskiej. 12 grudnia 1894 roku ożenił się z Małgorzatą Grosvenor, córką Hugh Lupus Grosvenor, księcia Westminster. Para miała czwórkę dzieci: 
+*  Jerzego (1895-1981) – 2. markiz Cambridge 
+*  Marię (1897-1987) – żonę Henryka Somerset, 10. Księcia Beaufort 
+*  Helenę (1899-1969) – żonę Johna Evelyna Gibbs 
+*  Fryderyka (1907-1940) W 1897 roku zostaje Kawalerem Krzyża Komandorskiego Orderu Wiktoriańskiego. W styczniu 1900 roku umarł ojciec Adolfa. Odziedziczył on po nim tytuł księcia Teck. Otrzymał również Wielki Krzyż Orderu Wiktoriańskiego. Jego oddział walczył w czasie II wojny burskiej. Między 1904 a 1910 rokiem był attaché wojskowym w Wiedniu. W 1911 roku otrzymał Order Łaźni. W momencie wybuchu wojny powrócił do czynnej służby, pracował w ministerstwie wojny. Jego szwagier, król Jerzy V zdecydował się wobec złego nastawienia poddanych do wszystkiego co niemieckie, na zmianę nazwiska rodowego z Sachsen-Coburg-Gotha na Windsor, zrezygnował również ze wszystkich niemieckich tytułów. W ślady króla poszli wszyscy pozostali książęta, w tym również książęta Teck. Adolf zrezygnował z tytułu księcia Teck i przyjął po swojej matce nazwisko Cambridge, szwagier uczynił go za to markizem Cambridge.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Adolfo Cambridge, 1.º Marquês de Cambridge GCB, GCVO, CMG (13 de agosto de 1868 - 23 de outubro de 1927) era um membro da família real britânica, e irmão da rainha Maria do Reino Unido. Em 1900, ele sucedeu seu pai como Duque de Teck no Reino de Württemberg. Ele abandonou seus títulos alemães em 1917, para se tornar Marquês de Cambridge.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Adolphus Cambridge, 1. Marquess of Cambridge, GCB, GCVO, CMG, vollständiger Name Adolphus Charles Alexander Albert Edward George Philip Louis Ladislaus von Teck (* 13. August 1868 im Kensington Palace in London; † 23. Oktober 1927 in Shotton Hall, Shrewsbury) war ein Mitglied der britischen Königsfamilie, der jüngere Bruder von Königin Mary. Adolphus war der letzte Herzog von Teck im Königreich Württemberg.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Teck" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Mary_Adelaide_of_Cambridge" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Margaret_Cambridge,_Marchioness_of_Cambridge" />
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">from 1917 Cambridge</dbp:house>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Duke_of_Teck" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Lady_Helena_Gibbs" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Lord_Frederick_Cambridge" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_Cambridge,_2nd_Marquess_of_Cambridge" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_Somerset,_Duchess_of_Beaufort" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Marquess_of_Cambridge" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Teck" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Marquess_of_Cambridge" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1917</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1900</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Member" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis,_Duke_of_Teck">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Cambridge,_2nd_Marquess_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Helena_Gibbs">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Cambridge,_Marchioness_of_Cambridge">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Adolphus_of_Teck">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Somerset,_Duchess_of_Beaufort">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolphus_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Adolphus_Cambridge,_1st_Marquess_of_Cambridge">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolphus_Charles_Alexander_Albert_Edward_George_Philip_Louis_Ladislaus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Adolphus_Cambridge,_1st_Marquess_of_Cambridge" />
+  </rdf:Description>
+</rdf:RDF>

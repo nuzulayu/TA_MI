@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David,_Viscount_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emily_Shard">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Harewood">
+    <dbp:presentHolder rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Jane_Howse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Rosalind_Messenger">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Lascelles,_Viscount_Lascelles">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsInThePeerageOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishChefs" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Producer110480018" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmMaker110088390" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfAustrian-JewishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Viscount110756148" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPossibleCut-and-pasteMoves" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Maker110284064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Manufacturer110292316" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFilmProducers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Move100165942" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Choice100161243" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Chef109963574" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cook109963320" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTelevisionProducers" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishCourtesyViscounts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Action100037396" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Decision100162632" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFilmProducers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdfs:label xml:lang="en">David Lascelles, 8th Earl of Harewood</rdfs:label>
+    <rdfs:label xml:lang="pt">David Lascelles, 8.º Conde de Harewood</rdfs:label>
+    <rdfs:label xml:lang="nl">David Lascelles</rdfs:label>
+    <rdfs:label xml:lang="de">David Lascelles, 8. Earl of Harewood</rdfs:label>
+    <rdfs:label xml:lang="ru">Ласеллс, Дэвид, 8-й граф Харвуд</rdfs:label>
+    <rdfs:comment xml:lang="de">David Henry George Lascelles, 8. Earl of Harewood (* 21. Oktober 1950 in Paddington, London) ist ein britischer Film- und Fernsehproduzent. Er steht aktuell an 53. Stelle der britischen Thronfolge.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">David Henry George Lascelles, 8.º Conde de Harewood (21 de outubro de 1950) é um produtor cinematográfico britânico, melhor conhecido por ser o filho de George Lascelles, 7° Conde de Harewood e de sua primeira esposa, Marion Stein. Ele é um primo de segundo grau da Rainha Elizabeth II e o 54° na linha de sucessão ao trono britânico.Lascelles nasceu em Bayswater, Londres, e foi batizado em All Saints&#39; Church, Harewood. Seus padrinhos foram: a Duquesa de Edimburgo (agora Rainha Elizabeth II), a Rainha Mary, a Viscondessa Boyne, Benjamin Britten, Gerald Lascelles, Lady Margaret Lascelles e Erwin Stein.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Дэвид Генри Джордж Ласеллс, 8-й граф Харвуд (англ. David Henry George Lascelles, 8th Earl of Harewood; родился 21 октября 1950 года в Паддингтоне, Лондон) — наследственный пэр и кино- и телевизионный продюсер. Будучи потомком короля Георга V, он находится на 57-м месте в линии наследования британского престола.</rdfs:comment>
+    <rdfs:comment xml:lang="en">David Henry George Lascelles, 8th Earl of Harewood (born 21 October 1950), is a British hereditary peer and film and television producer. He is the first cousin, once removed of Queen Elizabeth II, the great-grandson of King George V and is 57th in line to the British throne. From his birth in 1950 until he succeeded his father in July 2011, he was known by the courtesy title Viscount Lascelles.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">David Henry George Lascelles, 8e graaf van Harewood (Londen, 21 oktober 1950) is een Brits filmproducent. Hij is de oudste zoon van George Lascelles en de pianiste Marion Stein. Zijn vader is een neef van Koningin Elizabeth II. David is daardoor 40e in lijn van de Britse troonopvolging en is de erfgenaam van het Graafschap Harewood. David is geboren in Bayswater, Londen en is gedoopt in de All Saints&#39; Church in Harewood. Zijn peetouders zijn: Koningin Elizabeth II, koningin Mary, The Viscountess Boyne, Benjamin Britten, en Gerald Lascelles, zijn oom van vaders kant.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q619788" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Alexander_Lascelles,_Viscount_Lascelles" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Benjamin_Lascelles" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/David_Lascelles,_8._Earl_of_Harewood" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q619788" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04t66d" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/David_Lascelles,_8.º_Conde_de_Harewood" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05hpvc" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/David_Lascelles" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Paddington" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-10-21</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lascelles_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1950_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_in_the_Peerage_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Austrian-Jewish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_film_producers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1328961</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742963246</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rootsandleaves.com/family/Knight/ModernLines/LascellesHarewoodLine/LascellesHarewoodLine.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://thepeerage.com/p10159.htm#i101584" />
+    <foaf:name xml:lang="en">The Earl of Harewood</foaf:name>
+    <foaf:name xml:lang="en">David Lascelles, 8th Earl of Harewood</foaf:name>
+    <dct:description xml:lang="en">British hereditary peer and film and television producer</dct:description>
+    <foaf:givenName xml:lang="en">David</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/David_Lascelles,_8th_Earl_of_Harewood" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/David_Lascelles,_8th_Earl_of_Harewood?oldid=742963246" />
+    <dbo:abstract xml:lang="en">David Henry George Lascelles, 8th Earl of Harewood (born 21 October 1950), is a British hereditary peer and film and television producer. He is the first cousin, once removed of Queen Elizabeth II, the great-grandson of King George V and is 57th in line to the British throne. From his birth in 1950 until he succeeded his father in July 2011, he was known by the courtesy title Viscount Lascelles.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">David Henry George Lascelles, 8.º Conde de Harewood (21 de outubro de 1950) é um produtor cinematográfico britânico, melhor conhecido por ser o filho de George Lascelles, 7° Conde de Harewood e de sua primeira esposa, Marion Stein. Ele é um primo de segundo grau da Rainha Elizabeth II e o 54° na linha de sucessão ao trono britânico.Lascelles nasceu em Bayswater, Londres, e foi batizado em All Saints&#39; Church, Harewood. Seus padrinhos foram: a Duquesa de Edimburgo (agora Rainha Elizabeth II), a Rainha Mary, a Viscondessa Boyne, Benjamin Britten, Gerald Lascelles, Lady Margaret Lascelles e Erwin Stein. Em 12 de fevereiro de 1979, David casou-se com Margaret Rosalind Messenger (nascida em 1948). Eles se divorciaram em 1989 e tiveram quatro filhos: 
+*  The Hon. Emily Tsering Shard (n. 23 de novembro de 1975) casada com Matthew Shard (n. 1975). Eles tem três filhos: 
+*  Isaac Shard (n. 2008) 
+*  Ida Shard (n. 2008) 
+*  Otis Shard (n. 2011) 
+*  The Hon. Benjamin George Lascelles (n. 19 de setembro de 1978) casado com Carolina Vélez Robledo. Eles tem um filho: 
+*  Mateo Lascelles (n. janeiro de 2013) 
+*  Alexander Edgar Lascelles, Visconde Lascelles (n. 13 de maio de 1980) vive com Laleh Yeganegy com quem tem um filho: 
+*  Leo Cyrus Anthony Lascelles (n. 2008) 
+*  The Hon. Edward David Lascelles (n. 19 de novembro de 1982) casado com Sophie Cartlidge Os primeiros dois filhos nasceram fora do casamento e, portanto, não estão na linha de sucessão ao trono britânico e não poderão herdar o condado de Harewood também. Em 11 de março de 1990, na Austrália, David Lascelles casou-se com Diane Jane Howse. Eles não têm filhos.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Дэвид Генри Джордж Ласеллс, 8-й граф Харвуд (англ. David Henry George Lascelles, 8th Earl of Harewood; родился 21 октября 1950 года в Паддингтоне, Лондон) — наследственный пэр и кино- и телевизионный продюсер. Будучи потомком короля Георга V, он находится на 57-м месте в линии наследования британского престола.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">David Henry George Lascelles, 8e graaf van Harewood (Londen, 21 oktober 1950) is een Brits filmproducent. Hij is de oudste zoon van George Lascelles en de pianiste Marion Stein. Zijn vader is een neef van Koningin Elizabeth II. David is daardoor 40e in lijn van de Britse troonopvolging en is de erfgenaam van het Graafschap Harewood. David is geboren in Bayswater, Londen en is gedoopt in de All Saints&#39; Church in Harewood. Zijn peetouders zijn: Koningin Elizabeth II, koningin Mary, The Viscountess Boyne, Benjamin Britten, en Gerald Lascelles, zijn oom van vaders kant. Hij trouwde met Margaret Rosalind Messenger (1948) op 12 februari 1979. Met haar kreeg hij vier kinderen: 
+*  Emily (23 november 1976) 
+*  Benjamin George (23 november 1978) 
+*  Alexander Edgar (13 mei 1980) 
+*  Edward (1982) Ze scheidden in 1989. Op 11 maart 1990 trouwde David nog een keer, met Diane Jane Howse. De twee oudste kinderen van David, Emily en Benjamin hebben geen recht op de Harewood titels. De twee jongste wel; Alexander is, na zijn vader, de erfgenaam van het Earldom of Harewood. Alexander en Edward zijn 41ste en 42ste in de lijn van de Britse troonopvolging, Emily en Benjamin staan er niet in.</dbo:abstract>
+    <dbo:abstract xml:lang="de">David Henry George Lascelles, 8. Earl of Harewood (* 21. Oktober 1950 in Paddington, London) ist ein britischer Film- und Fernsehproduzent. Er steht aktuell an 53. Stelle der britischen Thronfolge.</dbo:abstract>
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <dbp:creation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">grandson of Mary, daughter of George V</dbp:creation>
+    <dbp:heir rdf:resource="http://dbpedia.org/resource/Alexander_Lascelles,_Viscount_Lascelles" />
+    <dbp:heirType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Heir apparent</dbp:heirType>
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Right_Honourable" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Lady_Emily_Shard" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Benjamin Lascelles</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alexander_Lascelles,_Viscount_Lascelles" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward Lascelles</dbp:issue>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Marion_Stein" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1989</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1990</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Margaret Rosalind Messenger</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">div</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1979</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Diane Jane Howse</dbp:spouse>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Harewood" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_throne" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-11</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Earl_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Edgar_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_Viscountess_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Lascelles,_Viscountess_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marion_Stein">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Lascelles,_Viscountess_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret,_Viscountess_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lascelles,_Viscount_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Lascelles,_Viscountess_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orly_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/David_Lascelles,_8th_Earl_of_Harewood">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/8th_Earl_of_Harewood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/David_Lascelles,_8th_Earl_of_Harewood" />
+  </rdf:Description>
+</rdf:RDF>

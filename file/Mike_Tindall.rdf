@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/Person/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002_Six_Nations_Championship">
+    <dbp:awayscore rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003_Six_Nations_Championship">
+    <dbp:awayscore rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+    <dbp:homescore rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zara_Phillips">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Rugby_World_Cup_squads">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002–03_European_Challenge_Cup">
+    <dbp:try rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2000_Six_Nations_Championship">
+    <dbp:try rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2004_end-of-year_rugby_union_internationals">
+    <dbp:con rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_end-of-year_rugby_union_internationals">
+    <dbp:con rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Six_Nations_Championship_squads">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010_Six_Nations_Championship_squads">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Six_Nations_Championship_squads">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Tindall">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGloucesterRugbyPlayers" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromOtley" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q13415036" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtQueenElizabethGrammarSchool,Wakefield" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRugbyUnionPlayers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Contestant109613191" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestYorkshire" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBathRugbyPlayers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishRugbyUnionPlayers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglandInternationalRugbyUnionPlayers" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RugbyPlayer" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Athlete" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Player110439851" />
+    <rdfs:label xml:lang="es">Mike Tindall</rdfs:label>
+    <rdfs:label xml:lang="zh">麥克·汀達爾</rdfs:label>
+    <rdfs:label xml:lang="it">Mike Tindall</rdfs:label>
+    <rdfs:label xml:lang="en">Mike Tindall</rdfs:label>
+    <rdfs:label xml:lang="fr">Mike Tindall</rdfs:label>
+    <rdfs:label xml:lang="de">Mike Tindall</rdfs:label>
+    <rdfs:label xml:lang="pt">Mike Tindall</rdfs:label>
+    <rdfs:comment xml:lang="zh">麥克·汀達爾（英语：Mike Tindall；1978年10月18日－）是一位已經退役的英格蘭橄欖球運動員。他是英格蘭國家橄欖球隊的一員，代表英格蘭參加了2011年世界盃橄欖球賽。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Michael James &quot;Mike&quot; Tindall, MBE (born 18 October 1978) is a former English rugby player who played outside centre for Bath Rugby and Gloucester Rugby, has captained the England team, and was a member of the 2003 World Cup-winning squad. He is married to Zara Phillips, the daughter of the Princess Royal and the eldest granddaughter of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. He participated as a contestant in the 2015 series of Bear Grylls: Mission Survive and was the runner-up after the 12-day survival mission.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Michael James Tindall, MBE (18 de Outubro de 1978, Otley, Leeds, West Yorkshire), é um jogador britânico de Rugby do Gloucester Rugby da Inglaterra. Foi jogador do clube inglês Bath de 1997 a 2005, e desde 2005 está jogando no clube Gloucester Rugby.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Michael James Tindall, plus simplement appelé Mike Tindall, né le 18 octobre 1978 à Otley, est un joueur de rugby à XV international anglais. Il évolue durant sa carrière qui s&#39;étend de 1997 à 2014 au poste de centre tant en sélection nationale qu&#39;au sein de l&#39;effectif de Bath puis de Gloucester à partir de 2005.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Michael James Tindall MBE (* 18. Oktober 1978 in Otley) ist ein englischer Rugby-Union-Spieler. Er spielt als Innendreiviertel für die englische Nationalmannschaft und Gloucester. Tindall gab bei den Six Nations 2000 sein Debüt für England gegen Irland. Er gehörte bereits bei der Weltmeisterschaft 1999 zum Kader, kam jedoch nicht zum Einsatz. Beim Grand-Slam-Gewinn Englands bei den Six Nations 2003 spielte er eine zentrale Rolle mit dem spielentscheidenden Versuch gegen die Iren. Bei der folgenden Weltmeisterschaft spielte er in sechs von sieben Spielen und konnte am Ende des Turniers den Titelgewinn feiern.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Michael James Tindall, MBE (Otley, 18 de octubre de 1978) es un ex-jugador británico de rugby que se desempeñaba como centro y capitaneó al XV de la Rosa. Está casado con Zara Phillips, hija de la Princesa Real y nieta mayor de la reina Isabel II y el príncipe Felipe, duque de Edimburgo.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1386944" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03q88m" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1386944" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rAwqLo8zSSO6T4HIesFfgwQ" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Mike_Tindall" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Mike_Tindall" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Otley" />
+    <dbp:birthPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Otley, West Yorkshire, England</dbp:birthPlace>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1978-10-18</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Barbarian_F.C._players" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_the_British_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_rugby_union_players" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Otley" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rugby_union_centres" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gloucester_Rugby_players" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountbatten-Windsor_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sportspeople_from_Gloucestershire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1978_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Queen_Elizabeth_Grammar_School,_Wakefield" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bath_Rugby_players" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sportspeople_from_Yorkshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:England_international_rugby_union_players" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">923117</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737450487</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.espn.co.uk/england/rugby/player/13284.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rfu.com/squadsandplayers/englandelite/miketindall" />
+    <foaf:name xml:lang="en">Mike Tindall</foaf:name>
+    <foaf:name xml:lang="en">Michael Tindall</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mike_Tindall_2011.jpg" />
+    <dct:description xml:lang="en">English rugby union player</dct:description>
+    <foaf:givenName xml:lang="en">Mike</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mike_Tindall" />
+    <foaf:surname xml:lang="en">Tindall</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mike_Tindall_2011.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mike_Tindall?oldid=737450487" />
+    <ns8:height rdf:datatype="http://dbpedia.org/datatype/centimetre">185.0</ns8:height>
+    <ns8:weight rdf:datatype="http://dbpedia.org/datatype/kilogram">102.0</ns8:weight>
+    <dbo:abstract xml:lang="en">Michael James &quot;Mike&quot; Tindall, MBE (born 18 October 1978) is a former English rugby player who played outside centre for Bath Rugby and Gloucester Rugby, has captained the England team, and was a member of the 2003 World Cup-winning squad. He is married to Zara Phillips, the daughter of the Princess Royal and the eldest granddaughter of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. He participated as a contestant in the 2015 series of Bear Grylls: Mission Survive and was the runner-up after the 12-day survival mission.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Michael James Tindall, MBE (Otley, 18 de octubre de 1978) es un ex-jugador británico de rugby que se desempeñaba como centro y capitaneó al XV de la Rosa. Está casado con Zara Phillips, hija de la Princesa Real y nieta mayor de la reina Isabel II y el príncipe Felipe, duque de Edimburgo.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Michael James Tindall MBE (* 18. Oktober 1978 in Otley) ist ein englischer Rugby-Union-Spieler. Er spielt als Innendreiviertel für die englische Nationalmannschaft und Gloucester. Tindall gab bei den Six Nations 2000 sein Debüt für England gegen Irland. Er gehörte bereits bei der Weltmeisterschaft 1999 zum Kader, kam jedoch nicht zum Einsatz. Beim Grand-Slam-Gewinn Englands bei den Six Nations 2003 spielte er eine zentrale Rolle mit dem spielentscheidenden Versuch gegen die Iren. Bei der folgenden Weltmeisterschaft spielte er in sechs von sieben Spielen und konnte am Ende des Turniers den Titelgewinn feiern. Im Anschluss an diesen Erfolg verletzte er sich schwer und fiel für einige Zeit aus. Als er zurückkehrte wurde er zum Vizekapitän der Nationalmannschaft ernannt. Es folgten erneute Verletzungen, sodass er sowohl die Weltmeisterschaft 2007 als auch die Six Nations 2008 verpasste. Sein Vater Phil war Kapitän des lokalen Rugbyvereins Otley RUFC. Tindall ist seit dem 30. Juli 2011 mit Zara Phillips, der Tochter von Prinzessin Anne, verheiratet. Am 8. Juli 2013 verkündete der Buckingham Palace, dass das Paar 2014 sein erstes Kind erwartet. Die Tochter Mia Grace kam am 17. Januar 2014 im Gloucestershire Royal Hospital zur Welt.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Michael James Tindall, plus simplement appelé Mike Tindall, né le 18 octobre 1978 à Otley, est un joueur de rugby à XV international anglais. Il évolue durant sa carrière qui s&#39;étend de 1997 à 2014 au poste de centre tant en sélection nationale qu&#39;au sein de l&#39;effectif de Bath puis de Gloucester à partir de 2005. Il fait ses débuts avec l&#39;équipe d&#39;Angleterre le 5 février 2000 contre l&#39;équipe d&#39;Irlande lors du Tournoi des Six Nations 2000. Comme joueur du XV anglais, il réussit le Grand Chelem dans le Tournoi des Six Nations 2003 et surtout la victoire lors de la Coupe du monde 2003 en Australie devant les tenants du titre australiens. Il est blessé lors de la Coupe du monde de rugby 2007. Il revient régulièrement en équipe nationale : il connaît des capes chaque année et participe notamment à onze Tournois des Six Nations de 2000 à 2011. Il est victime de nombreuses blessures qui perturbent sa carrière. Ainsi, alors qu&#39;il figure comme candidat plausible à une sélection avec les Lions britanniques en tournée en 2001, 2005 ou 2009, il est écarté respectivement sur blessure au genou, au pied et de nouveau au genou.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Michael James Tindall, MBE (18 de Outubro de 1978, Otley, Leeds, West Yorkshire), é um jogador britânico de Rugby do Gloucester Rugby da Inglaterra. Foi jogador do clube inglês Bath de 1997 a 2005, e desde 2005 está jogando no clube Gloucester Rugby. Em 30 de julho de 2011, Tindall casou-se com a hipista Zara Phillips, filha da princesa Ana e seu primeiro marido, o capitão Mark Phillips. Zara é a 2ª neta da rainha Isabel II do Reino Unido e do príncipe Filipe,apenas mais nova que Peter Phillips,irmão de Zara. Eles juntos têm uma filha, Mia Grace, nascida em 2014, a qual foi a 4ª bisneta da rainha britânica. Em 15 de março de 2008, Tindall foi preso por dirigir embriagado. Em 8 de janeiro de 2009, foi condenado e proibido de conduzir por três anos e multado em £ 500 por beber ao volante, e com 75 £ por custos. Esta foi a consequência de um incidente na auto-estrada M4 em 15 de março de 2008, na sequência de um dia para fora em Cheltenham Racing Festival com Zara Phillips.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">麥克·汀達爾（英语：Mike Tindall；1978年10月18日－）是一位已經退役的英格蘭橄欖球運動員。他是英格蘭國家橄欖球隊的一員，代表英格蘭參加了2011年世界盃橄欖球賽。</dbo:abstract>
+    <dbo:height rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.85</dbo:height>
+    <dbo:imdbId>1986285</dbo:imdbId>
+    <dbo:school rdf:resource="http://dbpedia.org/resource/Queen_Elizabeth_Grammar_School,_Wakefield" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Zara_Phillips" />
+    <dbo:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#double">102000.0</dbo:weight>
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1978-10-18</dbp:birthDate>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Michael James Tindall</dbp:birthName>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">mai tindall</dbp:children>
+    <dbp:size rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:size>
+    <dbp:ruClubcaps rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</dbp:ruClubcaps>
+    <dbp:ruClubcaps rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</dbp:ruClubcaps>
+    <dbp:ruClubyears rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</dbp:ruClubyears>
+    <dbp:ruClubyears rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</dbp:ruClubyears>
+    <dbp:ruNationalcaps rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbp:ruNationalcaps>
+    <dbp:ruNationalcaps rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</dbp:ruNationalcaps>
+    <dbp:ruNationalteam rdf:resource="http://dbpedia.org/resource/England_national_rugby_union_team" />
+    <dbp:ruNationalteam rdf:resource="http://dbpedia.org/resource/Barbarians_F.C." />
+    <dbp:ruNationalyears rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</dbp:ruNationalyears>
+    <dbp:ruNationalyears rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dbp:ruNationalyears>
+    <dbp:ruPosition rdf:resource="http://dbpedia.org/resource/Centre_(rugby_union)" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-player-noun-1" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Player" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tindal">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Tindall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003_Rugby_World_Cup_squads">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008_Six_Nations_Championship_squads">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mike_Tindall">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mike_Tindall" />
+  </rdf:Description>
+</rdf:RDF>

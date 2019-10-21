@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chatto">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Daniel_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Chatto">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatActors" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMaleTelevisionActors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMaleFilmActors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Actor109765278" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q483501" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Entertainer109616922" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q33999" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Performer110415638" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Actor" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdfs:label xml:lang="de">Daniel Chatto</rdfs:label>
+    <rdfs:label xml:lang="pt">Daniel Chatto</rdfs:label>
+    <rdfs:label xml:lang="en">Daniel Chatto</rdfs:label>
+    <rdfs:label xml:lang="it">Daniel Chatto</rdfs:label>
+    <rdfs:comment xml:lang="pt">Daniel Chatto St. George Sproule (St. George Sproule, 22 de abril de 1957) é um ator britânico nascido na Inglaterra. Fez diversas aparições em cinema e na televisão inglesas. Seus pais foram o ator Thomas Chatto Sproule e a agente teatral Rosalind Chatto. Desde 14 de Julho de 1994 é o marido de Lady Sarah Chatto, a única filha da falecida Princesa Margaret do Reino Unido. Eles tem dois filhos: Samuel Chatto (1996) e Arthur Chatto (1999).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Daniel Chatto (* 22. April 1957 in London, England) ist ein britischer Künstler und Schauspieler. Er ist Sohn des Schauspielers Thomas Chatto und der Theateragentin Rosalind Chatto. Bekannt wurde er vor allem durch die Heirat mit Lady Sarah Armstrong-Jones, der einzigen Tochter von Margaret, Countess of Snowdon, der Schwester der britischen Königin Elisabeth II. Die beiden wurden am 14. Juli 1994 durch Chad Varah getraut, sie haben zwei Kinder (Samuel, * 1996 und Arthur, * 1999).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Daniel St George Chatto (born 22 April 1957), previously Daniel Chatto St George Sproule, is a British artist and former actor. He is the husband of Lady Sarah Armstrong-Jones, the daughter of Princess Margaret, Countess of Snowdon, and niece of Queen Elizabeth II.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Daniel_Chatto" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Daniel_Chatto" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Daniel_Chatto" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Daniel_Chatto" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q331657" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01ndz5" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Daniel_Chatto" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q331657" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1957-4-22</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1957-04-22</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1957_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_male_film_actors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_male_television_actors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266122</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741770089</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Daniel Chatto</foaf:name>
+    <dct:description xml:lang="en">British artist and actor</dct:description>
+    <foaf:givenName xml:lang="en">Daniel</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Daniel_Chatto" />
+    <foaf:surname xml:lang="en">Chatto</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Daniel_Chatto?oldid=741770089" />
+    <dbo:abstract xml:lang="pt">Daniel Chatto St. George Sproule (St. George Sproule, 22 de abril de 1957) é um ator britânico nascido na Inglaterra. Fez diversas aparições em cinema e na televisão inglesas. Seus pais foram o ator Thomas Chatto Sproule e a agente teatral Rosalind Chatto. Desde 14 de Julho de 1994 é o marido de Lady Sarah Chatto, a única filha da falecida Princesa Margaret do Reino Unido. Eles tem dois filhos: Samuel Chatto (1996) e Arthur Chatto (1999).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Daniel Chatto (* 22. April 1957 in London, England) ist ein britischer Künstler und Schauspieler. Er ist Sohn des Schauspielers Thomas Chatto und der Theateragentin Rosalind Chatto. Bekannt wurde er vor allem durch die Heirat mit Lady Sarah Armstrong-Jones, der einzigen Tochter von Margaret, Countess of Snowdon, der Schwester der britischen Königin Elisabeth II. Die beiden wurden am 14. Juli 1994 durch Chad Varah getraut, sie haben zwei Kinder (Samuel, * 1996 und Arthur, * 1999).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Daniel St George Chatto (born 22 April 1957), previously Daniel Chatto St George Sproule, is a British artist and former actor. He is the husband of Lady Sarah Armstrong-Jones, the daughter of Princess Margaret, Countess of Snowdon, and niece of Queen Elizabeth II.</dbo:abstract>
+    <dbo:birthName xml:lang="en">Daniel Chatto St George Sproule</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1957</dbo:birthYear>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Daniel_Chatto__1" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Tom_Chatto" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ros_Chatto" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+    <dbp:children rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:children>
+    <dbp:education rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aldenham School</dbp:education>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Artist" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah_Chatto">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Daniel_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Chatto">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Daniel_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Daniel_Chatto">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Daniel_Chatto" />
+  </rdf:Description>
+</rdf:RDF>

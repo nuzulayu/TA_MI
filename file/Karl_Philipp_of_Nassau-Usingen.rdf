@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Philipp_of_Nassau-Usingen">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdfs:label xml:lang="es">Carlos Felipe de Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="en">Karl Philipp of Nassau-Usingen</rdfs:label>
+    <rdfs:comment xml:lang="en">Karl Philipp, Prince of Nassau-Usingen (25 March 1746 in Biebrich - 15 August 1789 in Wiesbaden), was a Prince of Nassau-Usingen, the first Count of Weilnau, and a Captain in the Holy Roman Imperial Army.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Príncipe Carlos Felipe de Nassau-Usingen (25 de marzo de 1746, Biebrich - 15 de agosto de 1789, Wiesbaden) fue desde su nacimiento hasta su muerte un príncipe de Nassau-Usingen, el primer Conde de Weilnau, y un Capitán en el Ejército Imperial.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Karl_Philipp_of_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_Felipe_de_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q20028064" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q20028064" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.013cccsx" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Biebrich_(Wiesbaden)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Wiesbaden" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1789-8-15</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1789-08-15</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Biebrich_Palace" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Schloss_Biebrich" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1746-03-25</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1746-3-25</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Counts_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1746_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1789_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_German_people" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46879350</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744482832</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Karl Philipp of Nassau-Usingen</foaf:name>
+    <foaf:name xml:lang="en">Karl Philipp, Prince of Nassau-Usingen</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_Nassau.svg" />
+    <foaf:givenName xml:lang="en">Carlos</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Karl_Philipp_of_Nassau-Usingen" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_Nassau.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Karl_Philipp_of_Nassau-Usingen?oldid=744482832" />
+    <dbo:abstract xml:lang="en">Karl Philipp, Prince of Nassau-Usingen (25 March 1746 in Biebrich - 15 August 1789 in Wiesbaden), was a Prince of Nassau-Usingen, the first Count of Weilnau, and a Captain in the Holy Roman Imperial Army.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Príncipe Carlos Felipe de Nassau-Usingen (25 de marzo de 1746, Biebrich - 15 de agosto de 1789, Wiesbaden) fue desde su nacimiento hasta su muerte un príncipe de Nassau-Usingen, el primer Conde de Weilnau, y un Capitán en el Ejército Imperial.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Maria_Magdalena_of_Biebrich" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Karl, Count of Weilnau</dbp:caption>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Maria Anna Josepha von Thurn und Taxis</dbp:spouse>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1770</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Prince" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Karl_Philipp_of_Nassau-Usingen">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Karl_Philipp_of_Nassau-Usingen" />
+  </rdf:Description>
+</rdf:RDF>

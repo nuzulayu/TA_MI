@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Ludwig,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsWhoAbdicated" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPoets" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Poet110444194" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHereditaryGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromDarmstadt" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdfs:label xml:lang="ru">Эрнст Людвиг (великий герцог Гессенский)</rdfs:label>
+    <rdfs:label xml:lang="en">Ernest Louis, Grand Duke of Hesse</rdfs:label>
+    <rdfs:label xml:lang="pt">Ernesto Luís, Grão-Duque de Hesse</rdfs:label>
+    <rdfs:label xml:lang="ja">エルンスト・ルートヴィヒ (ヘッセン大公)</rdfs:label>
+    <rdfs:label xml:lang="zh">恩斯特·路德维希 (黑森大公)</rdfs:label>
+    <rdfs:label xml:lang="it">Ernesto Luigi d&#39;Assia</rdfs:label>
+    <rdfs:label xml:lang="pl">Ernest Ludwik (wielki książę Hesji)</rdfs:label>
+    <rdfs:label xml:lang="nl">Ernst Lodewijk van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="de">Ernst Ludwig (Hessen-Darmstadt, Großherzog)</rdfs:label>
+    <rdfs:label xml:lang="es">Ernesto Luis de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="fr">Ernest-Louis de Hesse</rdfs:label>
+    <rdfs:comment xml:lang="pt">Ernesto Luís I de Hesse (nome completo: Ernst Ludwig Karl Albert Wilhelm; Hesse-Darmstadt, 25 de Novembro de 1868 – Hesse, 9 de Outubro de 1937) foi o último Grão-Duque de Hesse e do Reno desde 1892 até à sua abdicação forçada em 1918. Era irmão mais velho da czarina Alexandra Feodorovna da Rússia de quem era muito próximo principalmente durante a infância. A sua alcunha era “Ernie”.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Ernesto Luis de Hesse-Darmstadt, Gran Duque de Hesse (en alemán: Ernst Ludwig Karl Albrecht Wilhelm von Hessen und bei Rhein; 25 de noviembre de 1868 - 9 de octubre de 1937) fue el último gran duque de Hesse de 1892 a 1918. Sus padres fueron el gran duque Luis IV de Hesse-Darmstadt y la princesa Alicia del Reino Unido, hija de la reina Victoria y el príncipe Alberto. Durante su infancia le tocó experimentar la muerte de dos de sus hermanos menores y también la de su madre, situación que lo afectó profundamente.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Ernest Louis Charles Albert William (German: Ernst Ludwig Karl Albrecht Wilhelm; 25 November 1868 – 9 October 1937) was the last Grand Duke of Hesse and by Rhine from 1892 until 1918. His nickname was &quot;Ernie&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Ernst Lodewijk Karel Albrecht Willem (Darmstadt, 25 november 1868 – Slot Wolfsgarten bij Langen (Hessen), 9 oktober 1937) was van 1892 tot 1918 de laatste groothertog van Hessen en aan de Rijn. Hij stamde uit de jongste linie van het Huis Brabant en was een zoon van groothertog Lodewijk IV en Alice van Saksen-Coburg-Gotha, dochter van de Britse koningin Victoria. De Duitse keizer Wilhelm II was zijn neef. Hij gold als knap, welgekleed, een romanticus en verlegen, biseksueel en grotendeels Engelstalig. 
+*  George Donatus (1906-1937) 
+*  Lodewijk (1908-1968)</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Ernest-Louis de Hesse-Darmstadt, né le 25 novembre 1868 à Darmstadt et mort le 9 octobre 1937 à Schloß Wolfsgarten (Langen), est le dernier grand-duc de Hesse (de 1892 à 1918). Il était également général d&#39;infanterie dans l&#39;armée allemande.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ernest Ludwik Karol Albert Wilhelm von Hessen und bei Rhein (niem. Ernst Ludwig Karl Albert Wilhelm), (ur. 25 listopada 1868 w Darmstadt, zm. 9 października 1937 niedaleko Schloss Wolfsgarten w Langen) – ostatni wielki książę Hesji w latach 1892-1918.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ernst Ludwig Karl Albrecht Wilhelm von Hessen und bei Rhein (* 25. November 1868 in Darmstadt; † 9. Oktober 1937 in Schloss Wolfsgarten bei Langen) war von 1892 bis 1918 der letzte Großherzog von Hessen-Darmstadt.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">エルンスト・ルートヴィヒ（Ernst Ludwig Karl Albecht Wilhelm, 1868年11月25日 - 1937年10月9日）は、ヘッセン大公国の第5代大公（在位：1892年 - 1918年）。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Великий герцог Эрнст Людвиг Гессенский (полное имя Эрнст Людвиг Карл Альберт Вильгельм, нем. Ernst Ludwig Karl Albert Wilhelm, Großherzog von Hessen und bei Rhein; 25 ноября 1868 — 9 октября 1937) — великий герцог Гессенский и Рейнский.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">恩斯特·路德维希（德语：Ernst Ludwig，1868年11月25日－1937年10月9日），全名恩斯特·路德维希·卡尔·阿尔布雷希特·威廉（德语：Ernst Ludwig Karl Albrecht Wilhelm），黑森末代大公，1892年至1918年在位。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ernst_Ludwig_(Hessen-Darmstadt,_Großherzog)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エルンスト・ルートヴィヒ_(ヘッセン大公)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57507" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q57507" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.054hxj" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ernest-Louis_de_Hesse" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ernesto_Luís,_Grão-Duque_de_Hesse" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ernesto_Luigi_d&#39;Assia" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ernest_Ludwik_(wielki_książę_Hesji)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ernesto_Luis_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ernst_Lodewijk_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Arnošt_Ludvík_Hesenský" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/에른스트_루트비히_(헤센)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118530933" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schloß_Wolfsgarten" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Langen,_Hesse" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Hesse" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schloss_Wolfsgarten" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-10-9</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-10-09</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-11-25</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Generals_of_Infantry_(Prussia)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1868_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_Army_generals_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Mausoleum_for_the_Grand_Ducal_House_of_Hesse,_Rosenhöhe_(Darmstadt)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hereditary_Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1937_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_who_abdicated" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1476057</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">735517936</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Ernest Louis</foaf:name>
+    <foaf:name xml:lang="en">Ernest Louis, Grand Duke of Hesse</foaf:name>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/ErnstLouisHesse.jpg" />
+    <dct:description xml:lang="en">German noble</dct:description>
+    <foaf:givenName xml:lang="en">Ernst</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ernest_Louis,_Grand_Duke_of_Hesse" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/ErnstLouisHesse.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ernest_Louis,_Grand_Duke_of_Hesse?oldid=735517936" />
+    <dbo:abstract xml:lang="de">Ernst Ludwig Karl Albrecht Wilhelm von Hessen und bei Rhein (* 25. November 1868 in Darmstadt; † 9. Oktober 1937 in Schloss Wolfsgarten bei Langen) war von 1892 bis 1918 der letzte Großherzog von Hessen-Darmstadt.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Ernesto Luis de Hesse-Darmstadt, Gran Duque de Hesse (en alemán: Ernst Ludwig Karl Albrecht Wilhelm von Hessen und bei Rhein; 25 de noviembre de 1868 - 9 de octubre de 1937) fue el último gran duque de Hesse de 1892 a 1918. Sus padres fueron el gran duque Luis IV de Hesse-Darmstadt y la princesa Alicia del Reino Unido, hija de la reina Victoria y el príncipe Alberto. Durante su infancia le tocó experimentar la muerte de dos de sus hermanos menores y también la de su madre, situación que lo afectó profundamente. A la muerte de Luis IV en 1892, Ernesto Luis lo sucedió como gran duque. Como gobernante se caracterizó por su prudencia y por dedicarse activamente al apoyo y promoción del arte. Su personalidad sensible y su renuencia a contraer matrimonio fue la fuente de muchas especulaciones. Ernesto Luis era homosexual, pero debido en parte a las presiones familiares y a la necesidad de un heredero, contrajo matrimonio con su prima, la princesa Victoria Melita, que terminó en divorcio en 1901. Se casó en segundas nupcias con la princesa Leonor de Solms-Hohensolms-Lich en 1905. Al final de la Primera Guerra Mundial fue abolido el Gran Ducado de Hesse a causa de la Revolución de Noviembre de 1918. A diferencia de otros príncipes y debido al gran afecto que le profesaba el pueblo, se le permitió permanecer en Alemania y conservar algunas propiedades. Ernesto Luis vivió tranquilamente sus últimos años, dedicado a sus aficiones y a su familia. Murió en 1937 en el Palacio de Wolfsgarten, fue sepultado en el cementerio del parque Rosenhöhe ubicado en Darmstadt.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Великий герцог Эрнст Людвиг Гессенский (полное имя Эрнст Людвиг Карл Альберт Вильгельм, нем. Ernst Ludwig Karl Albert Wilhelm, Großherzog von Hessen und bei Rhein; 25 ноября 1868 — 9 октября 1937) — великий герцог Гессенский и Рейнский.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">エルンスト・ルートヴィヒ（Ernst Ludwig Karl Albecht Wilhelm, 1868年11月25日 - 1937年10月9日）は、ヘッセン大公国の第5代大公（在位：1892年 - 1918年）。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ernest Ludwik Karol Albert Wilhelm von Hessen und bei Rhein (niem. Ernst Ludwig Karl Albert Wilhelm), (ur. 25 listopada 1868 w Darmstadt, zm. 9 października 1937 niedaleko Schloss Wolfsgarten w Langen) – ostatni wielki książę Hesji w latach 1892-1918.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">恩斯特·路德维希（德语：Ernst Ludwig，1868年11月25日－1937年10月9日），全名恩斯特·路德维希·卡尔·阿尔布雷希特·威廉（德语：Ernst Ludwig Karl Albrecht Wilhelm），黑森末代大公，1892年至1918年在位。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ernesto Luís I de Hesse (nome completo: Ernst Ludwig Karl Albert Wilhelm; Hesse-Darmstadt, 25 de Novembro de 1868 – Hesse, 9 de Outubro de 1937) foi o último Grão-Duque de Hesse e do Reno desde 1892 até à sua abdicação forçada em 1918. Era irmão mais velho da czarina Alexandra Feodorovna da Rússia de quem era muito próximo principalmente durante a infância. A sua alcunha era “Ernie”.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Ernest Louis Charles Albert William (German: Ernst Ludwig Karl Albrecht Wilhelm; 25 November 1868 – 9 October 1937) was the last Grand Duke of Hesse and by Rhine from 1892 until 1918. His nickname was &quot;Ernie&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Ernst Lodewijk Karel Albrecht Willem (Darmstadt, 25 november 1868 – Slot Wolfsgarten bij Langen (Hessen), 9 oktober 1937) was van 1892 tot 1918 de laatste groothertog van Hessen en aan de Rijn. Hij stamde uit de jongste linie van het Huis Brabant en was een zoon van groothertog Lodewijk IV en Alice van Saksen-Coburg-Gotha, dochter van de Britse koningin Victoria. De Duitse keizer Wilhelm II was zijn neef. Hij gold als knap, welgekleed, een romanticus en verlegen, biseksueel en grotendeels Engelstalig. Na de dood van zijn vader in 1892 besteeg hij de groothertogelijke troon. In 1894 trouwde hij met zijn nicht, prinses Victoria Melita (&quot;Ducky&quot;), dochter van hertog Alfred van Saksen-Coburg en Gotha, op sterk aandringen van beider grootmoeder, Victoria. Het huwelijk werd zonder veel overtuiging door beiden gesloten. Nog datzelfde jaar werd dochter Elisabeth geboren, die echter reeds in 1903 stierf. Victoria en Ernst deelden weliswaar een grote belangstelling voor cultuur en - meer in het algemeen - voor schoonheid, maar voor Ernst was het de vraag of hij überhaupt had willen trouwen, terwijl voor Victoria gold dat zij eigenlijk verliefd was op een andere neef, van moederszijde, de Russische grootvorst Cyril Vladimirovitsj Romanov, met wie zij - niet lang na de voltrekking van haar huwelijk - een, aanvankelijk platonische, verhouding kreeg. Ernst Lodewijk was een liberaal-constitutioneel vorst en een groot mecenas. Hij stimuleerde wetenschap, economie (met name Opel), kunst en cultuur. Hij schreef drama&#39;s en gedichten, componeerde pianostukken en schreef over architectuur en tuinbouwkunst. Na een bezoek aan Engeland in 1899 zette hij zich in voor de verbreiding van de Jugendstil in Duitsland en stichtte de kunstenaarskolonie Mathildenhöhe. In 1901 organiseerde hij een tentoonstelling waarin werd geageerd tegen kitsch en valse romantiek die ook in het buitenland veel navolging vond. In datzelfde jaar scheidde hij van zijn vrouw, die kort daarop haar minnaar, grootvorst Cyril Romanov, huwde. In 1905 hertrouwde hij met Eleonore van Solms-Hohensolms-Lich. Met haar kreeg hij nog twee zoons: 
+*  George Donatus (1906-1937) 
+*  Lodewijk (1908-1968) Ernst Lodewijk stichtte in 1907 de Ernst-Ludwig-Presse ter bevordering van het boekwezen en publiceerde in 1911 onder het pseudoniem &#39;E. Mann&#39; het kerstspel Bonifatius. Onder het pseudoniem K.E. Ludhart publiceerde hij het jaar daarop het werk Ostern. Ein Mysterium. Zijn zuster Alix was sinds 1894 gehuwd met tsaar Nicolaas II. Ernst trachtte deze familierelatie in de Eerste Wereldoorlog in 1916 uit te buiten om vrede te sluiten met Rusland. Hessen leed in de Eerste Wereldoorlog zware verliezen. Ernst Lodewijk stelde in 1917 een IJzeren Ereteken voor Strijders in dat de bijnaam &quot;Blutiger Ludwig&quot; kreeg. In de Novemberrevolutie van 1918 weigerde hij officieel af te treden maar verloor desondanks zijn groothertogelijke waardigheid - Hessen werd tot Vrijstaat verklaard. Ernst Lodewijk bleef zich inzetten voor kunst en cultuur en stierf in 1937 te Slot Wolfsgarten bij Langen (Hessen).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Ernest-Louis de Hesse-Darmstadt, né le 25 novembre 1868 à Darmstadt et mort le 9 octobre 1937 à Schloß Wolfsgarten (Langen), est le dernier grand-duc de Hesse (de 1892 à 1918). Il était également général d&#39;infanterie dans l&#39;armée allemande.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1918</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1892</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse_and_by_Rhine" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Alice_of_the_United_Kingdom" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Eleonore_of_Solms-Hohensolms-Lich" />
+    <dbo:title xml:lang="en">Grand Duke of Hesse and by Rhine</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Carl_Ulrich" />
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">President of the People&#39;s State of Hesse</dbp:as>
+    <dbp:as rdf:resource="http://dbpedia.org/resource/Rulers_of_Hesse" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rulers_of_Hesse" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1918</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1892</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Duke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchy_of_Hesse">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Louis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Louis_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Ludwig,_Grand_Duke_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Ludwig_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis,_Prince_of_Hesse_and_by_Rhine">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Hesse">
+    <dbp:finalRuler rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Ludwig">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Eleonore_of_Solms-Hohensolms-Lich">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_louis,_grand_duke_of_hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Ludwig,_Grand_Duke_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ernest_Louis,_Grand_Duke_of_Hesse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+</rdf:RDF>

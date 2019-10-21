@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zara_Phillips">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Phillips">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtPortRegisSchool" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtGordonstoun" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfGreekDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromGloucester" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfDanishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfExeter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishExpatriatesInHongKong" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromPaddington" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromGloucestershire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Absentee109757653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Exile110071332" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPoliticians" />
+    <rdfs:label xml:lang="it">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="de">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="fr">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="ja">ピーター・フィリップス</rdfs:label>
+    <rdfs:label xml:lang="pt">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="nl">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="en">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="es">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="pl">Peter Phillips</rdfs:label>
+    <rdfs:label xml:lang="zh">彼得·菲利浦斯</rdfs:label>
+    <rdfs:comment xml:lang="pl">Peter Mark Andrew Phillips (ur. 15 listopada 1977 w Londynie) – członek brytyjskiej rodziny królewskiej, najstarszy wnuk królowej Elżbiety II.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Peter Mark Andrew Phillips, né le 15 novembre 1977 à Paddington en Londres, est le fils de la princesse royale Anne et du capitaine Mark Phillips. En sa qualité de petit-fils de la reine Élisabeth II du Royaume-Uni, il occupe la treizième place dans l&#39;ordre de succession au trône britannique. Cependant, avec sa sœur Zara, ils sont les seuls des petits-enfants de la reine à ne pas porter de titre de noblesse ; leurs parents ont refusé tout titre de courtoisie offert par la souveraine.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Peter Mark Andrew Phillips (Londres, 15 de novembro de 1977) é o neto mais velho da rainha Isabel II do Reino Unido e do Duque de Edimburgo. Atualmente, mesmo sendo considerado um plebeu, ele é o décimo terceiro na linha de sucessão ao trono britânico. Ao nascer, era o quinto na linha, permanecendo assim até o nascimento de seu primo, o príncipe Guilherme, em 1982. Peter Phillips não tem um título de cortesia nem deveres reais e trabalhou, durante muitos anos, no Royal Bank of Scotland, na Escócia.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ピーター・マーク・アンドルー・フィリップス（Peter Mark Andrew Phillips, 1977年11月15日 - ）は、イギリス王女アンの第1子で、エリザベス2世の孫。父はマーク・フィリップス陸軍大尉。妹にザラ・フィリップスがいる。2015年5月5日現在、アンに次ぎイギリス王位継承順位13位。貴族称号は持たない。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Essendo nipote in linea femminile della Regina non ha diritto ad un titolo nobiliare, rimane quindi un membro minore della famiglia reale britannica.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Peter Mark Andrew Phillips (born 15 November 1977) is the first child and only son of Anne, Princess Royal, and her first husband, Captain Mark Phillips. He is the eldest grandchild of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. He is currently 13th in line to succeed his maternal grandmother, Elizabeth II.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">彼得·馬克·安德魯·菲利浦斯（英语：Peter Mark Andrew Phillips，1977年11月15日－），是英國長公主安妮公主與首任丈夫馬克·菲利浦斯上尉所生的唯一兒子，也是伊利莎伯二世和菲臘親王的外孫。 菲利浦斯出生於1977年，当时是英國王位第5順位繼承人，現時為第13順位，但並不具有任何皇家頭銜。2000年大學畢業後，他先後在積架車隊和威廉士車隊工作。2003年，他為威廉士車隊於加拿大工作時結識了奧特姆·凱利，兩人在2008年於聖喬治禮拜堂舉行婚禮。他為人低調，公眾對其認知不多，亦從未有執行王室職責，他現正於香港的蘇格蘭皇家銀行工作。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Peter Mark Andrew Phillips (* 15. November 1977 in London-Paddington) ist der erste Sohn von Prinzessin Anne und Mark Phillips. Er ist das erstgeborene Enkelkind von Königin Elisabeth II. und Prinz Philip, Duke of Edinburgh.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Peter Mark Andrew Phillips (Londen, 15 november 1977) is het oudste kind van prinses Anne van het Verenigd Koninkrijk (de enige dochter van koningin Elizabeth II van het Verenigd Koninkrijk en prins Philip) en Mark Phillips.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Peter Mark Andrew Phillips (nació el 15 de noviembre de 1977) es el primer hijo y único hijo varón de la Princesa Ana, Princesa Real y de su primer esposo el Capitán Mark Phillips. Él es el nieto mayor de la Reina Isabel II y del Príncipe Felipe, Duque de Edimburgo.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q344908" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Savannah_Phillips" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q344908" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rB7NTF7r2Svic6-TNrpkA0Q" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Peter_Phillips" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Isla_Phillips" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/피터_필립스" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ピーター・フィリップス" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0226vh" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/St_Mary&#39;s_Hospital,_London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-11-15</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Gordonstoun" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Port_Regis_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Bank_of_Scotland_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anne,_Princess_Royal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Paddington" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_expatriates_in_Hong_Kong" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Exeter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hong_Kong_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1977_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Danish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Gloucestershire" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386255</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744233892</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Peter Phillips</foaf:name>
+    <dct:description xml:lang="en">son of Anne, Princess Royal (*1977)</dct:description>
+    <foaf:givenName xml:lang="en">Peter</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Peter_Phillips" />
+    <foaf:surname xml:lang="en">Phillips</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Peter_Phillips?oldid=744233892" />
+    <dbo:abstract xml:lang="es">Peter Mark Andrew Phillips (nació el 15 de noviembre de 1977) es el primer hijo y único hijo varón de la Princesa Ana, Princesa Real y de su primer esposo el Capitán Mark Phillips. Él es el nieto mayor de la Reina Isabel II y del Príncipe Felipe, Duque de Edimburgo. Nacido en 1977, Peter Phillips no goza de un título o estilo real por decisión de sus padres, al igual que su hermana Zara, y es actualmente el décimo tercero en la línea de sucesión al trono Británico. Después de graduarse de la Universidad en 2000, ha trabajado para Jaguar Racing, seguido por Williams F1. Mientras trabajada para Williams F1 en Canadá en 2003, conoció a Autumn Patricia Kelly, con la cual se casó en la Capilla de St George&#39;s en el Castillo de Windsor, en el 2008. Phillips tiene un bajo perfil público, con ningún servicio o deber Real, y actualmente trabaja para el Banco Real de Escocia.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Peter Mark Andrew Phillips (Londen, 15 november 1977) is het oudste kind van prinses Anne van het Verenigd Koninkrijk (de enige dochter van koningin Elizabeth II van het Verenigd Koninkrijk en prins Philip) en Mark Phillips.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">彼得·馬克·安德魯·菲利浦斯（英语：Peter Mark Andrew Phillips，1977年11月15日－），是英國長公主安妮公主與首任丈夫馬克·菲利浦斯上尉所生的唯一兒子，也是伊利莎伯二世和菲臘親王的外孫。 菲利浦斯出生於1977年，当时是英國王位第5順位繼承人，現時為第13順位，但並不具有任何皇家頭銜。2000年大學畢業後，他先後在積架車隊和威廉士車隊工作。2003年，他為威廉士車隊於加拿大工作時結識了奧特姆·凱利，兩人在2008年於聖喬治禮拜堂舉行婚禮。他為人低調，公眾對其認知不多，亦從未有執行王室職責，他現正於香港的蘇格蘭皇家銀行工作。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ピーター・マーク・アンドルー・フィリップス（Peter Mark Andrew Phillips, 1977年11月15日 - ）は、イギリス王女アンの第1子で、エリザベス2世の孫。父はマーク・フィリップス陸軍大尉。妹にザラ・フィリップスがいる。2015年5月5日現在、アンに次ぎイギリス王位継承順位13位。貴族称号は持たない。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Peter Mark Andrew Phillips (Londres, 15 de novembro de 1977) é o neto mais velho da rainha Isabel II do Reino Unido e do Duque de Edimburgo. Atualmente, mesmo sendo considerado um plebeu, ele é o décimo terceiro na linha de sucessão ao trono britânico. Ao nascer, era o quinto na linha, permanecendo assim até o nascimento de seu primo, o príncipe Guilherme, em 1982. Peter Phillips não tem um título de cortesia nem deveres reais e trabalhou, durante muitos anos, no Royal Bank of Scotland, na Escócia.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Peter Mark Andrew Phillips (born 15 November 1977) is the first child and only son of Anne, Princess Royal, and her first husband, Captain Mark Phillips. He is the eldest grandchild of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. After graduating from university in 2000, he worked for Jaguar followed by WilliamsF1. In 2003, while working for WilliamsF1 in Canada, he met Autumn Kelly, whom he married in St George&#39;s Chapel at Windsor Castle in 2008. Phillips keeps a low public profile and for the most part, carries out no obligations on behalf of the royal family; for many years he has worked in the sports sponsorship and management fields. He is currently 13th in line to succeed his maternal grandmother, Elizabeth II.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Peter Mark Andrew Phillips (ur. 15 listopada 1977 w Londynie) – członek brytyjskiej rodziny królewskiej, najstarszy wnuk królowej Elżbiety II.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Peter Mark Andrew Phillips, né le 15 novembre 1977 à Paddington en Londres, est le fils de la princesse royale Anne et du capitaine Mark Phillips. En sa qualité de petit-fils de la reine Élisabeth II du Royaume-Uni, il occupe la treizième place dans l&#39;ordre de succession au trône britannique. Cependant, avec sa sœur Zara, ils sont les seuls des petits-enfants de la reine à ne pas porter de titre de noblesse ; leurs parents ont refusé tout titre de courtoisie offert par la souveraine.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Essendo nipote in linea femminile della Regina non ha diritto ad un titolo nobiliare, rimane quindi un membro minore della famiglia reale britannica.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Peter Mark Andrew Phillips (* 15. November 1977 in London-Paddington) ist der erste Sohn von Prinzessin Anne und Mark Phillips. Er ist das erstgeborene Enkelkind von Königin Elisabeth II. und Prinz Philip, Duke of Edinburgh.</dbo:abstract>
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Exeter" />
+    <dbo:birthName xml:lang="en">Peter Mark Andrew Phillips</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1977</dbo:birthYear>
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Royal_Bank_of_Scotland" />
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Peter_Phillips__1" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Mark_Phillips" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Zara_Phillips" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Autumn_Phillips" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Phillips and his mother in August 2012</dbp:caption>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Isla Phillips</dbp:children>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Savannah Phillips</dbp:children>
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Per chevron azure and Or, in chief a horse courant argent, and in base a sprig of forget-me-not flowers, slipped and leaved proper.</dbp:escutcheon>
+    <dbp:notes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">These arms were granted to Peter William Garside Phillips, the father of Mark Phillips and grandfather of Peter Mark Andrew Phillips, in October 1973. Mark used these arms differenced with a three-point label, and the younger Peter with a five-point label, until Mark inherited the plain arms in 1998.</dbp:notes>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_throne" />
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbp:title>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Phillips_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autumn_Phillips">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Project_Censored_the_Movie">
+    <dbo:starring rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Mark_Andrew_Phillips">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Peter_Phillips">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savannah_Phillips_(British_royal_family)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savannah_Anne_Kathleen_Phillips">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isla_Elizabeth_Phillips">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995_Illawarra_Steelers_season">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillips,_Peter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+  </rdf:Description>
+</rdf:RDF>

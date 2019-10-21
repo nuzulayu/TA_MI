@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Shand_Kydd">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_Princess_Of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Frances">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Diana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_Duchess_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_of_Diana,_Princess_of_Wales">
+    <dbp:deaths rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Spencer,_Princess_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_of_Wales_Diana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Amelia_Spencer">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Eliza_Spencer">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Kitty_Spencer">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_princess_of_wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Di">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer">
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Roche,_Baroness_Fermoy">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_(Princess_of_Wales)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_Princess_of_Wales">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromNorthamptonshire" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Saint110546850" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109918248" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Daughter109992837" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleOffspring110084043" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Offspring110373998" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishDuchessesByMarriage" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfAmericanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Customer109984659" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Patron110407726" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWelshPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfRothesay" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Humanitarian110191613" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincessesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfIrishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfIndianDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPhilanthropists" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoodPerson110138767" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Philanthropist110421956" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromNorfolk" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Benefactor109608709" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Donor110025730" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFolkSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfScottishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishHumanitarians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPatronsOfSchools" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/User110741590" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consumer109612848" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDaughtersOfBritishEarls" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKing&#39;sLynnAndWestNorfolk(district)" />
+    <rdfs:label xml:lang="nl">Diana Spencer</rdfs:label>
+    <rdfs:label xml:lang="de">Diana, Princess of Wales</rdfs:label>
+    <rdfs:label xml:lang="ar">ديانا أميرة ويلز</rdfs:label>
+    <rdfs:label xml:lang="pl">Diana (księżna Walii)</rdfs:label>
+    <rdfs:label xml:lang="zh">威爾斯王妃戴安娜</rdfs:label>
+    <rdfs:label xml:lang="pt">Diana, Princesa de Gales</rdfs:label>
+    <rdfs:label xml:lang="es">Diana de Gales</rdfs:label>
+    <rdfs:label xml:lang="ja">ダイアナ (プリンセス・オブ・ウェールズ)</rdfs:label>
+    <rdfs:label xml:lang="fr">Diana Spencer</rdfs:label>
+    <rdfs:label xml:lang="en">Diana, Princess of Wales</rdfs:label>
+    <rdfs:label xml:lang="ru">Диана, принцесса Уэльская</rdfs:label>
+    <rdfs:label xml:lang="it">Diana Spencer</rdfs:label>
+    <rdfs:comment xml:lang="ar">ديانا أميرة ويلز (ديانا فرانسيس سبنسر، 1 يوليو 1961 - 31 اغسطس 1997) كانت الزوجة الأولى لتشارلز أمير ويلز وهو الابن الأكبر والوريث الظاهري للملكة إليزابيث الثانية. ولدت ديانا في عائلة إنجليزية نبيلة تعود لأصول ملكية تلقب بالشرفاء The Honourable و تدعى ديانا سبنسر. كانت المولودة الرابعة و الابنة الثالثة لجون سبنسر الإيرل الثامن و الشريفة فرانسيس شاند كايد. ترعرعت فى منزل بارك Park House بالقرب من مقاطعة ساندرينجهام. تعلمت فى إنجلترا و سويسرا و حصلت على لقب ليدي lady أي سيدة في عام 1975 بعد أن ورث والدها لقب إيرل سبنسر.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Diana, księżna Walii, urodzona jako Diana Frances Spencer (ur. 1 lipca 1961 w Park House, Sandringham w Wielkiej Brytanii, zm. 31 sierpnia 1997 w Paryżu, we Francji) – członkini brytyjskiej rodziny królewskiej jako pierwsza żona Karola, księcia Walii, syna królowej Wielkiej Brytanii Elżbiety II i Filipa, księcia Edynburga. Matka Wilhelma, księcia Cambridge oraz Henryka, księcia z Walii, odpowiednio 2. i 5. osoby w sukcesji do tronu brytyjskiego. W przeprowadzonym przez BBC plebiscycie „100 Najwybitniejszych Brytyjczyków” księżna Walii zajęła 3. miejsce.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Diana, princesa de Gales (n. Lady Diana Frances Spencer, Sandringham, 1 de julio de 1961-París, 31 de agosto de 1997), fue la primera esposa del príncipe Carlos de Gales, heredero de la Corona británica. Durante su matrimonio con el príncipe Carlos, tuvo dos hijos: los príncipes Guillermo y Enrique de Gales. Su personalidad, su polémica ruptura con el heredero, y la inesperada y trágica muerte en accidente automovilístico en París la convirtieron en auténtico mito para la cultura británica y en un personaje muy popular a nivel mundial.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Diana Frances Spencer, née le 1er juillet 1961 à Sandringham (comté de Norfolk) et morte le 31 août 1997 à Paris, est une aristocrate britannique, épouse de Charles, prince de Galles, du 29 juillet 1981 au 28 août 1996, date de leur divorce.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">威爾斯王妃戴安娜（英语：Diana, Princess of Wales，1961年7月1日－1997年8月31日），全名戴安娜·弗兰茜斯（英语：Diana Frances），娘家姓為斯宾塞（英语：Spencer），被大眾稱為戴安娜王妃（英语：Princess Diana，簡稱黛妃），她是英国王储、威尔士亲王查理斯的第一任妻子，亦是威廉王子和哈利王子的親生母親。 戴安娜出生于英国贵族家庭，是奥尔索普子爵约翰·斯宾塞的第四个孩子。 1981年7月29日与威尔士王子在圣保罗大教堂完婚，全球有7.5亿人透过电视观看婚礼直播。婚后她的头衔为“威尔士王妃，康沃尔公爵夫人，切斯特伯爵夫人，卡里克伯爵夫人，罗斯西公爵夫人，伦弗鲁男爵夫人，群岛领主夫人，苏格兰王妃”。婚后育有两子：威廉王子和哈利王子，分别是英国王位第二和第五（2013年7月前為第三，2015年5月前為第四）顺位继承人。 婚后她致力于公共服务，成为20世纪末著名的慈善筹款名人。她支持国际反地雷组织，1989年任伦敦大奥曼德街儿童医院主席。1996年8月28日她与查尔斯离婚后仍是世界媒体的焦点。1997年8月31日她在巴黎因车祸去世，其葬礼也受到世界媒体的关注。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Диа́на, принцесса Уэльская (англ. Diana, Princess of Wales), урождённая Диана Фрэнсис Спенсер (англ. Diana Frances Spencer; 1 июля 1961, Сандрингем, Норфолк — 31 августа 1997, Париж) — с 1981 года по 1996 год первая жена принца Уэльского Чарльза, наследника британского престола. Широко известна как принцесса Диана, леди Диана или леди Ди. По данным опроса, проведённого в 2002 году вещательной компанией Би-би-си, Диана заняла 3 место в списке Ста величайших британцев в истории.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Diana, prinses van Wales (Diana Frances Spencer, Sandringham (Norfolk), 1 juli 1961 – Parijs, 31 augustus 1997) was de eerste echtgenote van de Britse kroonprins Charles en de moeder van de prinsen William en Harry.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Diana, Princess of Wales (Fürstin von Wales, gebürtig Diana Frances Spencer, * 1. Juli 1961 in Sandringham, Norfolk, England; † 31. August 1997 in Paris, Frankreich), war als erste Ehefrau des derzeitigen britischen Thronfolgers Charles von 1981 bis 1996 Kronprinzessin des Vereinigten Königreiches. Aus Dianas Ehe mit Charles stammen die Söhne William und Henry, der oft Harry genannt wird. Im deutschen Volksmund wird Diana bis heute oft als Lady Diana, Lady Di oder Prinzessin Diana bezeichnet, obwohl sie seit der Hochzeit den Titel „Lady“ nicht mehr führte. 
+* 
+* Wappen der Princess of Wales 
+*</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ウェールズ公妃ダイアナ（Diana, Princess of Wales、全名: ダイアナ・フランセス（Diana Frances）、旧姓: スペンサー（Spencer）、1961年7月1日 - 1997年8月31日）は、イギリスの第1位王位継承権者ウェールズ公チャールズの最初の妃。 イギリスの名門貴族スペンサー伯爵家の令嬢として生まれ、1981年にチャールズ皇太子と結婚し、彼との間にケンブリッジ公ウィリアム王子（第2位王位継承権者）およびヘンリー王子（第5位王位継承権者）の2子をもうけた。しかし後にチャールズ皇太子と別居状態になり、1996年に離婚した。1997年にパリで交通事故による不慮の死を遂げた。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Diana, Princess of Wales (Diana Frances; née Spencer; 1 July 1961 – 31 August 1997), was the first wife of Charles, Prince of Wales, who is the eldest child and heir apparent of Queen Elizabeth II. Diana was born into a family of British nobility with royal ancestry as The Honourable Diana Spencer. She was the fourth child and third daughter of John Spencer, Viscount Althorp and the Honourable Frances Roche. She grew up in Park House, situated on the Sandringham estate, and was educated in England and Switzerland. In 1975, after her father inherited the title of Earl Spencer, she became Lady Diana Spencer.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Diana Frances Spencer (Sandringham, 1 de julho de 1961 — Paris, 31 de agosto de 1997), apelidada de &quot;Lady Di&quot;, foi uma aristocrata, filantropa e a primeira esposa de Carlos, Príncipe de Gales, filho mais velho e herdeiro aparente de Isabel II do Reino Unido. Seus dois filhos, os príncipes Guilherme, Duque de Cambridge e Harry, são respectivamente o segundo e o quinto na Linha de sucessão ao trono britânico e de outros doze países da Commonwealth.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Dopo il divorzio dal coniuge mantenne il titolo di Principessa di Galles, ma senza il trattamento di Altezza Reale, rimanendo membro ufficiale della famiglia reale, come madre del futuro erede al trono, fatto verificatosi per la prima volta nella storia della famiglia reale britannica.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_honours_of_the_British_Royal_Family_by_country" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/웨일스_공작부인_다이애나" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Νταϊάνα,_πριγκίπισσα_της_Ουαλίας" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ダイアナ_(プリンセス・オブ・ウェールズ)" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Diana_Spencer" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Diana,_Princess_of_Wales" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118525123" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Diana,_Princess_of_Wales" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N82169796405407291823" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Diana_(księżna_Walii)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Diana_de_Gales" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Diana_Spencer" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Diana_Spencer" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Princezna_Diana" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06053" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Diana_Spencer" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/107032638" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q9685" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Diana_Galeskoa" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q9685" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Diana_Spencer" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rv5PaopwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Diana,_Princesa_de_Gales" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Paris" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Pitié-Salpêtrière_Hospital" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-08-31</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-8-31</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sandringham,_Norfolk" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Norfolk" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-07-01</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1961-7-1</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:HIV/AIDS_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Folk_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1997_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Sandringham,_Norfolk" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Scottish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Spencer-Churchill_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Northamptonshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Patrons_of_schools" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Supreme_Classes_of_the_Order_of_the_Virtues_(Egypt)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_American_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Indian_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Charles,_Prince_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Homelessness_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Leprosy_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountbatten-Windsor_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_viscounts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Diss" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_health_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_humanitarians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_environmentalists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_East_Hampshire_(district)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Diana,_Princess_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prince_Harry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prince_William,_Duke_of_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_women_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_in_Northamptonshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mine_action" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Crown_(Netherlands)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_air_commodores" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_countesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_philanthropists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_British_earls" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1961_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mental_health_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Sevenoaks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Norfolk" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Freemen_of_the_City_of_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Road_incident_deaths_in_France" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24095</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744930906</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.theworkcontinues.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city-journal.org/html/7_4_oh_to_be.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.people.com/people/static/h/package/dianaremembered/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/hi/english/static/diana_one_year_on/sights_and_sounds/default.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.time.com/time/specials/2007/0,28757,1650830,00.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://webarchive.nationalarchives.gov.uk/20090607230252/http:/www.scottbaker-inquests.gov.uk/index.htm" />
+    <foaf:name xml:lang="en">Diana Frances</foaf:name>
+    <foaf:name xml:lang="en">Diana</foaf:name>
+    <foaf:name xml:lang="en">Diana, Princess of Wales</foaf:name>
+    <foaf:homepage rdf:resource="http://www.theworkcontinues.org/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">52.2831</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.00028</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Международная_Леонардо-премия_18.jpg" />
+    <dct:description xml:lang="en">First wife of Charles, Prince of Wales</dct:description>
+    <foaf:givenName xml:lang="en">Diana</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Diana,_Princess_of_Wales" />
+    <foaf:surname xml:lang="en">Spencer</foaf:surname>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-1.0002779960632 52.283081054688)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Международная_Леонардо-премия_18.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Diana,_Princess_of_Wales?oldid=744930906" />
+    <dbo:abstract xml:lang="ar">ديانا أميرة ويلز (ديانا فرانسيس سبنسر، 1 يوليو 1961 - 31 اغسطس 1997) كانت الزوجة الأولى لتشارلز أمير ويلز وهو الابن الأكبر والوريث الظاهري للملكة إليزابيث الثانية. ولدت ديانا في عائلة إنجليزية نبيلة تعود لأصول ملكية تلقب بالشرفاء The Honourable و تدعى ديانا سبنسر. كانت المولودة الرابعة و الابنة الثالثة لجون سبنسر الإيرل الثامن و الشريفة فرانسيس شاند كايد. ترعرعت فى منزل بارك Park House بالقرب من مقاطعة ساندرينجهام. تعلمت فى إنجلترا و سويسرا و حصلت على لقب ليدي lady أي سيدة في عام 1975 بعد أن ورث والدها لقب إيرل سبنسر. عقد زفافها على أمير ويلز فى 29 يوليو 1981 في كاتدرائية القديس باول و قد لاقى إقبالا جماهيريا على التلفاز حيث وصل عدد المشاهدين إلى 750 مليون مشاهد. أثناء زواجها حملت ديانا القاب أميرة ويلز و دوقة كورنوول و دوقة روز ساى و كونتيسة تشيستر و بارونة رينفرو. في ذلك الوقت أنجبت ولدين هما الأمير ويليام و الأمير هنري و هما فى المركز الثاني و الخامس لتولي العرش البريطاني على التوالي. بصفتها أميرة ويلز تولت ديانا واجبات ملكية و نابت عن الملكة خارج البلاد. عرف عنها دعمها للأعمال الخيرية و خاصة الحملة الدولية لحظر الألغام الأرضية. منذ عام 1989 تولت رئاسة مستشفى جريت أرموند ستريت للأطفال بالإضافة للعشرات من الاعمال الخيرية الأخرى. جمالها و جاذبيتها جعلاها محط اهمتام الإعلام العالمي أثناء زواجها و بعده. حيث انتهى زواجها بالانفصال فى 28 اغسطس 1996. أما وفاتها عقب حاذث تصادم سيارة قد تلاه حزن شعبي شديد.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Diana, Princess of Wales (Diana Frances; née Spencer; 1 July 1961 – 31 August 1997), was the first wife of Charles, Prince of Wales, who is the eldest child and heir apparent of Queen Elizabeth II. Diana was born into a family of British nobility with royal ancestry as The Honourable Diana Spencer. She was the fourth child and third daughter of John Spencer, Viscount Althorp and the Honourable Frances Roche. She grew up in Park House, situated on the Sandringham estate, and was educated in England and Switzerland. In 1975, after her father inherited the title of Earl Spencer, she became Lady Diana Spencer. Her wedding to the Prince of Wales on 29 July 1981, held at St Paul&#39;s Cathedral, reached a global television audience of over 750 million people. While married, Diana bore the titles Princess of Wales, Duchess of Cornwall, Duchess of Rothesay, Countess of Chester, and Baroness of Renfrew. The marriage produced two sons, the princes William and Harry, who were then respectively second and third in the line of succession to the British throne. As Princess of Wales, Diana undertook royal duties on behalf of the Queen and represented her at functions overseas. She was celebrated for her charity work and for her support of the International Campaign to Ban Landmines. She was involved with dozens of charities including London&#39;s Great Ormond Street Hospital for children, of which she was president from 1989. Diana remained the object of worldwide media scrutiny during and after her marriage, which ended in divorce on 28 August 1996. Media attention and public mourning were extensive after her death in a car crash in Paris on 31 August 1997 and subsequent televised funeral.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Diana, princesa de Gales (n. Lady Diana Frances Spencer, Sandringham, 1 de julio de 1961-París, 31 de agosto de 1997), fue la primera esposa del príncipe Carlos de Gales, heredero de la Corona británica. Durante su matrimonio con el príncipe Carlos, tuvo dos hijos: los príncipes Guillermo y Enrique de Gales. Su personalidad, su polémica ruptura con el heredero, y la inesperada y trágica muerte en accidente automovilístico en París la convirtieron en auténtico mito para la cultura británica y en un personaje muy popular a nivel mundial. Tras divorciarse de su marido perdió el tratamiento de alteza real, aunque conservó el título de princesa de Gales.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Диа́на, принцесса Уэльская (англ. Diana, Princess of Wales), урождённая Диана Фрэнсис Спенсер (англ. Diana Frances Spencer; 1 июля 1961, Сандрингем, Норфолк — 31 августа 1997, Париж) — с 1981 года по 1996 год первая жена принца Уэльского Чарльза, наследника британского престола. Широко известна как принцесса Диана, леди Диана или леди Ди. По данным опроса, проведённого в 2002 году вещательной компанией Би-би-си, Диана заняла 3 место в списке Ста величайших британцев в истории.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ウェールズ公妃ダイアナ（Diana, Princess of Wales、全名: ダイアナ・フランセス（Diana Frances）、旧姓: スペンサー（Spencer）、1961年7月1日 - 1997年8月31日）は、イギリスの第1位王位継承権者ウェールズ公チャールズの最初の妃。 イギリスの名門貴族スペンサー伯爵家の令嬢として生まれ、1981年にチャールズ皇太子と結婚し、彼との間にケンブリッジ公ウィリアム王子（第2位王位継承権者）およびヘンリー王子（第5位王位継承権者）の2子をもうけた。しかし後にチャールズ皇太子と別居状態になり、1996年に離婚した。1997年にパリで交通事故による不慮の死を遂げた。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Diana, Princess of Wales (Fürstin von Wales, gebürtig Diana Frances Spencer, * 1. Juli 1961 in Sandringham, Norfolk, England; † 31. August 1997 in Paris, Frankreich), war als erste Ehefrau des derzeitigen britischen Thronfolgers Charles von 1981 bis 1996 Kronprinzessin des Vereinigten Königreiches. Aus Dianas Ehe mit Charles stammen die Söhne William und Henry, der oft Harry genannt wird. Im deutschen Volksmund wird Diana bis heute oft als Lady Diana, Lady Di oder Prinzessin Diana bezeichnet, obwohl sie seit der Hochzeit den Titel „Lady“ nicht mehr führte. Schon zu Lebzeiten errang Diana den Status einer Medienikone und wurde weltweit so populär, dass sie zeitweise als die berühmteste und am häufigsten fotografierte Frau der Welt galt. Während sie sich zu einem Medienstar entwickelte, litt ihre Ehe mit Prinz Charles unter einer schweren Krise. Die Ehe des Kronprinzenpaares scheiterte letztlich, die offizielle Trennung wurde 1992 bekanntgegeben. Die Skandale der 1990er Jahre, die aus Dianas und Charles’ Konflikt resultierten, brachten der britischen Monarchie erheblichen Schaden. Mit der Scheidung verlor Diana ihren Rang als Königliche Hoheit, blieb jedoch ein Mitglied der Königsfamilie. Während der 1980er Jahre hatte Diana zahlreiche Wohltätigkeitsprojekte wie zum Beispiel die britische AIDS-Hilfe unterstützt. Nach ihrer Scheidung von Prinz Charles engagierte sie sich für die Abschaffung von Landminen und widmete sich weiterhin benachteiligten Menschen. In der Nacht zum 31. August 1997 prallte der Wagen, in dem Diana mit ihrem damaligen Freund Dodi Al-Fayed saß, mit überhöhter Geschwindigkeit gegen einen Pfeiler im Autotunnel unter dem Place de l’Alma in Paris. Diana starb an den Folgen innerer Verletzungen, und die Nachricht ihres Todes löste weltweit eine Welle des Schocks und des Mitgefühls aus. Das Ereignis hatte verheerende Folgen für das Ansehen des Königshauses, da dessen Mitglieder aufgrund ihrer als herzlos wahrgenommenen Contenance massiver Kritik ausgesetzt waren. Entgegen den Regeln des Protokolls wurde für Diana aufgrund der überwältigenden Trauer in der Bevölkerung am 6. September 1997 eine öffentliche Beisetzungszeremonie organisiert. Der Effekt, den Diana auf die Königsfamilie hatte, macht sich noch heute bei manchen Anlässen bemerkbar. Nach ihrem Tod erhielt Diana den Beinamen „Königin der Herzen“, den im 17. Jahrhundert schon Elisabeth Stuart, die Frau des „Winterkönigs“ Friedrichs V. trug. 
+* Wappen der Lady Diana Spencer vor der Hochzeit 
+* Wappen der Princess of Wales 
+* Dianas Wappen nach der Scheidung</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Diana Frances Spencer, née le 1er juillet 1961 à Sandringham (comté de Norfolk) et morte le 31 août 1997 à Paris, est une aristocrate britannique, épouse de Charles, prince de Galles, du 29 juillet 1981 au 28 août 1996, date de leur divorce. De ses fiançailles avec le prince de Galles à sa mort dans un accident de voiture à Paris en 1997, Diana fut l&#39;une des femmes les plus célèbres du monde de la fin du XXe siècle. Sa détresse émotionnelle pendant les années 1980 et les années 1990 inspira nombre de biographies, de photos, d&#39;articles de journaux et de films de télévision. Elle fut également une figure emblématique mondiale de la charité, elle créa nombre d&#39;associations pour défendre des causes telles que la lutte contre le sida ou encore l&#39;éradication des mines antipersonnel. Dès son mariage et jusqu&#39;à son divorce, sa titulature était : Son Altesse royale la princesse de Galles et comtesse de Chester, duchesse de Cornouailles, duchesse de Rothesay, comtesse de Carrick, baronne de Renfrew, Dame des Îles, princesse d&#39;Écosse ; mais elle avait comme titre officiel Son Altesse royale la princesse de Galles. Après son divorce en 1996, la reine lui accorde le titre de courtoisie « princesse de Galles » sans prédicat. Elle est cependant plus connue en France sous l&#39;appellation Lady Diana et plus encore sous le diminutif Lady Di ; la presse l&#39;appelait également  princesse Diana, bien que cela fût incorrect, puisque ce titre est réservé aux princesses de sang.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Diana, księżna Walii, urodzona jako Diana Frances Spencer (ur. 1 lipca 1961 w Park House, Sandringham w Wielkiej Brytanii, zm. 31 sierpnia 1997 w Paryżu, we Francji) – członkini brytyjskiej rodziny królewskiej jako pierwsza żona Karola, księcia Walii, syna królowej Wielkiej Brytanii Elżbiety II i Filipa, księcia Edynburga. Matka Wilhelma, księcia Cambridge oraz Henryka, księcia z Walii, odpowiednio 2. i 5. osoby w sukcesji do tronu brytyjskiego. Diana, księżna Walii stała się osobą publiczną w 1980, będąc wymienianą jako potencjalna kandydatka na żonę dla Karola, następcy tronu Wielkiej Brytanii. Ich ślub, mający miejsce 29 lipca 1981 w Katedrze Św. Pawła w Londynie, stał się międzynarodowym wydarzeniem społecznym, określanym jako „bajkowy ślub” lub „ślub stulecia”. W pierwszej połowie lat 90. prasa ujawniła kulisy małżeństwa księstwa Walii, publikując materiały kompromitujące zarówno Karola, jak i Dianę.W 1992 książę i księżna Walii ogłosili separację, jeden z powodów dla ogłoszenia przez Elżbietę II roku jako annus horribilis. Rozwód orzeczono w 1996. Zainteresowanie mediów towarzyszyło księżnej zarówno w trakcie małżeństwa, jak i po rozwodzie, doprowadzając pośrednio do wypadku samochodowego w 1997, w którym na miejscu zginęli kierowca Henri Paul i towarzysz księżnej, Dodi Al-Fayed, a ona sama zmarła w wyniku obrażeń odniesionych w wypadku. Diana pozostawała jednym z najpopularniejszych członków brytyjskiej rodziny królewskiej. Zasłynęła działalnością dobroczynną i charytatywną oraz zamiłowaniem do mody, które przyniosły jej przydomki Księżnej ludu oraz Ikony mody. Uważa się, że księżna swoim działaniem i nagłośnieniem problemu przyczyniła się do podpisania 3 grudnia 1997 roku traktatu w Ottawie, zabraniającego produkcji, gromadzenia, eksportu oraz używania min przeciwpiechotnych. W przeprowadzonym przez BBC plebiscycie „100 Najwybitniejszych Brytyjczyków” księżna Walii zajęła 3. miejsce.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Diana, prinses van Wales (Diana Frances Spencer, Sandringham (Norfolk), 1 juli 1961 – Parijs, 31 augustus 1997) was de eerste echtgenote van de Britse kroonprins Charles en de moeder van de prinsen William en Harry.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Dopo il divorzio dal coniuge mantenne il titolo di Principessa di Galles, ma senza il trattamento di Altezza Reale, rimanendo membro ufficiale della famiglia reale, come madre del futuro erede al trono, fatto verificatosi per la prima volta nella storia della famiglia reale britannica.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">威爾斯王妃戴安娜（英语：Diana, Princess of Wales，1961年7月1日－1997年8月31日），全名戴安娜·弗兰茜斯（英语：Diana Frances），娘家姓為斯宾塞（英语：Spencer），被大眾稱為戴安娜王妃（英语：Princess Diana，簡稱黛妃），她是英国王储、威尔士亲王查理斯的第一任妻子，亦是威廉王子和哈利王子的親生母親。 戴安娜出生于英国贵族家庭，是奥尔索普子爵约翰·斯宾塞的第四个孩子。 1981年7月29日与威尔士王子在圣保罗大教堂完婚，全球有7.5亿人透过电视观看婚礼直播。婚后她的头衔为“威尔士王妃，康沃尔公爵夫人，切斯特伯爵夫人，卡里克伯爵夫人，罗斯西公爵夫人，伦弗鲁男爵夫人，群岛领主夫人，苏格兰王妃”。婚后育有两子：威廉王子和哈利王子，分别是英国王位第二和第五（2013年7月前為第三，2015年5月前為第四）顺位继承人。 婚后她致力于公共服务，成为20世纪末著名的慈善筹款名人。她支持国际反地雷组织，1989年任伦敦大奥曼德街儿童医院主席。1996年8月28日她与查尔斯离婚后仍是世界媒体的焦点。1997年8月31日她在巴黎因车祸去世，其葬礼也受到世界媒体的关注。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Diana Frances Spencer (Sandringham, 1 de julho de 1961 — Paris, 31 de agosto de 1997), apelidada de &quot;Lady Di&quot;, foi uma aristocrata, filantropa e a primeira esposa de Carlos, Príncipe de Gales, filho mais velho e herdeiro aparente de Isabel II do Reino Unido. Seus dois filhos, os príncipes Guilherme, Duque de Cambridge e Harry, são respectivamente o segundo e o quinto na Linha de sucessão ao trono britânico e de outros doze países da Commonwealth. Após o seu casamento com o príncipe de Gales, Diana tornou-se uma das mulheres mais famosas do mundo, celebridade perseguida por paparazzi, um ícone da moda, ideal de beleza e elegância feminina, admirada por seu trabalho de caridade, em especial por seu envolvimento no combate à AIDS e na campanha internacional contra as minas terrestres. A sua trágica e inesperada morte ocorrida após um acidente de carro na cidade de Paris, em 1997, foi seguida de um grande luto público pelo Reino Unido e, em menor escala, pelo mundo. Seu funeral, realizado em setembro do mesmo ano, foi assistido globalmente por cerca de 2,5 bilhões de pessoas, tornando-se um dos eventos mais assistidos da história da televisão. Mesmo muitos anos após sua morte, a &quot;princesa do povo&quot; continua sendo uma celebridade frequente na imprensa, servindo de tema para muitos livros, jornais e revistas. Estima-se que seu nome seja citado, pelo menos, oito mil vezes por ano na imprensa britânica. Os vários biógrafos de Diana divergem-se quando o assunto é a decadência de seu casamento. Andrew Morton, por exemplo, culpa a &quot;crueldade&quot; de Carlos pelo fim do relacionamento deles, enquanto que Sally Bedell Smith aponta os supostos &quot;distúrbios mentais&quot; de Diana como sendo os responsáveis pelo desgaste da relação. A jornalista Tina Brown, por sua vez, atribui o desastre à ingenuidade da princesa em uma ficção forjada pelos tabloides.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbo:title xml:lang="en">Princess of Wales;Duchess of Rothesay([[#Titles and styles</dbo:title>
+    <dbp:previousVersions rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Before her marriage, Diana used arms based the Spencer coat of arms. It depicted a lozenge shaped shield of arms hanging from a blue ribbon, which symbolised her unmarried state. It included three escallops argent of the Spencer coat of arms. This version of the coat of arms was used only before her marriage and was also applied by her sisters.</dbp:previousVersions>
+    <georss:point>52.283082 -1.000278</georss:point>
+    <dbp:burialDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-09-06</dbp:burialDate>
+    <dbp:burialPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Althorp, Northamptonshire, England</dbp:burialPlace>
+    <dbp:c rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">category:Diana, Princess of Wales</dbp:c>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Princess of Wales in 1995</dbp:caption>
+    <dbp:collapsible rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">true</dbp:collapsible>
+    <dbp:coronet rdf:resource="http://dbpedia.org/resource/Coronet_of_Charles,_Prince_of_Wales" />
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Q9685</dbp:d>
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Quarterly 1st and 4th gules three lions passant guardant in pale or armed and langed azure 2nd or a lion rampant gules armed and langued azure within a double tressure flory counterflory of the second 3rd azure a harp or stringed argent , the whole difference with a label of three points Argent; with an inescutcheon of four lions passant guardant, in gold and red, counterchanged, surmounted by the coronet of the heir ; impaled with a shield quarterly 1st and 4th Argent 2nd and 3rd Gules a fret Or overall a bend Sable charged with three escallops Argent.</dbp:escutcheon>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Windsor" />
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">*</dbp:house>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Spencer_family" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Wales" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">*</dbp:issue>
+    <dbp:motto rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">DIEU DEFEND LE DROIT</dbp:motto>
+    <dbp:notes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right|150px During her marriage, as the wife of the Prince of Wales, Diana used his arms impaled  with those of her father. After her divorce, she resumed her paternal arms with the addition of a royal coronet.</dbp:notes>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:s>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lady Diana signature-vect.svg</dbp:signature>
+    <dbp:supporters rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dexter a lion rampant gardant Or crowned with the coronet of the Prince of Wales Proper, sinister a griffin winged and unguled Or, gorged with a coronet Or composed of crosses patée and fleurs de lis a chain affixed thereto passing between the forelegs and reflexed over the back also Or</dbp:supporters>
+    <dbp:symbolism rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right|100px The Spencers were granted a coat of arms in 1504 , which bears no resemblance to that used by the family after c. 1595, which was derived from the Despencer arms. Writer J.H. Round argued that the Despencer descent was fabricated by Richard Lee, a corrupt Clarencieux King of Arms.</dbp:symbolism>
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:yearAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1981</dbp:yearAdopted>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Harry">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Diana_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Roche,_4th_Baron_Fermoy">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Diana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes">
+    <dbp:relatives rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah_McCorquodale">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_princess_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Di">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Diana_Frances_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbara_Cartland">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spencer_family">
+    <dbp:members rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer">
+    <dbp:relatives rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/13th/18th_Royal_Hussars">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Di">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Roche,_5th_Baron_Fermoy">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Diana_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Diane">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Diana_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer">
+    <dbp:relatives rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Princess_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Cornwall_(F99)">
+    <dbp:shipSponsor rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedding_of_Charles,_Prince_of_Wales,_and_Lady_Diana_Spencer">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_the_Princess_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Diaa">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Frances_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_diana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_of_Althorp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Dianna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Diana,_Princess_of_Wales">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dianamania">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_Spenser">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+  </rdf:Description>
+</rdf:RDF>

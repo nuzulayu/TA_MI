@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henriette_Karoline_von_Pfalz-Zweibrücken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Amalie_of_Hesse-Darmstadt">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Christian_of_Hesse-Darmstadt">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landgravine_Caroline_of_Hesse-Darmstadt">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landgravine_Louise_of_Hesse-Darmstadt_(1757–1830)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromDarmstadt" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromStrasbourg" />
+    <rdfs:label xml:lang="en">Countess Palatine Caroline of Zweibrücken</rdfs:label>
+    <rdfs:label xml:lang="it">Carolina del Palatinato-Zweibrücken-Birkenfeld</rdfs:label>
+    <rdfs:label xml:lang="ja">ヘンリエッテ・カロリーネ・フォン・プファルツ＝ツヴァイブリュッケン</rdfs:label>
+    <rdfs:label xml:lang="nl">Henriëtte Caroline van Palts-Zweibrücken</rdfs:label>
+    <rdfs:label xml:lang="pl">Karolina Wittelsbach (Pfalz-Zweibrücken)</rdfs:label>
+    <rdfs:label xml:lang="fr">Caroline de Palatinat-Deux-Ponts-Birkenfeld</rdfs:label>
+    <rdfs:label xml:lang="de">Karoline von Pfalz-Zweibrücken</rdfs:label>
+    <rdfs:label xml:lang="ru">Генриетта Каролина Пфальц-Биркенфельдская</rdfs:label>
+    <rdfs:label xml:lang="pt">Carolina do Palatinado-Zweibrücken</rdfs:label>
+    <rdfs:label xml:lang="es">Carolina de Zweibrücken</rdfs:label>
+    <rdfs:comment xml:lang="en">Caroline of the Palatinate-Zweibrücken (Henriette Caroline Christiane Louise; 9 March 1721 – 30 March 1774) was wife of the Landgrave of Hessen-Darmstadt and one of the most learned women of her time.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Surnommée la « Grande landgravine », Caroline Henriette Christiane Philippine Louise de Palatinat-Deux-Ponts-Birkenfeld est un membre de la Maison de Wittelsbach. Née le 9 mars 1721 au château de Rappolstein près de Ribeauvillé (Haut-Rhin) et décédée à Darmstadt le 30 mars 1774, elle est la fille aînée de Christian III, duc de Deux-Ponts et de Caroline de Nassau-Sarrebruck. Elle grandit avec ses frères et sœurs en Alsace.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ヘンリエッテ・カロリーネ・フォン・プファルツ＝ツヴァイブリュッケン（Henriette Karoline von Pfalz-Zweibrücken, 1721年3月9日、ストラスブール - 1774年3月30日、ダルムシュタット）は、ヘッセン＝ダルムシュタット方伯ルートヴィヒ9世の妃。当時ヨーロッパで最も学識豊かな女性の一人として讃えられた。 プファルツ＝ツヴァイブリュッケン公クリスティアン3世と妃カロリーネ・フォン・ナッサウ＝ザールブリュッケンの第1子として生まれた。プファルツ系ヴィッテルスバッハ家傍系のプファルツ＝ツヴァイブリュッケン＝ビルケンフェルト家の出身であるが、甥マクシミリアン・ヨーゼフが後に初代バイエルン国王となっている。 1741年8月12日にツヴァイブリュッケンで、後のヘッセン＝ダルムシュタット方伯ルートヴィヒ9世と結婚した。 カロリーネは「大方伯妃」（die Große Landgräfin）として知られる。これはヨハン・ヴォルフガング・フォン・ゲーテによって付けられた呼び名である。カロリーネはゲーテの他、ヘルダー、ヴィーラントなどの文人や哲学者たちと交友関係があった。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Henriëtte Caroline Christiane Louise van Palts-Zweibrücken (Straatsburg, 9 maart 1721 – Darmstadt, 30 maart 1774) was de echtgenote van landgraaf Lodewijk IX van Hessen-Darmstadt. Ze stond bekend als ‘de grote landgravin’.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Karoline Henriette Christine Philippine Luise von Pfalz-Zweibrücken (* 9. März 1721 in Straßburg; † 30. März 1774 in Darmstadt) war durch Heirat Landgräfin von Hessen-Darmstadt, auch als die Große Landgräfin Caroline von Hessen-Darmstadt bezeichnet.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carolina del Palatinado-Zweibrücken (Enriqueta Carolina Cristiana Luisa; 9 de marzo de 1721 - 30 de marzo de 1774) fue la esposa del landgrave de Hesse-Darmstadt y una de las mujeres más cultivadas de su tiempo.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Henrietta Karolina Krystyna Luiza Wittelsbach (ur. 9 marca 1721 w Strasburgu, zm. 30 marca 1774 w Darmstadt) – księżniczka Palatynatu-Zweibrücken, żona landgrafa Hesji-Darmstadt. Córka Christiana III Wittelsbacha, księcia Palatynatu-Zweibrücken, i Karoliny Nassau-Saarbrücken. 12 sierpnia 1741 roku w Zweibrücken poślubiła landgrafa Hesji-Darmstadt Ludwika IX. Dzieci Karoliny i Ludwika:</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Каролина Генриетта Кристина Филиппина Луиза Пфальц-Цвейбрюккенская (нем. Karoline Henriette Christine Philippine Luise von Pfalz-Zweibrücken; 9 марта 1721, Страсбург — 30 марта 1774, Дармштадт) — принцесса Пфальц-Биркенфельдская, дочь пфальцграфа Кристиана III Биркенфельдского и Каролины Нассау-Саарбрюкенской, супруга ландграфа Гессен-Дармштадтского Людвига IX. Мать великой княгини Натальи Алексеевны. 27 июня 1773 года ландграфиня и три её дочери были удостоены ордена Святой Екатерины 1 степени.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Carolina do Palatinado-Zweibrücken (Estrasburgo, 9 de março de 1721 - Darmstadt, 30 de março de 1774) foi a esposa de Luís IX, Conde de Hesse-Darmstadt e uma das mulheres mais intelectuais do seu tempo.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118560271" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヘンリエッテ・カロリーネ・フォン・プファルツ＝ツヴァイブリュッケン" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03m748j" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carolina_de_Zweibrücken" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carolina_do_Palatinado-Zweibrücken" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Karoline_von_Pfalz-Zweibrücken" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Caroline_de_Palatinat-Deux-Ponts-Birkenfeld" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q62063" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karolina_Wittelsbach_(Pfalz-Zweibrücken)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carolina_del_Palatinato-Zweibrücken-Birkenfeld" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q62063" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Henriëtte_Caroline_van_Palts-Zweibrücken" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1774-3-30</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1774-03-30</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Strasbourg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ribeauvillé" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1721-03-09</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1721-3-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1774_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landgravines_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Palatinate-Zweibrücken" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1721_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Strasbourg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Countesses_Palatine_of_Zweibrücken" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15400506</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">713484543</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://de.wikisource.org/wiki/ADB:Karoline_(Landgr%C3%A4fin_von_Hessen-Darmstadt)" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thepeerage.com/p11421.htm#i114202" />
+    <foaf:name xml:lang="en">Caroline</foaf:name>
+    <foaf:name xml:lang="en">Countess Palatine Caroline of Zweibrücken</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Caroline-Henriette_of_Hesse_Darmstadt-f4578561.jpg" />
+    <dct:description xml:lang="en">german noble</dct:description>
+    <foaf:givenName xml:lang="en">Caroline</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Countess_Palatine_Caroline_of_Zweibrücken" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Caroline-Henriette_of_Hesse_Darmstadt-f4578561.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Countess_Palatine_Caroline_of_Zweibrücken?oldid=713484543" />
+    <dbo:abstract xml:lang="de">Karoline Henriette Christine Philippine Luise von Pfalz-Zweibrücken (* 9. März 1721 in Straßburg; † 30. März 1774 in Darmstadt) war durch Heirat Landgräfin von Hessen-Darmstadt, auch als die Große Landgräfin Caroline von Hessen-Darmstadt bezeichnet.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ヘンリエッテ・カロリーネ・フォン・プファルツ＝ツヴァイブリュッケン（Henriette Karoline von Pfalz-Zweibrücken, 1721年3月9日、ストラスブール - 1774年3月30日、ダルムシュタット）は、ヘッセン＝ダルムシュタット方伯ルートヴィヒ9世の妃。当時ヨーロッパで最も学識豊かな女性の一人として讃えられた。 プファルツ＝ツヴァイブリュッケン公クリスティアン3世と妃カロリーネ・フォン・ナッサウ＝ザールブリュッケンの第1子として生まれた。プファルツ系ヴィッテルスバッハ家傍系のプファルツ＝ツヴァイブリュッケン＝ビルケンフェルト家の出身であるが、甥マクシミリアン・ヨーゼフが後に初代バイエルン国王となっている。 1741年8月12日にツヴァイブリュッケンで、後のヘッセン＝ダルムシュタット方伯ルートヴィヒ9世と結婚した。 カロリーネは「大方伯妃」（die Große Landgräfin）として知られる。これはヨハン・ヴォルフガング・フォン・ゲーテによって付けられた呼び名である。カロリーネはゲーテの他、ヘルダー、ヴィーラントなどの文人や哲学者たちと交友関係があった。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Surnommée la « Grande landgravine », Caroline Henriette Christiane Philippine Louise de Palatinat-Deux-Ponts-Birkenfeld est un membre de la Maison de Wittelsbach. Née le 9 mars 1721 au château de Rappolstein près de Ribeauvillé (Haut-Rhin) et décédée à Darmstadt le 30 mars 1774, elle est la fille aînée de Christian III, duc de Deux-Ponts et de Caroline de Nassau-Sarrebruck. Elle grandit avec ses frères et sœurs en Alsace.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Каролина Генриетта Кристина Филиппина Луиза Пфальц-Цвейбрюккенская (нем. Karoline Henriette Christine Philippine Luise von Pfalz-Zweibrücken; 9 марта 1721, Страсбург — 30 марта 1774, Дармштадт) — принцесса Пфальц-Биркенфельдская, дочь пфальцграфа Кристиана III Биркенфельдского и Каролины Нассау-Саарбрюкенской, супруга ландграфа Гессен-Дармштадтского Людвига IX. Мать великой княгини Натальи Алексеевны. Она оказывала благотворное влияние на управление государством. С её помощью Мозер получил портфель министра; Дармштадтский двор посещали Гердер, Гёте, Виланд и другие писатели. Каролина переписывалась с Фридрихом Великим. Современники называли её «великой ландграфиней». 27 июня 1773 года ландграфиня и три её дочери были удостоены ордена Святой Екатерины 1 степени.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Carolina do Palatinado-Zweibrücken (Estrasburgo, 9 de março de 1721 - Darmstadt, 30 de março de 1774) foi a esposa de Luís IX, Conde de Hesse-Darmstadt e uma das mulheres mais intelectuais do seu tempo.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Caroline of the Palatinate-Zweibrücken (Henriette Caroline Christiane Louise; 9 March 1721 – 30 March 1774) was wife of the Landgrave of Hessen-Darmstadt and one of the most learned women of her time.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Henriëtte Caroline Christiane Louise van Palts-Zweibrücken (Straatsburg, 9 maart 1721 – Darmstadt, 30 maart 1774) was de echtgenote van landgraaf Lodewijk IX van Hessen-Darmstadt. Ze stond bekend als ‘de grote landgravin’.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carolina del Palatinado-Zweibrücken (Enriqueta Carolina Cristiana Luisa; 9 de marzo de 1721 - 30 de marzo de 1774) fue la esposa del landgrave de Hesse-Darmstadt y una de las mujeres más cultivadas de su tiempo.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Henrietta Karolina Krystyna Luiza Wittelsbach (ur. 9 marca 1721 w Strasburgu, zm. 30 marca 1774 w Darmstadt) – księżniczka Palatynatu-Zweibrücken, żona landgrafa Hesji-Darmstadt. Córka Christiana III Wittelsbacha, księcia Palatynatu-Zweibrücken, i Karoliny Nassau-Saarbrücken. 12 sierpnia 1741 roku w Zweibrücken poślubiła landgrafa Hesji-Darmstadt Ludwika IX. Była znana jako Wielka Hrabina (die Große Landgräfin). Tytuł taki nadał jej Johann Wolfgang von Goethe. Utrzymywała kontakty z wielkimi uczonymi swoich czasów takimi jak: Johann Gottfried Herder czy Christoph Martin Wieland. Wieland nadał jej tytuł &quot;Królowej Europy&quot; w uznaniu jej wszechstronnego wykształcenia i dbania o rozwój nauki, kultury i sztuki w Hesji. Była w ciągłym kontakcie z Fryderykiem II Wielkim królem Prus, była jedną z niewielu kobiet z których zdaniem Stary Fryc się liczył. Po jej śmierci wysłał na pogrzeb marmurową urnę z napisem &quot;femina sexo, ingenio vir&quot; (kobieta z płci, mężczyzna z ducha). Dzieci Karoliny i Ludwika: 
+*  Karolina (1741-1820) - żona Fryderyka V, landgrafa Hesji-Homburg, 
+*  Fryderyka Luiza (1751-1805) - druga żona króla Prus Fryderyka Wilhelma II Hohenzollerna, 
+*  Ludwik (1753-1830) - wielki książę Hesji-Darmstadt, 
+*  Amalia Fryderyka (1754-1832) - żona Karola Ludwika Badeńskiego,  
+*  Wilhelmina Luiza (1755-1776) - żona Pawła I Romanowa, późniejszego cara Rosji, 
+*  Luiza Augusta (1757-1830) - żona Karola Augusta Wettyna, wielkiego księcia Sachsen-Weimar-Eisenach, 
+*  Fryderyk Ludwik (1759-1802) 
+*  Christian Ludwik (1763-1830)</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Nassau-Saarbrücken" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_III,_Count_Palatine_of_Zweibrücken" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louis_IX,_Landgrave_of_Hesse-Darmstadt" />
+    <dbo:title xml:lang="en">Landgravine of Hesse-Darmstadt</dbo:title>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait of Countess Palatine Caroline of Zweibrücken</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Palatinate-Zweibrücken" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Wilhelmina_Louisa_of_Hessen-Darmstadt" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Landgrave_Christian_of_Hesse-Darmstadt" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Louise_of_Hesse-Darmstadt_(1757–1830)" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_of_Hesse-Darmstadt" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederika_Louisa_of_Hesse-Darmstadt" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Landgrave Frederick</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Landgravine_Amalie_of_Hesse-Darmstadt" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Landgravine_consort_of_Hesse-Darmstadt" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-17</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natalia_Alexeievna_(Wilhelmina_Louisa_of_Hesse-Darmstadt)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Zweibrücken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karoline_of_Zweibrücken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline,_Countess_Palatine_of_Zweibrücken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrucken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Countess_Palatine_Caroline_of_Zweibrücken">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken" />
+  </rdf:Description>
+</rdf:RDF>

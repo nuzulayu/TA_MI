@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Ansbach">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_of_Great_Britain">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consort109958724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCrownPrincessesOfNorway" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCrownPrincessesOfDenmark" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishRoyalConsorts" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CrownPrincess109981278" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfScottishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfHuguenotDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNorwegianRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wife110780632" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfGermanDescent" />
+    <rdfs:label xml:lang="pl">Ludwika Hanowerska</rdfs:label>
+    <rdfs:label xml:lang="ja">ルイーズ・オブ・グレート・ブリテン</rdfs:label>
+    <rdfs:label xml:lang="pt">Luísa da Grã-Bretanha</rdfs:label>
+    <rdfs:label xml:lang="nl">Louise van Hannover</rdfs:label>
+    <rdfs:label xml:lang="es">Luisa de Gran Bretaña</rdfs:label>
+    <rdfs:label xml:lang="ar">لويزا ملكة الدنمارك والنرويج</rdfs:label>
+    <rdfs:label xml:lang="fr">Louise de Grande-Bretagne</rdfs:label>
+    <rdfs:label xml:lang="it">Luisa di Hannover</rdfs:label>
+    <rdfs:label xml:lang="en">Louise of Great Britain</rdfs:label>
+    <rdfs:label xml:lang="ru">Луиза Великобританская</rdfs:label>
+    <rdfs:label xml:lang="de">Louise von Großbritannien, Irland und Hannover</rdfs:label>
+    <rdfs:comment xml:lang="fr">Louise de Grande-BretagneFichier:Louise of Great Britain queen of Denmark.jpg La reine Louise Titres Reine consort de Danemark et de Norvège 6 août 1746 — 19 décembre 1751(5 ans 4 mois et 13 jours) Princesse héritière consort de Danemark et de Norvège 11 décembre 1743 — 6 août 1746(2 ans 7 mois et 26 jours) Fichier:Armoiries de Louise et Caroline Mathilde de Grande Bretagne reine Danemark et Norvège.svg Reines consorts de Danemark  et de Norvège</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Louise van Hannover (Londen, 7 december 1724 - Christiansborg, 19 december 1751) was van 1746 tot 1751 koningin-gemalin van Denemarken-Noorwegen.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luísa (Londres, 18 de dezembro de 1724 – Copenhague, 19 de dezembro de 1751) foi a primeira esposa do rei Frederico V e rainha consorte do Reino da Dinamarca e Noruega de 1746 até sua morte. Era a filha mais nova do rei Jorge II da Grã-Bretanha e sua esposa Carolina de Ansbach.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ルイーズ・オブ・グレートブリテン（英：Louise of Great Britain, 1724年12月7日 - 1751年12月19日）は、デンマーク・ノルウェー王フレゼリク5世の最初の王妃。デンマーク語名ではルイーセ・ア・ストアブリタニエン（Louise af Storbritannien）と呼ばれた。 イギリス王太子（プリンス・オブ・ウェールズ）ジョージ（のちのジョージ2世）と妃キャロラインの末娘として、ロンドンのレスターハウスで誕生した。 1743年12月に、デンマーク王太子フレゼリクと結婚。2人の間には7子が誕生したが、うち2人は夭折した。 
+* クリスティアン（1745年 - 1747年） 
+* ソフィーエ・マウダレーネ（1746年 - 1813年）　スウェーデン王グスタフ3世妃 
+* ヴィルヘルミーネ・カロリーネ（1747年 - 1820年）　ヘッセン選帝侯ヴィルヘルム1世妃 
+* クリスティアン7世（1749年 - 1808年） 
+* ルイーセ（1750年 - 1831年）　ヘッセン選帝侯ヴィルヘルム1世の弟カールの妻。フレデリク6世妃マリーの母、クリスチャン9世の祖母。 ルイーズは、夫に先だって1751年に亡くなり、ロスキレ大聖堂に葬られた。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Луи́за Великобрита́нская (англ. Louise of Great Britain, дат. Louise af Storbritannien; 7 декабря 1724, Лейчестер-Хаус, Лондон — 19 декабря 1751, дворец Кристиансборг, Копенгаген ) — младшая дочь короля Великобритании Георга II и Каролины Бранденбург-Ансбахской, супруга короля Дании и Норвегии Фредерика V и мать короля Кристиана VII.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Louise von Großbritannien (* 7. Dezemberjul./ 18. Dezember 1724greg. in Leicester House, London; † 19. Dezember 1751 Christiansborg, Kopenhagen) war Königin von Dänemark und Norwegen von 1746 bis 1751.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Louise of Great Britain (originally Louisa; 18 December 1724 – 19 December 1751) was Queen of Denmark and Norway from 1746 until her death, as the first wife of King Frederick V. She was the youngest surviving daughter of George II of Great Britain and Caroline of Ansbach.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Luisa de Gran Bretaña (Londres, 27 de septiembre de 1724 - Copenhague, 19 de diciembre de 1751) fue una princesa de Gran Bretaña e Irlanda y luego reina consorte de Dinamarca y Noruega como esposa de Federico V.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">لويزا ملكة الدنمارك والنرويج (7 ديسمبر 1724م-19 ديسمبر 1751م) هي ملكة الدنمارك والنرويج منذ عام 1746م وحتى وفاتها، وهي الزوجة الأولى للملك فريدريك الخامس، وأصغر ابنة لـلجورج الثاني ملك بريطانيا العظمى وكارولين أميرة أنسبش، وأم الملك كريستيان السابع وعمة زوجته كارولين ماتيلدا وجدة فريدريك السادس</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ludwika hanowerska duń. Louise af England (ur. 18 grudnia 1724 w Leicester House w Londynie, zm. 19 grudnia 1751 w Christiansborgu w Kopenhadze) – królowa Danii i Norwegii.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Louise_von_Großbritannien,_Irland_und_Hannover" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luisa_di_Hannover" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luísa_da_Grã-Bretanha" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q168667" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q168667" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Louise_van_Hannover" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/133943127" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06v3m5" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luisa_de_Gran_Bretaña" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louise_de_Grande-Bretagne" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ludwika_Hanowerska" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Louise_of_Great_Britain" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/영국의_루이세" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Λουίζα_της_Μεγάλης_Βρετανίας" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Luisa_Hannoverská" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ルイーズ・オブ・グレート・ブリテン" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Denmark" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Christiansborg_Palace" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1751-12-19</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Essex_House_(London)" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Westminster" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Great_Britain" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1724-12-7</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1724-12-18</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Roskilde_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crown_Princesses_of_Denmark" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_in_childbirth" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_Huguenot_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1724_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_Scottish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Norwegian_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crown_Princesses_of_Norway" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ordre_de_l&#39;Union_Parfaite" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1751_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_German_descent" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2196005</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732836665</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://runeberg.org/dbl/10/0401.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongernessamling.dk/en/rosenborg/person/louise/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ftp.cac.psu.edu/~saw/royal/r10.html#I331" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.anusha.com/pafg752.htm#24185" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kvinfo.dk/side/597/bio/1914/origin/170/" />
+    <foaf:name xml:lang="en">Louise of Great Britain</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Louise_of_Great_Britain,_Queen_of_Denmark_and_Norway.jpg" />
+    <dct:description xml:lang="en">daughter of George II of Great Britain; wife of King Frederick V of Denmark and Norway</dct:description>
+    <foaf:givenName xml:lang="en">Lluïsa</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louise_of_Great_Britain" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Louise_of_Great_Britain,_Queen_of_Denmark_and_Norway.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louise_of_Great_Britain?oldid=732836665" />
+    <dbo:abstract xml:lang="es">Luisa de Gran Bretaña (Londres, 27 de septiembre de 1724 - Copenhague, 19 de diciembre de 1751) fue una princesa de Gran Bretaña e Irlanda y luego reina consorte de Dinamarca y Noruega como esposa de Federico V.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Louise van Hannover (Londen, 7 december 1724 - Christiansborg, 19 december 1751) was van 1746 tot 1751 koningin-gemalin van Denemarken-Noorwegen.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ルイーズ・オブ・グレートブリテン（英：Louise of Great Britain, 1724年12月7日 - 1751年12月19日）は、デンマーク・ノルウェー王フレゼリク5世の最初の王妃。デンマーク語名ではルイーセ・ア・ストアブリタニエン（Louise af Storbritannien）と呼ばれた。 イギリス王太子（プリンス・オブ・ウェールズ）ジョージ（のちのジョージ2世）と妃キャロラインの末娘として、ロンドンのレスターハウスで誕生した。 1743年12月に、デンマーク王太子フレゼリクと結婚。2人の間には7子が誕生したが、うち2人は夭折した。 
+* クリスティアン（1745年 - 1747年） 
+* ソフィーエ・マウダレーネ（1746年 - 1813年）　スウェーデン王グスタフ3世妃 
+* ヴィルヘルミーネ・カロリーネ（1747年 - 1820年）　ヘッセン選帝侯ヴィルヘルム1世妃 
+* クリスティアン7世（1749年 - 1808年） 
+* ルイーセ（1750年 - 1831年）　ヘッセン選帝侯ヴィルヘルム1世の弟カールの妻。フレデリク6世妃マリーの母、クリスチャン9世の祖母。 ルイーズは、夫に先だって1751年に亡くなり、ロスキレ大聖堂に葬られた。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Louise von Großbritannien (* 7. Dezemberjul./ 18. Dezember 1724greg. in Leicester House, London; † 19. Dezember 1751 Christiansborg, Kopenhagen) war Königin von Dänemark und Norwegen von 1746 bis 1751.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ludwika hanowerska duń. Louise af England (ur. 18 grudnia 1724 w Leicester House w Londynie, zm. 19 grudnia 1751 w Christiansborgu w Kopenhadze) – królowa Danii i Norwegii.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Louise de Grande-BretagneFichier:Louise of Great Britain queen of Denmark.jpg La reine Louise Titres Reine consort de Danemark et de Norvège 6 août 1746 — 19 décembre 1751(5 ans 4 mois et 13 jours) Princesse héritière consort de Danemark et de Norvège 11 décembre 1743 — 6 août 1746(2 ans 7 mois et 26 jours) Fichier:Armoiries de Louise et Caroline Mathilde de Grande Bretagne reine Danemark et Norvège.svg Reines consorts de Danemark  et de Norvège La princesse Louise de Grande-Bretagne (en danois Louise af Storbritannien), née le 18 décembre 1724 à Londres (Royaume de Grande-Bretagne) et décédée le 19 décembre 1751 à Christiansborg (Danemark-Norvège), devient en 1743 reine consort de Danemark et de Norvège en épousant le roi Frédéric V de Danemark.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Louise of Great Britain (originally Louisa; 18 December 1724 – 19 December 1751) was Queen of Denmark and Norway from 1746 until her death, as the first wife of King Frederick V. She was the youngest surviving daughter of George II of Great Britain and Caroline of Ansbach.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luísa (Londres, 18 de dezembro de 1724 – Copenhague, 19 de dezembro de 1751) foi a primeira esposa do rei Frederico V e rainha consorte do Reino da Dinamarca e Noruega de 1746 até sua morte. Era a filha mais nova do rei Jorge II da Grã-Bretanha e sua esposa Carolina de Ansbach.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Луи́за Великобрита́нская (англ. Louise of Great Britain, дат. Louise af Storbritannien; 7 декабря 1724, Лейчестер-Хаус, Лондон — 19 декабря 1751, дворец Кристиансборг, Копенгаген ) — младшая дочь короля Великобритании Георга II и Каролины Бранденбург-Ансбахской, супруга короля Дании и Норвегии Фредерика V и мать короля Кристиана VII.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">لويزا ملكة الدنمارك والنرويج (7 ديسمبر 1724م-19 ديسمبر 1751م) هي ملكة الدنمارك والنرويج منذ عام 1746م وحتى وفاتها، وهي الزوجة الأولى للملك فريدريك الخامس، وأصغر ابنة لـلجورج الثاني ملك بريطانيا العظمى وكارولين أميرة أنسبش، وأم الملك كريستيان السابع وعمة زوجته كارولين ماتيلدا وجدة فريدريك السادس</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1751</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1746</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Roskilde_Cathedral" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Frederick_V_of_Denmark" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait of Louise aged 23 as queen of Denmark and Norway by Carl Gustav Pilo, c. 1747</dbp:caption>
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Wilhelmina_Caroline_of_Denmark_and_Norway" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Sophia_Magdalena_of_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Louise_of_Denmark_(1750–1831)" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_Danish_consorts" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_Norwegian_consorts" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen consort of Denmark and Norway</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1746</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Queen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise,_queen_of_Denmark_and_Norway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophia_Magdalena_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Wilhelmina_Caroline_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louisa_County,_Virginia">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_V_of_Denmark">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Great_Britain">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VII_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_of_Denmark_(1750–1831)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louise_of_Great_Britain">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louisa,_Queen_of_Denmark_and_Norway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+  </rdf:Description>
+</rdf:RDF>

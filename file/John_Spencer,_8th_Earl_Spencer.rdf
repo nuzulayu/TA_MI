@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Shand_Kydd">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Spencer">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGraduatesOfTheRoyalMilitaryAcademySandhurst" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfTheRoyalAgriculturalUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsInThePeerageOfGreatBritain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHighSheriffsOfNorthamptonshire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEquerries" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Equerry110062594" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtEtonCollege" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Defender109614684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Preserver110466918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lawman110249459" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sheriff110589140" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalScotsGreysOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdfs:label xml:lang="fr">Edward Spencer</rdfs:label>
+    <rdfs:label xml:lang="en">John Spencer, 8th Earl Spencer</rdfs:label>
+    <rdfs:label xml:lang="pt">John Spencer, 8º Conde Spencer</rdfs:label>
+    <rdfs:label xml:lang="ja">エドワード・スペンサー (第8代スペンサー伯爵)</rdfs:label>
+    <rdfs:label xml:lang="it">John Spencer, VIII conte Spencer</rdfs:label>
+    <rdfs:label xml:lang="es">John Spencer, VIII conde de Spencer</rdfs:label>
+    <rdfs:label xml:lang="nl">John Spencer (1924-1992)</rdfs:label>
+    <rdfs:label xml:lang="de">Edward Spencer, 8. Earl Spencer</rdfs:label>
+    <rdfs:label xml:lang="pl">Edward Spencer (8. hrabia Spencer)</rdfs:label>
+    <rdfs:comment xml:lang="pl">Edward John Spencer (ur. 24 stycznia 1924 w Londynie, zm. 29 marca 1992 tamże) – brytyjski arystokrata, ojciec Diany, księżnej Walii. Był jedynym synem Alberta Spencera, 7. hrabiego Spencer i lady Cynthii Hamilton, córki 3. księcia Abercorn. 1 czerwca 1954 r. w katedrze westminsterskiej, poślubił Frances Ruth Roche (20 stycznia 1936 - 3 czerwca 2004), córkę Edmunda Burke Roche, 4. barona Fermoy i Ruth Gill, córki pułkownika Williama Gilla. Ślubu udzielił im biskup Norwich Percy Herbert. Edward i Frances mieli razem dwóch synów i trzy córki:</rdfs:comment>
+    <rdfs:comment xml:lang="en">Edward John &quot;Johnnie&quot; Spencer, 8th Earl Spencer, MVO (24 January 1924 – 29 March 1992), styled Viscount Althorp until 1975, was a British peer and the father of Diana, Princess of Wales.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Edward John Spencer, VIII conde Spencer, (24 de enero de 1924 – 29 de marzo de 1992).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Edward John Spencer dit Johnnie, 8e comte Spencer, né le 24 janvier 1924 à Londres et mort le 29 mars 1992 dans la même ville, est un aristocrate britannique, père de Diana, princesse de Galles.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Edward John Spencer, 8.° Conde Spencer (24 de janeiro de 1924 — 29 de março de 1992) foi o pai de Diana, Princesa de Gales.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Edward John &quot;Johnnie&quot; Spencer, 8. Earl Spencer MVO, (* 24. Januar 1924; † 29. März 1992), Viscount Althorp bis 1975, war ein britischer Peer und Vater von Diana, Princess of Wales.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Edward John (&#39;Johnny&#39;) Spencer, 8ste graaf Spencer, burggraaf van Althorp, MVO, (Londen, 24 januari 1924 - aldaar, 29 maart 1992) was een Britse edelman die vooral bekend is omdat hij de vader was van Lady Diana Spencer, de eerste echtgenote van Charles, prins van Wales.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">第8代スペンサー伯爵エドワード・ジョン・スペンサー（英: Edward John Spencer, 8th Earl Spencer, MVO、1924年1月24日 - 1992年3月29日）は、イギリスの貴族、政治家。 爵位を継承する1975年以前はオールトラップ子爵（Viscount Althorp）の儀礼称号を使用した。愛称はジョニー（Johnnie）。ダイアナ元皇太子妃の父親にあたる。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Edward_Spencer,_8._Earl_Spencer" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エドワード・スペンサー_(第8代スペンサー伯爵)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q593671" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Edward_Spencer_(8._hrabia_Spencer)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/John_Spencer,_VIII_conde_de_Spencer" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/John_Spencer,_8._hrabě_Spencer" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/John_Spencer,_8º_Conde_Spencer" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/John_Spencer_(1924-1992)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/John_Spencer,_VIII_conte_Spencer" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Edward_Spencer" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.031_v1" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/제8대_스펜서_백작_존_스펜서" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/John_Spencer,_8th_Earl_Spencer" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q593671" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:deathPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Humana Hospital, Wellington, London, England</dbp:deathPlace>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-3-29</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-1-24</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Spencer-Churchill_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Graduates_of_the_Royal_Military_College,_Sandhurst" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1924_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_English_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_landowners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Equerries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1992_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Scots_Greys_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Eton_College" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_Spencer" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:High_Sheriffs_of_Northamptonshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_Royal_Agricultural_University" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">675678</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742682269</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">John Spencer, 8th Earl Spencer</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Earl Spencer</dbp:name>
+    <dct:description xml:lang="en">British Earl</dct:description>
+    <foaf:givenName xml:lang="en">John</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/John_Spencer,_8th_Earl_Spencer" />
+    <foaf:surname xml:lang="en">Spencer</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/John_Spencer,_8th_Earl_Spencer?oldid=742682269" />
+    <dbo:abstract xml:lang="fr">Edward John Spencer dit Johnnie, 8e comte Spencer, né le 24 janvier 1924 à Londres et mort le 29 mars 1992 dans la même ville, est un aristocrate britannique, père de Diana, princesse de Galles.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Edward John Spencer (ur. 24 stycznia 1924 w Londynie, zm. 29 marca 1992 tamże) – brytyjski arystokrata, ojciec Diany, księżnej Walii. Był jedynym synem Alberta Spencera, 7. hrabiego Spencer i lady Cynthii Hamilton, córki 3. księcia Abercorn. Wykształcenie odebrał w Eton College, Royal Military College w Sandhurst i Royal Agricultural College w Cirencester. W latach 1944-1945 walczył na froncie zachodnim i został wspomniany w rozkazie dziennym. W latach 1947-1950 był adiutantem gubernatora Australii Południowej. W 1952 r. został członkiem rady hrabstwa Northamptonshire. Dwa lata później został odznaczony Krzyżem Kawalerskim Królewskiego Wiktoriańskiego Orderu. W 1970 r. został Strażnikiem Pokoju w Norfolk. W 1975 r. odziedziczył tytuł hrabiego Spencer i zasiadł w Izbie Lordów. 1 czerwca 1954 r. w katedrze westminsterskiej, poślubił Frances Ruth Roche (20 stycznia 1936 - 3 czerwca 2004), córkę Edmunda Burke Roche, 4. barona Fermoy i Ruth Gill, córki pułkownika Williama Gilla. Ślubu udzielił im biskup Norwich Percy Herbert. Edward i Frances mieli razem dwóch synów i trzy córki: 
+*  Elisabeth Sarah Lavinia Spencer (ur. 19 marca 1955), żona Neila Edmunda McCorquodale&#39;a, ma dzieci; 
+*  Cynthia Jane Spencer (ur. 11 lutego 1957), żona Roberta Fellowesa, barona Fellowes, ma dzieci; 
+*  John Spencer (ur. i zm. 12 stycznia 1960), żył 10 godzin; 
+*  Diana Frances Spencer (1 lipca 1961 - 31 sierpnia 1997), pierwsza żona Karola, księcia Walii, znana jako Diana, księżna Walii, miała dzieci, zginęła w wypadku samochodowym; 
+*  Charles Edward Maurice Spencer (ur. 20 maja 1964), 9. hrabia Spencer W kwietniu 1967 r. nastąpił rozwód Spencerów, z powodu romansu lady Spencer z Peterem Shand Kyddem (za którego lady Frances wyszła za mąż po rozwodzie). 14 lipca 1976 r. w Caxton Hall, poślubił Raine McCorquodale (ur. 9 września 1929), byłą żonę hrabiego Darthmouth, córkę Alexandra McCorquodale&#39;a i pisarki Barbary Cartland, córki majora Bertrama Cartlanda. Małżeństwo to nie doczekało się potomstwa.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Edward John Spencer, VIII conde Spencer, (24 de enero de 1924 – 29 de marzo de 1992).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">第8代スペンサー伯爵エドワード・ジョン・スペンサー（英: Edward John Spencer, 8th Earl Spencer, MVO、1924年1月24日 - 1992年3月29日）は、イギリスの貴族、政治家。 爵位を継承する1975年以前はオールトラップ子爵（Viscount Althorp）の儀礼称号を使用した。愛称はジョニー（Johnnie）。ダイアナ元皇太子妃の父親にあたる。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Edward John &quot;Johnnie&quot; Spencer, 8th Earl Spencer, MVO (24 January 1924 – 29 March 1992), styled Viscount Althorp until 1975, was a British peer and the father of Diana, Princess of Wales.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Edward John Spencer, 8.° Conde Spencer (24 de janeiro de 1924 — 29 de março de 1992) foi o pai de Diana, Princesa de Gales.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Edward John &quot;Johnnie&quot; Spencer, 8. Earl Spencer MVO, (* 24. Januar 1924; † 29. März 1992), Viscount Althorp bis 1975, war ein britischer Peer und Vater von Diana, Princess of Wales.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Edward John (&#39;Johnny&#39;) Spencer, 8ste graaf Spencer, burggraaf van Althorp, MVO, (Londen, 24 januari 1924 - aldaar, 29 maart 1992) was een Britse edelman die vooral bekend is omdat hij de vader was van Lady Diana Spencer, de eerste echtgenote van Charles, prins van Wales.</dbo:abstract>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Evelyn_Fanshawe" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Sir_Gyles_Isham,_12th_Baronet" />
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-01-24</dbp:birthDate>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward John Spencer</dbp:birthName>
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Diana,_Princess_of_Wales" />
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer" />
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes" />
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Lady_Sarah_McCorquodale" />
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">John Spencer</dbp:children>
+    <dbp:coronet rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A Coronet of an Earl</dbp:coronet>
+    <dbp:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1765-11-01</dbp:creationDate>
+    <dbp:crest rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Out of a Ducal Coronet Or a Griffin&#39;s Head Azure gorged with a Bar Gemelle Gules between two Wings expanded of the second</dbp:crest>
+    <dbp:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-03-29</dbp:deathDate>
+    <dbp:education rdf:resource="http://dbpedia.org/resource/Eton_College" />
+    <dbp:education rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Royal Agricultural College</dbp:education>
+    <dbp:education rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Royal Military College, Sandhurst</dbp:education>
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Quarterly Argent and Gules in the 2nd and 3rd quarters a Fret Or over all on a Bend Sable three Escallops of the first</dbp:escutcheon>
+    <dbp:knownFor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Father of Diana, Princess of Wales and maternal grandfather of Prince William, Duke of Cambridge and Prince Harry of Wales</dbp:knownFor>
+    <dbp:motto rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dieu Defend Le Droit</dbp:motto>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Cynthia_Spencer,_Countess_Spencer" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer" />
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Frances_Shand_Kydd" />
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Raine_Spencer,_Countess_Spencer" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer" />
+    <dbp:supporters rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dexter:  A Griffin per fess Ermine and Erminois gorged with a Collar Sable the edges flory-counterflory and chained of the last and on the Collar three Escallops Argent;  Sinister:  A Wyvern Erect on his tail Ermine similarly collared and chained</dbp:supporters>
+    <dbp:tenure rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-06-09</dbp:tenure>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/High_Sheriff_of_Northamptonshire" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_Spencer_(peerage)" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-09</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1959</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_Princess_of_Wales">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raine_Spencer,_Countess_Spencer">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_John,_8th_Earl_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Fellowes,_Baroness_Fellowes">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah_McCorquodale">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Spencer,_8th_Earl_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Spencer,_7th_Earl_Spencer">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+    <dbp:children rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Spencer">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer,_9th_Earl_Spencer">
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_John_Spencer,_8th_Earl_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedding_of_Charles,_Prince_of_Wales,_and_Lady_Diana_Spencer">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/John_Spencer,_8th_Earl_Spencer">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/John_Spencer,_8th_Earl_Spencer" />
+  </rdf:Description>
+</rdf:RDF>

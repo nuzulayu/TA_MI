@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Bowes-Lyon,_16th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="it">Patrick Bowes-Lyon, XV conte di Strathmore e Kinghorne</rdfs:label>
+    <rdfs:label xml:lang="ja">パトリック・ボーズ＝ライアン (第15代ストラスモア伯爵)</rdfs:label>
+    <rdfs:label xml:lang="en">Patrick Bowes-Lyon, 15th Earl of Strathmore and Kinghorne</rdfs:label>
+    <rdfs:comment xml:lang="en">Patrick Bowes-Lyon, 15th and 2nd Earl of Strathmore and Kinghorne (22 September 1884 – 25 May 1949) was an uncle of Elizabeth II of the United Kingdom.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">第15代ストラスモア・アンド・キングホーン伯爵パトリック・ボーズ＝ライアン（英: Patrick Bowes-Lyon, 15th Earl of Strathmore and Kinghorne、 1894年9月22日 - 1949年 5月29日）は、イギリスの貴族。ジョージ6世王妃エリザベスの兄で、女王エリザベス2世の母方の伯父。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1758535" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Patrick_Bowes-Lyon,_XV_conte_di_Strathmore_e_Kinghorne" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1758535" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/パトリック・ボーズ＝ライアン_(第15代ストラスモア伯爵)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06vqv4" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:deathPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Angus, Scotland, UK</dbp:deathPlace>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1949-5-25</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:birthPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">St Paul&#39;s Walden Bury, Hertfordshire, England</dbp:birthPlace>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-9-22</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bowes-Lyon_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_Scotland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1884_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Hertfordshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1949_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_of_Strathmore_and_Kinghorne" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2204293</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745219659</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Patrick Bowes-Lyon, 15th Earl of Strathmore and Kinghorne</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Earl of Strathmore and Kinghorne</dbp:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(The Right Honourable)</dbp:name>
+    <dct:description xml:lang="en">British Earl</dct:description>
+    <foaf:givenName xml:lang="en">Patrick</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne?oldid=745219659" />
+    <dbo:abstract xml:lang="ja">第15代ストラスモア・アンド・キングホーン伯爵パトリック・ボーズ＝ライアン（英: Patrick Bowes-Lyon, 15th Earl of Strathmore and Kinghorne、 1894年9月22日 - 1949年 5月29日）は、イギリスの貴族。ジョージ6世王妃エリザベスの兄で、女王エリザベス2世の母方の伯父。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Patrick Bowes-Lyon, 15th and 2nd Earl of Strathmore and Kinghorne (22 September 1884 – 25 May 1949) was an uncle of Elizabeth II of the United Kingdom.</dbo:abstract>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Timothy_Bowes-Lyon,_16th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-09-22</dbp:birthDate>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Patrick Bowes-Lyon</dbp:birthName>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Earl, c. 1940</dbp:caption>
+    <dbp:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1949-05-25</dbp:deathDate>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Timothy_Bowes-Lyon,_16th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lady Cecilia Harington</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">John Bowes-Lyon, Master of Glamis</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lady Nancy Blair</dbp:issue>
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lady Dorothy Godolphin-Osborne</dbp:spouse>
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Timothy_Bowes-Lyon,_16th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:tenure rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-07</dbp:tenure>
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1944</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Uncle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick,_15th_Earl_of_Strathmore_and_Kinghorne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+</rdf:RDF>

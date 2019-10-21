@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Louis,_Count_of_Nassau-Saarbrücken">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John,_Count_of_Nassau-Idstein">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat17th-centuryGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat16th-centuryGermanPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountsOfNassau" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountsOfNassau-Wiesbaden-Idstein" />
+    <rdfs:label xml:lang="de">Ludwig II. (Nassau-Weilburg)</rdfs:label>
+    <rdfs:label xml:lang="nl">Lodewijk II van Nassau-Saarbrücken</rdfs:label>
+    <rdfs:label xml:lang="fr">Louis II de Nassau-Weilbourg</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi II di Nassau-Weilburg</rdfs:label>
+    <rdfs:label xml:lang="en">Louis II, Count of Nassau-Weilburg</rdfs:label>
+    <rdfs:comment xml:lang="nl">Lodewijk II (Weilburg, 9 augustus 1565 - Saarbrücken, 8 november 1627) regeerde van 1593 tot zijn dood als graaf over verschillende Nassause vorstendommen. Lodewijk II stamde uit de Walramse linie van het Huis Nassau.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Louis II de Nassau-Weilbourg (ou de Nassau-Weilburg), (en allemand Ludwig II von Nassau-Weilburg), né le 9 août 1565 à Weilburg, décédé le 8 novembre 1627 à Sarrebruck. Il fut comte de Nassau-Ottweiler de 1593 à 1625, comte de Nassau-Sarrebruck de 1602 à 1625, comte de Nassau-Wiesbaden, comte de Nassau-Idstein de 1605 à 1625, comte de Nassau-Weilbourg de 1597 à 1625. Louis II de Nassau-Weilbourg abdiqua en 1625.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ludwig II. von Nassau-Weilburg (* 9. August 1565 in Weilburg; † 8. November 1627 in Saarbrücken) war Graf von Nassau-Weilburg.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Louis II of Nassau-Weilburg (9 August 1565, Weilburg – 8 November 1627, Saarbrücken) was a count of Nassau-Weilburg.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_II_di_Nassau-Weilburg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q559437" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_II_van_Nassau-Saarbrücken" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q559437" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louis_II_de_Nassau-Weilbourg" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_II._(Nassau-Weilburg)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gyw9xy" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/95404905" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/138777330" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Saarbrücken" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1627-11-08</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1627-11-8</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Weilburg" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1565-08-09</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1565-8-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Counts_of_Nassau-Wiesbaden-Idstein" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:16th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:17th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1627_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Nassau-Weilburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1565_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32357250</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">720234723</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.saarland-biografien.de/Nassau-Saarbruecken-Ludwig-II-gen-Felix-von" />
+    <foaf:name xml:lang="en">Louis II, Count of Nassau-Weilburg</foaf:name>
+    <dct:description xml:lang="en">Count of Nassau-Weilburg</dct:description>
+    <foaf:givenName xml:lang="en">Louis</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louis_II,_Count_of_Nassau-Weilburg" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louis_II,_Count_of_Nassau-Weilburg?oldid=720234723" />
+    <dbo:abstract xml:lang="en">Louis II of Nassau-Weilburg (9 August 1565, Weilburg – 8 November 1627, Saarbrücken) was a count of Nassau-Weilburg.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ludwig II. von Nassau-Weilburg (* 9. August 1565 in Weilburg; † 8. November 1627 in Saarbrücken) war Graf von Nassau-Weilburg.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Louis II de Nassau-Weilbourg (ou de Nassau-Weilburg), (en allemand Ludwig II von Nassau-Weilburg), né le 9 août 1565 à Weilburg, décédé le 8 novembre 1627 à Sarrebruck. Il fut comte de Nassau-Ottweiler de 1593 à 1625, comte de Nassau-Sarrebruck de 1602 à 1625, comte de Nassau-Wiesbaden, comte de Nassau-Idstein de 1605 à 1625, comte de Nassau-Weilbourg de 1597 à 1625. Louis II de Nassau-Weilbourg abdiqua en 1625.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Lodewijk II (Weilburg, 9 augustus 1565 - Saarbrücken, 8 november 1627) regeerde van 1593 tot zijn dood als graaf over verschillende Nassause vorstendommen. Lodewijk II stamde uit de Walramse linie van het Huis Nassau.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anna_of_Nassau-Dillenburg_(1541-1616)" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Count_of_Nassau-Weilburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Anna_Maria_of_Hesse-Kassel" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/William_Louis,_Count_of_Nassau-Saarbrücken" />
+    <dbp:artikel rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ludwig II. gen. Felix von Nassau-Saarbrücken</dbp:artikel>
+    <dbp:autor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Joachim Conrad</dbp:autor>
+    <dbp:band rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</dbp:band>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait at the Museu Nacional d&#39;Art de Catalunya</dbp:caption>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:spalten rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">856</dbp:spalten>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1605</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1602</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Count" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_IV,_Count_of_Nassau-Weilburg">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Casimir,_Count_of_Nassau-Weilburg">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II_of_Nassau-Weilburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louis_II,_Count_of_Nassau-Weilburg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louis_II,_Count_of_Nassau-Weilburg" />
+  </rdf:Description>
+</rdf:RDF>

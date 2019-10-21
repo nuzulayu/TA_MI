@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Regent110516117" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegentsOfGermany" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat18th-centuryGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="nl">Charlotte Amalia van Nassau-Dillenburg</rdfs:label>
+    <rdfs:label xml:lang="fr">Charlotte de Nassau-Dillenbourg</rdfs:label>
+    <rdfs:label xml:lang="en">Charlotte Amalia of Nassau-Dillenburg</rdfs:label>
+    <rdfs:comment xml:lang="en">Charlotte Amalia of Nassau-Dillenburg (1680 in Dillenburg – 1738) was a daughter of Prince Henry of Nassau-Dillenburg and his wife Dorothea Elisabeth, a daughter of George III of Brieg. In 1706 in Dillenburg, she married Prince William Henry of Nassau-Usingen. The couple had ten children; the first child was born on 3 April 1707 and the last one on 6 March 1718. Four children reached adulthood: 
+*  Françoise (1707–1750) 
+*  Charles, Prince of Nassau-Usingen (1712–1775) 
+*  Hedwig (1714–1786) 
+*  William Henry, prince of Nassau-Saarbrücken (1718–1768)</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Charlotte Amélie de Nassau-Dillenbourg née le 13 juin 1680 à Dillenburg et décédée le 11 octobre 1738 est une princesse allemande, fille d&#39;Henri de Nassau-Dillenbourg et de Dorothée Élisabeth de Brzeg, fille de Georges III de Brzeg. En 1706 à Dillenburg, elle épouse Guillaume de Nassau-Usingen. Le couple a 10 enfants entre 1707 et 1718, quatre arrivent à l&#39;âge adulte : Guillaume décède en 1718, et Charlotte-Amélie devient régente pour son fils Charles. 
+* Portail de l’Allemagne Portail de l’Allemagne   
+* Portail du Saint-Empire romain germanique Portail du Saint-Empire romain germanique</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Charlotte Amalia van Nassau-Dillenburg (Dillenburg, 13 juni 1680 - Biebrich 11 oktober 1738) was de echtgenote van Willem Hendrik I van Nassau-Usingen. Ze trouwden in 1706 in haar geboorteplaats Dillenburg in Duitsland. Ze kregen tien kinderen, van wie de eerste op 3 april 1707 werd geboren en de laatste op 6 maart 1718. Ze was een dochter van Hendrik van Nassau-Dillenburg, die in 1663 gehuwd was met Dorothea Elisabeth van Silezië-Liegnitz-Brieg, een dochter van George III van Silezië-Liegnitz-Brieg.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2021519" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charlotte_de_Nassau-Dillenbourg" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0jk_lx_" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Charlotte_Amalia_van_Nassau-Dillenburg" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/121193136" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2021519" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Biebrich_(Wiesbaden)" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1738-10-11</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Dillenburg" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1680-6-13</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regents_of_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1680_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1738_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Nassau" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35583069</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">721563306</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Charlotte Amalia of Nassau-Dillenburg</foaf:name>
+    <dct:description xml:lang="en">German princess</dct:description>
+    <foaf:givenName xml:lang="en">Charlotte</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charlotte_Amalia_of_Nassau-Dillenburg" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charlotte_Amalia_of_Nassau-Dillenburg?oldid=721563306" />
+    <dbo:abstract xml:lang="fr">Charlotte Amélie de Nassau-Dillenbourg née le 13 juin 1680 à Dillenburg et décédée le 11 octobre 1738 est une princesse allemande, fille d&#39;Henri de Nassau-Dillenbourg et de Dorothée Élisabeth de Brzeg, fille de Georges III de Brzeg. En 1706 à Dillenburg, elle épouse Guillaume de Nassau-Usingen. Le couple a 10 enfants entre 1707 et 1718, quatre arrivent à l&#39;âge adulte : 
+*  Françoise (1707–1750) 
+*  Charles, Prince de Nassau-Usingen (1712–1775) 
+*  Hedwige (1714–1786), qui entre dans les ordres 
+*  Guillaume-Henri de Nassau-Sarrebrück (en), prince de Nassau-Sarrebrück, en 1742 il épousa Sophie von Erbach (1725-1795), (fille du comte Georges von Erbach) Guillaume décède en 1718, et Charlotte-Amélie devient régente pour son fils Charles. 
+* Portail de l’Allemagne Portail de l’Allemagne   
+* Portail du Saint-Empire romain germanique Portail du Saint-Empire romain germanique</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Charlotte Amalia van Nassau-Dillenburg (Dillenburg, 13 juni 1680 - Biebrich 11 oktober 1738) was de echtgenote van Willem Hendrik I van Nassau-Usingen. Ze trouwden in 1706 in haar geboorteplaats Dillenburg in Duitsland. Ze kregen tien kinderen, van wie de eerste op 3 april 1707 werd geboren en de laatste op 6 maart 1718. Ze was een dochter van Hendrik van Nassau-Dillenburg, die in 1663 gehuwd was met Dorothea Elisabeth van Silezië-Liegnitz-Brieg, een dochter van George III van Silezië-Liegnitz-Brieg.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Charlotte Amalia of Nassau-Dillenburg (1680 in Dillenburg – 1738) was a daughter of Prince Henry of Nassau-Dillenburg and his wife Dorothea Elisabeth, a daughter of George III of Brieg. In 1706 in Dillenburg, she married Prince William Henry of Nassau-Usingen. The couple had ten children; the first child was born on 3 April 1707 and the last one on 6 March 1718. Four children reached adulthood: 
+*  Françoise (1707–1750) 
+*  Charles, Prince of Nassau-Usingen (1712–1775) 
+*  Hedwig (1714–1786) 
+*  William Henry, prince of Nassau-Saarbrücken (1718–1768) William Henry died in 1718, and Charlotte Amalia became regent for her underage son Charles.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Henry,_Prince_of_Nassau-Dillenburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/William_Henry,_Prince_of_Nassau-Usingen" />
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1680</dbp:birthDate>
+    <dbp:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1738</dbp:deathDate>
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dorothea Elisabeth of Brieg</dbp:mother>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry,_Prince_of_Nassau-Saarbrücken">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry,_Prince_of_Nassau-Usingen">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charlotte_Amalia_of_Nassau-Dillenburg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg" />
+  </rdf:Description>
+</rdf:RDF>

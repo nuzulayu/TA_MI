@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Ansbach">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_the_United_Kingdom">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Walpole">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_of_the_Austrian_Succession">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Berkeley,_5th_Baron_Berkeley_of_Stratton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Leveson-Gower,_1st_Earl_Gower">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Sandys,_1st_Baron_Sandys">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Hynde_Cotton,_3rd_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Carteret,_2nd_Earl_Granville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Mildmay,_1st_Earl_FitzWalter">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Graham,_1st_Duke_of_Montrose">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Johnston">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_West,_1st_Earl_De_La_Warr">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_Fife">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Mascarene">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_August">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Georg_August_of_Brunswick-Lueneburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_August_of_Brunswick-Lueneburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lyttelton,_1st_Baron_Lyttelton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Carter_(1690–1763)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/359_Georgia">
+    <dbp:namedAfter rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Montagu-Dunk,_2nd_Earl_of_Halifax">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Georgia">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Trevor,_1st_Baron_Trevor">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Francis_Bernard,_1st_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Fane,_7th_Earl_of_Westmorland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seven_Years&#39;_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cavendish,_2nd_Duke_of_Devonshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cavendish,_4th_Duke_of_Devonshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Dettingen">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell,_4th_Duke_of_Bedford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lewis_Morris_(governor)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_William_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Henley,_1st_Earl_of_Northington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Seymour_Conway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Augustus,_Duke_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electorate_of_Brunswick-Lüneburg">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Prince_of_Wales">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Great_Britain">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfGreatBritain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfCambridge" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfRothesay" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTrinityCollege,Dublin" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfScotland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Citizen109923673" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Voter110760340" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/National109625401" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromHanover" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfBremenAndVerden" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfEngland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsOfChester" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSaxe-Lauenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfGreatBritain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfCalenberg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfBrunswick-Lüneburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElectorsOfHanover" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfCornwall" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElectoralPrincesOfHanover" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/King110231515" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleOfHuguenotDescent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIrishKings" />
+    <rdfs:label xml:lang="it">Giorgio II di Gran Bretagna</rdfs:label>
+    <rdfs:label xml:lang="de">Georg II. (Großbritannien)</rdfs:label>
+    <rdfs:label xml:lang="en">George II of Great Britain</rdfs:label>
+    <rdfs:label xml:lang="ru">Георг II (король Великобритании)</rdfs:label>
+    <rdfs:label xml:lang="fr">George II (roi de Grande-Bretagne)</rdfs:label>
+    <rdfs:label xml:lang="nl">George II van Groot-Brittannië</rdfs:label>
+    <rdfs:label xml:lang="zh">乔治二世 (大不列颠)</rdfs:label>
+    <rdfs:label xml:lang="es">Jorge II de Gran Bretaña</rdfs:label>
+    <rdfs:label xml:lang="ja">ジョージ2世 (イギリス王)</rdfs:label>
+    <rdfs:label xml:lang="pt">Jorge II da Grã-Bretanha</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج الثاني ملك بريطانيا العظمى</rdfs:label>
+    <rdfs:label xml:lang="pl">Jerzy II Hanowerski</rdfs:label>
+    <rdfs:comment xml:lang="de">Georg II. August (englisch George Augustus; * 30. Oktoberjul./ 9. November 1683greg. in Herrenhausen, Hannover; † 25. Oktober 1760 in London) war von 1727 bis zu seinem Tod König von Großbritannien und Irland, deutscher Kurfürst von Braunschweig-Lüneburg (Hannover) und nominell einer der Herzöge zu Braunschweig und Lüneburg. Der mit Caroline von Ansbach verheiratete Georg II. war für seine zahlreichen Konflikte mit seinem Vater Georg I. und später mit seinem Sohn Friedrich Ludwig bekannt.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge II de Gran Bretaña y Hannover (en alemán: Georg Augustus von Hannover) (9 de noviembre de 1683 – 25 de octubre de 1760) fue rey de Gran Bretaña y de Irlanda, duque de Brunswick-Luneburgo (en Hannover), Príncipe elector del Sacro Imperio Romano Germánico desde el 11 de junio de 1727 hasta su muerte y duque de Bremen y príncipe de Verden (1727-60). Fue el segundo soberano de la Casa de Hannover y el último monarca británico que dirigió personalmente sus tropas en una batalla (en Dettingen en 1743). Asimismo, fue el último soberano inglés en nacer fuera de Gran Bretaña.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jerzy II, urodzony jako ang. George Augustus (ur. 10 listopada 1683 w Hanowerze, zm. 25 października 1760 w Londynie) – od 11 czerwca 1727 król Królestwa Wielkiej Brytanii z dynastii hanowerskiej. Był również elektorem Hanoweru, księciem Brunszwiku-Lüneburga i księciem Saksonii-Lauenburga.</rdfs:comment>
+    <rdfs:comment xml:lang="en">George II (George Augustus; German: Georg II. August; 30 October / 9 November 1683 – 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and Prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death. For two centuries after George II&#39;s death, history tended to view him with disdain, concentrating on his mistresses, short temper and boorishness. Since then, most scholars have reassessed his legacy and conclude that he held and exercised influence in foreign policy and military appointments.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">George II (né Georg August, 10 novembre 1683 - 25 octobre 1760) fut roi de Grande-Bretagne, duc de Brunswick-Lunebourg (Hanovre) et prince-électeur du Saint-Empire romain germanique du 22 juin 1727 à sa mort. Jusqu&#39;au milieu du XXe siècle, les études historiques considéraient George II avec dédain du fait de ses maîtresses, de son impatience et de sa muflerie. Depuis lors, certains historiens ont ré-évalué son héritage et concluent qu&#39;il avait eu une certaine influence dans la politique étrangère et les nominations militaires.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جورج الثاني أو جورج أغسطس (بالإنجليزية: George Augustus ، وبالألمانية: Georg II. August ؛ 30 أكتوبر / 9 نوفمبر 1683م - 25 أكتوبر 1760م) هو ملك بريطانيا العظمى وأيرلندا ودوق براونشفايغ لونيبورغ (هانوفر) وأمير هانوفر الناخب وأمير ناخب بالإمبراطورية الرومانية المقدسة في الفترة من 11 يونيو 1727م وحتى وفاته. وطيلة قرنين من الزمان بعد موت جورج الثاني، ظل التاريخ يذكره بازدراء، مسلطًا الضوء على كثرة خليلاته، وضيق مزاجه، وفظاظته. ومن ثم فقد أعاد بعض العلماء تقييم تركته والخلاص إلى أنه قد أثر تأثيرًا كبيرًا في السياسة الخارجية والشئون العسكرية.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ジョージ2世（George II, 1683年11月10日 – 1760年10月25日）は、ハノーヴァー朝第2代グレートブリテン王国国王（在位：1727年 - 1760年）、ハノーファー選帝侯ゲオルク2世アウグスト (Georg II. August, 在位期間は同じ）。ジョージ1世と妃でリューネブルク侯ゲオルク・ヴィルヘルムの娘ゾフィー・ドロテアの息子。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">George II August (Schloss Herrenhausen, Hannover, 10 november 1683 – Londen, 25 oktober 1760) was koning van Groot-Brittannië en Ierland en keurvorst van Hannover van 1727 tot zijn dood in 1760. Hij was de zoon van koning George I en diens vrouw Sophia Dorothea van Celle.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jorge II (Hanôver, 10 de novembro de 1683 — Londres, 25 de outubro de 1760), da Casa de Hanôver, foi Rei da Grã-Bretanha e Irlanda de 1727 até à sua morte. Foi ainda príncipe-eleitor de Hanôver e duque de Brunsvique-Luneburgo. Durante os dois séculos que se seguiram à sua morte, a história desconsiderou Jorge II, concentrando os relatos sobre a sua vida nas suas amantes, mau feitio e aborrecimento. No entanto, a partir daí, alguns intelectuais têm vindo a reavaliar o seu legado e concluíram que o rei tinha e exercia a sua influência na política externa e em assuntos militares.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">乔治二世（George II of Great Britain，1683年11月10日－1760年10月25日），英国国王，汉诺威选帝侯。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Гео́рг II Ганноверский (Георг Август), (англ. George II, нем. Georg II.; 10 (20) ноября 1683 — 25 октября 1760) — король Великобритании и Ирландии, курфюрст Ганновера и герцог Брауншвейг-Люнебургский с 11 (22) июня 1727 года, сын Георга I. Последний монарх Британии, родившийся за её пределами. Симпатизировал партии вигов. В первые годы его царствования большую роль играл лидер вигов Роберт Уолпол, считающийся первым де-факто премьер-министром Великобритании.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q131981" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_II_da_Grã-Bretanha" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γεώργιος_Β΄_της_Μεγάλης_Βρετανίας" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_II_van_Groot-Brittannië" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_2세" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/George_II_dari_Britania_Raya" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0ck4s" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_II_de_Gran_Bretaña" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_II_di_Gran_Bretagna" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwJjb55wpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/46902352" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_II._(Großbritannien)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118538543" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_II_of_Great_Britain" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジョージ2世_(イギリス王)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Jurgi_II.a_Erresuma_Batukoa" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_II_(roi_de_Grande-Bretagne)" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jiří_II." />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jerzy_II_Hanowerski" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q131981" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kensington_Palace" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1760-10-25</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Leineschloss" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Herrenhausen_Gardens" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hanover" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1683-10-30</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1683-11-09</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Lutherans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Dublin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electoral_Princes_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electors_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_Lutherans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cornwall" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:17th-century_Lutherans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Bremen_and_Verden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_aortic_dissection" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_Lutherans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Lauenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Trinity_College,_Dublin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_II_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_Huguenot_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Westminster_Abbey" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1683_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_related_to_the_history_of_the_Georgia_Salzburgers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1760_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_pretenders_to_the_French_throne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Lutherans" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46389</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745111597</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.oxforddnb.com/view/article/10539" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.oxforddnb.com/view/article/28579" />
+    <dbo:wikiPageExternalLink rdf:resource="https://archive.org/details/lafranceprotesta05haaguoft" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.royal.uk/george-ii-r-1727-1760" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/historic_figures/george_ii_king.shtml" />
+    <foaf:name xml:lang="en">George II</foaf:name>
+    <foaf:name xml:lang="en">George Augustus</foaf:name>
+    <foaf:name xml:lang="en">George II of Great Britain</foaf:name>
+    <foaf:homepage rdf:resource="https://www.royal.uk/george-ii-r-1727-1760" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Firma_del_Rey_George_II.svg" />
+    <dct:description xml:lang="en">British monarch</dct:description>
+    <foaf:givenName xml:lang="en">George</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_II_of_Great_Britain" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Firma_del_Rey_George_II.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_II_of_Great_Britain?oldid=745111597" />
+    <dbo:abstract xml:lang="pt">Jorge II (Hanôver, 10 de novembro de 1683 — Londres, 25 de outubro de 1760), da Casa de Hanôver, foi Rei da Grã-Bretanha e Irlanda de 1727 até à sua morte. Foi ainda príncipe-eleitor de Hanôver e duque de Brunsvique-Luneburgo. Jorge foi o último monarca britânico a nascer fora da Grã-Bretanha: nasceu e foi criado no norte do Sacro Império Romano-Germânico. Em 1701, a sua avó, a princesa Sofia de Hanôver, ficou no segundo lugar na linha de sucessão ao trono britânico depois de cerca de cinquenta católicos que estavam mais próximos do trono do que ela serem excluídos devido ao Decreto de Estabelecimento de 1701 que restringiu a sucessão a protestantes. Depois que Sofia e a rainha Ana morreram em 1714, o seu pai, Jorge I, príncipe-eleitor de Hanôver, herdou o trono britânico. Durante os primeiros anos do reinado do seu pai, Jorge foi associado a políticos da oposição até eles se juntarem novamente ao partido governante em 1720. Rei a partir de 1727, Jorge tinha pouco domínio sobre a política interna da Grã-Bretanha que era controlada majoritariamente pelo parlamento do país. Como príncipe-eleitor, passou doze vezes o verão em Hanôver onde tinha um controle mais directo sobre a política do governo. Tinha uma relação difícil com seu filho mais velho, Frederico, que apoiava a oposição do parlamento. Durante a Guerra de Sucessão Austríaca, Jorge participou na Batalha de Dettingen, em 1743, e assim tornou-se o último monarca britânico a liderar um exército durante uma batalha. Em 1745, apoiantes do pretendente católico ao trono, Jaime Francisco Eduardo Stuart (&quot;O Velho Pretendente&quot;), liderados pelo seu filho, Carlos Eduardo Stuart (&quot;O Jovem Pretendente&quot; ou &quot;Bonnie Prince Charlie&quot;), tentaram sem sucesso depor Jorge na última das rebeliões jacobitas. Depois da morte inesperada de Frederico em 1751, o neto de Jorge, Jorge III, tornou-se herdeiro aparente do trono, acabando por se tornar rei após a sua morte. Durante os dois séculos que se seguiram à sua morte, a história desconsiderou Jorge II, concentrando os relatos sobre a sua vida nas suas amantes, mau feitio e aborrecimento. No entanto, a partir daí, alguns intelectuais têm vindo a reavaliar o seu legado e concluíram que o rei tinha e exercia a sua influência na política externa e em assuntos militares.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">乔治二世（George II of Great Britain，1683年11月10日－1760年10月25日），英国国王，汉诺威选帝侯。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">George II (né Georg August, 10 novembre 1683 - 25 octobre 1760) fut roi de Grande-Bretagne, duc de Brunswick-Lunebourg (Hanovre) et prince-électeur du Saint-Empire romain germanique du 22 juin 1727 à sa mort. George II fut le dernier monarque britannique né hors de Grande-Bretagne puisqu&#39;il était né et avait grandi dans le Hanovre. En 1701, sa grand-mère, Sophie de Hanovre, devint la seconde dans l&#39;ordre de succession au trône britannique après l&#39;exclusion d&#39;environ 50 héritiers catholiques du fait de l&#39;Acte d&#39;établissement de 1701 qui réservait la succession aux protestants. Après les morts de Sophie et d&#39;Anne de Grande-Bretagne, son père George Ier, électeur de Hanovre, accéda au trône. Dans les premières années du règne de son père, George était associé aux politiciens de l&#39;opposition jusqu&#39;à ce qu&#39;ils rejoignent le parti au pouvoir en 1720. Devenu roi en 1727, George II influa peu sur la politique intérieure du pays qui était largement contrôlée par le Parlement de Grande-Bretagne. En tant qu&#39;électeur, il passa douze étés au Hanovre où il disposait d&#39;un plus grand contrôle sur la politique gouvernementale. Durant la guerre de Succession d&#39;Autriche, George participa à la bataille de Dettingen en 1743 devenant ainsi le dernier monarque britannique à mener une armée au combat. En 1745, les partisans du prétendant catholique au trône, Jacques François Stuart, tentèrent de le renverser lors de la dernière révolte jacobite. George II avait des relations difficiles avec son fils aîné, Frédéric, qui soutenait l&#39;opposition parlementaire. Frédéric mourut soudainement en 1751 et c&#39;est le fils de ce dernier qui devint l&#39;héritier au trône, puis finalement roi en 1760 sous le nom de George III. Jusqu&#39;au milieu du XXe siècle, les études historiques considéraient George II avec dédain du fait de ses maîtresses, de son impatience et de sa muflerie. Depuis lors, certains historiens ont ré-évalué son héritage et concluent qu&#39;il avait eu une certaine influence dans la politique étrangère et les nominations militaires.</dbo:abstract>
+    <dbo:abstract xml:lang="en">George II (George Augustus; German: Georg II. August; 30 October / 9 November 1683 – 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and Prince-elector of the Holy Roman Empire from 11 June 1727 (O.S.) until his death. George was the last British monarch born outside Great Britain: he was born and brought up in northern Germany. His grandmother, Sophia of Hanover, became second in line to the British throne after about fifty Catholics higher in line were excluded by the Act of Settlement 1701 and the Acts of Union 1707, which restricted the succession to Protestants. After the deaths of Sophia and Anne, Queen of Great Britain, in 1714, his father George I, Elector of Hanover, inherited the British throne. In the first years of his father&#39;s reign as king, George was associated with opposition politicians, until they rejoined the governing party in 1720. As king from 1727, George exercised little control over British domestic policy, which was largely controlled by the Parliament of Great Britain. As elector, he spent twelve summers in Hanover, where he had more direct control over government policy. He had a difficult relationship with his eldest son, Frederick, who supported the parliamentary opposition. During the War of the Austrian Succession, George participated at the Battle of Dettingen in 1743, and thus became the last British monarch to lead an army in battle. In 1745, supporters of the Catholic claimant to the British throne, James Francis Edward Stuart (&quot;The Old Pretender&quot;), led by James&#39;s son Charles Edward Stuart (&quot;The Young Pretender&quot; or &quot;Bonnie Prince Charlie&quot;), attempted and failed to depose George in the last of the Jacobite rebellions. Frederick died unexpectedly in 1751, nine years before his father, and so George II was ultimately succeeded by his grandson, George III. For two centuries after George II&#39;s death, history tended to view him with disdain, concentrating on his mistresses, short temper and boorishness. Since then, most scholars have reassessed his legacy and conclude that he held and exercised influence in foreign policy and military appointments.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Гео́рг II Ганноверский (Георг Август), (англ. George II, нем. Georg II.; 10 (20) ноября 1683 — 25 октября 1760) — король Великобритании и Ирландии, курфюрст Ганновера и герцог Брауншвейг-Люнебургский с 11 (22) июня 1727 года, сын Георга I. Последний монарх Британии, родившийся за её пределами. Будучи королём с 1727 года, Георг относительно мало влиял на британскую внутреннюю политику, которая по большей части контролировалась парламентом Великобритании. Будучи курфюрстом Священной Римской империи, провел 12 летних сезонов в Ганновере, где у него было больше прямого контроля над государственной политикой. У него были сложные отношения с его старшим сыном Фредериком, который поддерживал парламентскую оппозицию. Во время войны за австрийское наследство Георг участвовал в Деттингенском сражении в 1743 году и, таким образом, стал последним британским монархом, который лично вёл войска в бой. В 1745 году сторонники католического претендента на британский престол Джеймса Стюарта («Старый Претендент»), во главе с сыном Джеймса Карлом Стюартом («Молодой Претендент» или «Бонни Принц Чарли»), попытались и не смогли свергнуть Георга во время последнего Якобитского восстания. После неожиданной смерти принца Фредерика в 1751 году внук Георга, Георг III, стал наследником и, в конечном итоге, королём. Симпатизировал партии вигов. В первые годы его царствования большую роль играл лидер вигов Роберт Уолпол, считающийся первым де-факто премьер-министром Великобритании. Во время жизни Георга использовались два календаря: Юлианский календарь (старый стиль) и Григорианский календарь (новый стиль). Ганновер перешел с юлианского на григорианский календарь 19 февраля (1 марта) 1700 года. Великобритания перешла 3 (14) сентября 1752 года. Год стал начинаться с 1 января, а не с 25 марта (этот день раньше был английским Новым годом).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">George II August (Schloss Herrenhausen, Hannover, 10 november 1683 – Londen, 25 oktober 1760) was koning van Groot-Brittannië en Ierland en keurvorst van Hannover van 1727 tot zijn dood in 1760. Hij was de zoon van koning George I en diens vrouw Sophia Dorothea van Celle. Hij was de laatste Britse monarch die buiten Groot-Brittannië was geboren. Hij stond bekend om zijn vele conflicten eerst met zijn vader en later met zijn zoon. Aan het begin van zijn regering had hij weinig politieke macht. Die lag toen veel meer in de handen van de eerste Britse politicus die als premier beschouwd kon worden, Robert Walpole.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ジョージ2世（George II, 1683年11月10日 – 1760年10月25日）は、ハノーヴァー朝第2代グレートブリテン王国国王（在位：1727年 - 1760年）、ハノーファー選帝侯ゲオルク2世アウグスト (Georg II. August, 在位期間は同じ）。ジョージ1世と妃でリューネブルク侯ゲオルク・ヴィルヘルムの娘ゾフィー・ドロテアの息子。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge II de Gran Bretaña y Hannover (en alemán: Georg Augustus von Hannover) (9 de noviembre de 1683 – 25 de octubre de 1760) fue rey de Gran Bretaña y de Irlanda, duque de Brunswick-Luneburgo (en Hannover), Príncipe elector del Sacro Imperio Romano Germánico desde el 11 de junio de 1727 hasta su muerte y duque de Bremen y príncipe de Verden (1727-60). Fue el segundo soberano de la Casa de Hannover y el último monarca británico que dirigió personalmente sus tropas en una batalla (en Dettingen en 1743). Asimismo, fue el último soberano inglés en nacer fuera de Gran Bretaña. Jorge II fue famoso por sus múltiples conflictos con su padre y posteriormente con su hijo (algo muy común entre los soberanos de la casa de Hannover). Sus relaciones con su mujer fueron mucho mejores, pese a las numerosas amantes que tuvo. Jorge II ejerció poco control sobre la política durante el principio de su reinado, el gobierno estaba dirigido por el primer ministro, Robert Walpole.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jerzy II, urodzony jako ang. George Augustus (ur. 10 listopada 1683 w Hanowerze, zm. 25 października 1760 w Londynie) – od 11 czerwca 1727 król Królestwa Wielkiej Brytanii z dynastii hanowerskiej. Był również elektorem Hanoweru, księciem Brunszwiku-Lüneburga i księciem Saksonii-Lauenburga.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جورج الثاني أو جورج أغسطس (بالإنجليزية: George Augustus ، وبالألمانية: Georg II. August ؛ 30 أكتوبر / 9 نوفمبر 1683م - 25 أكتوبر 1760م) هو ملك بريطانيا العظمى وأيرلندا ودوق براونشفايغ لونيبورغ (هانوفر) وأمير هانوفر الناخب وأمير ناخب بالإمبراطورية الرومانية المقدسة في الفترة من 11 يونيو 1727م وحتى وفاته. كان جورج آخر ملك بريطاني يُولد خارج بريطانيا العظمى، حيث وُلد ونشأ في شمال ألمانيا. رُشحت جدته صوفيا أميرة هانوفر عام 1701م لتولي العرش البريطاني (بصفتها ملكة افتراضية) بعد استبعاد خمسين كاثوليكيًا أقرب صلة طبقًا لمرسوم التولية المُصدق عام 1701م الذي منع الكاثوليك من وراثة عرش بريطانيا. وبعد وفاة صوفيا وآن عام 1714م تولى والده جورج الأول أمير هانوفر الناخب عرش بريطانيا. وفي الأعوام الأولى من حكم أبيه بصفته ملكًا اقترن جورج ببعض سياسيي المعارضة حتى انضموا للحزب الحاكم عام 1720م. عندما تولى جورج إدارة البلاد بصفته ملكًا عام 1727م كانت له سلطة ضعيفة على ما يخص السياسة الداخلية التي كانت تحت سيطرة كبيرة من البرلمان البريطاني. وعندما كان أميرًا ناخبًا فقد أمضى 12 عامًا في هانوفر حيث كانت له سلطة مباشرة أكبر على سياسة الحكومة. كانت علاقته سيئة بابنه الأكبر فريدريك الذي كان يؤيد البرلمان المعارض لأبيه. وخلال حرب الخلافة النمساوية شارك جورج في معركة ديتنجن (الواقعة الآن في بافاريا بألمانيا)عام 1743م. وبذلك كان آخر ملك بريطاني قاد الجيش الإنجليزي في معركة. وقام مؤيدو المدّعي القديم -(جيمس الثالث والثامن) صاحب الادعاء بأنه الأولى بالعرش الإنجليزي- بقيادة المدّعي الصغير ولده تشارلز إدوارد ستيوارت بمحاولة فاشلة لخلع جورج في أعقاب الثورة اليعقوبية. وبعد وفاة الأمير فريدريك زؤامًا، عام 1751م، أصبح أخوه الأصغر جورج الثالث (حفيد جورج الأول) وليًا للعهد ومن ثم ملكًا فيما بعد. وطيلة قرنين من الزمان بعد موت جورج الثاني، ظل التاريخ يذكره بازدراء، مسلطًا الضوء على كثرة خليلاته، وضيق مزاجه، وفظاظته. ومن ثم فقد أعاد بعض العلماء تقييم تركته والخلاص إلى أنه قد أثر تأثيرًا كبيرًا في السياسة الخارجية والشئون العسكرية.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg II. August (englisch George Augustus; * 30. Oktoberjul./ 9. November 1683greg. in Herrenhausen, Hannover; † 25. Oktober 1760 in London) war von 1727 bis zu seinem Tod König von Großbritannien und Irland, deutscher Kurfürst von Braunschweig-Lüneburg (Hannover) und nominell einer der Herzöge zu Braunschweig und Lüneburg. Er war der zweite König aus dem Haus Hannover und der letzte britische Monarch, der außerhalb von Großbritannien zur Welt kam und der persönlich Truppen in die Schlacht führte. Er war Verbündeter von Maria Theresia im Österreichischen Erbfolgekrieg und von Friedrich II. im Siebenjährigen Krieg. Der mit Caroline von Ansbach verheiratete Georg II. war für seine zahlreichen Konflikte mit seinem Vater Georg I. und später mit seinem Sohn Friedrich Ludwig bekannt.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1727</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1727</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Sophia_Dorothea_of_Celle" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Great_Britain" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_I_of_Great_Britain" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Westminster_Abbey" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George sitting on a throne</dbp:alt>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by Thomas Hudson, 1744</dbp:caption>
+    <dbp:corType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">britain</dbp:corType>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbp:coronation>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1760-11-11</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Amelia_of_Great_Britain" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">*</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Mary_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_William,_Duke_of_Cumberland" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_George_William_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Caroline_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+    <dbp:issueLink rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#Issue</dbp:issueLink>
+    <dbp:regType rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheran" />
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Firma del Rey George II.svg</dbp:signature>
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of Great Britain and Ireland</dbp:succession>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Electorate_of_Brunswick-Lüneburg" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of Great Britain and Ireland,</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Elector_of_Brunswick-Lüneburg" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Cornwall" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Rothesay" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-22</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1714</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I_of_Great_Britain">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgian_era">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Pelham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeffery_Amherst,_1st_Baron_Amherst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Great_Britain">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spencer_Compton,_1st_Earl_of_Wilmington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bremen-Verden">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Pennsylvania">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Granville_Leveson-Gower,_1st_Marquess_of_Stafford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II,_King_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bennet,_2nd_Earl_of_Tankerville">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_William,_Duke_of_Cumberland">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:brother rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Pelham-Holles,_1st_Duke_of_Newcastle">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Montgomerie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cosby">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Burnet_(colonial_administrator)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_II_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Fox,_1st_Baron_Holland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Amelia_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Villiers,_1st_Earl_of_Clarendon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elections_in_Great_Britain">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer,_3rd_Duke_of_Marlborough">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Fane,_6th_Earl_of_Westmorland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophia_Dorothea_of_Celle">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacobite_rising_of_1745">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Bilson-Legge">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Caroline_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Darcy,_4th_Earl_of_Holderness">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Belcher">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Cornwallis,_1st_Earl_Cornwallis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Bessborough">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wyndham,_1st_Baron_Wyndham">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Buckinghamshire">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Harrington">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_public_art_in_Greenwich">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Georg_August_of_Brunswick-Lüneburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_August_of_Brunswick-Lüneburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_Augustus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_ii_of_great_britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Scotland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_II_of_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_II_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_August_of_Brunswick-Luneburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Georg_August_of_Brunswick-Luneburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_II_of_Great_Britain">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geo._2">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_ii_of_ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+  </rdf:Description>
+</rdf:RDF>

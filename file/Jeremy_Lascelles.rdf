@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeremy_Lascelles">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Male109624168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfAustrian-JewishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Son110624074" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleOffspring110285938" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Offspring110373998" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatYoungerSonsOfEarls" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109918248" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Jeremy Lascelles</rdfs:label>
+    <rdfs:label xml:lang="pl">Jeremy Lascelles</rdfs:label>
+    <rdfs:comment xml:lang="pl">Robert Jeremy Hugh Lascelles (ur. 14 lutego 1955 w Bayswater, Londyn) – najmłodszy syn George’a Lascellesa i Marion Stein. Potomek króla Jerzego V.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Robert Jeremy Hugh Lascelles (born 14 February 1955), is the third child of George Lascelles, 7th Earl of Harewood, and Marion Stein, who later married Jeremy Thorpe. He is a great-grandson of George V, so he is a second cousin to the Prince of Wales and is in the line of succession to the British throne.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Jeremy_Lascelles" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q4494086" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jeremy_Lascelles" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q4494086" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jeremy_Lascelles" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05g46x" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Bayswater" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-2-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-02-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Younger_sons_of_earls" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_Austrian-Jewish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1955_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lascelles_family" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1606374</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">714227239</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Jeremy Lascelles</foaf:name>
+    <dct:description xml:lang="en">British noble</dct:description>
+    <foaf:givenName xml:lang="en">Jeremy</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jeremy_Lascelles" />
+    <foaf:surname xml:lang="en">Lascelles</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jeremy_Lascelles?oldid=714227239" />
+    <dbo:abstract xml:lang="en">Robert Jeremy Hugh Lascelles (born 14 February 1955), is the third child of George Lascelles, 7th Earl of Harewood, and Marion Stein, who later married Jeremy Thorpe. He is a great-grandson of George V, so he is a second cousin to the Prince of Wales and is in the line of succession to the British throne.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Robert Jeremy Hugh Lascelles (ur. 14 lutego 1955 w Bayswater, Londyn) – najmłodszy syn George’a Lascellesa i Marion Stein. Potomek króla Jerzego V.</dbo:abstract>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Robert Jeremy Hugh Lascelles</dbp:birthName>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ellen Mary Lascelles</dbp:children>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tallulah Grace Lascelles</dbp:children>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Amy Rose Lascelles</dbp:children>
+    <dbp:children rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Thomas Robert Lascelles</dbp:children>
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Honourable" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Marion_Stein" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood" />
+    <dbp:relatives rdf:resource="http://dbpedia.org/resource/George_V_of_the_United_Kingdom" />
+    <dbp:relatives rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Catherine Isobel Bell</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Julie Baylis</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</dbp:spouse>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ellen_Lascelles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Jeremy_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lascelles,_7th_Earl_of_Harewood">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Jeremy_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marion_Stein">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Jeremy_Lascelles" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jeremy_Lascelles">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Jeremy_Lascelles" />
+  </rdf:Description>
+</rdf:RDF>

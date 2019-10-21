@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis,_Grand_Duke_of_Hesse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_I_of_Hesse-Darmstadt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_I,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IX,_Landgrave_of_Hesse-Darmstadt">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchy_of_Hesse">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_I">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Landgrave110245029" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromPrenzlau" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLandgravesOfHesse-Darmstadt" />
+    <rdfs:label xml:lang="fr">Louis Ier de Hesse</rdfs:label>
+    <rdfs:label xml:lang="en">Louis I, Grand Duke of Hesse</rdfs:label>
+    <rdfs:label xml:lang="ru">Людвиг I Гессенский</rdfs:label>
+    <rdfs:label xml:lang="pt">Luís I, Grão-Duque de Hesse</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi I d&#39;Assia</rdfs:label>
+    <rdfs:label xml:lang="ja">ルートヴィヒ1世 (ヘッセン大公)</rdfs:label>
+    <rdfs:label xml:lang="nl">Lodewijk I van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="pl">Ludwik I (wielki książę Hesji)</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig I. (Hessen-Darmstadt)</rdfs:label>
+    <rdfs:label xml:lang="es">Luis I de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="zh">路德维希一世 (黑森大公)</rdfs:label>
+    <rdfs:comment xml:lang="nl">Lodewijk X (Prenzlau, 14 juni 1753 - Darmstadt, 6 april 1830) was van 1790 tot 1806 landgraaf en daarna tot 1830 als Lodewijk I groothertog van Hessen-Darmstadt. Hij was de zoon van landgraaf Lodewijk IX en Henriëtte Caroline van Palts-Zweibrücken. Lodewijk huwde op 15 juli 1774 in Darmstadt met Louisa van Hessen-Darmstadt, uit dit huwelijk werden zes kinderen geboren:</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ludwig I. von Hessen-Darmstadt (* 14. Juni 1753 in Prenzlau; † 6. April 1830 in Darmstadt) war zunächst vom 6. April 1790 an als Ludwig X. regierender Landgraf von Hessen-Darmstadt, mit dem Beitritt seines Landes zum Rheinbund ab dem 14. August 1806 als Ludewig I. Großherzog von Hessen und seit 7. Juli 1816 Großherzog von Hessen und bei Rhein.</rdfs:comment>
+    <rdfs:comment xml:lang="fr"> Pour les articles homonymes, voir Louis Ier et Louis X (homonymie). Louis X de Hesse-Darmstadt ou Louis Ier de Hesse (en allemand Ludwig I. von Hessen-Darmstadt) est né le 14 juin 1753 à Prenzlau et est mort le 6 avril 1830 à Darmstadt. Il fut landgrave de Hesse-Darmstadt de 1790 à 1808, grand-duc de Hesse et sur le Rhin de 1806 à 1830.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Luis I, Gran Duque de Hesse (14 de junio de 1753, Prenzlau - 6 de abril de 1830, Darmstadt) fue primero, desde el 6 de abril de 1790 landgrave de Hesse-Darmstadt como Luis X; con la adhesión de su país a la Confederación del Rin, el 14 de agosto de 1806 fue nombrado Luis I, Gran Duque de Hesse, y desde el 7 de julio de 1816, como Gran Duque de Hesse y el Rin.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ルートヴィヒ1世（Ludwig I., 1753年6月14日 - 1830年4月6日）は、ヘッセン大公国の初代大公（在位：1806年 - 1830年）。初めはヘッセン＝ダルムシュタット方伯（ヘッセン＝ダルムシュタット方伯としてはルートヴィヒ10世、在位：1790年 - 1806年）。ヘッセン＝ダルムシュタット方伯ルートヴィヒ9世とその妃であったプファルツ＝ツヴァイブリュッケン公クリスティアン3世の公女ヘンリエッテ・カロリーネ（1721年 - 1774年）の長男。バイエルン王マクシミリアン1世は母方の従弟に当たる。 1753年6月14日、ルートヴィヒ9世の第3子としてプレンツラウ（ブランデンブルク州）で生まれる。 1776年にヴュルテンベルク公フリードリヒ2世オイゲンの長女ゾフィー・ドロテアと婚約する。しかし直後にルートヴィヒの妹でロシア皇太子パーヴェルの妃ナターリア・アレクセーエヴナ（ドイツ名ヴィルヘルミーネ）が亡くなり、後添いとしてゾフィー・ドロテアがパーヴェルと結婚することになったため、婚約は解消された。 1790年、ルートヴィヒ9世の死去によりヘッセン＝ダルムシュタット方伯ルートヴィヒ10世となる。 1830年4月6日、ダルムシュタットで死去。長男ルートヴィヒ2世が大公位を嗣いだ。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Louis I, Grand Duke of Hesse (14 June 1753 in Prenzlau – 6 April 1830 in Darmstadt) was Landgrave of Hesse-Darmstadt (as Louis X) and later the first Grand Duke of Hesse and by Rhine.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luís I de Hesse (14 de junho de 1753 - 6 de abril de 1830) foi conde de Hesse-Darmstadt (como Luís X) e depois o primeiro soberano do Grão-Ducado de Hesse, instituído por Napoleão Bonaparte.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Лю́двиг I, вели́кий ге́рцог Ге́ссенский (нем. Ludwig I. von Hessen-Darmstadt; 14 июня 1753, Пренцлау — 6 апреля 1830, Дармштадт) — ландграф Гессен-Дармштадтский (под именем Людвиг X), впоследствии первый великий герцог Гессенский.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ludwik I (ur. 14 czerwca 1753 w Prenzlau, zm. 6 kwietnia 1830 w Darmstadt) – landgraf Hesji-Darmstadt w latach 1790-1806 jako Ludwik X, a następnie wielki książę Hesji-Darmstadt.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luís_I,_Grão-Duque_de_Hesse" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_I_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q213527" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louis_Ier_de_Hesse" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_I._(Hessen-Darmstadt)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_I_d&#39;Assia" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/루트비히_1세_(헤센)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ルートヴィヒ1世_(ヘッセン大公)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.054j0l" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ludwik_I_(wielki_książę_Hesji)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118729446" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q213527" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_I_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Hesse" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1830-04-16</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1830-4-6</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Prenzlau" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Brandenburg" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1753-6-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1753-06-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landgraves_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Prenzlau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1753_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1830_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Dukes_of_Hesse" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1476089</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">721615025</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Louis I, Grand Duke of Hesse</foaf:name>
+    <foaf:name xml:lang="en">Louis I</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ludwik_I,_Wielki_Książę_Hesji-Darmstadt.JPG" />
+    <dct:description xml:lang="en">German Grand Duke</dct:description>
+    <foaf:givenName xml:lang="en">Louis</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louis_I,_Grand_Duke_of_Hesse" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ludwik_I,_Wielki_Książę_Hesji-Darmstadt.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louis_I,_Grand_Duke_of_Hesse?oldid=721615025" />
+    <dbo:abstract xml:lang="ja">ルートヴィヒ1世（Ludwig I., 1753年6月14日 - 1830年4月6日）は、ヘッセン大公国の初代大公（在位：1806年 - 1830年）。初めはヘッセン＝ダルムシュタット方伯（ヘッセン＝ダルムシュタット方伯としてはルートヴィヒ10世、在位：1790年 - 1806年）。ヘッセン＝ダルムシュタット方伯ルートヴィヒ9世とその妃であったプファルツ＝ツヴァイブリュッケン公クリスティアン3世の公女ヘンリエッテ・カロリーネ（1721年 - 1774年）の長男。バイエルン王マクシミリアン1世は母方の従弟に当たる。 1753年6月14日、ルートヴィヒ9世の第3子としてプレンツラウ（ブランデンブルク州）で生まれる。 1776年にヴュルテンベルク公フリードリヒ2世オイゲンの長女ゾフィー・ドロテアと婚約する。しかし直後にルートヴィヒの妹でロシア皇太子パーヴェルの妃ナターリア・アレクセーエヴナ（ドイツ名ヴィルヘルミーネ）が亡くなり、後添いとしてゾフィー・ドロテアがパーヴェルと結婚することになったため、婚約は解消された。 1790年、ルートヴィヒ9世の死去によりヘッセン＝ダルムシュタット方伯ルートヴィヒ10世となる。 ルートヴィヒ10世は1803年にケルン大司教領であったヴェストファーレンを併合し、1806年にはライン同盟に参加してヘッセン大公ルートヴィヒ1世となった。1815年のウィーン会議ではヴェストファーレンをプロイセン王国に割譲したが、引き換えにマインツを含むライン川左岸の地域を獲得し、さらに同年成立したドイツ連邦に参加した。 1830年4月6日、ダルムシュタットで死去。長男ルートヴィヒ2世が大公位を嗣いだ。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ludwik I (ur. 14 czerwca 1753 w Prenzlau, zm. 6 kwietnia 1830 w Darmstadt) – landgraf Hesji-Darmstadt w latach 1790-1806 jako Ludwik X, a następnie wielki książę Hesji-Darmstadt.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Лю́двиг I, вели́кий ге́рцог Ге́ссенский (нем. Ludwig I. von Hessen-Darmstadt; 14 июня 1753, Пренцлау — 6 апреля 1830, Дармштадт) — ландграф Гессен-Дармштадтский (под именем Людвиг X), впоследствии первый великий герцог Гессенский.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Luis I, Gran Duque de Hesse (14 de junio de 1753, Prenzlau - 6 de abril de 1830, Darmstadt) fue primero, desde el 6 de abril de 1790 landgrave de Hesse-Darmstadt como Luis X; con la adhesión de su país a la Confederación del Rin, el 14 de agosto de 1806 fue nombrado Luis I, Gran Duque de Hesse, y desde el 7 de julio de 1816, como Gran Duque de Hesse y el Rin.</dbo:abstract>
+    <dbo:abstract xml:lang="fr"> Pour les articles homonymes, voir Louis Ier et Louis X (homonymie). Louis X de Hesse-Darmstadt ou Louis Ier de Hesse (en allemand Ludwig I. von Hessen-Darmstadt) est né le 14 juin 1753 à Prenzlau et est mort le 6 avril 1830 à Darmstadt. Il fut landgrave de Hesse-Darmstadt de 1790 à 1808, grand-duc de Hesse et sur le Rhin de 1806 à 1830.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Louis I, Grand Duke of Hesse (14 June 1753 in Prenzlau – 6 April 1830 in Darmstadt) was Landgrave of Hesse-Darmstadt (as Louis X) and later the first Grand Duke of Hesse and by Rhine.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Lodewijk X (Prenzlau, 14 juni 1753 - Darmstadt, 6 april 1830) was van 1790 tot 1806 landgraaf en daarna tot 1830 als Lodewijk I groothertog van Hessen-Darmstadt. Hij was de zoon van landgraaf Lodewijk IX en Henriëtte Caroline van Palts-Zweibrücken. Lodewijk huwde op 15 juli 1774 in Darmstadt met Louisa van Hessen-Darmstadt, uit dit huwelijk werden zes kinderen geboren: 
+*  Lodewijk (26 december 1777 - 16 juni 1848), werd later groothertog Lodewijk II. Hij huwde Wilhelmina van Baden. 
+*  Louise (16 januari 1779 - 18 april 1811), trad in het huwelijk met Lodewijk van van Anhalt-Köthen. 
+*  George (31 augustus 1780 - 17 april 1856), huwde Caroline Török de Szendrö. 
+*  Frederik (14 mei 1788 - 16 maart 1867). 
+*  Emiel (3 september 1790 - 30 april 1856). 
+*  Gustaaf (18 december 1791 - 30 januari 1806). Hij kwam bij de dood van zijn vader op 6 april 1790 aan de macht. In 1792 nam hij deel aan de oorlog tegen Frankrijk maar werd in 1799 gedwongen een neutraliteitsverdrag te tekenen. Hij stond de Hessische gebieden aan de linker Rijnoever - die al vroeg in de Franse Revolutie waren geannexeerd - bij de Reichsdeputationshauptschluss van 1803 formeel af en ontving in ruil hiervoor een veel groter gebied dat oorspronkelijk tot het hertogdom Westfalen, Keur-Mainz en het Prinsbisdom Worms behoorde. Hij trad in 1806 toe tot de Rijnbond en werd, als Lodewijk I verheven tot groothertog. Tot 1813 steunde hij Napoleon in diens oorlogen (waarbij duizenden Hessische soldaten omkwamen), maar na de Slag bij Leipzig voegde hij zich bij de geallieerden. Het Congres van Wenen breidde Hessen-Darmstadt in 1815 uit met Worms, Alzey, Bingen en Mainz (samen Rijn-Hessen genoemd), maar dwong het enige gebieden aan Pruisen en Beieren af te staan en het kort tevoren verkregen Hessen-Homburg zelfstandigheid te verlenen. In datzelfde jaar trad Hessen toe tot de Duitse Bond. Lodewijk schonk zijn land in 1820 een constitutie om tegemoet te komen aan de roep om meer vrijheden. Hij reorganiseerde de regering en trad in 1828 toe tot de Pruisische Zollverein. Hij stierf op 5 april 1830 en werd opgevolgd door zijn zoon Lodewijk II.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luís I de Hesse (14 de junho de 1753 - 6 de abril de 1830) foi conde de Hesse-Darmstadt (como Luís X) e depois o primeiro soberano do Grão-Ducado de Hesse, instituído por Napoleão Bonaparte.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ludwig I. von Hessen-Darmstadt (* 14. Juni 1753 in Prenzlau; † 6. April 1830 in Darmstadt) war zunächst vom 6. April 1790 an als Ludwig X. regierender Landgraf von Hessen-Darmstadt, mit dem Beitritt seines Landes zum Rheinbund ab dem 14. August 1806 als Ludewig I. Großherzog von Hessen und seit 7. Juli 1816 Großherzog von Hessen und bei Rhein.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1830</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Zweibrücken" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louis_IX,_Landgrave_of_Hesse-Darmstadt" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Landgravine_Louise_of_Hesse-Darmstadt_(1761–1829)" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Louis_II,_Grand_Duke_of_Hesse" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rulers_of_Hesse" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1806</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1790</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Landgrave" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_of_Hesse-Darmstadt_(1761–1829)">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Palatine_Caroline_of_Zweibrücken">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_X,_Landgrave_of_Hesse-Darmstadt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louis_I,_Grand_Duke_of_Hesse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louis_I,_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+</rdf:RDF>

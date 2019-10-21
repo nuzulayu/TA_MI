@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serena_Armstrong-Jones,_Viscountess_Linley">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armstrong-Jones">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Armstrong">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Armstrong-Jones">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtEtonCollege" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdfs:label xml:lang="it">Charles Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="nl">Charles Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="pt">Charles Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="en">Charles Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="ja">チャールズ・アームストロング＝ジョーンズ</rdfs:label>
+    <rdfs:label xml:lang="pl">Charles Armstrong-Jones</rdfs:label>
+    <rdfs:comment xml:lang="ja">チャールズ・アームストロング＝ジョーンズ（英語: Charles Armstrong-Jones、1999年7月1日 - ）は、イギリス国王ジョージ6世の曾孫。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Charles Patrick Inigo Armstrong-Jones (ur. 1 lipca 1999 r. w Londynie) - jedyny syn Davida Armstrong-Jonesa, wicehrabiego Linley (wnuka króla Jerzego VI) i Sereny Armstrong-Jones, z domu Stanhope, córki wicehrabiego Petersham. Obecnie jest 19. w linii sukcesji do brytyjskiego tronu. Został ochrzczony 2 grudnia 1999 r. Jego rodzicami chrzestnymi byli: Nigel Harvey, Nick Powell, Orlando Rock, lady Ruth Dundas, Lucinda Cecil i Rita Konig (córka Niny Campbell, dekoratorki wnętrz pracującej dla brytyjskiej rodziny królewskiej).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Charles Patrick Inigo Armstrong-Jones (born 1 July 1999) is the only son of Viscount and Viscountess Linley. He is a great-grandson of King George VI. He is second-in-line to the Earldom of Snowdon and 19th in line to succeed Queen Elizabeth II after his father.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Charles possui uma irmã mais nova: Margarita, nascida em 2002.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Charles Patrick Inigo Armstrong-Jones (Londen, 1 juli 1999) is de zoon van David Armstrong-Jones en Serena Armstrong-Jones en een achterkleinzoon van Koning George VI. Charles werd geboren in Londen en is op dit moment de 19e in de Lijn van de Britse Troonopvolging. Hij heeft een jongere zus, Margarita.Zijn peetouders zijn: Lady Ruth Kennedy, Nigel Harvey, Nick Powell, Orlando Rock, Lucinda Cecil en Rita Konig. Hij is vernoemd naar Prins Charles, Saint Patrick, een beeld in de geboorteplaats van zijn moeder in Ierland, en als laatste naar de Engelse architect en ontwerper Inigo Jones.</rdfs:comment>
+    <rdfs:comment xml:lang="it">È un membro minore della famiglia reale inglese in quanto nipote della principessa Margaret, sorella della regina Elisabetta II. È 19º nella linea di successione al trono britannico ed è secondo in linea al titolo di conte di Snowdon dopo suo padre.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3312300" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027qp0" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3312300" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rlHp9HlgFTP6DTBSQrrESZg" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/チャールズ・アームストロング＝ジョーンズ" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Charles_Armstrong-Jones" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbp:birthPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">London, England</dbp:birthPlace>
+    <dbp:birthPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-07-01</dbp:birthPlace>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-7-1</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1999_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Armstrong-Jones_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Eton_College" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431391</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">720549820</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Charles Armstrong-Jones</foaf:name>
+    <dct:description xml:lang="en">Only son of Viscount/Viscountess Linley/great-grandson of King George VI</dct:description>
+    <foaf:givenName xml:lang="en">Charles</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles_Armstrong-Jones" />
+    <foaf:surname xml:lang="en">Armstrong-Jones</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles_Armstrong-Jones?oldid=720549820" />
+    <dbo:abstract xml:lang="en">Charles Patrick Inigo Armstrong-Jones (born 1 July 1999) is the only son of Viscount and Viscountess Linley. He is a great-grandson of King George VI. He is second-in-line to the Earldom of Snowdon and 19th in line to succeed Queen Elizabeth II after his father.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Charles possui uma irmã mais nova: Margarita, nascida em 2002.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Charles Patrick Inigo Armstrong-Jones (ur. 1 lipca 1999 r. w Londynie) - jedyny syn Davida Armstrong-Jonesa, wicehrabiego Linley (wnuka króla Jerzego VI) i Sereny Armstrong-Jones, z domu Stanhope, córki wicehrabiego Petersham. Obecnie jest 19. w linii sukcesji do brytyjskiego tronu. Został ochrzczony 2 grudnia 1999 r. Jego rodzicami chrzestnymi byli: Nigel Harvey, Nick Powell, Orlando Rock, lady Ruth Dundas, Lucinda Cecil i Rita Konig (córka Niny Campbell, dekoratorki wnętrz pracującej dla brytyjskiej rodziny królewskiej). Pierwsze imię, Charles, nosi na pamiątkę księcia Walii, swojego wujka, drugie, Patrick, nosi na cześć św. Patryka, patrona Irlandii, gdzie urodziła się jego matka, trzecie zaś, Inigo, nosi na pamiątkę XVII-wiecznego architekta Inigo Jonesa.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Charles Patrick Inigo Armstrong-Jones (Londen, 1 juli 1999) is de zoon van David Armstrong-Jones en Serena Armstrong-Jones en een achterkleinzoon van Koning George VI. Charles werd geboren in Londen en is op dit moment de 19e in de Lijn van de Britse Troonopvolging. Hij heeft een jongere zus, Margarita.Zijn peetouders zijn: Lady Ruth Kennedy, Nigel Harvey, Nick Powell, Orlando Rock, Lucinda Cecil en Rita Konig. Charles is, na zijn vader, de erfgenaam van Earldom of Snowdon. Hij heeft momenteel de titel The Honourable Charles Armstrong-Jones, maar als zijn vader de titel Earl of Snowdon erft van Charles&#39; opa, Antony Armstrong-Jones, krijgt Charles Viscount Linley als titel, die zijn vader nu heeft. Hij is vernoemd naar Prins Charles, Saint Patrick, een beeld in de geboorteplaats van zijn moeder in Ierland, en als laatste naar de Engelse architect en ontwerper Inigo Jones.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">チャールズ・アームストロング＝ジョーンズ（英語: Charles Armstrong-Jones、1999年7月1日 - ）は、イギリス国王ジョージ6世の曾孫。</dbo:abstract>
+    <dbo:abstract xml:lang="it">È un membro minore della famiglia reale inglese in quanto nipote della principessa Margaret, sorella della regina Elisabetta II. È 19º nella linea di successione al trono britannico ed è secondo in linea al titolo di conte di Snowdon dopo suo padre.</dbo:abstract>
+    <dbo:birthName xml:lang="en">Charles Patrick Inigo Armstrong-Jones</dbo:birthName>
+    <dbo:education rdf:resource="http://dbpedia.org/resource/Eton_College" />
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon" />
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Serena_Armstrong-Jones,_Viscountess_Linley" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Lachlan_Legge-Bourke" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Jack_Soames" />
+    <dbp:honorificPrefix rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(The Honourable)</dbp:honorificPrefix>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Page_of_Honour" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_throne" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dbp:years>
+    <dbp:christeningPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-12-02</dbp:christeningPlace>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Son" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Armstrong-Jones,_Viscount_Linley">
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles_Armstrong-Jones">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles_Armstrong-Jones" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Louis,_Count_of_Nassau-Ottweiler">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdfs:label xml:lang="fr">Charles de Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="es">Carlos de Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="en">Charles, Prince of Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="de">Karl (Nassau-Usingen)</rdfs:label>
+    <rdfs:label xml:lang="it">Carlo di Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="nl">Karel van Nassau-Usingen</rdfs:label>
+    <rdfs:comment xml:lang="en">Charles, Prince of Nassau-Usingen (born 31 December 1712 in Usingen; died: 21 June 1775 in Biebrich), was from 1718 to 1775 Prince of Nassau-Usingen.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Charles de Nassau-Usingen (en allemand : Karl von Nassau-Usingen), né à Usingen le 31 décembre 1712, mort à Biebrich le 21 juin 1775. Il fut prince de Nassau-Usingen de 1718 à 1775, prince de Nassau-Idstein de 1735 à 1775.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Karl von Nassau-Usingen (31. Dezember 1712 in Usingen; † 21. Juni 1775 in Wiesbaden-Biebrich) war von 1718 bis 1775 Fürst von Nassau-Usingen.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Príncipe Carlos de Nassau-Usingen (31 de diciembre de 1712, Usingen - 21 de junio de 1775, Biebrich) fue desde 1718 hasta 1775 Príncipe de Nassau-Usingen.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Karel (Usingen, 31 december 1712 - Biebrich, 21 juni 1775) was van 1718 tot 1775 vorst van Nassau-Usingen. Karel was de oudste (overlevende) zoon van Willem Hendrik I en Charlotte Amalia, dochter van Hendrik van Nassau-Dillenburg. Karel verdeelde zijn land in 1735 met zijn broer. Hijzelf ontving als vorst van Nassau-Usingen Usingen, Idstein, Wiesbaden en Lahr, Willem Hendrik II als vorst van Nassau-Saarbrücken de rest. Hij verplaatste hierop zijn residentie van Usingen in de Taunus naar Biebrich (tegenwoordig een voorstad van Wiesbaden) en zette het progressieve beleid van zijn moeder voort.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_de_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Karl_(Nassau-Usingen)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carlo_di_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0hhpzmh" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/102182213" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q475936" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Karel_van_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charles_de_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q475936" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/2853099" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Biebrich_(Wiesbaden)" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-6-21</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-06-21</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Usingen" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1712-12-31</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1775_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Counts_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1712_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33745932</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">720827348</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Charles, Prince of Nassau-Usingen</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/KarelNU.gif" />
+    <dct:description xml:lang="en">Prince of Nassau-Usingen and Nassau-Saarbrücken</dct:description>
+    <foaf:givenName xml:lang="en">Carlo</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles,_Prince_of_Nassau-Usingen" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/KarelNU.gif?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles,_Prince_of_Nassau-Usingen?oldid=720827348" />
+    <dbo:abstract xml:lang="nl">Karel (Usingen, 31 december 1712 - Biebrich, 21 juni 1775) was van 1718 tot 1775 vorst van Nassau-Usingen. Karel was de oudste (overlevende) zoon van Willem Hendrik I en Charlotte Amalia, dochter van Hendrik van Nassau-Dillenburg. Zijn vader stierf reeds in 1718 zodat zijn moeder aanvankelijk namens Karel en zijn jongere broer Willem Hendrik II als regentes optrad. Hij erfde in 1728 van zijn achterneef Frederik Lodewijk van Nassau-Ottweiler de graafschappen Nassau-Ottweiler, Nassau-Idstein, en Nassau-Saarbrücken die toegevoegd werden aan het vorstendom Nassau-Usingen. Hij werd in 1734 door keizer Karel VI meerderjarig verklaard. Karel verdeelde zijn land in 1735 met zijn broer. Hijzelf ontving als vorst van Nassau-Usingen Usingen, Idstein, Wiesbaden en Lahr, Willem Hendrik II als vorst van Nassau-Saarbrücken de rest. Hij verplaatste hierop zijn residentie van Usingen in de Taunus naar Biebrich (tegenwoordig een voorstad van Wiesbaden) en zette het progressieve beleid van zijn moeder voort. Na zijn dood in 1775 werd hij opgevolgd door zijn oudste zoon Karel Willem.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Charles, Prince of Nassau-Usingen (born 31 December 1712 in Usingen; died: 21 June 1775 in Biebrich), was from 1718 to 1775 Prince of Nassau-Usingen.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Príncipe Carlos de Nassau-Usingen (31 de diciembre de 1712, Usingen - 21 de junio de 1775, Biebrich) fue desde 1718 hasta 1775 Príncipe de Nassau-Usingen.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Charles de Nassau-Usingen (en allemand : Karl von Nassau-Usingen), né à Usingen le 31 décembre 1712, mort à Biebrich le 21 juin 1775. Il fut prince de Nassau-Usingen de 1718 à 1775, prince de Nassau-Idstein de 1735 à 1775.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Karl von Nassau-Usingen (31. Dezember 1712 in Usingen; † 21. Juni 1775 in Wiesbaden-Biebrich) war von 1718 bis 1775 Fürst von Nassau-Usingen.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_Amalia_of_Nassau-Dillenburg" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/William_Henry,_Prince_of_Nassau-Usingen" />
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Count of Nassau-Saarbrücken</dbp:as>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Frederick_Louis,_Count_of_Nassau-Ottweiler" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Charles, Prince of Nassau-Usingen</dbp:caption>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duchess Christine Wilhelmine of Saxe-Eisenach</dbp:spouse>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1718</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1728</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry,_Prince_of_Nassau-Saarbrücken">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Philipp_of_Nassau-Usingen">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Adolph_of_Nassau-Usingen">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Augustus,_Duke_of_Nassau">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_of_Nassau-Usingen">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles,_Prince_of_Nassau-Usingen">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+</rdf:RDF>

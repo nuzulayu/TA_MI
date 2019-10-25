@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Canada">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_of_Wales">
+    <dbp:incumbent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_of_Wales_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Combat_Stress_(charitable_organisation)">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_V_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Philip_Arthur_George">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/His_Highness_Prince_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Watch">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbp:colonelInChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Welsh_College_of_Music_&amp;_Drama">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_New_Zealand">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Belize">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Mountbatten-Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_of_Wales_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Tuvalu">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Prince_of_Wales_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Royal_Canadian_Dragoons">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Black_Watch_(Royal_Highland_Regiment)_of_Canada">
+    <dbo:thirdCommander rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2003_Island_Games">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_of_the_Waleses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana,_Princess_of_Wales">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Harry">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Dragoon_Guards">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trinity_University_College">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2nd_Cavalry_Regiment_(Australia)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeremy_Lascelles">
+    <dbp:relatives rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajputana_Rifles">
+    <dbp:colonelInChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Pacific_Islands_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Regiment_of_Wales">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Philip_Arthur_George_Mountbatten-Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Philip_Arthur_George_Windsor-Mountbatten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_College_of_Music">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earl_of_Carrick">
+    <dbp:presentHolder rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Australian_Armoured_Corps">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Barbados">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince&#39;s_Charities">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Prince_Charles,_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles,_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princes_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince_Charles,_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_the_Solomon_Islands">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Vision_of_Britain:_A_Personal_View_of_Architecture">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harmony:_A_New_Way_of_Looking_at_Our_World">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Canadian_Mounted_Police">
+    <dbp:chief2name rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbp:colonelOfTheRegiment rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Army_Air_Corps_(United_Kingdom)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Edinburgh">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty">
+    <dbp:leaderName rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiggy_Legge-Bourke">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Cross_Heroes">
+    <dbo:presenter rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Television_Society__1">
+    <dbo:person rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Royal_Conservatory_of_Music__5">
+    <dbo:person rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince_Of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Papua_New_Guinea">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flyfishers&#39;_Club__1">
+    <dbo:person rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HM_The_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Prince_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camilla,_Duchess_of_Cornwall">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Prince_of_Wales">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ru">Чарльз, принц Уэльский</rdfs:label>
+    <rdfs:label xml:lang="ja">チャールズ (プリンス・オブ・ウェールズ)</rdfs:label>
+    <rdfs:label xml:lang="pl">Karol (książę Walii)</rdfs:label>
+    <rdfs:label xml:lang="nl">Charles, prins van Wales</rdfs:label>
+    <rdfs:label xml:lang="es">Carlos de Gales</rdfs:label>
+    <rdfs:label xml:lang="pt">Carlos, Príncipe de Gales</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles de Galles</rdfs:label>
+    <rdfs:label xml:lang="de">Charles, Prince of Wales</rdfs:label>
+    <rdfs:label xml:lang="zh">威爾斯親王查爾斯</rdfs:label>
+    <rdfs:label xml:lang="it">Carlo, principe di Galles</rdfs:label>
+    <rdfs:label xml:lang="en">Charles, Prince of Wales</rdfs:label>
+    <rdfs:label xml:lang="ar">تشارلز (أمير ويلز)</rdfs:label>
+    <rdfs:comment xml:lang="de">HRH Charles Philip Arthur George, Prince of Wales (Fürst von Wales) und Duke of Cornwall (Herzog von Cornwall), meist kurz Prince (im deutschsprachigen Raum Prinz) Charles genannt (* 14. November 1948 im Buckingham Palace, London), ist der Thronfolger des Vereinigten Königreiches. Er ist der älteste Sohn von Königin Elisabeth II. und Prinz Philip. Charles gehört mütterlicherseits dem Haus Windsor an und väterlicherseits dem Haus Schleswig-Holstein-Sonderburg-Glücksburg, einer Nebenlinie des Hauses Oldenburg.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carlos, príncipe de Gales (Charles Philip Arthur George Windsor) (Londres, 14 de noviembre de 1948) es el hijo mayor de la reina Isabel II del Reino Unido y su esposo el príncipe Felipe, duque de Edimburgo; como heredero al trono del Reino Unido así como de los reinos de la Mancomunidad, recibe el título oficial de duque de Cornualles y, desde 1958, príncipe de Gales, además de los títulos históricos de duque de Rothesay (título oficial en Escocia), conde de Carrick, barón de Renfrew y señor de las Islas (asociados al ducado de Rothesay), y conde de Chester.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Karol, książę Walii, właśc., ang.: Charles, Prince of Wales, Charles Philip Arthur George, (ur. 14 listopada 1948 w Londynie) – książę Zjednoczonego Królestwa, syn Elżbiety II i księcia Filipa.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ウェールズ公チャールズ（Prince Charles, The Prince of Wales 、洗礼名: チャールズ・フィリップ・アーサー・ジョージ（Charles Philip Arthur George ）、1948年11月14日 - ）は、イギリス王位の法定推定相続人で、第21代ウェールズ公（プリンス・オブ・ウェールズ）。イギリス陸海空軍元帥。公邸はクラレンス・ハウス宮殿。</rdfs:comment>
+    <rdfs:comment xml:lang="it">È erede al trono britannico dal 6 febbraio 1952 e questo fa di lui il più duraturo e il più longevo erede al trono della storia delle isole britanniche. Infatti, per la durata ha superato re Edoardo VII che fu erede al trono della regina Vittoria dal 1841 al 1901; mentre per longevità, il 20 settembre 2013, ha superato re Guglielmo IV, salito al trono all&#39;età di 64 anni, 10 mesi e 5 giorni.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le prince Charles, prince de Galles (Charles Philip Arthur George), né le 14 novembre 1948 à Londres est un membre de la famille royale britannique, fils aîné de la reine Élisabeth II et du prince Philip, duc d&#39;Édimbourg.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Чарльз, принц Уэльский (англ. Charles, Prince of Wales), или просто принц Чарльз (англ. Prince Charles; полное имя Чарльз (Карл) Филипп Артур Джордж (Георг) Виндзор, англ. Charles Philip Arthur George Windsor; род. 14 ноября 1948, Букингемский дворец, Лондон) — старший сын королевы Великобритании Елизаветы II и её мужа принца Филиппа, герцога Эдинбургского, наследник британского престола, фельдмаршал, адмирал флота и маршал Королевских ВВС Великобритании.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Carlos ou Charles (Londres, 14 de novembro de 1948) é o filho mais velho e herdeiro aparente da rainha Isabel II do Reino Unido e seu marido o príncipe Filipe, Duque de Edimburgo. Como o primeiro na linha de sucessão ele detém os títulos de Príncipe de Gales na Inglaterra, Duque de Rothesay na Escócia e Duque da Cornualha no sudoeste inglês, além de outros títulos subsidiários. Carlos é o herdeiro aparente que há mais tempo ocupa esta posição na história britânica e a segunda pessoa mais velha a ser primeiro na linha de sucessão, depois apenas de Sofia de Hanôver.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Charles Philip Arthur George, Prins van Wales (Buckingham Palace, Londen, 14 november 1948) is de oudste zoon van koningin Elizabeth II en daarmee de eerste in lijn voor de Britse troonopvolging. Zijn officiële titel is ZKH de Prins van Wales, of in Schotland ZKH de Prins Charles, Hertog van Rothesay.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Charles, Prince of Wales (Charles Philip Arthur George; born 14 November 1948), is the eldest child and heir apparent of Queen Elizabeth II. Known alternatively in South West England as Duke of Cornwall and in Scotland as Duke of Rothesay, he is the longest-serving heir apparent in British history, having held the position since 1952. He is also the oldest person to be next in line to the throne since Sophia of Hanover (the heir presumptive to Queen Anne), who died in 1714 at the age of 83.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">威爾斯親王查爾斯王子（英语：HRH Prince Charles, The Prince of Wales，1948年11月14日－），全名為查爾斯·菲利浦·亞瑟·喬治（Charles Philip Arthur George），現任英國王儲。他是現任英國女王伊麗莎白二世和王夫愛丁堡公爵菲利普親王的長子，因此他排在英国王位继承序列的首位。 他是英國歷史上最長時間的王儲，自1952年起至今。若其将来成为君主，那么在欧洲君主中，他等待继承王位的时间可能仅次于列支敦士登大公弗朗茨一世（69年）。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الأمير تشارلز فيليب آرثر جورج (14 نوفمبر 1948 -)، أمير ويلز وولي عهد المملكة المتحدة. هو ابن الملكة إليزابيث الثانية ملكة المملكة المتحدة وزوجها دوق إدنبرة الأمير فيليب. وهو أب للأميرين ويليام وهنري (المعروف باسم هاري) من زوجته الأولى ديانا أميرة ويلز. وهو حاليًا متزوج من كاميلا دوقة كورنوال.وهو المؤسس لمؤسستي The Prince&#39;s Trust و Prince&#39;s Foundation for the Built Environment الخيرية.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_awards_received_by_Charles" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κάρολος,_Πρίγκιπας_της_Ουαλίας" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Charles_dari_Wales" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carlo,_principe_di_Galles" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwQKsVpwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charles_de_Galles" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carlos,_Príncipe_de_Gales" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Charles,_prins_van_Wales" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q43274" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_de_Gales" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Charles,_princ_z_Walesu" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/웨일스_공_찰스" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Karlos_Galeskoa" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/63887887979781761663" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karol_(książę_Walii)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0xnc3" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/チャールズ_(プリンス・オブ・ウェールズ)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q43274" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/84034215" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/904cca12-aa7c-48f9-aaeb-6fe1e59d661a#id" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118520180" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Buckingham_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1948-11-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Environmental_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Architecture_critics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nautilus_Book_Award_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_in_the_Peerage_of_Scotland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_watercolourists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_horticulturists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Charles,_Prince_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountbatten-Windsor_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_painters" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_humanitarians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1948_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Navy_admirals_of_the_fleet" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Gordonstoun" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_environmentalists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marshals_of_the_Royal_Air_Force" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Cheam_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victoria_Medal_of_Honour_(Horticulture)_recipients" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sustainability_advocates" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cornwall" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Vincent_Scully_Prize_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Driehaus_Architecture_Prize_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_polo_players" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Welsh-speaking_royals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heirs_to_the_British_throne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_Royal_Agricultural_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_feudal_barons" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Swansea_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cambridge_Trusts_Scholars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_garden_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Great_Masters_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Hill_House_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_philanthropists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_businesspeople" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_Royal_National_College_for_the_Blind" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_High_Commissioner_to_the_General_Assembly_of_the_Church_of_Scotland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Helicopter_pilots" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Queen&#39;s_Privy_Council_for_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Aberystwyth_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Graduates_of_the_Royal_Air_Force_College_Cranwell" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_children&#39;s_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_University_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Geelong_Grammar_School" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125248</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743610380</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.princeofwales.gov.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.royal.uk/the-prince-of-wales" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.princes-trust.org.uk/" />
+    <foaf:name xml:lang="en">Charles Philip Arthur George</foaf:name>
+    <foaf:name xml:lang="en">Charles, Prince of Wales</foaf:name>
+    <foaf:name xml:lang="en">Prince Charles</foaf:name>
+    <foaf:homepage rdf:resource="http://www.princeofwales.gov.uk/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Charles,_Prince_of_Wales_at_COP21.jpg" />
+    <dct:description xml:lang="en">son of Queen Elizabeth II of the United Kingdom</dct:description>
+    <foaf:givenName xml:lang="en">Charles</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles,_Prince_of_Wales" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Charles,_Prince_of_Wales_at_COP21.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles,_Prince_of_Wales?oldid=743610380" />
+    <dbo:abstract xml:lang="en">Charles, Prince of Wales (Charles Philip Arthur George; born 14 November 1948), is the eldest child and heir apparent of Queen Elizabeth II. Known alternatively in South West England as Duke of Cornwall and in Scotland as Duke of Rothesay, he is the longest-serving heir apparent in British history, having held the position since 1952. He is also the oldest person to be next in line to the throne since Sophia of Hanover (the heir presumptive to Queen Anne), who died in 1714 at the age of 83. Charles was born at Buckingham Palace as the first grandchild of King George VI and Queen Elizabeth. He was educated at Cheam and Gordonstoun Schools, which his father, Prince Philip, Duke of Edinburgh, had attended as a child, as well as the Timbertop campus of Geelong Grammar School in Victoria, Australia. After earning a bachelor of arts degree from Trinity College, Cambridge, Charles served in the Royal Navy from 1971 to 1976. In 1981, he married Lady Diana Spencer and they had two sons: Prince William (born 1982) later to become Duke of Cambridge, and Prince Harry (born 1984). In 1996, the couple divorced, following well-publicised extramarital affairs. Diana died in a car crash in Paris the following year. In 2005, Charles married Camilla Parker Bowles. Charles&#39;s interests encompass a range of humanitarian and social issues: he founded The Prince&#39;s Trust in 1976, sponsors The Prince&#39;s Charities, and is patron of numerous other charitable and arts organisations. Charles has long championed organic farming for which he established the Duchy Home Farm, run by the Duchy of Cornwall, which produces ingredients for the Duchy Originals brand which he founded in 1990. Charles has sought to raise world awareness of the dangers facing the natural environment, such as climate change. As an environmentalist, he has received numerous awards and recognition from environmental groups around the world. His support for alternative medicine, including homeopathy, has been criticised by some in the medical community. He has been outspoken on the role of architecture in society and the conservation of historic buildings. Subsequently, Charles created Poundbury, an experimental new town based on his theories, in Dorset in 1993. He has authored a number of books, including A Vision of Britain: A Personal View of Architecture in 1989 and the children&#39;s book The Old Man of Lochnagar in 1980.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Charles Philip Arthur George, Prins van Wales (Buckingham Palace, Londen, 14 november 1948) is de oudste zoon van koningin Elizabeth II en daarmee de eerste in lijn voor de Britse troonopvolging. Zijn officiële titel is ZKH de Prins van Wales, of in Schotland ZKH de Prins Charles, Hertog van Rothesay. Mocht hij zijn moeder opvolgen dan zou hij constitutioneel koning worden van het Verenigd Koninkrijk, Canada, Australië, Nieuw-Zeeland, Jamaica, Barbados, de Bahama&#39;s, Grenada, Papoea-Nieuw-Guinea, de Salomonseilanden, Tuvalu, Saint Lucia, Saint Vincent en de Grenadines, Antigua en Barbuda, Belize en Saint Kitts en Nevis. Hij zal echter niet noodzakelijk de titel Hoofd van het Gemenebest erven.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">威爾斯親王查爾斯王子（英语：HRH Prince Charles, The Prince of Wales，1948年11月14日－），全名為查爾斯·菲利浦·亞瑟·喬治（Charles Philip Arthur George），現任英國王儲。他是現任英國女王伊麗莎白二世和王夫愛丁堡公爵菲利普親王的長子，因此他排在英国王位继承序列的首位。 他是英國歷史上最長時間的王儲，自1952年起至今。若其将来成为君主，那么在欧洲君主中，他等待继承王位的时间可能仅次于列支敦士登大公弗朗茨一世（69年）。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Carlos ou Charles (Londres, 14 de novembro de 1948) é o filho mais velho e herdeiro aparente da rainha Isabel II do Reino Unido e seu marido o príncipe Filipe, Duque de Edimburgo. Como o primeiro na linha de sucessão ele detém os títulos de Príncipe de Gales na Inglaterra, Duque de Rothesay na Escócia e Duque da Cornualha no sudoeste inglês, além de outros títulos subsidiários. Carlos é o herdeiro aparente que há mais tempo ocupa esta posição na história britânica e a segunda pessoa mais velha a ser primeiro na linha de sucessão, depois apenas de Sofia de Hanôver. Carlos nasceu no Palácio de Buckingham como o primeiro neto do rei Jorge VI e da rainha Isabel. Ele estudou nas escolas de Cheam e Gordonstoun, onde seu pai também havia estudado, além da Geelong Grammar School na Austrália. Carlos conseguiu um bacharelado em artes na Trinity College da Universidade de Cambridge e serviu na Marinha Real Britânica entre 1971 e 1976. Ele se casou em 1981 com Diana Spencer, com quem teve dois filhos: Guilherme em 1982 e Henrique em 1984. O casal se divorciou em 1996 após vários escândalos de casos extraconjugais. Carlos se casou novamente em 2005 com Camila Shand. Carlos tem grande interesse em várias causas humanitárias e sociais: ele fundador e patrono de diversas organizações de caridade e de artes. O príncipe há muito defende a agricultura orgânica, estabelecendo uma fazenda no Ducado da Cornualha que produz e vende desde 1990 ingredientes orgânicos para todo o Reino Unido. Carlos procura aumentar a consciência mundial sobre os perigos contra o meio ambiente, como por exemplo mudanças no clima. Por seu trabalho como ambientalista, ele já recebeu vários prêmios e honrarias de organizações e grupos ambientais ao redor do mundo. O príncipe também tem interesse em arquitetura e conservação de edifícios históricos, tendo inclusive já escrito alguns livros sobre o assunto.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Чарльз, принц Уэльский (англ. Charles, Prince of Wales), или просто принц Чарльз (англ. Prince Charles; полное имя Чарльз (Карл) Филипп Артур Джордж (Георг) Виндзор, англ. Charles Philip Arthur George Windsor; род. 14 ноября 1948, Букингемский дворец, Лондон) — старший сын королевы Великобритании Елизаветы II и её мужа принца Филиппа, герцога Эдинбургского, наследник британского престола, фельдмаршал, адмирал флота и маршал Королевских ВВС Великобритании.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الأمير تشارلز فيليب آرثر جورج (14 نوفمبر 1948 -)، أمير ويلز وولي عهد المملكة المتحدة. هو ابن الملكة إليزابيث الثانية ملكة المملكة المتحدة وزوجها دوق إدنبرة الأمير فيليب. وهو أب للأميرين ويليام وهنري (المعروف باسم هاري) من زوجته الأولى ديانا أميرة ويلز. وهو حاليًا متزوج من كاميلا دوقة كورنوال.وهو المؤسس لمؤسستي The Prince&#39;s Trust و Prince&#39;s Foundation for the Built Environment الخيرية.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Karol, książę Walii, właśc., ang.: Charles, Prince of Wales, Charles Philip Arthur George, (ur. 14 listopada 1948 w Londynie) – książę Zjednoczonego Królestwa, syn Elżbiety II i księcia Filipa.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ウェールズ公チャールズ（Prince Charles, The Prince of Wales 、洗礼名: チャールズ・フィリップ・アーサー・ジョージ（Charles Philip Arthur George ）、1948年11月14日 - ）は、イギリス王位の法定推定相続人で、第21代ウェールズ公（プリンス・オブ・ウェールズ）。イギリス陸海空軍元帥。公邸はクラレンス・ハウス宮殿。</dbo:abstract>
+    <dbo:abstract xml:lang="de">HRH Charles Philip Arthur George, Prince of Wales (Fürst von Wales) und Duke of Cornwall (Herzog von Cornwall), meist kurz Prince (im deutschsprachigen Raum Prinz) Charles genannt (* 14. November 1948 im Buckingham Palace, London), ist der Thronfolger des Vereinigten Königreiches. Er ist der älteste Sohn von Königin Elisabeth II. und Prinz Philip. Charles gehört mütterlicherseits dem Haus Windsor an und väterlicherseits dem Haus Schleswig-Holstein-Sonderburg-Glücksburg, einer Nebenlinie des Hauses Oldenburg.</dbo:abstract>
+    <dbo:abstract xml:lang="it">È erede al trono britannico dal 6 febbraio 1952 e questo fa di lui il più duraturo e il più longevo erede al trono della storia delle isole britanniche. Infatti, per la durata ha superato re Edoardo VII che fu erede al trono della regina Vittoria dal 1841 al 1901; mentre per longevità, il 20 settembre 2013, ha superato re Guglielmo IV, salito al trono all&#39;età di 64 anni, 10 mesi e 5 giorni. Detiene il titolo di principe del Galles dal 1958, e il suo titolo completo è Sua Altezza Reale il Principe del Galles, eccetto in Scozia dove è detto Sua Altezza Reale il principe Carlo, duca di Rothesay. Il titolo duca di Cornovaglia è spesso utilizzato dal principe nelle relazioni con la Cornovaglia.Ricopre il grado militare di viceammiraglio della Marina Reale Britannica. Inoltre il 16 giugno 2012 la Regina gli ha conferito i più elevati titoli onorifici delle Forze armate britanniche: quello di Ammiraglio di Flotta per la marina, quello di Maresciallo di Campo per l&#39;esercito e quello di Maresciallo della Royal Air Force per l&#39;aviazione. Carlo è erede al trono di sedici stati sovrani: il Regno Unito e quindici ex membri dell&#39;Impero britannico: i reami del Commonwealth. La successione alla madre con il titolo di Capo del Commonwealth non sarà comunque automatica. Se Carlo salirà al trono, sarà il primo monarca britannico a discendere dalla regina Vittoria attraverso due linee di successione: da parte di madre, attraverso Edoardo VII, Giorgio V e Giorgio VI, e inoltre da parte di padre attraverso la nonna, la principessa Alice di Battenberg, bisnipote della regina Vittoria. Carlo ha anche una fitta agenda di doveri reali, e inoltre sta assumendo sempre più impegni in luogo degli anziani genitori. Il principe è anche noto per i matrimoni con la defunta Diana Spencer, dalla quale divorziò già nel 1996, e con Camilla Shand.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le prince Charles, prince de Galles (Charles Philip Arthur George), né le 14 novembre 1948 à Londres est un membre de la famille royale britannique, fils aîné de la reine Élisabeth II et du prince Philip, duc d&#39;Édimbourg. Depuis 1952, il occupe la première place dans l&#39;ordre de succession au trône britannique et dans chacun des royaumes du Commonwealth. Il est également héritier aux fonctions de gouverneur-suprême de la Communion anglicane, duc de Normandie, seigneur de Man, chef suprême des Fidji etc. Depuis 1958, il est connu par son titre supérieur de prince de Galles. Toutefois, il utilise d&#39;autres titres en fonction de l&#39;endroit où il est siégeant ; par exemple duc de Rothesay lors en Écosse, ou en Angleterre par droit du duché de Cornouailles. Le prince Charles est le plus haut-rang membre de la famille royale britannique suite de sa mere la reine Elisabeth II, et est le deuxième plus long titulaire en tant que prince de Galles : ce titre est accordé aux héritiers de la couronne d&#39;Angleterre. Il est en outre héritier du trône depuis plus de 60 ans, ce qui constitue le record absolu. Le 18 septembre 2013, il devient l&#39;héritier du trône le plus âgé, dépassant ainsi le roi Guillaume IV.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carlos, príncipe de Gales (Charles Philip Arthur George Windsor) (Londres, 14 de noviembre de 1948) es el hijo mayor de la reina Isabel II del Reino Unido y su esposo el príncipe Felipe, duque de Edimburgo; como heredero al trono del Reino Unido así como de los reinos de la Mancomunidad, recibe el título oficial de duque de Cornualles y, desde 1958, príncipe de Gales, además de los títulos históricos de duque de Rothesay (título oficial en Escocia), conde de Carrick, barón de Renfrew y señor de las Islas (asociados al ducado de Rothesay), y conde de Chester. Carlos es el heredero al trono con la mayor espera en la historia del Reino Unido, con 65 años y 5 días, habiendo superado a su tatarabuelo Eduardo VII. De mantener su nombre reinaría como Carlos III, aunque hay rumores, desmentidos por su gabinete de prensa, de que escogería el nombre de su abuelo para reinar, por lo cual sería Jorge VII (George VII).</dbo:abstract>
+    <dbo:imdbId>0697608</dbo:imdbId>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh" />
+    <dbo:title xml:lang="en">Prince of Wales;Duke of Rothesay([[#Titles, styles, honours and arms</dbo:title>
+    <dbp:adopted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</dbp:adopted>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Justin_Trudeau" />
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">or members of the Royal Family if in Canada</dbp:as>
+    <dbp:as rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_Canada" />
+    <dbp:as rdf:resource="http://dbpedia.org/resource/Governor_General_of_Canada" />
+    <dbp:badge rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Three ostrich feathers encircled by a gold coronet</dbp:badge>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/David_Lloyd_Johnston" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Prince of Wales speaking at the 2015 United Nations Climate Change Conference</dbp:caption>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:Charles, Prince of Wales</dbp:commons>
+    <dbp:crest rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Upon the royal helm the coronet of the Prince of Wales, thereon a lion statant guardant Or crowned with the coronet of the Prince of Wales</dbp:crest>
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Quarterly 1st and 4th Gules three lions passant guardant in pale Or armed and langed Azure 2nd Or a lion rampant Gules armed and langued Azure within a double tressure flory counterflory 3rd Azure a harp Or stringed Argent overall an inescutcheon of the Royal Badge of Wales.</dbp:escutcheon>
+    <dbp:heir rdf:resource="http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge" />
+    <dbp:heirType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Presumed next holder</dbp:heirType>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Windsor" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">* Prince William, Duke of Cambridge
+* Prince Henry of Wales</dbp:issue>
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Edward_VIII" />
+    <dbp:last rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(later became King Edward VIII)</dbp:last>
+    <dbp:motto rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ICH DIEN</dbp:motto>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:Charles, Prince of Wales</dbp:n>
+    <dbp:notes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Prince&#39;s coat of arms, as used outside Scotland, is the royal coat of arms of the United Kingdom with the addition a three-pointed label and an inescutcheon bearing the arms of Wales. For the arms of the Duke of Rothesay in Scotland, see royal coat of arms of Scotland.</dbp:notes>
+    <dbp:orders rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HONI SOIT QUI MAL Y PENSE</dbp:orders>
+    <dbp:orders rdf:resource="http://dbpedia.org/resource/Order_of_the_Garter" />
+    <dbp:otherElements rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The whole differenced by a plain label of three points Argent, as the eldest child of the sovereign</dbp:otherElements>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Charles, Prince of Wales</dbp:q>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Author:Charles, Prince of Wales</dbp:s>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Charles signature.jpg</dbp:signature>
+    <dbp:spouses rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">divorced</dbp:spouses>
+    <dbp:spouses rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-04-09</dbp:spouses>
+    <dbp:spouses rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-07-29</dbp:spouses>
+    <dbp:spouses rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-08-28</dbp:spouses>
+    <dbp:spouses rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">*</dbp:spouses>
+    <dbp:spouses rdf:resource="http://dbpedia.org/resource/Lady_Diana_Spencer" />
+    <dbp:spouses rdf:resource="http://dbpedia.org/resource/Camilla_Parker_Bowles" />
+    <dbp:supporters rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dexter a lion rampant guardant Or imperially crowned proper, sinister a unicorn Argent, armed, crined and unguled Or, gorged with a coronet Or composed of crosses patée and fleurs de lys a chain affixed thereto passing between the forelegs and reflexed over the back also Or</dbp:supporters>
+    <dbp:symbolism rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">As with the Royal Arms of the United Kingdom. The first and fourth quarters are the arms of England, the second of Scotland, the third of Ireland.</dbp:symbolism>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Rothesay" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Cornwall" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/United_World_Colleges" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">in current practice</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Great_Master_of_the_Order_of_the_Bath" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Prince of Wales</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Canadian_order_of_precedence" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Orders_of_precedence_in_the_United_Kingdom" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1978</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Gentlemen</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-10</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-06</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-26</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchy_of_Cornwall">
+    <dbp:presentHolder rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Cornwall">
+    <dbp:incumbent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_II">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbp:heir rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Rothesay">
+    <dbp:incumbent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parachute_Regiment_(United_Kingdom)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Wales">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/3rd/4th_Cavalry_Regiment_(Australia)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/51st_Highland_Volunteers">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheshire_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercian_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince&#39;s_Trust">
+    <dbp:founder rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Royal_Regiment_of_Canada">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Toronto_Scottish_Regiment_(Queen_Elizabeth_The_Queen_Mother&#39;s_Own)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1983_Summer_Universiade">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Strathcona&#39;s_Horse_(Royal_Canadians)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Antigua_and_Barbuda">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Australia">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashley_Hicks">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Old_Man_of_Lochnagar">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Grenada">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Jamaica">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Saint_Kitts_and_Nevis">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Saint_Lucia">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Saint_Vincent_and_the_Grenadines">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_the_Bahamas">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/4th_Battalion,_Parachute_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchy_of_Lancaster">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monstrous_carbuncle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2nd/14th_Light_Horse_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/4th/19th_Prince_of_Wales&#39;s_Light_Horse">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_the_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_Prince_Charles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_prince_of_wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Hamilton_Yacht_Club__1">
+    <dbo:person rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/3rd/9th_Light_Horse_(South_Australian_Mounted_Rifles)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosalind_Shand">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Business_in_the_Community">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erskine_(charity)">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coronation_Street_Live_(2000_episode)">
+    <dbo:guest rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_of_the_Isles">
+    <dbp:presentHolder rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King&#39;s_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_of_Mann">
+    <dbp:heirApparent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Windsor,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedding_of_Charles,_Prince_of_Wales,_and_Lady_Diana_Spencer">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_prince_of_wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Prince_of_Wales_(Prince_Charles)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_at_90:_A_Family_Portrait">
+    <dbo:narrator rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_Prince_Charles,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Duke_of_Cornwal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles,_Duke_of_Cornwal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Philip_Arthur_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Next_king_of_Australia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Next_king_of_Canada">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Next_king_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Next_king_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince_Charles,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles,_Prince_of_Wales">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Price_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles,_the_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Charles,_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Crown_Prince_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles,_Crown_Prince_of_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Wales" />
+  </rdf:Description>
+</rdf:RDF>

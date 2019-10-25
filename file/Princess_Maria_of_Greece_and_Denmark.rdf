@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Maria_Georgievna_of_Greece_and_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Maria_Georgievna_(Maria_of_Greece)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Maria_Georgievna_(Maria_of_Greece_and_Denmark)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Georgievna_(Maria_of_Greece)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Georgievna_(Maria_of_Greece_and_Denmark)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perikles_Ioannidis">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="fr">Marie de Grèce</rdfs:label>
+    <rdfs:label xml:lang="nl">Maria van Griekenland en Denemarken</rdfs:label>
+    <rdfs:label xml:lang="pl">Maria Romanowa (1876-1940)</rdfs:label>
+    <rdfs:label xml:lang="ar">ماريا أميرة اليونان والدنمارك</rdfs:label>
+    <rdfs:label xml:lang="ru">Мария Георгиевна</rdfs:label>
+    <rdfs:label xml:lang="it">Maria di Grecia</rdfs:label>
+    <rdfs:label xml:lang="ja">マリア・ゲオルギエヴナ</rdfs:label>
+    <rdfs:label xml:lang="es">María de Grecia</rdfs:label>
+    <rdfs:label xml:lang="en">Princess Maria of Greece and Denmark</rdfs:label>
+    <rdfs:label xml:lang="de">Maria von Griechenland und Dänemark</rdfs:label>
+    <rdfs:label xml:lang="pt">Maria da Grécia e Dinamarca</rdfs:label>
+    <rdfs:comment xml:lang="pl">Maria Gieorgijewna Romanowa (3 marca 1876 - 14 grudnia 1940) - urodzona jako Maria Grecka, księżniczka Grecji i Danii, piąte dziecko i druga córka Jerzego I, króla Grecji, i królowej Olgi Konstantinowny Romanowej. Wielka księżna Rosji. 
+*  wielką księżną Ninę Gieorgijewnę Romanową (1901-1974),  
+*  wielką księżną Ksenię Gieorgijewnę Romanową (1903-1965). Jej córka Ksenia przez kilka lat mieszkała na Long Island, razem z Anną Anderson, która twierdziła że jest kuzynką Ksenia - wielką księżną Anastazją Nikołajewną, córką cara Mikołaja II.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Maria Georgievna Sleeswijk-Holstein-Sonderburg-Glücksburg (Athene, 3 maart 1876 – aldaar, 14 december 1940), prinses van Griekenland en Denemarken (Grieks: Πριγκίπισσα Μαρία της Ελλάδας και Δανίας), na haar huwelijk prinses van Rusland (Russisch: Мария Георгиевна), was een dochter van koning George I van Griekenland en van Olga Konstantinova van Rusland. Maria trouwde in 1900 met Georgi Michajlovitsj van Rusland, een kleinzoon van tsaar Nicolaas I van Rusland. Uit dit huwelijk werden twee dochters geboren: 
+*  Nina (7 juni 1901 - 1974)  
+*  Xenia (22 augustus 1903 - 17 september 1965)</rdfs:comment>
+    <rdfs:comment xml:lang="ja">マリア・ゲオルギエヴナ （ロシア語: Мария Георгиевна、ギリシア語: Μαρία της Ελλάδας、1876年3月3日 - 1940年12月14日）は、ロシアの皇族、ロシア大公妃。ゲオルギー・ミハイロヴィチ大公（ニコライ1世の孫）の妻。 ギリシャ王ゲオルギオス1世とその王妃オルガの次女として、アテネで生まれた。 1900年、ケルキラ島でゲオルギーと結婚した。当初からゲオルギーとの結婚に乗り気でなかったマリアは、子供たちが成長するにつれ、夫をロシアに残し、健康のためと称して国外で過ごすようになった。第一次世界大戦中はイギリスに滞在し、ロシアへ戻らなかった。 1919年、ゲオルギーがボリシェヴィキに殺害され、マリアは未亡人となった。3年後の1922年、ヴィースバーデンで、ギリシャ人提督ペリクレス・イオアンニディスと再婚した。ギリシャ・イタリア戦争の最中である1940年、アテネで没した。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La princesa María de Grecia, nacida de la casa de Schleswig-Holstein-Sonderbourg-Glücksburg (en griego moderno: Πριγκίπισσα Μαρία της Ελλάδας), princesa de Grecia y de Dinamarca, gran duquesa rusa por su matrimonio, nació el 3 de marzo de 1876 en Atenas y murió en Psykhikó, el 14 de diciembre de 1940. Era hija del rey Jorge I de Grecia (1845-1913) y de su esposa la gran duquesa y reina Olga de Grecia o Olga Constantinovna de Rusia (1851-1926). Fue la quinta hija de este matrimonio, y en la familia era llamada Minnie Tuvieron dos hijas: Nina, que nació en 1901, y Xenia, nacida en 1903.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Prinzessin Maria von Griechenland und Dänemark (* 20. Februarjul./ 3. März 1876greg. in Athen; † 14. Dezember 1940 in ebenda) war ein Mitglied aus dem Haus Holstein-Sonderburg-Glücksburg und war durch Heirat Großfürstin Maria Georgijewna Romanowa.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">ماريا أميرة اليونان والدنمارك (3 مارس 1876 - 14 ديسمبر 1940) الإبنه الثانية لجورج الأول ملك اليونان وزوجته أولغا كونستانتينوفنا دوقة روسيا.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Мари́я Гео́ргиевна, урожденная принцесса Гре́ческая и Да́тская (3 марта 1876, Афины, Греция — 14 декабря 1940, там же) — дочь короля Греции Георга I, и великой княжны Ольги Константиновны, внучка короля Дании Кристиана IX; супруга великого князя Георгия Михайловича, затем — греческого адмирала Периклеса Иоаннидиса.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Maria Georgievna da Grécia e Dinamarca (3 de março de 1876 - 14 de dezembro de 1940) foi a quinta criança e segunda filha a nascer do rei Jorge I da Grécia e da sua esposa, a grã-duquesa Olga Constantinovna da Rússia, sendo, por isso, um membro da família Schleswig-Holstein-Sonderburg-Glücksburg.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Marie de Grèce (en grec moderne : Πριγκίπισσα Μαρία της Ελλάδας), princesse de Grèce et de Danemark puis, par son mariage, grande-duchesse de Russie, est née le 3 mars 1876 à Athènes et est décédée dans cette même ville le 14 décembre 1940. C&#39;est un membre des familles souveraines de Grèce et de Russie ainsi qu&#39;une dessinatrice et une femme de lettres distinguée.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Princess Maria of Greece and Denmark (Greek: Πριγκίπισσα Μαρία της Ελλάδας και Δανίας) (3 March 1876 – 14 December 1940) was the fifth child and second daughter of King George I of Greece and Olga Constantinovna of Russia, and thus a member of the House of Schleswig-Holstein-Sonderburg-Glücksburg. She was later the king&#39;s only surviving daughter after the death of her older sister Grand Duchess Alexandra Georgievna of Russia in 1891.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Maria_van_Griekenland_en_Denemarken" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q232732" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Maria_da_Grécia_e_Dinamarca" />
+    <owl:sameAs rdf:resource="http://purl.org/collections/nl/am/p-39582" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Maria_Romanowa_(1876-1940)" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πριγκίπισσα_Μαρία_της_Ελλάδας_και_της_Δανίας" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q232732" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Maria_di_Grecia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Marie_de_Grèce" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07dyxd" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/María_de_Grecia" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/マリア・ゲオルギエヴナ" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Maria_von_Griechenland_und_Dänemark" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Athens" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-12-14</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Athens" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1876-3-3</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1876-03-03</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Athens" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1876_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1940_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2450170</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729451197</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Princess Maria</foaf:name>
+    <foaf:name xml:lang="en">Princess Maria of Greece and Denmark</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Maria_of_Greece_and_Denmark_(Grand_Duchess_Maria_Georgievna).jpg" />
+    <dct:description xml:lang="en">Grand-duchess of Russia</dct:description>
+    <foaf:givenName xml:lang="en">Maria</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Princess_Maria_of_Greece_and_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Maria_of_Greece_and_Denmark_(Grand_Duchess_Maria_Georgievna).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Princess_Maria_of_Greece_and_Denmark?oldid=729451197" />
+    <dbo:abstract xml:lang="en">Princess Maria of Greece and Denmark (Greek: Πριγκίπισσα Μαρία της Ελλάδας και Δανίας) (3 March 1876 – 14 December 1940) was the fifth child and second daughter of King George I of Greece and Olga Constantinovna of Russia, and thus a member of the House of Schleswig-Holstein-Sonderburg-Glücksburg. She was later the king&#39;s only surviving daughter after the death of her older sister Grand Duchess Alexandra Georgievna of Russia in 1891.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">ماريا أميرة اليونان والدنمارك (3 مارس 1876 - 14 ديسمبر 1940) الإبنه الثانية لجورج الأول ملك اليونان وزوجته أولغا كونستانتينوفنا دوقة روسيا.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">マリア・ゲオルギエヴナ （ロシア語: Мария Георгиевна、ギリシア語: Μαρία της Ελλάδας、1876年3月3日 - 1940年12月14日）は、ロシアの皇族、ロシア大公妃。ゲオルギー・ミハイロヴィチ大公（ニコライ1世の孫）の妻。 ギリシャ王ゲオルギオス1世とその王妃オルガの次女として、アテネで生まれた。 1900年、ケルキラ島でゲオルギーと結婚した。当初からゲオルギーとの結婚に乗り気でなかったマリアは、子供たちが成長するにつれ、夫をロシアに残し、健康のためと称して国外で過ごすようになった。第一次世界大戦中はイギリスに滞在し、ロシアへ戻らなかった。 1919年、ゲオルギーがボリシェヴィキに殺害され、マリアは未亡人となった。3年後の1922年、ヴィースバーデンで、ギリシャ人提督ペリクレス・イオアンニディスと再婚した。ギリシャ・イタリア戦争の最中である1940年、アテネで没した。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Maria Gieorgijewna Romanowa (3 marca 1876 - 14 grudnia 1940) - urodzona jako Maria Grecka, księżniczka Grecji i Danii, piąte dziecko i druga córka Jerzego I, króla Grecji, i królowej Olgi Konstantinowny Romanowej. Wielka księżna Rosji. Urodziła się w Atenach. Jej starszym rodzeństwem byli: król Konstantyn I, książę Jerzy, księżniczka Aleksandra Gieogrijewna i książę Mikołaj. Jej młodszym rodzeństwem byli: książę Andrzej, książę Krzysztof oraz księżniczka Olga, która zmarła w dzieciństwie. Maria przyjaźniła się bardzo ze swoją kuzynką Ksenią Aleksandrowną. Obie poślubiły później wielkich książąt Rosji i widywały się przy wielu okazjach. Siostra Marii - Aleksandra poślubiła innego wielkiego księcia Pawła Aleksandrowicza, a brat Mikołaj - wielką księżną Helenę Władimirownę. 30 kwietnia 1900 Maria na Korfu, poślubiła wielkiego księcia Jerzego Michajłowicza Romanowa. Jej mąż był trzecim synem wielkiego księcia Michała Mikołajewicza i jego żony Olgi Fiodorowny (Cecylii Augusty Badeńskiej). Jej dziadkami byli: car Mikołaj I, caryca Aleksandra Fiodorowna, córki Leopold, wielki książę Badenii, i Zofia Wilhelmina von Holstein-Gottorp. Jerzego nazywano Gogi, a Marię grecką Minny. Maria odrzuciła oświadczyny Jerzego, dopóki nie miała pewności, że na skutek małżeństwa nie utraci miejsca w &quot;kolejce&quot; do tronów Danii i Grecji. Para miała 2 córki: 
+*  wielką księżną Ninę Gieorgijewnę Romanową (1901-1974),  
+*  wielką księżną Ksenię Gieorgijewnę Romanową (1903-1965). Maria została wdową 30 stycznia 1919, kiedy jej mąż został rozstrzelany przez bolszewików. 16 grudnia 1922 Maria wyszła ponownie za mąż w Wiesbaden, za admirała Peryklesa Ioannidesa. Zmarła w swoich rodzinnych Atenach, podczas wojny grecko-włoskiej (1940-1941). Jej córka Ksenia przez kilka lat mieszkała na Long Island, razem z Anną Anderson, która twierdziła że jest kuzynką Ksenia - wielką księżną Anastazją Nikołajewną, córką cara Mikołaja II.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinzessin Maria von Griechenland und Dänemark (* 20. Februarjul./ 3. März 1876greg. in Athen; † 14. Dezember 1940 in ebenda) war ein Mitglied aus dem Haus Holstein-Sonderburg-Glücksburg und war durch Heirat Großfürstin Maria Georgijewna Romanowa.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Marie de Grèce (en grec moderne : Πριγκίπισσα Μαρία της Ελλάδας), princesse de Grèce et de Danemark puis, par son mariage, grande-duchesse de Russie, est née le 3 mars 1876 à Athènes et est décédée dans cette même ville le 14 décembre 1940. C&#39;est un membre des familles souveraines de Grèce et de Russie ainsi qu&#39;une dessinatrice et une femme de lettres distinguée.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Maria Georgievna Sleeswijk-Holstein-Sonderburg-Glücksburg (Athene, 3 maart 1876 – aldaar, 14 december 1940), prinses van Griekenland en Denemarken (Grieks: Πριγκίπισσα Μαρία της Ελλάδας και Δανίας), na haar huwelijk prinses van Rusland (Russisch: Мария Георгиевна), was een dochter van koning George I van Griekenland en van Olga Konstantinova van Rusland. Maria trouwde in 1900 met Georgi Michajlovitsj van Rusland, een kleinzoon van tsaar Nicolaas I van Rusland. Uit dit huwelijk werden twee dochters geboren: 
+*  Nina (7 juni 1901 - 1974)  
+*  Xenia (22 augustus 1903 - 17 september 1965) Tijdens de Russische Revolutie werd George in Sint-Petersburg door de bolsjewieken om het leven werden gebracht. George was toen 55 jaar oud. Maria wist de revolutie te overleven en het land te ontvluchten. Ze hertrouwde op 16 december 1922 te Wiesbaden met admiraal Pericles Ioannides, van wie ze een aantal jaren later weer scheidde. Maria stierf in haar geboortestad Athene op 64-jarige leeftijd. Haar dochter Xenia leefde enkele jaren op Long Island met Anna Anderson, die claimde haar nicht Anastasia te zijn.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Мари́я Гео́ргиевна, урожденная принцесса Гре́ческая и Да́тская (3 марта 1876, Афины, Греция — 14 декабря 1940, там же) — дочь короля Греции Георга I, и великой княжны Ольги Константиновны, внучка короля Дании Кристиана IX; супруга великого князя Георгия Михайловича, затем — греческого адмирала Периклеса Иоаннидиса.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Maria Georgievna da Grécia e Dinamarca (3 de março de 1876 - 14 de dezembro de 1940) foi a quinta criança e segunda filha a nascer do rei Jorge I da Grécia e da sua esposa, a grã-duquesa Olga Constantinovna da Rússia, sendo, por isso, um membro da família Schleswig-Holstein-Sonderburg-Glücksburg.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La princesa María de Grecia, nacida de la casa de Schleswig-Holstein-Sonderbourg-Glücksburg (en griego moderno: Πριγκίπισσα Μαρία της Ελλάδας), princesa de Grecia y de Dinamarca, gran duquesa rusa por su matrimonio, nació el 3 de marzo de 1876 en Atenas y murió en Psykhikó, el 14 de diciembre de 1940. Era hija del rey Jorge I de Grecia (1845-1913) y de su esposa la gran duquesa y reina Olga de Grecia o Olga Constantinovna de Rusia (1851-1926). Fue la quinta hija de este matrimonio, y en la familia era llamada Minnie Se casó el 12 de mayo de 1900 en Corfú con el gran duque Jorge Mikhailovich de Rusia, que era primo hermano de su madre, la reina Olga. Jorge se adelantó al príncipe Alejandro de Serbia, que se disponía también a pedir la mano de María, pero no lo tuvo fácil, ya que ella lo rechazó en varias ocasiones y pasaron cinco años hasta que consiguió que se casara con él. María fue presionada tanto que al final aceptó. En diez días se preparó la boda. El matrimonio se instaló en el palacio del gran duque Miguel, padre de Jorge, en San Petersburgo, aunque tenían otra propiedad en el Cáucaso y una villa en Crimea. Tuvieron dos hijas: Nina, que nació en 1901, y Xenia, nacida en 1903. Estando en María en Inglaterra con sus dos hijas, estalló la Primera Guerra Mundial, mientras Jorge estaba en Rusia. Tres años después tuvo lugar la Revolución rusa y Jorge fue arrestado y enviado al exilio en Vologda, donde permaneció encarcelado. María pasó bastantes apuros económicos en Londres a pesar de contar con el apoyo de la familia real británica. Intentó conseguir la libertad de su esposo y otros familiares con 50.000 libras esterlinas, pero Jorge fue fusilado el 30 de enero de 1919. La gran duquesa decidió volver a Grecia con su familia, prometiendo casarse con el primer griego que se le cruzase. En el barco en el que viajaba hacia Grecia conoció al comandante del mismo, el griego Pericles Ioannidis (1881-1965), y con él se casó en diciembre de 1922 en la ciudad de Wiesbaden (Alemania). Debido a los numerosos exilios de la familia real griega, el matrimonio vivió entre Atenas, Londres y Roma. A las hijas de María no les gustaba nada Pericles, por lo que se distanciaron de su madre. El 14 de diciembre de 1940, la princesa murió de un ataque al corazón en Psykhikó. Los príncipes Pablo y Federica se habían ocupado de cuidarla al enfermar.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Grand_Duke_George_Mikhailovich_of_Russia_(1863-1919)" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Perikles_Ioannidis" />
+    <dbo:title xml:lang="en">Grand Duchess Maria Georgievna of Russia</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Glücksburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Xenia_Georgievna_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Nina_Georgievna_of_Russia" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Maria_Yurievna_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Maria_Georgievna_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Princess_Maria_of_Greece_and_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

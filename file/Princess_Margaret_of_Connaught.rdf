@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Johan_Bernadotte">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_of_Connaught">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret,_Crown_Princess_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrid_of_Sweden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret_of_Connaught">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CrownPrincess109981278" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCrownPrincessesOfSweden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDamesOfJusticeOfTheOrderOfStJohn" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLadiesOfTheRoyalOrderOfVictoriaAndAlbert" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wife110780632" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lady110243137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Queen110499355" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishQueens" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dame109989045" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Girl110129825" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBagshot" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWindsor,Berkshire" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheOrderOfTheStarOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPrinces" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdfs:label xml:lang="ja">マーガレット・オブ・コノート</rdfs:label>
+    <rdfs:label xml:lang="it">Margherita di Connaught</rdfs:label>
+    <rdfs:label xml:lang="fr">Margaret de Connaught</rdfs:label>
+    <rdfs:label xml:lang="pl">Małgorzata Connaught</rdfs:label>
+    <rdfs:label xml:lang="nl">Margaretha van Connaught</rdfs:label>
+    <rdfs:label xml:lang="pt">Margarida de Connaught</rdfs:label>
+    <rdfs:label xml:lang="en">Princess Margaret of Connaught</rdfs:label>
+    <rdfs:label xml:lang="es">Margarita de Connaught</rdfs:label>
+    <rdfs:label xml:lang="zh">康諾的瑪嘉烈公主</rdfs:label>
+    <rdfs:label xml:lang="ar">مارغريت أميرة كونوت</rdfs:label>
+    <rdfs:label xml:lang="ru">Маргарита Коннаутская</rdfs:label>
+    <rdfs:label xml:lang="de">Margaret of Connaught</rdfs:label>
+    <rdfs:comment xml:lang="en">Princess Margaret of Connaught (Margaret Victoria Charlotte Augusta Norah; 15 January 1882 – 1 May 1920) was Crown Princess of Sweden and Duchess of Scania as the first wife of the future King Gustaf VI Adolf. She was the elder daughter of Prince Arthur, Duke of Connaught, third son of Queen Victoria, and Princess Louise Margaret of Prussia. Nicknamed Daisy and known in Sweden as Margareta, she died 30 years before her husband&#39;s accession to the throne of Sweden.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Margarida de Connaught VA CI DJStJ (15 de janeiro de 1882 — 1º de maio de 1920), mais tarde princesa consorte da Suécia, foi a primeira esposa do rei Gustavo VI Adolfo da Suécia. Ela foi a avó do atual rei da Suécia, Carlos XVI Gustavo; da atual rainha da Dinamarca, Margarida II; e da ex-rainha da Grécia, Ana Maria da Grécia.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Margarita de Connaught (Margaret Victoria Charlotte Augusta Norah; Bagshot Park, Inglaterra, 15 de enero de 1882 - Estocolmo, 1 de mayo de 1920) fue princesa heredera de Suecia y duquesa de Escania como primera esposa del futuro rey Gustavo VI Adolfo. Era la hija mayor de príncipe Arturo, duque de Connaught y Strathearn, tercer hijo de la reina Victoria del Reino Unido; y de la princesa Luisa Margarita de Prusia. Apodada Daisy en el entorno familiar y conocido en Suecia como Margareta, falleció antes de la subida al trono de su marido.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">瑪嘉烈·維多利亞·夏洛特·奧古斯塔·諾拉（英语：Margaret Victoria Charlotte Augusta Norah，1882年1月15日－1920年5月1日），生于薩里郡，英國公主，维多利亚女王的孙女，瑞典国王古斯塔夫六世·阿道夫的第一任妻子。 1905年6月15日，她和古斯塔夫六世在溫莎堡结婚，生有五個孩子。公主在1920年逝世，丈夫在1950年登基，因此她未有瑞典王后的头衔。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الأميرة مارغريت كونوت (مارجريت فيكتوريا شارلوت أوغستا نورا;15 يناير 1882 - 1 مايو 1920) كانت ولي عهد السويد ودوقة سكانيا وزوجة الملك غوستاف السادس أدولف وكانت الابنة الكبرى للالأمير آرثر دوق كونوت وستراذرن الابن الثالث للملكة فيكتوريا ولويز مارغريت أميرة بروسيا.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Margaretha Victoria Charlotte Augusta Norah van Connaught (Bagshot Park, Surrey, 15 januari 1882 – Stockholms slot, 1 mei 1920) was de eerste vrouw van de latere Zweedse koning Gustaaf VI Adolf.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Małgorzata Connaught, właśc. ang. Margaret Victoria Charlotte Augusta Norah, szw. Margareta av Storbritannien och Irland (ur. 15 stycznia 1882 w Bagshot Park, Surrey, zm. 1 maja 1920 w Sztokholmie) – księżniczka Zjednoczonego Królestwa. Córka księcia Artura, trzeciego syna królowej Wiktorii i jego żony Luizy Małgorzaty. Nazywana była Daisy. 15 czerwca 1905 wyszła za mąż za księcia szwedzkiego Gustawa. Kiedy ojciec Gustawa, Gustaw V, w 1907 został królem Szwecji, mąż Małgorzaty otrzymał tytuł następcy tronu. W czasie I wojny światowej Małgorzata wspierała Czerwony Krzyż.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Margaret de ConnaughtFichier:Crownprincessmargretofsweden.JPG La Princesse Margaret Titre Princesse héritière consort de Suède(Duchesse consort de Scanie) 8 décembre 1907 — 1er mai 1920(12 ans 4 mois et 23 jours) Fichier:Blason de la Princesse Margaret de Suède.svg Princesse héritière consort de SuèdeDuchesses consorts de Scanie Margaret de Connaught (en anglais : Margaret of Connaught) (née le 15 janvier 1882 et décédée le 1er mai 1920) membre de la famille royale britannique, devenue princesse héritière de Suède.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Принцесса Маргарита Виктория Шарлотта Аугуста Нора Коннаутская (англ. Margaret Victoria Charlotte Augusta Norah);15 января 1882 — 1 мая 1920) — кронпринцесса Швеции, герцогиня Сконская, жена герцога Сконского Густава Адольфа. Принцесса Великобритании и Ирландии, где её называли Дэйзи (Маргаритка).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Prinzessin Margaret von Connaught und Strathearn VA (* 15. Januar 1882 in Bagshot Park, Surrey; † 1. Mai 1920 in Stockholm, Schweden) war ein Mitglied der britischen Königsfamilie, aus dem Haus Sachsen-Coburg und Gotha, und durch ihre Heirat mit dem späteren König Gustav VI. Adolf Kronprinzessin von Schweden sowie Herzogin von Schonen. Darüber hinaus ist sie die Großmutter des schwedischen Königs Carl XVI. Gustaf und der Königin Margrethe II. von Dänemark.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">マーガレット・ヴィクトリア・シャーロット・オーガスタ・ノラ・オブ・コノート（英語: Margaret Victoria Charlotte Augusta Norah of Connaught, 1882年1月15日 - 1920年5月1日）は、スウェーデン王グスタフ6世アドルフの最初の妃。スウェーデン語名ではマルガレータ（Margareta）と呼ばれた。愛称はデイジー（Daisy）。夫の即位以前に死去しており、王妃にはなっていない。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Margarida_de_Connaught" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Margarita_de_Connaught" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.012kxp" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q158173" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/코넛_공녀_마거릿" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/143211455" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Margaretha_van_Connaught" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Putri_Margaret_dari_Connaught" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q158173" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/マーガレット・オブ・コノート" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Princess_Margaret_of_Connaught" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Margherita_di_Connaught" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Margaret_de_Connaught" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Margaret_of_Connaught" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μαργαρίτα_του_Κόνακτ" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Margareta_z_Connaughtu" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Małgorzata_Connaught" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Sweden" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-05-01</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-5-1</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Bagshot_Park" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Surrey" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-01-15</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-1-15</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_Justice_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_British_dukes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Bagshot" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Windsor,_Berkshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(United_Kingdom)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Star_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1920_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1882_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ladies_of_the_Royal_Order_of_Victoria_and_Albert" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Kungliga_begravningsplatsen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crown_Princesses_of_Sweden" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145885</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743084660</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Margaret Victoria Charlotte Augusta Norah</foaf:name>
+    <foaf:name xml:lang="en">Princess Margaret of Connaught</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Margaret_of_Connaught.png" />
+    <dct:description xml:lang="en">British princess</dct:description>
+    <foaf:givenName xml:lang="en">Margaret</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Princess_Margaret_of_Connaught" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Margaret_of_Connaught.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Princess_Margaret_of_Connaught?oldid=743084660" />
+    <dbo:abstract xml:lang="fr">Margaret de ConnaughtFichier:Crownprincessmargretofsweden.JPG La Princesse Margaret Titre Princesse héritière consort de Suède(Duchesse consort de Scanie) 8 décembre 1907 — 1er mai 1920(12 ans 4 mois et 23 jours) Fichier:Blason de la Princesse Margaret de Suède.svg Princesse héritière consort de SuèdeDuchesses consorts de Scanie Margaret de Connaught (en anglais : Margaret of Connaught) (née le 15 janvier 1882 et décédée le 1er mai 1920) membre de la famille royale britannique, devenue princesse héritière de Suède.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinzessin Margaret von Connaught und Strathearn VA (* 15. Januar 1882 in Bagshot Park, Surrey; † 1. Mai 1920 in Stockholm, Schweden) war ein Mitglied der britischen Königsfamilie, aus dem Haus Sachsen-Coburg und Gotha, und durch ihre Heirat mit dem späteren König Gustav VI. Adolf Kronprinzessin von Schweden sowie Herzogin von Schonen. Darüber hinaus ist sie die Großmutter des schwedischen Königs Carl XVI. Gustaf und der Königin Margrethe II. von Dänemark.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Małgorzata Connaught, właśc. ang. Margaret Victoria Charlotte Augusta Norah, szw. Margareta av Storbritannien och Irland (ur. 15 stycznia 1882 w Bagshot Park, Surrey, zm. 1 maja 1920 w Sztokholmie) – księżniczka Zjednoczonego Królestwa. Córka księcia Artura, trzeciego syna królowej Wiktorii i jego żony Luizy Małgorzaty. Nazywana była Daisy. Księżniczka Małgorzata została ochrzczona 11 marca 1882 w prywatnej kaplicy zamku Windsor. Jej rodzicami chrzestnymi zostali: królowa Wiktoria, cesarz Niemiec Wilhelm, niemiecka cesarzowa Augusta, ciotka Małgorzaty Wiktoria, przyszła cesarzowa Niemiec, książę i księżna Prus oraz książę Walii Edward. Bierzmowana została w tej samej kaplicy w marcu 1898 w wieku 16 lat. Przed ślubem nosiła tytuł Jej Królewskiej Wysokości Księżniczki Małgorzaty Connaught. 15 czerwca 1905 wyszła za mąż za księcia szwedzkiego Gustawa. Kiedy ojciec Gustawa, Gustaw V, w 1907 został królem Szwecji, mąż Małgorzaty otrzymał tytuł następcy tronu. W czasie I wojny światowej Małgorzata wspierała Czerwony Krzyż. Małgorzata zmarła wskutek infekcji, jaka wdała się w czasie jej operacji. W chwili śmierci była w ósmym miesiącu ciąży i oczekiwała swojego szóstego dziecka.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Margarita de Connaught (Margaret Victoria Charlotte Augusta Norah; Bagshot Park, Inglaterra, 15 de enero de 1882 - Estocolmo, 1 de mayo de 1920) fue princesa heredera de Suecia y duquesa de Escania como primera esposa del futuro rey Gustavo VI Adolfo. Era la hija mayor de príncipe Arturo, duque de Connaught y Strathearn, tercer hijo de la reina Victoria del Reino Unido; y de la princesa Luisa Margarita de Prusia. Apodada Daisy en el entorno familiar y conocido en Suecia como Margareta, falleció antes de la subida al trono de su marido. Margarita era la abuela del rey Carlos XVI Gustavo de Suecia, la reina Margarita II de Dinamarca y de la reina Ana María de los helenos.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Margaretha Victoria Charlotte Augusta Norah van Connaught (Bagshot Park, Surrey, 15 januari 1882 – Stockholms slot, 1 mei 1920) was de eerste vrouw van de latere Zweedse koning Gustaaf VI Adolf.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">マーガレット・ヴィクトリア・シャーロット・オーガスタ・ノラ・オブ・コノート（英語: Margaret Victoria Charlotte Augusta Norah of Connaught, 1882年1月15日 - 1920年5月1日）は、スウェーデン王グスタフ6世アドルフの最初の妃。スウェーデン語名ではマルガレータ（Margareta）と呼ばれた。愛称はデイジー（Daisy）。夫の即位以前に死去しており、王妃にはなっていない。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الأميرة مارغريت كونوت (مارجريت فيكتوريا شارلوت أوغستا نورا;15 يناير 1882 - 1 مايو 1920) كانت ولي عهد السويد ودوقة سكانيا وزوجة الملك غوستاف السادس أدولف وكانت الابنة الكبرى للالأمير آرثر دوق كونوت وستراذرن الابن الثالث للملكة فيكتوريا ولويز مارغريت أميرة بروسيا.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Margarida de Connaught VA CI DJStJ (15 de janeiro de 1882 — 1º de maio de 1920), mais tarde princesa consorte da Suécia, foi a primeira esposa do rei Gustavo VI Adolfo da Suécia. Ela foi a avó do atual rei da Suécia, Carlos XVI Gustavo; da atual rainha da Dinamarca, Margarida II; e da ex-rainha da Grécia, Ana Maria da Grécia.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Princess Margaret of Connaught (Margaret Victoria Charlotte Augusta Norah; 15 January 1882 – 1 May 1920) was Crown Princess of Sweden and Duchess of Scania as the first wife of the future King Gustaf VI Adolf. She was the elder daughter of Prince Arthur, Duke of Connaught, third son of Queen Victoria, and Princess Louise Margaret of Prussia. Nicknamed Daisy and known in Sweden as Margareta, she died 30 years before her husband&#39;s accession to the throne of Sweden.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">瑪嘉烈·維多利亞·夏洛特·奧古斯塔·諾拉（英语：Margaret Victoria Charlotte Augusta Norah，1882年1月15日－1920年5月1日），生于薩里郡，英國公主，维多利亚女王的孙女，瑞典国王古斯塔夫六世·阿道夫的第一任妻子。 1905年6月15日，她和古斯塔夫六世在溫莎堡结婚，生有五個孩子。公主在1920年逝世，丈夫在1950年登基，因此她未有瑞典王后的头衔。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Принцесса Маргарита Виктория Шарлотта Аугуста Нора Коннаутская (англ. Margaret Victoria Charlotte Augusta Norah);15 января 1882 — 1 мая 1920) — кронпринцесса Швеции, герцогиня Сконская, жена герцога Сконского Густава Адольфа. Принцесса Великобритании и Ирландии, где её называли Дэйзи (Маргаритка).</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Louise_Margaret_of_Prussia" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+    <dbo:title xml:lang="en">Duchess of Scania</dbo:title>
+    <dbo:title xml:lang="en">Crown Princess of Sweden;</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Count_Carl_Johan_Bernadotte_of_Wisborg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Count_Sigvard_Bernadotte_of_Wisborg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ingrid_of_Sweden" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Bertil,_Duke_of_Halland" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Princess" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margareta_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Bertil,_Duke_of_Halland">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigvard_Bernadotte">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaretha_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Princess_Margaret_of_Connaught">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margareta,_Duchess_of_Scania">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+  </rdf:Description>
+</rdf:RDF>

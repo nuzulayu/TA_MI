@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Västerbotten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustav_Adolf,_Duke_of_Vaesterbotten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustav_Adolf,_Duke_of_Vasterbotten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolf">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromStockholm" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPeopleOfFrenchDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictimsOfAviationAccidentsOrIncidentsInDenmark" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSwedishProvinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPrinces" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPeopleOfWorldWarII" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdfs:label xml:lang="de">Gustav Adolf Erbprinz von Schweden</rdfs:label>
+    <rdfs:label xml:lang="en">Prince Gustaf Adolf, Duke of Västerbotten</rdfs:label>
+    <rdfs:label xml:lang="pt">Gustavo Adolfo, Duque de Västerbotten</rdfs:label>
+    <rdfs:label xml:lang="pl">Gustaw Adolf Bernadotte</rdfs:label>
+    <rdfs:label xml:lang="zh">古斯塔夫·阿道夫亲王</rdfs:label>
+    <rdfs:label xml:lang="fr">Gustave-Adolphe de Suède (1906-1947)</rdfs:label>
+    <rdfs:label xml:lang="ja">グスタフ・アドルフ (ヴェステルボッテン公)</rdfs:label>
+    <rdfs:label xml:lang="es">Gustavo Adolfo de Suecia (1906-1947)</rdfs:label>
+    <rdfs:label xml:lang="nl">Gustaaf Adolf van Zweden</rdfs:label>
+    <rdfs:label xml:lang="it">Gustavo Adolfo di Svezia (1906-1947)</rdfs:label>
+    <rdfs:label xml:lang="ru">Густав Адольф, герцог Вестерботтенский</rdfs:label>
+    <rdfs:comment xml:lang="pt">Gustavo Adolfo Óscar Frederico Artur Edmundo (Estocolmo, 22 de abril de 1906 – Copenhague, 26 de janeiro de 1947) foi um príncipe sueco e o filho mais velho de Gustavo Adolfo, Príncipe Herdeiro da Suécia (depois rei Gustavo VI Adolfo), e sua primeira esposa a princesa Margarida de Connaught, sendo também o pai do rei Carlos XVI Gustavo. Na época de sua morte, ele era o segunda linha de sucessão ao trono depois de seu pai.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Gustaw Adolf, właśc. szwed. Gustaf Adolf Oscar Fredrik Arthur Edmund Bernadotte (ur. 22 kwietnia 1906 w Sztokholmie, zg. 26 stycznia 1947 w Kastrup, Dania) – książę Västerbotten, członek szwedzkiej rodziny królewskiej, najstarszy syn króla Gustawa VI Adolfa Bernadotte i jego pierwszej żony, księżnej Małgorzaty Connaught.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Gustavo Adolfo de Suecia (Gustaf Adolf Oscar Fredrik Arthur Edmund; Estocolmo, Suecia, 22 de abril de 1906 - Kastrup, Dinamarca, 26 de enero de 1947). Príncipe de Suecia, duque de Västerbotten. Fue el hijo mayor del rey Gustavo VI Adolfo y de su primera esposa, la princesa Margarita de Connaught. Llegó a ser el segundo en la línea sucesoria de la familia real sueca. Destinado a ser rey desde su nacimiento, un repentino accidente acabó con esa posibilidad. Su hijo, Carlos Gustavo se convertiría en monarca en 1973.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Густав Адольф, герцог Вестерботтенский (швед. Gustaf Adolf Oscar Fredrik Arthur Edmund) (1906—1947) — старший сын Густава VI Адольфа и Маргариты Коннаутской, наследник престола второй очереди (после своего отца), не царствовал. 26 января 1947 года, при жизни отца и деда, погиб в авиационной катастрофе. Отец нынешнего короля Швеции Карла XVI Густава.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Gustav Adolf (schwedisch Gustaf Adolf, voller Name Gustaf Adolf Oscar Fredrik Arthur Edmund, innerhalb der Familie Edmund genannt; * 22. April 1906 im Stockholmer Schloss, Stockholm; † 26. Januar 1947 auf dem Flughafen Kopenhagen-Kastrup auf Seeland, Dänemark) war schwedischer Prinz und Herzog von Västerbotten. Er war der Sohn des späteren Königs Gustav VI. Adolf und dessen erster Frau Margaret von Großbritannien und Irland und war der Vater des jetzigen schwedischen Königs Carl XVI. Gustaf.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prince Gustaf Adolf Oscar Fredrik Arthur Edmund, Duke of Västerbotten (22 April 1906 – 26 January 1947) was a Swedish prince and heir to the Swedish throne. Born in Stockholm, he was the eldest son of Prince Gustaf Adolf of Sweden (the future King Gustaf VI Adolf) and his first wife Princess Margaret of Connaught and a great-grandson of Queen Victoria of the United Kingdom. Gustaf Adolf was the father of the current king, Carl XVI Gustaf. He was known by his last given name, Edmund, in the family.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">古斯塔夫·阿道夫（Gustaf Adolf，Gustaf Adolf Oscar Fredrik Arthur Edmund，1906年4月22日－1947年1月26日），瑞典皇太子，西博滕公爵，他是古斯塔夫六世和第一任妻子玛格丽特郡主的长子。他的母亲是英国维多利亚女王第三子康诺公爵亚瑟亲王和王妃普鲁士的玛格丽特郡主的女儿. 1932年10月19日他和表妹萨克森-科堡-哥达公国的施比拉郡主结婚，施比拉郡主是萨克森-科堡-哥达公爵卡尔·爱德华的女儿，维多利亚女王的曾孙女，奥尔巴尼公爵利奥波德的孙女。他们有四女一男: 
+* 玛格丽塔·德西蕾·维多利亚（Margaretha Désirée Victoria，1934年10月31日-），安伯勒夫人 
+* 贝尔吉塔·英格堡·爱丽丝（Birgitta Ingeborg Alice，1937年1月19日-），霍亨索伦王妃 
+* 德丝丽·伊丽莎白·西比拉（Désirée Elisabeth Sibylla，1938年6月2日-），Silfverschiöld男爵夫人 
+* 克里斯蒂娜·路易丝·海伦娜（Christina Louise Helena，1943年8月3日-），马格努松夫人 
+* 卡尔·古斯塔夫·富尔克·胡贝图斯（Carl Gustaf Folke Hubertus，1946年4月30日-），耶姆特兰公爵，现任国王</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ヴェステルボッテン公爵グスタフ・アドルフ王子（スウェーデン語: Arvprins Gustaf Adolf, 全名:Gustaf Adolf Oscar Fredrik Arthur Edmund, 1906年4月22日 – 1947年1月26日）は、スウェーデンの王族。 当時スコーネ公だったグスタフ・アドルフ王子（後のグスタフ6世アドルフ）とその最初の妃であったマルガレータの長男として、ストックホルム宮殿で誕生。現国王カール16世グスタフの父親にあたる。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Gustave-Adolphe de SuèdeGustaf Adolf av SverigeFichier:Prince Gustaf Adolf, Duke of Westrobothnia.jpg Le prince Gustave-Adolphe Fichier:Armoiries du Prince Gustaf Adolf Oscar de Suède.svg Ducs de Västerbotten Le prince Gustaf Adolf de Suède (en suédois : Gustaf Adolf av Sverige), duc de Västerbotten né le 22 avril 1906 au Palais royal de Stockholm (Suède) et mort le 26 janvier 1947 à l&#39;aéroport de Copenhague (Danemark).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Gustaaf Adolf Oscar Frederik Arthur Edmund (Stockholm, 22 april 1906 – Kastrup, 26 januari 1947), hertog van Västerbotten, was erfprins van Zweden. Hij was de oudste zoon van (toen zelf nog erfprins) Gustaaf VI Adolf en diens eerste vrouw Margaretha van Connaught. Op 19 oktober 1932 trouwde hij met prinses Sybilla van Saksen-Coburg en Gotha, dochter van Karel Eduard van Saksen-Coburg en Gotha. Het paar kreeg vijf kinderen:</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Gustaaf_Adolf_van_Zweden" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/グスタフ・アドルフ_(ヴェステルボッテン公)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gustave-Adolphe_de_Suède_(1906-1947)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gustav_Adolf_Erbprinz_von_Schweden" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q347374" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Gustav_Adolf_Švédský" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gustaw_Adolf_Bernadotte" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/129859974" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gustavo_Adolfo,_Duque_de_Västerbotten" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Gustavo_Adolfo_de_Suecia_(1906-1947)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q347374" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Gustavo_Adolfo_di_Svezia_(1906-1947)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.028plj" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Denmark" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen_Airport" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1947-01-26</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1947-1-26</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sweden" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-4-22</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-04-22</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Kungliga_begravningsplatsen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Equestrians_at_the_1936_Summer_Olympics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Swedish_Provinces" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scouting_and_Guiding_in_Sweden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Bernadotte" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_Lutherans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_people_of_French_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1906_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Stockholm" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Scout_Committee_members" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1947_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_people_of_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_aviation_accidents_or_incidents_in_Denmark" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_equestrians_of_Sweden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_equestrians" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30876822</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744763004</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.royalcourt.se" />
+    <foaf:name xml:lang="en">Prince Gustaf Adolf</foaf:name>
+    <foaf:name xml:lang="en">Prince Gustaf Adolf, Duke of Västerbotten</foaf:name>
+    <foaf:name xml:lang="en">Gustaf Adolf Oscar Fredrik Arthur Edmund</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ridsport-Prins-Gustaf-Adolf.jpg" />
+    <foaf:givenName xml:lang="en">Gustaf</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ridsport-Prins-Gustaf-Adolf.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_Gustaf_Adolf,_Duke_of_Västerbotten?oldid=744763004" />
+    <dbo:abstract xml:lang="ja">ヴェステルボッテン公爵グスタフ・アドルフ王子（スウェーデン語: Arvprins Gustaf Adolf, 全名:Gustaf Adolf Oscar Fredrik Arthur Edmund, 1906年4月22日 – 1947年1月26日）は、スウェーデンの王族。 当時スコーネ公だったグスタフ・アドルフ王子（後のグスタフ6世アドルフ）とその最初の妃であったマルガレータの長男として、ストックホルム宮殿で誕生。現国王カール16世グスタフの父親にあたる。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Gustaaf Adolf Oscar Frederik Arthur Edmund (Stockholm, 22 april 1906 – Kastrup, 26 januari 1947), hertog van Västerbotten, was erfprins van Zweden. Hij was de oudste zoon van (toen zelf nog erfprins) Gustaaf VI Adolf en diens eerste vrouw Margaretha van Connaught. Op 19 oktober 1932 trouwde hij met prinses Sybilla van Saksen-Coburg en Gotha, dochter van Karel Eduard van Saksen-Coburg en Gotha. Het paar kreeg vijf kinderen: 
+*  Margaretha (31 oktober 1934), trouwde met John Ambler (6 juni 1924 – 31 mei 2008) 
+*  Birgitta (9 januari 1937), trouwde met Johann Georg van Hohenzollern-Sigmaringen (31 juli 1932 – 2 maart 2016) 
+*  Désirée (2 juni 1938), trouwde met Niclas Silfverschiöld (31 mei 1934) 
+*  Christina (3 augustus 1943), trouwde met Tord Magnuson (7 april 1941)  
+*  Karel Gustaaf (30 april 1946), trouwde met Silvia Sommerlath (23 december 1943) De prins overleed bij een vliegtuigongeluk (KLM-vlucht PH-TCR), nabij de Deense luchthaven Kastrup toen zijn enige zoon en toekomstig kroonprins nog geen jaar oud was. Het fatale ongeluk gebeurde met een KLM-toestel dat onderweg was van Amsterdam naar Stockholm. Alle 22 inzittenden van het toestel kwamen om. Dankzij het feit dat koning Gustaaf VI Adolf 90 jaar oud werd, was zijn kleinzoon al 27 jaar oud toen hij tot koning van Zweden werd gekroond. Gustaaf Adolf zelf was nooit kroonprins aangezien hij reeds was overleden toen zijn vader in 1950 koning werd.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Gustav Adolf (schwedisch Gustaf Adolf, voller Name Gustaf Adolf Oscar Fredrik Arthur Edmund, innerhalb der Familie Edmund genannt; * 22. April 1906 im Stockholmer Schloss, Stockholm; † 26. Januar 1947 auf dem Flughafen Kopenhagen-Kastrup auf Seeland, Dänemark) war schwedischer Prinz und Herzog von Västerbotten. Er war der Sohn des späteren Königs Gustav VI. Adolf und dessen erster Frau Margaret von Großbritannien und Irland und war der Vater des jetzigen schwedischen Königs Carl XVI. Gustaf.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Густав Адольф, герцог Вестерботтенский (швед. Gustaf Adolf Oscar Fredrik Arthur Edmund) (1906—1947) — старший сын Густава VI Адольфа и Маргариты Коннаутской, наследник престола второй очереди (после своего отца), не царствовал. 26 января 1947 года, при жизни отца и деда, погиб в авиационной катастрофе. Отец нынешнего короля Швеции Карла XVI Густава.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Gustavo Adolfo de Suecia (Gustaf Adolf Oscar Fredrik Arthur Edmund; Estocolmo, Suecia, 22 de abril de 1906 - Kastrup, Dinamarca, 26 de enero de 1947). Príncipe de Suecia, duque de Västerbotten. Fue el hijo mayor del rey Gustavo VI Adolfo y de su primera esposa, la princesa Margarita de Connaught. Llegó a ser el segundo en la línea sucesoria de la familia real sueca. Destinado a ser rey desde su nacimiento, un repentino accidente acabó con esa posibilidad. Su hijo, Carlos Gustavo se convertiría en monarca en 1973.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">古斯塔夫·阿道夫（Gustaf Adolf，Gustaf Adolf Oscar Fredrik Arthur Edmund，1906年4月22日－1947年1月26日），瑞典皇太子，西博滕公爵，他是古斯塔夫六世和第一任妻子玛格丽特郡主的长子。他的母亲是英国维多利亚女王第三子康诺公爵亚瑟亲王和王妃普鲁士的玛格丽特郡主的女儿. 1932年10月19日他和表妹萨克森-科堡-哥达公国的施比拉郡主结婚，施比拉郡主是萨克森-科堡-哥达公爵卡尔·爱德华的女儿，维多利亚女王的曾孙女，奥尔巴尼公爵利奥波德的孙女。他们有四女一男: 
+* 玛格丽塔·德西蕾·维多利亚（Margaretha Désirée Victoria，1934年10月31日-），安伯勒夫人 
+* 贝尔吉塔·英格堡·爱丽丝（Birgitta Ingeborg Alice，1937年1月19日-），霍亨索伦王妃 
+* 德丝丽·伊丽莎白·西比拉（Désirée Elisabeth Sibylla，1938年6月2日-），Silfverschiöld男爵夫人 
+* 克里斯蒂娜·路易丝·海伦娜（Christina Louise Helena，1943年8月3日-），马格努松夫人 
+* 卡尔·古斯塔夫·富尔克·胡贝图斯（Carl Gustaf Folke Hubertus，1946年4月30日-），耶姆特兰公爵，现任国王 古斯塔夫·阿道夫王储在丹麦哥本哈根机场的一次飞机事故中丧生。此後引發王位繼承問題。  古斯塔夫·阿道夫亲王是一個與瑞典人物相關的小作品。你可以通过編輯或修訂擴充其內容。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Gustavo Adolfo Óscar Frederico Artur Edmundo (Estocolmo, 22 de abril de 1906 – Copenhague, 26 de janeiro de 1947) foi um príncipe sueco e o filho mais velho de Gustavo Adolfo, Príncipe Herdeiro da Suécia (depois rei Gustavo VI Adolfo), e sua primeira esposa a princesa Margarida de Connaught, sendo também o pai do rei Carlos XVI Gustavo. Na época de sua morte, ele era o segunda linha de sucessão ao trono depois de seu pai.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Gustaw Adolf, właśc. szwed. Gustaf Adolf Oscar Fredrik Arthur Edmund Bernadotte (ur. 22 kwietnia 1906 w Sztokholmie, zg. 26 stycznia 1947 w Kastrup, Dania) – książę Västerbotten, członek szwedzkiej rodziny królewskiej, najstarszy syn króla Gustawa VI Adolfa Bernadotte i jego pierwszej żony, księżnej Małgorzaty Connaught.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prince Gustaf Adolf Oscar Fredrik Arthur Edmund, Duke of Västerbotten (22 April 1906 – 26 January 1947) was a Swedish prince and heir to the Swedish throne. Born in Stockholm, he was the eldest son of Prince Gustaf Adolf of Sweden (the future King Gustaf VI Adolf) and his first wife Princess Margaret of Connaught and a great-grandson of Queen Victoria of the United Kingdom. Gustaf Adolf was the father of the current king, Carl XVI Gustaf. He was known by his last given name, Edmund, in the family. The prince was killed on 26 January 1947 in an airplane crash at Kastrup Airport, Copenhagen, Denmark.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Gustave-Adolphe de SuèdeGustaf Adolf av SverigeFichier:Prince Gustaf Adolf, Duke of Westrobothnia.jpg Le prince Gustave-Adolphe Fichier:Armoiries du Prince Gustaf Adolf Oscar de Suède.svg Ducs de Västerbotten Le prince Gustaf Adolf de Suède (en suédois : Gustaf Adolf av Sverige), duc de Västerbotten né le 22 avril 1906 au Palais royal de Stockholm (Suède) et mort le 26 janvier 1947 à l&#39;aéroport de Copenhague (Danemark).</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Sibylla_of_Saxe-Coburg_and_Gotha" />
+    <dbo:title xml:lang="en">Duke of Västerbotten</dbo:title>
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Kungliga_begravningsplatsen" />
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/HRH" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Bernadotte" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Margaretha,_Mrs._Ambler" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Birgitta_of_Sweden" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Désirée,_Baroness_Silfverschiöld" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Christina,_Mrs._Magnuson" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Carl_XVI_Gustaf_of_Sweden" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Royal Highness</dbp:offstyle>
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Gustaf Adolf of Sweden</dbp:royalName>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Prince" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Sibylla_of_Saxe-Coburg_and_Gotha">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Scouts">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Westrobothnia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Adolf,_Prince_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Vasterbotten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Adolf,_Duke_of_West_Bothnia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Adolf_of_West_Bothnia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_XVI_Gustaf_of_Sweden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret_of_Connaught">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaretha,_Mrs._Ambler">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Birgitta_of_Sweden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Désirée,_Baroness_Silfverschiöld">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Christina,_Mrs._Magnuson">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Åge_Lundström">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Vaesterbotten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustav_Adolf,_Duke_of_Västerbotten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_West_Bothnia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf_Oscar_Fredrik_Arthur_Edmund_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustavus_Adolphus_Oscar_Frederick_Arthur_Edmund_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_Gustaf_Adolf,_Duke_of_Västerbotten">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+  </rdf:Description>
+</rdf:RDF>

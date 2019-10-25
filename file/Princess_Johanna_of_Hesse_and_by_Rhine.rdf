@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="es">Juana de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="pt">Joana de Hesse</rdfs:label>
+    <rdfs:label xml:lang="ru">Йоханна Гессенская</rdfs:label>
+    <rdfs:label xml:lang="ja">ヨハンナ・マリナ・フォン・ヘッセン</rdfs:label>
+    <rdfs:label xml:lang="en">Princess Johanna of Hesse and by Rhine</rdfs:label>
+    <rdfs:label xml:lang="nl">Johanna van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="zh">约翰娜 (黑森-达姆施塔特)</rdfs:label>
+    <rdfs:comment xml:lang="en">Princess Johanna Marina Eleonore of Hesse and by Rhine (German: Prinzessin Johanna Marina Eleonore von Hessen und bei Rhein; 20 September 1936 – 14 June 1939) was the third child and only daughter of Georg Donatus, Hereditary Grand Duke of Hesse, and Princess Cecilie of Greece and Denmark. She was orphaned at the age of fourteen months when her parents, older brothers Ludwig and Alexander and paternal grandmother Eleonore were killed in a plane crash on their way to a family wedding in London. The remains of her unnamed stillborn baby brother were also found among the wreckage.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Принцесса Йоханна Марина Элеонора (нем. Prinzessin Johanna Marina Eleonore von Hessen und bei Rhein, 20 сентября 1936 — 14 июня 1939) — принцесса Гессенская и Рейнская, единственная дочь наследного принца Гессенского Георга Донатуса и принцессы Сесилии Греческой и Датской (сестры герцога Эдинбургского).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">约翰娜·玛琳娜·埃莱奥诺尔（Johanna Marina Eleonore，1936年9月20日－1939年6月14日），出生于达姆施塔特。黑森-达姆施塔特公主，黑森和莱茵公主。是黑森和莱茵河畔大公国大公世子格奥尔格·多纳图斯与希腊公主塞西莉娅的女儿，有两个哥哥。1937年未随父母参加叔叔的婚礼，幸免于难。后来被叔叔路德维希收养，三岁不到时死于脑膜炎。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Joana Marina Leonor de Hesse e do Reno (em alemão: Johanna Marina Eleonore; 20 de setembro de 1936 - 14 de junho de 1939) foi a terceira criança e única filha do grão-duque Jorge Donatus, e da sua esposa, a princesa Cecília da Grécia e Dinamarca, irmã do príncipe Filipe, Duque de Edimburgo.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Princesa Juana de Hesse-Darmstadt (en alemán: Prinzessin Johanna Marina Eleonore von Hessen und bei Rhein, 20 de septiembre de 1936 – 14 de junio de 1939) fue hija de Jorge Donato, gran duque hereditario de Hesse-Darmstadt y la princesa Cecilia de Grecia y Dinamarca. Quedó huérfana a los catorce meses de edad, cuando sus padres; sus dos hermanos mayores, el príncipe Luis y el príncipe Alejandro; y su abuela paterna, la gran duquesa Leonor, murieron en un accidente de avión en su trayecto a una boda familiar en Londres.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Johanna Marina Eleonora (Darmstadt, 20 september 1936 – aldaar, 14 juni 1939) was een prinses van Hessen en bij de Rijn. Zij was het jongste kind en de enige dochter van George Donatus van Hessen-Darmstadt en diens vrouw Cecilia van Griekenland, een zus van de Britse prins-gemaal Philip.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ヨハンナ・マリナ・エレオノーレ・フォン・ヘッセン・ウント・バイ・ライン（Johanna Marina Eleonore von Hessen und Bei Rhein, 1936年9月20日 - 1939年6月14日）は、ヘッセン大公家家長ゲオルク・ドナトゥス（ヘッセン大公エルンスト・ルートヴィヒの嫡男）とギリシャ王女セシリア（セシル）の長女。 ダルムシュタットで生まれた。1937年11月16日、叔父ルートヴィヒの結婚式のためロンドンへ向かっていた両親、兄ルートヴィヒとアレクサンダー、祖母エレオノーレ大公妃、更には母セシリアが身籠っていた胎児まで飛行機事故で失った。同行していなかったヨハンナだけが生き残った。 1歳2ヶ月で孤児となったヨハンナは、叔父ルートヴィヒとマーガレット夫妻に引き取られ、実子同様に育てられた。しかしわずか2歳6ヶ月で脳膜炎により急逝した。母方の祖母アリス・オブ・バッテンバーグは、「目を閉じて動かなくなったヨハンナは、同じくらいの年齢の頃のセシルとそっくりな顔だちをしていた。」とのちに回想し、三女の一家全てを失った悲嘆に暮れた。ヨハンナは、両親と兄たちの眠る、ダルムシュタットのローゼンローエ墓地に葬られた。叔父ルートヴィヒとマーガレットには、実子は生まれなかった。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Johanna_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2354262" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Juana_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Joana_de_Hesse" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02q9ffm" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2354262" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヨハンナ・マリナ・フォン・ヘッセン" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Hesse" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-06-14</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-6-14</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hesse" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-09-20</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-9-20</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1936_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Adoptees_adopted_by_relations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_meningitis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1939_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Mausoleum_for_the_Grand_Ducal_House_of_Hesse,_Rosenhöhe_(Darmstadt)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_princesses" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10361034</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744739780</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Princess Johanna of Hesse and by Rhine</foaf:name>
+    <foaf:name xml:lang="en">Princess Johanna</foaf:name>
+    <dct:description xml:lang="en">German noble</dct:description>
+    <foaf:givenName xml:lang="en">Joana</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Princess_Johanna_of_Hesse_and_by_Rhine" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Princess_Johanna_of_Hesse_and_by_Rhine?oldid=744739780" />
+    <dbo:abstract xml:lang="ja">ヨハンナ・マリナ・エレオノーレ・フォン・ヘッセン・ウント・バイ・ライン（Johanna Marina Eleonore von Hessen und Bei Rhein, 1936年9月20日 - 1939年6月14日）は、ヘッセン大公家家長ゲオルク・ドナトゥス（ヘッセン大公エルンスト・ルートヴィヒの嫡男）とギリシャ王女セシリア（セシル）の長女。 ダルムシュタットで生まれた。1937年11月16日、叔父ルートヴィヒの結婚式のためロンドンへ向かっていた両親、兄ルートヴィヒとアレクサンダー、祖母エレオノーレ大公妃、更には母セシリアが身籠っていた胎児まで飛行機事故で失った。同行していなかったヨハンナだけが生き残った。 1歳2ヶ月で孤児となったヨハンナは、叔父ルートヴィヒとマーガレット夫妻に引き取られ、実子同様に育てられた。しかしわずか2歳6ヶ月で脳膜炎により急逝した。母方の祖母アリス・オブ・バッテンバーグは、「目を閉じて動かなくなったヨハンナは、同じくらいの年齢の頃のセシルとそっくりな顔だちをしていた。」とのちに回想し、三女の一家全てを失った悲嘆に暮れた。ヨハンナは、両親と兄たちの眠る、ダルムシュタットのローゼンローエ墓地に葬られた。叔父ルートヴィヒとマーガレットには、実子は生まれなかった。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Princess Johanna Marina Eleonore of Hesse and by Rhine (German: Prinzessin Johanna Marina Eleonore von Hessen und bei Rhein; 20 September 1936 – 14 June 1939) was the third child and only daughter of Georg Donatus, Hereditary Grand Duke of Hesse, and Princess Cecilie of Greece and Denmark. She was orphaned at the age of fourteen months when her parents, older brothers Ludwig and Alexander and paternal grandmother Eleonore were killed in a plane crash on their way to a family wedding in London. The remains of her unnamed stillborn baby brother were also found among the wreckage. After the accident, her paternal uncle Ludwig married his bride Margaret Geddes. The couple adopted Johanna, their orphaned niece, and planned to raise her as their own daughter, but she developed meningitis and died twenty months later at the age of two and a half. Her maternal grandmother, Princess Alice of Battenberg, said later that the unconscious Johanna so closely resembled her mother at the same age that it felt like losing her daughter Cecilie all over again. Following Johanna&#39;s death, she was buried with her parents and brothers at the Rosenhöhe.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Johanna Marina Eleonora (Darmstadt, 20 september 1936 – aldaar, 14 juni 1939) was een prinses van Hessen en bij de Rijn. Zij was het jongste kind en de enige dochter van George Donatus van Hessen-Darmstadt en diens vrouw Cecilia van Griekenland, een zus van de Britse prins-gemaal Philip. Zij verloor op zeer jeugdige leeftijd haar ouders en broers, die omkwamen bij het vliegtuigongeluk bij Oostende in 1937. Haar familie was onderweg naar Londen om daar het huwelijk bij te wonen van Johanna&#39;s oom Lodewijk van Hessen-Darmstadt met Margaret Geddes. Na het ongeluk was Johanna wees. Lodewijk en zijn vrouw (hun huwelijksvoltrekking vond wel plaats als gepland, maar zowel de bruidegom als de bruid waren in rouw gekleed), adopteerden hierop hun nichtje, met de bedoeling het als hun eigen kind op te voeden. Het meisje ontwikkelde evenwel een hersenvliesontsteking, aan de gevolgen waarvan ze op tweeënhalfjarige leeftijd overleed.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Princesa Juana de Hesse-Darmstadt (en alemán: Prinzessin Johanna Marina Eleonore von Hessen und bei Rhein, 20 de septiembre de 1936 – 14 de junio de 1939) fue hija de Jorge Donato, gran duque hereditario de Hesse-Darmstadt y la princesa Cecilia de Grecia y Dinamarca. Quedó huérfana a los catorce meses de edad, cuando sus padres; sus dos hermanos mayores, el príncipe Luis y el príncipe Alejandro; y su abuela paterna, la gran duquesa Leonor, murieron en un accidente de avión en su trayecto a una boda familiar en Londres. Después del accidente, el príncipe Luis, hermano de Jorge Donato, se casó con su novia Margaret Geddes y adoptaron a Juana. Meses después, la niña enfermó de meningitis y murió a la edad de dos años y medio. Su abuela materna, la princesa Alicia de Battenberg, dijo más tarde que el inconsciente de Juana era tan estrechamente parecido al de su madre a la misma edad, que sentía como si hubiera perdido a su hija Cecilia otra vez. La niña fue enterrada junto a sus padres y hermanos en el cementerio de Rosenhohe. Su tío Luis y su tía Margaret no pudieron tener hijos propios.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">约翰娜·玛琳娜·埃莱奥诺尔（Johanna Marina Eleonore，1936年9月20日－1939年6月14日），出生于达姆施塔特。黑森-达姆施塔特公主，黑森和莱茵公主。是黑森和莱茵河畔大公国大公世子格奥尔格·多纳图斯与希腊公主塞西莉娅的女儿，有两个哥哥。1937年未随父母参加叔叔的婚礼，幸免于难。后来被叔叔路德维希收养，三岁不到时死于脑膜炎。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Joana Marina Leonor de Hesse e do Reno (em alemão: Johanna Marina Eleonore; 20 de setembro de 1936 - 14 de junho de 1939) foi a terceira criança e única filha do grão-duque Jorge Donatus, e da sua esposa, a princesa Cecília da Grécia e Dinamarca, irmã do príncipe Filipe, Duque de Edimburgo.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Принцесса Йоханна Марина Элеонора (нем. Prinzessin Johanna Marina Eleonore von Hessen und bei Rhein, 20 сентября 1936 — 14 июня 1939) — принцесса Гессенская и Рейнская, единственная дочь наследного принца Гессенского Георга Донатуса и принцессы Сесилии Греческой и Датской (сестры герцога Эдинбургского).</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Johanna of Hesse and by Rhine in 1939</dbp:caption>
+    <dbp:expiry rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-21</dbp:expiry>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hesse-Darmstadt" />
+    <dbp:religion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Baptised in the Lutheran Church</dbp:religion>
+    <dbp:small rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:small>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johanna_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Princess_Johanna_of_Hesse_and_by_Rhine">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+</rdf:RDF>

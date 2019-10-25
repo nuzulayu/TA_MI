@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Calixta_of_Lippe">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrussianPrinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKiel" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="pt">Valdemar da Prússia</rdfs:label>
+    <rdfs:label xml:lang="ru">Вальдемар Прусский</rdfs:label>
+    <rdfs:label xml:lang="ja">ヴァルデマール・フォン・プロイセン (1889-1945)</rdfs:label>
+    <rdfs:label xml:lang="it">Valdemaro di Prussia (1889-1945)</rdfs:label>
+    <rdfs:label xml:lang="de">Waldemar von Preußen (1889–1945)</rdfs:label>
+    <rdfs:label xml:lang="pl">Waldemar Hohenzollern</rdfs:label>
+    <rdfs:label xml:lang="en">Prince Waldemar of Prussia (1889–1945)</rdfs:label>
+    <rdfs:comment xml:lang="de">Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich Prinz von Preußen (* 20. März 1889 in Kiel; † 2. Mai 1945 in Tutzing) war ein deutscher Jurist sowie preußischer Offizier und Großgrundbesitzer. Er war Mitglied des Hauses Hohenzollern.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prince Waldemar of Prussia (Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich) (20 March 1889 at Kiel – 2 May 1945 at Tutzing, Bavaria) was the eldest son of Prince Henry of Prussia and his wife, Princess Irene of Hesse and by Rhine.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ヴァルデマール・フォン・プロイセン（ドイツ語: Waldemar von Preußen, 1889年3月20日 - 1945年5月2日）は、プロイセン王国の王族。プロイセン王子ハインリヒの長男。全名はヴァルデマール・ヴィルヘルム・ルートヴィヒ・フリードリヒ・ヴィクトル・ハインリヒ（Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich）。 ヴァルデマールは1889年3月20日、ヴィルヘルム2世の弟であるハインリヒとその妃でヘッセン大公ルートヴィヒ4世の娘であるイレーネの間に第1子としてキールで生まれた。母方の従弟にあたるロシア皇太子アレクセイと同様に、ヴァルデマールは曾祖母のイギリス女王ヴィクトリアに由来する血友病患者であった。 1919年8月14日、ヴァルデマールはリッペ侯子フリードリヒ・ヴィルヘルムの娘であるカリキスタ（1895年 - 1982年）とヘンメルマルク（現シュレースヴィヒ＝ホルシュタイン州レンツブルク＝エッケルンフェルデ郡Barkelsby）で結婚したが、二人の間に子供は生まれなかった。ヘンメルマルクは父のハインリヒがイギリスのマナー・ハウス風の邸宅を建ててドイツ革命後に住んでいた場所で、ハインリヒの墓もある。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Valdemar da Prússia (Valdemar Guilherme Luís Frederico Victor Henrique), (20 de março de 1889 - 2 de maio de 1945) foi o filho mais velho do príncipe Henrique da Prússia e da sua esposa, a princesa Irene de Hesse e do Reno. Casou-se com a princesa Calixta de Lippe (1895-1982) no dia 14 de agosto de 1919 em Hemmelmark. O casal não teve filhos.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Вальдемар Вильгельм Людвиг Фридрих Виктор Генрих Прусский (нем. Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich von Preußen; 20 марта 1889, Киль — 2 мая 1945, Тутцинг) — принц Прусский. Старший сын принца Генриха Прусского и его супруги Ирены Гессенской и Рейнской.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich (ur. 20 marca 1889 w Kilonii, zm. 2 maja 1945 r. w Tutzing) – książę pruski z dynastii Hohenzollernów, ostatni właściciel pałacu w Kamieńcu Ząbkowickim.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Valdemar_da_Prússia" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q63093" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Valdemaro_di_Prussia_(1889-1945)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Waldemar_Hohenzollern" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヴァルデマール・フォン・プロイセン_(1889-1945)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Waldemar_von_Preußen_(1889–1945)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1057766089" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q63093" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027h515" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Tutzing" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Bavaria" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-05-02</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-5-2</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kiel" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-3-20</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-03-20</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Crown_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hohenzollern" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1945_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prussian_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1889_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Haemophilia_in_European_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Red_Eagle" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8744177</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733455494</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Prince Waldemar of Prussia</foaf:name>
+    <foaf:name xml:lang="en">Prince Waldemar</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pince_Waldemar2.jpg" />
+    <dct:description xml:lang="en">German jurist</dct:description>
+    <foaf:givenName xml:lang="en">Waldemar</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_Waldemar_of_Prussia_(1889–1945)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pince_Waldemar2.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_Waldemar_of_Prussia_(1889–1945)?oldid=733455494" />
+    <dbo:abstract xml:lang="de">Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich Prinz von Preußen (* 20. März 1889 in Kiel; † 2. Mai 1945 in Tutzing) war ein deutscher Jurist sowie preußischer Offizier und Großgrundbesitzer. Er war Mitglied des Hauses Hohenzollern.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prince Waldemar of Prussia (Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich) (20 March 1889 at Kiel – 2 May 1945 at Tutzing, Bavaria) was the eldest son of Prince Henry of Prussia and his wife, Princess Irene of Hesse and by Rhine.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ヴァルデマール・フォン・プロイセン（ドイツ語: Waldemar von Preußen, 1889年3月20日 - 1945年5月2日）は、プロイセン王国の王族。プロイセン王子ハインリヒの長男。全名はヴァルデマール・ヴィルヘルム・ルートヴィヒ・フリードリヒ・ヴィクトル・ハインリヒ（Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich）。 ヴァルデマールは1889年3月20日、ヴィルヘルム2世の弟であるハインリヒとその妃でヘッセン大公ルートヴィヒ4世の娘であるイレーネの間に第1子としてキールで生まれた。母方の従弟にあたるロシア皇太子アレクセイと同様に、ヴァルデマールは曾祖母のイギリス女王ヴィクトリアに由来する血友病患者であった。 1919年8月14日、ヴァルデマールはリッペ侯子フリードリヒ・ヴィルヘルムの娘であるカリキスタ（1895年 - 1982年）とヘンメルマルク（現シュレースヴィヒ＝ホルシュタイン州レンツブルク＝エッケルンフェルデ郡Barkelsby）で結婚したが、二人の間に子供は生まれなかった。ヘンメルマルクは父のハインリヒがイギリスのマナー・ハウス風の邸宅を建ててドイツ革命後に住んでいた場所で、ハインリヒの墓もある。 第二次世界大戦末期、ヴァルデマール一家はソ連軍を避けてバイエルン州オーバーバイエルン行政管区シュタルンベルク郡のトゥツィンクへ移った。しかしここにはダッハウ強制収容所があり、1945年5月1日に収容所を解放したアメリカ軍が医療施設をすべて接収したため、ヴァルデマールは輸血を受けられなくなって翌5月2日に死去した。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Вальдемар Вильгельм Людвиг Фридрих Виктор Генрих Прусский (нем. Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich von Preußen; 20 марта 1889, Киль — 2 мая 1945, Тутцинг) — принц Прусский. Старший сын принца Генриха Прусского и его супруги Ирены Гессенской и Рейнской.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Valdemar da Prússia (Valdemar Guilherme Luís Frederico Victor Henrique), (20 de março de 1889 - 2 de maio de 1945) foi o filho mais velho do príncipe Henrique da Prússia e da sua esposa, a princesa Irene de Hesse e do Reno. Casou-se com a princesa Calixta de Lippe (1895-1982) no dia 14 de agosto de 1919 em Hemmelmark. O casal não teve filhos.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich (ur. 20 marca 1889 w Kilonii, zm. 2 maja 1945 r. w Tutzing) – książę pruski z dynastii Hohenzollernów, ostatni właściciel pałacu w Kamieńcu Ząbkowickim.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Irene_of_Hesse_and_by_Rhine" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Calixta_of_Lippe-Biesterfeld" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hohenzollern" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Son" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waldemar">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Irene_of_Hesse_and_by_Rhine">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Waldemar">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waldemar_Wilhelm_Ludwig_Friedrich_Viktor_Heinrich_of_Prussia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889-1945)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waldemar_Wilhelm_Ludwig_Friedrich_Viktor_Heinrich">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_Waldemar_of_Prussia_(1889–1945)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis,_Prince_of_Hesse_and_by_Rhine">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdfs:label xml:lang="pt">Luís de Hesse</rdfs:label>
+    <rdfs:label xml:lang="ja">ルートヴィヒ・フォン・ヘッセン＝ダルムシュタット</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig von Hessen und bei Rhein</rdfs:label>
+    <rdfs:label xml:lang="en">Louis, Prince of Hesse and by Rhine</rdfs:label>
+    <rdfs:label xml:lang="fr">Louis de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="ru">Людвиг, принц Гессенский</rdfs:label>
+    <rdfs:label xml:lang="zh">路德维希 (黑森-达姆施塔特)</rdfs:label>
+    <rdfs:label xml:lang="es">Luis de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="nl">Lodewijk van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi d&#39;Assia-Darmstadt</rdfs:label>
+    <rdfs:comment xml:lang="en">Louis, Prince of Hesse and by Rhine (Ludwig Hermann Alexander Chlodwig, 20 November 1908 – 30 May 1968) was the youngest son of Ernest Louis, Grand Duke of Hesse by his second wife, Princess Eleonore of Solms-Hohensolms-Lich. In 1964 he stood as godfather to Prince Edward. In 1960 Prince Louis adopted his distant cousin Moritz, Landgrave of Hesse. With the death of Prince Louis in Frankfurt 1968 he was succeeded by Moritz&#39;s father Philipp, Landgrave of Hesse (d. 1980) as head of the house. Moritz (d. 2013) in turn was succeeded by his son Donatus (b. 1966).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">路德维希·赫尔曼·亚历山大·克洛维（LUDWIG Hermann Alexander Chlodwig，1908年11月20日－1968年5月30日），黑森家族达姆施塔特支首领、黑森大公国继承人，也是黑森家族达姆施塔特支最后的男嗣。 1937年11月17日，路德维希与英国贵族玛格丽特·坎贝尔-格德斯（Margaret Campbell-Geddes，1913年3月18日—1997年1月26日）结婚。玛格丽特·坎贝尔-格德斯是英国外交家第一代格德斯男爵奥克兰·坎贝尔-格德斯（Auckland Campbell-Geddes, 1st Baron Geddes）与伊莎贝拉·甘布尔·罗斯（Isabella Gamble Ross）的女儿。路德维希的哥哥格奥尔格·多纳图斯与母亲埃莱奥诺尔、妻子塞西莉娅、儿子路德维希和亚历山大一起于11月16日前往伦敦参加婚礼。飞机在比利时的奥斯坦德坠毁，起火燃烧。机上人员全部去世。这场空难对于黑森-达姆施塔特大公家族是毁灭性的，家族首领、家族的继承人都在此场空难中去世，黑森-达姆施塔特大公家族只剩路德维希一名男嗣。 路德维希1968年在美因河畔法兰克福去世，终年59岁。黑森-达姆施塔特家族因他的去世而绝嗣。黑森-卡塞尔支的成员重新统一了分裂了401年的黑森家族。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Louis de Hesse-Darmstadt (en allemand : Ludwig Hermann Alexander Chlodwig Prinz von Hessen und bei Rhein), né le 20 novembre 1908 à Darmstadt et mort le 30 mai 1968 à Francfort-sur-le-Main, est grand-duc titulaire de Hesse de 1937 à 1968.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luís, Grão-duque de Hesse e do Reno, (20 de novembro de 1908 - 30 de maio de 1968) foi o filho mais novo do grão-duque Ernesto Luís de Hesse e da sua segunda esposa, a princesa Leonor de Solms-Hohensolms-Lich. O seu nome completo era Luís Hermano Alexandre Cláudio.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Lodewijk Hermann Alexander Clodewick van Hessen-Darmstadt (Darmstadt, 20 november 1908 - Frankfurt am Main, 30 mei 1968) was een groothertog van Hessen en aan de Rijn. Hij was de jongste zoon uit het tweede huwelijk van groothertog Ernst Lodewijk van Hessen-Darmstadt met Eleonore van Solms-Hohensolms-Lich. Het huwelijk van Lodewijk bleef overigens kinderloos. Lodewijks weduwe adopteerde daarop Lodewijks neef, Maurits, uit de linie Hessen-Rumpenheim, die - sindsdien - het hoofd is van het Huis Hessen.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Людвиг Герман Александр Хлодвиг (нем. Ludwig Hermann Alexander Chlodwig; 20 ноября 1908 — 30 мая 1968) — принц Гессенский и Рейнский, был младшим сыном Людвига Эрнеста, великого герцога Гессен и его второй супруги, принцессы Элеоноры Сольмс-Гогенсольмс-Лих.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ルートヴィヒ・フォン・ヘッセン＝ダルムシュタット（ドイツ語: Ludwig von Hessen-Darmstadt, 1908年11月20日 - 1968年5月30日）は、ヘッセン大公家家長（1937年 - 1968年）。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ludwig Hermann Alexander Chlodwig Prinz von Hessen und bei Rhein (zivilrechtlich: Prinz und Landgraf von Hessen) (* 20. November 1908 in Darmstadt; † 30. Mai 1968 in Frankfurt am Main) war der jüngere Sohn des letzten regierenden Großherzogs Ernst Ludwig von Hessen und bei Rhein (1868–1937) und dessen zweiter Gemahlin Prinzessin Eleonore zu Solms-Hohensolms-Lich (1871–1937).</rdfs:comment>
+    <rdfs:comment xml:lang="es">Príncipe Luis de Hesse-Darmstadt ( Ludwig Hermann Alexander Chlodwig Prinz von Hessen und bei Rhein , 20 de noviembre de 1908 - 30 de mayo de 1968) fue el hijo menor de Ernesto Luis, gran duque de Hesse y su segunda esposa Eleonora de Solms-Hohensolms-Lich. Sucedió a su hermano Jorge Donato como gran duque titular de Hesse-Darmstadt, después de su muerte.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fl6xf" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q61270" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_von_Hessen_und_bei_Rhein" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ルートヴィヒ・フォン・ヘッセン＝ダルムシュタット" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_d&#39;Assia-Darmstadt" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Hesse_and_by_Rhine" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luís_de_Hesse" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louis_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119387727" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q61270" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Frankfurt" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/West_Germany" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1968-5-30</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1968-05-20</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/German_Empire" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-11-20</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1968_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1908_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6026677</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">709597846</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Louis</foaf:name>
+    <foaf:name xml:lang="en">Louis, Prince of Hesse and by Rhine</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Luís_de_Hesse_(filho_de_Ernesto).JPG" />
+    <dct:description xml:lang="en">German prince</dct:description>
+    <foaf:givenName xml:lang="en">Luigi</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Louis,_Prince_of_Hesse_and_by_Rhine" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Luís_de_Hesse_(filho_de_Ernesto).JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Louis,_Prince_of_Hesse_and_by_Rhine?oldid=709597846" />
+    <dbo:abstract xml:lang="zh">路德维希·赫尔曼·亚历山大·克洛维（LUDWIG Hermann Alexander Chlodwig，1908年11月20日－1968年5月30日），黑森家族达姆施塔特支首领、黑森大公国继承人，也是黑森家族达姆施塔特支最后的男嗣。 1937年11月17日，路德维希与英国贵族玛格丽特·坎贝尔-格德斯（Margaret Campbell-Geddes，1913年3月18日—1997年1月26日）结婚。玛格丽特·坎贝尔-格德斯是英国外交家第一代格德斯男爵奥克兰·坎贝尔-格德斯（Auckland Campbell-Geddes, 1st Baron Geddes）与伊莎贝拉·甘布尔·罗斯（Isabella Gamble Ross）的女儿。路德维希的哥哥格奥尔格·多纳图斯与母亲埃莱奥诺尔、妻子塞西莉娅、儿子路德维希和亚历山大一起于11月16日前往伦敦参加婚礼。飞机在比利时的奥斯坦德坠毁，起火燃烧。机上人员全部去世。这场空难对于黑森-达姆施塔特大公家族是毁灭性的，家族首领、家族的继承人都在此场空难中去世，黑森-达姆施塔特大公家族只剩路德维希一名男嗣。 格奥尔格·多纳图斯的女儿约翰娜未随父母参加叔叔的婚礼，幸免于难。路德维希收养了她，但她三岁不到时死于脑膜炎。由于婚后没有子嗣，路德维希夫妇又收养了堂弟黑森-卡塞尔支族长菲利普的长子和继承人莫里茨作为自己的继承人。莫里茨后来继承了卡塞尔和达姆施塔特两支，成为全黑森的家族首领。 路德维希1968年在美因河畔法兰克福去世，终年59岁。黑森-达姆施塔特家族因他的去世而绝嗣。黑森-卡塞尔支的成员重新统一了分裂了401年的黑森家族。  路德维希 (黑森-达姆施塔特)是一個與德國人物相關的小作品。你可以通过編輯或修訂擴充其內容。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Príncipe Luis de Hesse-Darmstadt ( Ludwig Hermann Alexander Chlodwig Prinz von Hessen und bei Rhein , 20 de noviembre de 1908 - 30 de mayo de 1968) fue el hijo menor de Ernesto Luis, gran duque de Hesse y su segunda esposa Eleonora de Solms-Hohensolms-Lich. Sucedió a su hermano Jorge Donato como gran duque titular de Hesse-Darmstadt, después de su muerte.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ルートヴィヒ・フォン・ヘッセン＝ダルムシュタット（ドイツ語: Ludwig von Hessen-Darmstadt, 1908年11月20日 - 1968年5月30日）は、ヘッセン大公家家長（1937年 - 1968年）。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Людвиг Герман Александр Хлодвиг (нем. Ludwig Hermann Alexander Chlodwig; 20 ноября 1908 — 30 мая 1968) — принц Гессенский и Рейнский, был младшим сыном Людвига Эрнеста, великого герцога Гессен и его второй супруги, принцессы Элеоноры Сольмс-Гогенсольмс-Лих.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luís, Grão-duque de Hesse e do Reno, (20 de novembro de 1908 - 30 de maio de 1968) foi o filho mais novo do grão-duque Ernesto Luís de Hesse e da sua segunda esposa, a princesa Leonor de Solms-Hohensolms-Lich. O seu nome completo era Luís Hermano Alexandre Cláudio.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ludwig Hermann Alexander Chlodwig Prinz von Hessen und bei Rhein (zivilrechtlich: Prinz und Landgraf von Hessen) (* 20. November 1908 in Darmstadt; † 30. Mai 1968 in Frankfurt am Main) war der jüngere Sohn des letzten regierenden Großherzogs Ernst Ludwig von Hessen und bei Rhein (1868–1937) und dessen zweiter Gemahlin Prinzessin Eleonore zu Solms-Hohensolms-Lich (1871–1937).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Louis, Prince of Hesse and by Rhine (Ludwig Hermann Alexander Chlodwig, 20 November 1908 – 30 May 1968) was the youngest son of Ernest Louis, Grand Duke of Hesse by his second wife, Princess Eleonore of Solms-Hohensolms-Lich. He succeeded his brother Georg Donatus as the titular Grand Duke of Hesse after his death. He married the Hon. Margaret Geddes (1913–1997) daughter of Auckland Campbell Geddes, 1st Baron Geddes in 1937, on the day after the Sabena OO-AUB Ostend crash. They had no issue, although after the death of his older brother, he adopted his niece, Johanna (b. 1936) but the little girl died in 1939. In 1964 he stood as godfather to Prince Edward. In 1960 Prince Louis adopted his distant cousin Moritz, Landgrave of Hesse. With the death of Prince Louis in Frankfurt 1968 he was succeeded by Moritz&#39;s father Philipp, Landgrave of Hesse (d. 1980) as head of the house. Moritz (d. 2013) in turn was succeeded by his son Donatus (b. 1966). He introduced the British composer Benjamin Britten (1913–76) to the poetry of Friedrich Hölderlin (1770–1843). Britten dedicated his 1958 song cycle Sechs Hölderlin-Fragmente to the Prince.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Louis de Hesse-Darmstadt (en allemand : Ludwig Hermann Alexander Chlodwig Prinz von Hessen und bei Rhein), né le 20 novembre 1908 à Darmstadt et mort le 30 mai 1968 à Francfort-sur-le-Main, est grand-duc titulaire de Hesse de 1937 à 1968.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Lodewijk Hermann Alexander Clodewick van Hessen-Darmstadt (Darmstadt, 20 november 1908 - Frankfurt am Main, 30 mei 1968) was een groothertog van Hessen en aan de Rijn. Hij was de jongste zoon uit het tweede huwelijk van groothertog Ernst Lodewijk van Hessen-Darmstadt met Eleonore van Solms-Hohensolms-Lich. Lodewijk groeide op in Langen (Hessen) en legde zich, na de middelbare school toe op de diplomatieke dienst. In de tijd dat hij werkzaam was bij de Duitse ambassade in Londen, leerde hij Margaret Geddes, dochter van de Britse diplomaat Auckland Geddes, eerste Baron Geddes, kennen. Het paar verloofde zich en het huwelijk werd vastgesteld op 17 november 1937. Daags daarvoor vertrokken zijn oudere broer George, met diens vrouw Cecilia en hun twee zoons alsmede zijn moeder, de groothertogin Eleonore, die een maand daarvoor weduwe geworden was, per vliegtuig vanuit Keulen naar Londen. Het toestel raakte verzeild in noodweer en stortte nabij Oostende neer. Alle inzittenden kwamen om het leven. Het huwelijk werd uitgesteld, maar - na de begrafenis - wel voltrokken, waarbij de bruid geheel in het zwart gekleed was. Lodewijk en Margaret adopteerden het enige kind van zijn oudere broer, die de vliegramp overleefde: Johanna. Het meisje overleed evenwel twee jaar later aan de gevolgen van een hersenvliesontsteking. Het huwelijk van Lodewijk bleef overigens kinderloos. Lodewijks weduwe adopteerde daarop Lodewijks neef, Maurits, uit de linie Hessen-Rumpenheim, die - sindsdien - het hoofd is van het Huis Hessen.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Eleonore_of_Solms-Hohensolms-Lich" />
+    <dbo:title xml:lang="en">Prince of Hesse and by Rhine</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hesse-Darmstadt" />
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Grand Duchy abolished in 1918</dbp:reason>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Margaret Campbell Geddes</dbp:spouse>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Grand_Duke_of_Hesse_and_by_Rhine" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1937</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Son" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Eleonore_of_Solms-Hohensolms-Lich">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Louis_of_Hesse_and_by_Rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_louis_of_hesse_and_by_rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Louis,_Prince_of_Hesse_and_by_Rhine">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Louis,_Prince_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+</rdf:RDF>

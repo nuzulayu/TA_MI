@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_i_of_greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greco-Turkish_War_(1897)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greco-Turkish_War_(1919–22)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Yenidje">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Katherine_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandros_Zaimis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Irene,_Duchess_of_Aosta">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_of_Greece">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_I_of_Greece">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFieldMarshalsOfGreece" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFieldMarshalsOfTheGermanEmpire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekPrinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishPrinces" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/King110231515" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Absentee109757653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromAthens" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPresidentsOfOrganisingCommitteesForTheOlympicGames" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheOrderOfTheDannebrog" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsWhoAbdicated" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/President110467179" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOrthodoxMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Exile110071332" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FieldMarshal110086821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekExiles" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110296176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKingsOfGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdfs:label xml:lang="fr">Constantin Ier (roi des Hellènes)</rdfs:label>
+    <rdfs:label xml:lang="ja">コンスタンティノス1世 (ギリシャ王)</rdfs:label>
+    <rdfs:label xml:lang="en">Constantine I of Greece</rdfs:label>
+    <rdfs:label xml:lang="pl">Konstantyn I Grecki</rdfs:label>
+    <rdfs:label xml:lang="nl">Constantijn I van Griekenland</rdfs:label>
+    <rdfs:label xml:lang="it">Costantino I di Grecia</rdfs:label>
+    <rdfs:label xml:lang="ru">Константин I (король Греции)</rdfs:label>
+    <rdfs:label xml:lang="pt">Constantino I da Grécia</rdfs:label>
+    <rdfs:label xml:lang="de">Konstantin I. (Griechenland)</rdfs:label>
+    <rdfs:label xml:lang="zh">康斯坦丁一世 (希腊)</rdfs:label>
+    <rdfs:label xml:lang="es">Constantino I de Grecia</rdfs:label>
+    <rdfs:label xml:lang="ar">قسطنطين الأول ملك اليونان</rdfs:label>
+    <rdfs:comment xml:lang="de">Konstantin I. – griechisch Κωνσταντίνος Α΄ Βασιλεύς των Ελλήνων Konstantínos I Vasiléfs ton Ellínon – (* 21. Julijul./ 2. August 1868greg. in Athen; † 11. Januar 1923 in Palermo) war ein Angehöriger des dänisch-griechischen Königshauses Schleswig-Holstein-Sonderburg-Glücksburg und von 1913 bis 1917 sowie von 1920 bis 1922 griechischer König.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Era figlio primogenito di Giorgio I di Grecia della casata reale dei Glücksburg e di Ol&#39;ga Konstantinovna Romanova.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Константи́н I ((греч. Κωνσταντίνος Αʹ, 2 августа 1868, Афины, Греция — 11 января 1923, Палермо, Италия) — король греков в 1913—1917, 1920—1922 годах из династии Глюксбургов. Первый Глюксбург, родившийся в Греции.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Constantin Ier de Grèce (en grec moderne : Κωνσταντίνος Α΄ της Ελλάδας / Konstantínos I tis Elládas) ou, parfois, Constantin XII, est né le 2 août 1868, à Athènes, en Grèce, et est décédé le 11 janvier 1923, à Palerme, en Italie. Appartenant à la maison d’Oldenbourg, il est le troisième souverain de la Grèce moderne et règne de 1913 à 1917, puis de 1920 à 1922, avec le titre de roi des Hellènes.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Constantino I rey de los Helenos (en griego: Κωνσταντίνος A&#39;; 1868-1923), rey de Grecia de 1913 a 1917 y de 1920 a 1922. Después de sus éxitos militares en las Guerras Balcánicas que permitieron extender el territorio de Grecia, su apoyo pasivo a las Potencias Centrales y su enfrentamiento con el primer ministro Eleftherios Venizelos durante la Primera Guerra Mundial le valieron el descrédito de los Aliados y provocaron una profunda y duradera ruptura en la sociedad griega, por lo que se exilió en 1917. Entre 1917 y 1920, fue proclamado rey su hermano Alejandro I de Grecia. Luego, fue devuelto al trono en 1920, el descontento popular y militar tras el fracaso griego en la Guerra Greco-Turca le obligó a exiliarse de nuevo en 1922. Murió en 1923 en Italia.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Constantine I (Greek: Κωνσταντῖνος Αʹ, Βασιλεὺς τῶν Ἑλλήνων, Konstantínos Αʹ, Vasiléfs ton Ellínon; 2 August [O.S. 21 July] 1868 – 11 January 1923) was king of Greece from 1913 to 1917 and from 1920 to 1922. He was commander-in-chief of the Hellenic Army during the unsuccessful Greco-Turkish War of 1897 and led the Greek forces during the successful Balkan Wars of 1912–1913, in which Greece expanded to include Thessaloniki, doubling in area and population. He succeeded to the throne of Greece on 18 March 1913, following his father&#39;s assassination.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Konstantyn I (ur. 21 lipca?/2 sierpnia 1868 w Atenach, zm. 11 stycznia 1923 w Palermo, Włochy) – król Grecji w latach 1913-1917 i 1920-1922 z dynastii Glücksburgów, bocznej linii Oldenburgów. Syn Jerzego I i jego żony – Olgi Konstantinownej. Działalność Konstantyna w czasie wojen zapewniła mu znaczną popularność w społeczeństwie w momencie obejmowania tronu. Prasa nadała mu przydomki Bułgarobójcy i Syna Orła.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">希腊人国王康斯坦丁一世（希腊文：Κωνσταντίνος A&#39;, Βασιλεύς των Ελλήνων，拉丁文转写：Konstantínos A&#39;, Vasileús ton Ellínon，1868年8月2日－1923年1月11日），1913年至1917年、1920年至1922年在位。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Constantino I (Atenas, 2 de agosto de 1868 – Palermo, 11 de janeiro de 1923) foi o Rei da Grécia de 1913 até sua abdicação em 1917 e depois de 1920 até sua segunda abdicação em 1922. Era filho do rei Jorge I e de Olga Constantinovna da Rússia. Foi comandante chefe do Exército da Grécia, liderando as forças nacionais na derrota na Guerra Greco-Turca de 1897 e para a vitória na Guerras dos Balcãs de 1912–13, em que conseguiu conquistar a Salonica e dobrar a área e população do país.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">コンスタンディノス1世（Ελληνικά: Κωνσταντίνος Α΄, ラテン文字転写: Konstantinos I、1868年8月2日 - 1923年1月11日）は、ギリシャの国王（在位：1913年3月18日 - 1917年6月11日、1920年12月19日 - 1922年9月27日）。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الملك قسطنطين الأول (2 أغسطس 1868 - 11 يناير 1923) ملك اليونان ، كان قائد للجيش اليوناني خلال الحرب العثمانية اليونانية في 1897 و حرب البلقان الأولى عام 1912 تولى مقاليد الحكم في 18 مارس 1913 بعد مقتل والده الملك جورج الأول حتى 11 يونيو 1917 وخلفه أبنه الملك ألكسندر الأول. وهو والد كلأ من الملك جورج الثاني والملك ألكسندر الأول والملك بول وجد الملكة صوفيا ملكة إسبانيا والملك قسطنطين الثاني.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Constantijn I (Grieks: Κωνσταντίνος A&#39;, Βασιλεύς των Ελλήνων, Konstandinos A&#39; Vasilefs ton Ellinon) (Athene, 2 augustus 1868 – Palermo, 11 januari 1923) was koning der Hellenen van 1913 tot 1917 en van 1920 tot 1922. Hij was opperbevelhebber van het Helleense leger tijdens de mislukte Grieks-Turkse Oorlog van 1897 en leidde de Griekse troepen tijdens de succesvolle Balkanoorlogen van 1912-1913, waarin Griekenland Thessaloniki won en verdubbelde in oppervlakte en bevolking. Hij besteeg de troon van Griekenland op 18 maart 1913, na de moord op zijn vader.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Constantino_I_de_Grecia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Constantin_Ier_(roi_des_Hellènes)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Konstantyn_I_Grecki" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Constantijn_I_van_Griekenland" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/콘스탄티노스_1세" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q152099" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Constantino_I_da_Grécia" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Konstantin_I._(Griechenland)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q152099" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κωνσταντίνος_Α΄_της_Ελλάδας" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01552j" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Konstantinus_I_dari_Yunani" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/142039012" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Constantine_I_of_Greece" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/コンスタンティノス1世_(ギリシャ王)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Costantino_I_di_Grecia" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Konstantin_I._Řecký" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Palermo" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Italy" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-01-11</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-1-11</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Athens" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-8-2</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-08-02</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Commander&#39;s_Crosses_of_the_Cross_of_Valour_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_the_Organising_Committees_for_the_Olympic_Games" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_military_personnel_of_the_Balkan_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_people_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Athens" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_military_personnel_of_the_Greco-Turkish_War_(1897)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Field_marshals_of_the_German_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_emigrants_to_Italy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Carol_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_exiles" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Field_marshals_of_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heidelberg_University_alumni" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kings_of_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1868_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1923_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_who_abdicated" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Orthodox_monarchs" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160204</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743263197</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.firstworldwar.com/source/greece_constantineabdication.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=4F-v35--l_gC&amp;dq=Panathenaic+Stadium,+Averoff,+Constantine&amp;source=gbs_summary_s&amp;cad=0" />
+    <foaf:name xml:lang="en">Constantine I of Greece</foaf:name>
+    <foaf:name xml:lang="en">Constantine I</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_Constantine_Ι_of_Greece,_1914,_by_Laszlo.jpg" />
+    <dct:description xml:lang="en">King of Greece</dct:description>
+    <foaf:givenName xml:lang="en">Constantine</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Constantine_I_of_Greece" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_Constantine_Ι_of_Greece,_1914,_by_Laszlo.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Constantine_I_of_Greece?oldid=743263197" />
+    <dbo:abstract xml:lang="ja">コンスタンディノス1世（Ελληνικά: Κωνσταντίνος Α΄, ラテン文字転写: Konstantinos I、1868年8月2日 - 1923年1月11日）は、ギリシャの国王（在位：1913年3月18日 - 1917年6月11日、1920年12月19日 - 1922年9月27日）。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Constantin Ier de Grèce (en grec moderne : Κωνσταντίνος Α΄ της Ελλάδας / Konstantínos I tis Elládas) ou, parfois, Constantin XII, est né le 2 août 1868, à Athènes, en Grèce, et est décédé le 11 janvier 1923, à Palerme, en Italie. Appartenant à la maison d’Oldenbourg, il est le troisième souverain de la Grèce moderne et règne de 1913 à 1917, puis de 1920 à 1922, avec le titre de roi des Hellènes. Le diadoque Constantin suit, très jeune, une formation militaire, en Grèce puis en Allemagne, qui le conduit à exercer d&#39;importantes fonctions dans l&#39;armée hellène. En 1897, il est ainsi commandant en chef lors de la première guerre gréco-turque et c’est largement à lui que l’opinion publique hellène impute la cuisante défaite nationale. Devenu très impopulaire au sein de l’armée, Constantin doit démissionner de ses fonctions à la suite du « coup de Goudi » de 1909 et quitter, durant quelque temps, la Grèce. Malgré tout, son exil est provisoire et le diadoque retrouve ses fonctions de commandant en chef grâce au Premier ministre Elefthérios Venizélos, en 1911. Après avoir réorganisé l’armée, le prince héritier conduit, en 1912-1913, les forces de son pays lors des deux Guerres balkaniques et participe à la conquête de Thessalonique, de la Macédoine et d’une partie de l’Épire. Le royaume hellène voit sa superficie et sa population multipliées par deux. C&#39;est alors que le père du prince, le roi Georges Ier, est assassiné, le 18 mars 1913, à Thessalonique, et que Constantin monte, à son tour, sur le trône. Pendant la Première Guerre mondiale, le désaccord de Constantin avec son Premier ministre Elefthérios Venizélos à propos de l’entrée de la Grèce dans le conflit aux côtés de la Triple-Entente conduit le royaume hellène au « Schisme national » (en grec : εθνικός Διχασμός / ethnikós Dikhasmós). En 1915, le roi force donc Venizélos à démissionner de ses fonctions mais c’est finalement lui qui doit quitter le pouvoir en 1917, après que les forces alliées l’ont menacé de bombarder Athènes. Constantin Ier laisse donc le trône à son deuxième fils, Alexandre Ier, et s’installe ensuite en Suisse. Mais, après la mort du jeune roi, la défaite de Venizélos aux élections législatives de 1920 et un plébiscite en faveur du retour de Constantin, celui-ci reprend la tête de son pays. Cependant, le désastre militaire hellène durant la deuxième guerre gréco-turque (1919-1922) conduit le souverain à abdiquer définitivement en 1922 et à partir en exil en Italie, où il meurt quelques mois plus tard. Son fils aîné, Georges II, lui succède alors brièvement avant de renoncer, à son tour, à la couronne.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Konstantyn I (ur. 21 lipca?/2 sierpnia 1868 w Atenach, zm. 11 stycznia 1923 w Palermo, Włochy) – król Grecji w latach 1913-1917 i 1920-1922 z dynastii Glücksburgów, bocznej linii Oldenburgów. Syn Jerzego I i jego żony – Olgi Konstantinownej. Absolwent szkół oficerskich w Atenach i Akademii Wojskowej w Poczdamie. W młodości służył w pruskiej gwardii królewskiej. Obarczony odpowiedzialnością za klęskę Greków w wojnie z Turcją w 1897. W 1909, wskutek przewrotu z Gudi, został zmuszony do odejścia z wojska. W 1911 Elefterios Wenizelos mianował go wodzem naczelnym armii greckiej. Podczas I wojny bałkańskiej wykazał się talentem militarnym, jako naczelny dowódca polowy armii greckiej. Już wtedy ujawniła się skłonność Konstantyna do bardzo wysokiego ryzyka dowódczego i politycznego. W kwestiach strategicznych książę wykonywał jednak, acz niechętnie, rozkazy premiera Elefteriosa Wenizelosa. Działalność Konstantyna w czasie wojen zapewniła mu znaczną popularność w społeczeństwie w momencie obejmowania tronu. Prasa nadała mu przydomki Bułgarobójcy i Syna Orła. Po wybuchu I wojny światowej Konstantyn zajął stanowisko proniemieckie, wbrew sympatiom premiera Wenizelosa, zwolennika ententy. Konflikt między monarchą i jego otoczeniem a rządem przeszedł do historii Grecji jako schizma narodowa. 4 września 1915 Wenizelos zapowiedział w parlamencie zaangażowanie się Grecji w wojnę po stronie Ententy, z powodu czego król (mimo poparcia parlamentarnego dla premiera), doprowadził do dymisji rządu. Nowym premierem został reprezentant opcji proniemieckiej Stefanos Skulidis, który w maju 1916 zgodził się przekazać siłom bułgarskim i niemieckim fort Rupel na Strumie. Wielka Brytania i Francja oskarżyły wówczas Grecję o zdradę i dokonały zbrojnej interwencji na wyspach Chios i Korfu oraz w Pireusie. Konstantynowi przedstawiono ultimatum, w którym zażądano od niego zdemobilizowania sił greckich oraz odwołania premiera. Król zgodził się na spełnienie żądań, apelując przy tym do żołnierzy o wierność. Tymczasem 27 września Wenizelos wydał z greckiej Macedonii proklamację nawołującą do nieposłuszeństwa wobec monarchy i sformował rząd tymczasowy, który miał kontynuować jego wcześniejszą politykę. Państwa sprzymierzone, chociaż oficjalnie nie uznały tego gabinetu, zastosowały blokadę Grecji, by wymusić na królu dalsze ustępstwa. W maju 1917 francuski senator Célestin Jonnart, mianowany wysokim komisarzem ds. Grecji, zażądał wprost od monarchy abdykacji. Konstantyn nie ogłosił abdykacji, lecz 13 czerwca 1917 wyjechał do Tarentu, a następnie do Szwajcarii, oddając władzę drugiemu synowi, Aleksandrowi. Konstantyn I wrócił do władzy po wygranych przez rojalistów wyborach parlamentarnych jesienią 1920, gdy król Aleksander już nie żył. Sukces zwolenników króla był efektem zmęczenia społeczeństwa wojnami oraz poczuciem upokorzenia z powodu otwartego ingerowania Francji i Wielkiej Brytanii w wewnętrzne sprawy Grecji.Włochy, Francja i Wielka Brytania jednoznacznie opowiedziały się przeciwko powrotowi Konstantyna I, jednak mimo świadomości tego faktu zwolennicy monarchii zorganizowali plebiscyt, którego wyniki zostały następnie sfałszowane na korzyść władcy (według oficjalnych wyników 999960 głosów za jego powrotem przeciw 10383 przeciwko). Wbrew zapewnieniom z kampanii wyborczej, dwór opowiedział się za kontynuowaniem wojny z Turcją do ostatecznego zwycięstwa (zdobycia Konstantynopola). Armia grecka poniosła jednak klęskę. Fakt ten i rewolucja 11 września 1922 wymusiły na Konstantynie ponowną abdykację w 1922. Zmarł w rok później, na emigracji w Palermo.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Constantijn I (Grieks: Κωνσταντίνος A&#39;, Βασιλεύς των Ελλήνων, Konstandinos A&#39; Vasilefs ton Ellinon) (Athene, 2 augustus 1868 – Palermo, 11 januari 1923) was koning der Hellenen van 1913 tot 1917 en van 1920 tot 1922. Hij was opperbevelhebber van het Helleense leger tijdens de mislukte Grieks-Turkse Oorlog van 1897 en leidde de Griekse troepen tijdens de succesvolle Balkanoorlogen van 1912-1913, waarin Griekenland Thessaloniki won en verdubbelde in oppervlakte en bevolking. Hij besteeg de troon van Griekenland op 18 maart 1913, na de moord op zijn vader. Zijn onenigheid met Eleftherios Venizelos over het feit of Griekenland mee zou doen met de Eerste Wereldoorlog leidde tot het Nationale Schisma. Constantijn dwong Venizelos twee keer ontslag te nemen, maar in 1917 verliet hij Griekenland, na dreigementen van de troepen van de Entente die Athene zouden bombarderen; zijn tweede zoon, Alexander, werd koning. Na de dood van Alexander, de nederlaag van Venizelos in de parlementsverkiezingen van 1920, en een volksstemming ten gunste van zijn terugkeer, werd Constantijn hersteld. Hij deed troonsafstand voor de tweede en laatste keer in 1922, toen Griekenland verloor in de Grieks-Turkse Oorlog van 1919-1922, en werd opgevolgd door zijn oudste zoon, George II. Constantijn stierf vier maanden later in ballingschap.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الملك قسطنطين الأول (2 أغسطس 1868 - 11 يناير 1923) ملك اليونان ، كان قائد للجيش اليوناني خلال الحرب العثمانية اليونانية في 1897 و حرب البلقان الأولى عام 1912 تولى مقاليد الحكم في 18 مارس 1913 بعد مقتل والده الملك جورج الأول حتى 11 يونيو 1917 وخلفه أبنه الملك ألكسندر الأول. وهو والد كلأ من الملك جورج الثاني والملك ألكسندر الأول والملك بول وجد الملكة صوفيا ملكة إسبانيا والملك قسطنطين الثاني. مشاريع شقيقة في كومنز صور وملفات عن: قسطنطين الأول ملك اليونان 
+* 32xبوابة اليونان 
+* 32xبوابة الحرب العالمية الأولى 
+* 32xبوابة التاريخ 
+* 32xبوابة أعلام 
+* 32xبوابة ملكية</dbo:abstract>
+    <dbo:abstract xml:lang="it">Era figlio primogenito di Giorgio I di Grecia della casata reale dei Glücksburg e di Ol&#39;ga Konstantinovna Romanova.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Constantine I (Greek: Κωνσταντῖνος Αʹ, Βασιλεὺς τῶν Ἑλλήνων, Konstantínos Αʹ, Vasiléfs ton Ellínon; 2 August [O.S. 21 July] 1868 – 11 January 1923) was king of Greece from 1913 to 1917 and from 1920 to 1922. He was commander-in-chief of the Hellenic Army during the unsuccessful Greco-Turkish War of 1897 and led the Greek forces during the successful Balkan Wars of 1912–1913, in which Greece expanded to include Thessaloniki, doubling in area and population. He succeeded to the throne of Greece on 18 March 1913, following his father&#39;s assassination. His disagreement with Eleftherios Venizelos over whether Greece should enter World War I led to the National Schism. Constantine forced Venizelos to resign twice, but in 1917 he left Greece, after threats of the Entente forces to bombard Athens; his second son, Alexander, became king. After Alexander&#39;s death, Venizelos&#39; defeat in the 1920 legislative elections, and a plebiscite in favor of his return, Constantine was reinstated. He abdicated the throne for the second and last time in 1922, when Greece lost the Greco-Turkish War of 1919–1922, and was succeeded by his eldest son, George II. Constantine died in exile four months later, in Sicily.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">希腊人国王康斯坦丁一世（希腊文：Κωνσταντίνος A&#39;, Βασιλεύς των Ελλήνων，拉丁文转写：Konstantínos A&#39;, Vasileús ton Ellínon，1868年8月2日－1923年1月11日），1913年至1917年、1920年至1922年在位。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Constantino I (Atenas, 2 de agosto de 1868 – Palermo, 11 de janeiro de 1923) foi o Rei da Grécia de 1913 até sua abdicação em 1917 e depois de 1920 até sua segunda abdicação em 1922. Era filho do rei Jorge I e de Olga Constantinovna da Rússia. Foi comandante chefe do Exército da Grécia, liderando as forças nacionais na derrota na Guerra Greco-Turca de 1897 e para a vitória na Guerras dos Balcãs de 1912–13, em que conseguiu conquistar a Salonica e dobrar a área e população do país. Seu desacordo com o primeiro-ministro Elefthérios Venizélos sobre a questão da Grécia entrar na Primeira Guerra Mundial levaram ao Cisma Nacional. Constantino forçou a renúncia de Venizélos em duas ocasiões, porém abdicou do trono e deixou o país em 1917 depois dos Aliados ameaçarem bombardear Atenas. Seu segundo filho, Alexandre, tornou-se o novo rei. Constantino voltou ao trono após a morte de Alexandre, a derrota de Venizélos nas eleições de 1920 e um plebiscito em seu favor. Ele abdicou novamente dois anos depois quando a Grécia perdeu a Guerra Greco-Turca de 1919-22, sendo sucedido por seu filho mais velho Jorge II. Ele morreu quatro meses depois em exílio em Palermo, Itália.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Константи́н I ((греч. Κωνσταντίνος Αʹ, 2 августа 1868, Афины, Греция — 11 января 1923, Палермо, Италия) — король греков в 1913—1917, 1920—1922 годах из династии Глюксбургов. Первый Глюксбург, родившийся в Греции.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Konstantin I. – griechisch Κωνσταντίνος Α΄ Βασιλεύς των Ελλήνων Konstantínos I Vasiléfs ton Ellínon – (* 21. Julijul./ 2. August 1868greg. in Athen; † 11. Januar 1923 in Palermo) war ein Angehöriger des dänisch-griechischen Königshauses Schleswig-Holstein-Sonderburg-Glücksburg und von 1913 bis 1917 sowie von 1920 bis 1922 griechischer König.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Constantino I rey de los Helenos (en griego: Κωνσταντίνος A&#39;; 1868-1923), rey de Grecia de 1913 a 1917 y de 1920 a 1922. Después de sus éxitos militares en las Guerras Balcánicas que permitieron extender el territorio de Grecia, su apoyo pasivo a las Potencias Centrales y su enfrentamiento con el primer ministro Eleftherios Venizelos durante la Primera Guerra Mundial le valieron el descrédito de los Aliados y provocaron una profunda y duradera ruptura en la sociedad griega, por lo que se exilió en 1917. Entre 1917 y 1920, fue proclamado rey su hermano Alejandro I de Grecia. Luego, fue devuelto al trono en 1920, el descontento popular y militar tras el fracaso griego en la Guerra Greco-Turca le obligó a exiliarse de nuevo en 1922. Murió en 1923 en Italia.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1917</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1913</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Naples" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Italy" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Sophia_of_Prussia" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Alexander_of_Greece" />
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A portrait of Constantine I by Philip de László, 1915</dbp:caption>
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-01-14</dbp:dateOfBurial>
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/Majesty" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Glücksburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Helen_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Paul_of_Greece" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alexander_of_Greece" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_II_of_Greece" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Katherine_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Irene,_Duchess_of_Aosta" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Majesty</dbp:offstyle>
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Alexander_of_Greece" />
+    <dbp:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1922-09-27</dbp:reign>
+    <dbp:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-19</dbp:reign>
+    <dbp:reignType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">First reign</dbp:reignType>
+    <dbp:reignType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Second reign</dbp:reignType>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Greek_Orthodox" />
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Constantine I of Greece</dbp:royalName>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_kings_of_Greece" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/George_II_of_Greece" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/President_of_the_Olympic_Organising_Committee" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Crown_Prince_of_Greece" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">and</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_kings_of_Greece" />
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-12</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1896</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-18</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-19</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Greece">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I_of_Greece">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_of_Greece">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_theatre_of_World_War_I">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eleftherios_Venizelos">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hellenic_Army">
+    <dbo:notableCommander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Balkan_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Balkan_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Kilkis–Lachanas">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Kresna_Gorge">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantinos_I">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophia_of_Prussia">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Bizani">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Sarantaporo">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_I_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_I,_King_of_the_Hellenes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_Oldenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_XII">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantinos_I_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Constantine_I_of_Greece">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_I_of_the_Hellenes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+  </rdf:Description>
+</rdf:RDF>

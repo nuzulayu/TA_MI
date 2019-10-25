@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melita">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Maria_Alexandrovna_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elisabeth_of_Hesse_and_by_Rhine_(1895–1903)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duke_Vladimir_Kirillovich_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Viktoria_Fedorovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Viktoria_Feodorovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Viktoria_Feodorovna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="ar">فيكتوريا ميليتا أميرة ساكس كوبورج وغوتا</rdfs:label>
+    <rdfs:label xml:lang="nl">Victoria Melita van Saksen-Coburg en Gotha</rdfs:label>
+    <rdfs:label xml:lang="en">Princess Victoria Melita of Saxe-Coburg and Gotha</rdfs:label>
+    <rdfs:label xml:lang="pl">Wiktoria Melita Koburg</rdfs:label>
+    <rdfs:label xml:lang="es">Victoria Melita de Sajonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="fr">Victoria Mélita de Saxe-Cobourg-Gotha</rdfs:label>
+    <rdfs:label xml:lang="de">Victoria Melita von Sachsen-Coburg und Gotha</rdfs:label>
+    <rdfs:label xml:lang="it">Vittoria Melita di Sassonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="ja">ヴィクトリア・メリタ・オブ・サクス＝コバーグ＝ゴータ</rdfs:label>
+    <rdfs:label xml:lang="pt">Vitória Melita de Saxe-Coburgo-Gota</rdfs:label>
+    <rdfs:label xml:lang="zh">维多利亚·梅丽塔 (萨克森-科堡-哥达)</rdfs:label>
+    <rdfs:label xml:lang="ru">Виктория Фёдоровна</rdfs:label>
+    <rdfs:comment xml:lang="ru">Виктория Фёдоровна, урождённая Виктория Мелита (25 ноября 1876, Валлетта, Мальта — 2 марта 1936, Аморбах, Германия) — урождённая принцесса Великобританская, Ирландская и Саксен-Кобург-Готская, герцогиня Гессенская, с 1907 года великая княгиня с титулом Императорского Высочества; по мнению кирилловцев с 1918 года де-факто и с 1924 года де-юре — императрица с титулом Императорского Величества (титул оспаривается противниками кирилловцев).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Vitória Melita de Saxe-Coburgo-Gota (Attard, 25 de novembro de 1876 - Amorbach, 2 de março de 1936) foi a terceira criança e segunda filha de Alfredo, Duque de Saxe-Coburgo-Gota e da grã-duquesa Maria Alexandrovna da Rússia, tendo sido neta da rainha Vitória do Reino Unido e do imperador Alexandre II da Rússia.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Victoria Melita de Sajonia-Coburgo-Gotha (Malta, 25 de noviembre de 1876 - Baviera, 2 de marzo de 1936) fue una princesa británica que también fue gran duquesa de Hesse-Darsmtadt y luego gran duquesa rusa. Sus padres fueron el príncipe Alfredo de Sajonia-Coburgo-Gotha, duque de Edimburgo, y la gran duquesa rusa María Aleksándrovna.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">梅丽塔公主（Princess Victoria Melita of Saxe-Coburg and Gotha，1876年－1936年），英国阿尔弗雷德亲王的次女，黑森大公恩斯特·路德维希的表妹和第一任夫人。 1894年4月19日，恩斯特·路德维希在科堡与联合王国与萨克森-科堡-哥达公主维多利亚·梅丽塔结婚，维多利亚·梅丽塔是联合王国与萨克森-科堡-哥达王子，后来的联合王国爱丁堡公爵兼德意志帝国萨克森-科堡-哥达公爵阿尔弗雷德与俄罗斯女大公玛利亚·亚历山德罗芙娜的次女。维多利亚·梅丽塔的祖母便是恩斯特·路德维希的外祖母英国女王维多利亚女王。但二人的婚姻并不幸福。他们有一个女儿-伊丽莎白（1895-1903）死于伤寒。 维多利亚·梅丽塔声称他的丈夫是同性恋，与许多男童睡过。二人于1901年12月21日由黑森最高法庭以“夫妻双方相互厌恶”为由判决离婚。维多利亚·梅丽塔于1905年10月8日与俄罗斯大公基里尔·弗拉基米洛维奇结婚。有两女一子，包括普鲁士亲王路易·斐迪南的妻子基拉·基里洛芙娜女大公。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الأميرة فيكتوريا مليتا ساكس كوبورج وغوتا وادنبره (25 نوفمبر 1876 - 2 مارس 1936) كانت الطفلة الثالثة والإبنه الثانية لألفريد دوق ساكس كوبورغ وغوتا و ماريا الكسندروفنا دوقة روسيا وتعتبر حفيدة الملكة فيكتوريا.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ヴィクトリア・メリタ・オブ・サクス＝コバーグ＝ゴータ（英語: Victoria Melita of Saxe-Coburg-Gotha, 1876年11月25日 - 1936年5月2日）は、ヘッセン大公エルンスト・ルートヴィヒの最初の妃。のちにロシア大公キリル・ウラジーミロヴィチの妃となった。ロシア大公妃としてはヴィクトリヤ・フョードロヴナ（русский: Виктория Фёдоровна, ラテン文字転写: Victoria Feodorovna）と呼ばれた。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Victoria Melita van Saksen-Coburg en Gotha (na haar tweede huwelijk Victoria Fjodorovna Romanov (Russisch: Виктория Федоровна Рома́новa)) (Valletta (Malta), 25 november 1876 – Amorbach, 2 maart 1936) was een dochter van Alfred van Saksen-Coburg en Gotha en van Maria Aleksandrovna van Rusland. Ze zorgde voor een groot schandaal door te scheiden van groothertog Ernst Lodewijk van Hessen-Darmstadt en te hertrouwen met grootvorst Kirill Vladimirovitsj van Rusland.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Victoria Mélita de Saxe-Cobourg-Gotha, Victoria Fiodorovna, en russe : Виктория Фёдоровна, grande-duchesse de Russie, née le 25 novembre 1876 à Malte, décédée le 2 mars 1936 à Amorbach (Allemagne). Née princesse de Galles, d&#39;Irlande et de Saxe-Cobourg et Gotha, duchesse de Saxe en 1905, en 1894, elle devint, par mariage, grande-duchesse de Hesse-Darmstadt et du Rhin, divorcée en 1901, elle devint par remariage, Grande-duchesse de Russie en (1905).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Princess Victoria Melita of Saxe-Coburg and Gotha and Edinburgh GCStJ CI VA RRC (25 November 1876 – 2 March 1936) was the third child and second daughter of Alfred, Duke of Saxe-Coburg and Gotha and Grand Duchess Maria Alexandrovna of Russia. She was a granddaughter of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha as well as of Emperor Alexander II of Russia and Princess Marie of Hesse and by Rhine.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Vittoria scandalizzò le famiglie reali d&#39;Europa con il suo divorzio e secondo matrimonio nei primi del Novecento.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Z domu Wiktoria Melita Sachsen-Coburg-Gotha (ur. 25 listopada 1876 w Valettcie (Malta), zm. 2 marca 1936 w Amorbach) – członkini brytyjskiej rodziny królewskiej, wnuczka brytyjskiej królowej Wiktorii. W latach 1894-1901, wielka księżna Hesji, później wielka księżna Rosji jako Wiktoria Fiodorowna.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Prinzessin Victoria Melita von Sachsen-Coburg und Gotha, genannt Ducky, VA (* 25. November 1876 in Valletta (Malta); † 2. März 1936 in Amorbach) war als Enkelin von Königin Victoria ein Mitglied der britischen königlichen Familie. Zum Zeitpunkt ihrer Geburt hatte sie den zehnten Platz in der britischen Thronfolge inne und daher den Titel „Her Royal Highness Princess Victoria of Edinburgh“. Durch ihre Ehen trug sie die Titel einer Großherzogin von Hessen und unter dem Namen Viktoria Feodorowna den einer Großfürstin von Russland.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q164500" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119541076" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Victoria_Melita_de_Sajonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヴィクトリア・メリタ・オブ・サクス＝コバーグ＝ゴータ" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.059hrh" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q164500" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Vittoria_Melita_di_Sassonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Viktorie_Melita_Sasko-Koburská" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Βικτώρια_Μελίτα_του_Σάξεν-Κόμπουργκ_και_Γκότα" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Wiktoria_Melita_Koburg" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Vitória_Melita_de_Saxe-Coburgo-Gota" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/작센코부르크고타의_빅토리아_멜리타" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Victoria_Mélita_de_Saxe-Cobourg-Gotha" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Victoria_Melita_von_Sachsen-Coburg_und_Gotha" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Victoria_Melita_van_Saksen-Coburg_en_Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Amorbach" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-3-2</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-03-02</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Crown_Colony_of_Malta" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Attard" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Valletta" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/San_Anton_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1876-11-25</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1876_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Order_of_the_Crown_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(United_Kingdom)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Ducal_Family_Mausoleum,_Glockenburg_Cemetery,_Coburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_women_in_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ladies_of_the_Royal_Order_of_Victoria_and_Albert" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Attard" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_anti-communists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Queen_Maria_Luisa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_Finland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1936_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_of_Saxe-Coburg_and_Gotha" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Holstein-Gottorp" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Duchesses_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_anti-communists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_Switzerland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_Germany" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1548464</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737881833</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.geocities.com/naciones_unidas_queenvictoria/victoria_melita.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.encspb.ru/article.php?kod=2804009149" />
+    <foaf:name xml:lang="en">Birth name: Victoria Melita</foaf:name>
+    <foaf:name xml:lang="en">Princess Victoria Melita of Saxe-Coburg and Gotha</foaf:name>
+    <foaf:name xml:lang="en">Victoria Melita</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Vitoria_Melita.JPG" />
+    <dct:description xml:lang="en">Princess of Great Britain and of Saxe-Coburg-Gotha; former Grand Duchess of Hesse; pretender Empress of Russia; a granddaughter of Queen Victoria of England.</dct:description>
+    <foaf:givenName xml:lang="en">Victoria</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Vitoria_Melita.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha?oldid=737881833" />
+    <dbo:abstract xml:lang="fr">Victoria Mélita de Saxe-Cobourg-Gotha, Victoria Fiodorovna, en russe : Виктория Фёдоровна, grande-duchesse de Russie, née le 25 novembre 1876 à Malte, décédée le 2 mars 1936 à Amorbach (Allemagne). Née princesse de Galles, d&#39;Irlande et de Saxe-Cobourg et Gotha, duchesse de Saxe en 1905, en 1894, elle devint, par mariage, grande-duchesse de Hesse-Darmstadt et du Rhin, divorcée en 1901, elle devint par remariage, Grande-duchesse de Russie en (1905).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Princess Victoria Melita of Saxe-Coburg and Gotha and Edinburgh GCStJ CI VA RRC (25 November 1876 – 2 March 1936) was the third child and second daughter of Alfred, Duke of Saxe-Coburg and Gotha and Grand Duchess Maria Alexandrovna of Russia. She was a granddaughter of Queen Victoria of the United Kingdom and Prince Albert of Saxe-Coburg and Gotha as well as of Emperor Alexander II of Russia and Princess Marie of Hesse and by Rhine. Born a British princess, Victoria spent her early life in England and lived in Malta for three years, where her father was serving in the Royal Navy. In 1889 the family moved to Coburg, where Victoria&#39;s father became the reigning duke in 1893. In her teens Victoria fell in love with her maternal first cousin Grand Duke Kirill Vladimirovich of Russia, but the disapprobation of marriage between first cousins of his faith, Orthodox Christianity, discouraged their romance. Instead, bowing to family pressure, Victoria married in 1894 a paternal first cousin, Ernest Louis, Grand Duke of Hesse and by Rhine, following the wishes of their shared grandmother, Queen Victoria. Their marriage was a failure. Victoria scandalized the royal families of Europe when she divorced her husband in 1901. The couple&#39;s only child, Princess Elisabeth of Hesse and by Rhine, died of typhoid fever in 1903. Victoria married Grand Duke Kirill Vladimirovich in 1905. They wed without the formal approval of Britain&#39;s King Edward VII, required by the Royal Marriages Act 1772, and in defiance of Tsar Nicholas II. In retaliation, the Tsar stripped Kirill of his offices and honours, also initially banishing the couple from Russia. They had two daughters and settled in Paris before being allowed to visit Russia in 1909. In 1910 they moved to Russia, where Nicholas recognized her as Grand Duchess Victoria Feodorovna. After the fall of the Russian monarchy in 1917, they escaped to Finland where she gave birth to her only son. In exile they lived for some years among her relatives in Germany, and from the late 1920s on an estate they bought in Saint-Briac. In 1926, Kirill proclaimed himself emperor in exile and Victoria supported her husband&#39;s claims. Victoria died after suffering a stroke while visiting her daughter Maria in Amorbach.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Vitória Melita de Saxe-Coburgo-Gota (Attard, 25 de novembro de 1876 - Amorbach, 2 de março de 1936) foi a terceira criança e segunda filha de Alfredo, Duque de Saxe-Coburgo-Gota e da grã-duquesa Maria Alexandrovna da Rússia, tendo sido neta da rainha Vitória do Reino Unido e do imperador Alexandre II da Rússia. Nascida princesa britânica, Vitória viveu alguns dos seus primeiros anos na ilha de Malta, onde seu pai servia como oficial da Marinha Real. Em 1889, a família mudou-se para Coburgo, onde Alfredo tornou-se duque reinante em 1893. Durante sua adolescência, Vitória apaixonou-se por um primo do lado materno, o grão-duque Cyrill Vladimirovich da Rússia, mas eles não podiam se casar porque a religião cristã ortodoxa proibia o casamento entre primos de primeiro grau. Assim, curvando-se à pressão da família e aos desejos da rainha Vitória, a princesa acabou por se casar em 1894 com um primo do lado paterno, o grão-duque Ernesto Luís de Hesse. O casamento foi um fracasso e Vitória escandalizou as famílias reais europeias ao se divorciar, em 1901. A única filha do casal morreu de febre tifoide, em 1903. Vitória casou-se com Cyrill Vladimirovich em 1905. Entretanto, como o consórcio não teve a aprovação do czar Nicolau II, este despojou o grão-duque de todos os seus títulos e honrarias e baniu o casal da corte russa. Vitória e Cyrill estabeleceram-se em Paris, onde nasceram suas duas filhas e onde viveram até 1909, quando receberam autorização para retornar à Rússia. Em 1910, após sua conversão à fé ortodoxa, passou a chamar-se Vitória Feodorovna. Com a queda da monarquia russa, em 1917, a família fugiu para a Finlândia, onde a grã-duquesa deu à luz seu único filho varão. No exílio, eles viveram por alguns anos na Alemanha, mudando-se para Saint-Briac no final dos anos 20. Foi lá que, em 1926, com o apoio de Vitória, Cyrill autoproclamou-se czar exilado. A grã-duquesa morreu em virtude de um acidente vascular cerebral, enquanto visitava sua filha Maria em Amorbach.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Victoria Melita van Saksen-Coburg en Gotha (na haar tweede huwelijk Victoria Fjodorovna Romanov (Russisch: Виктория Федоровна Рома́новa)) (Valletta (Malta), 25 november 1876 – Amorbach, 2 maart 1936) was een dochter van Alfred van Saksen-Coburg en Gotha en van Maria Aleksandrovna van Rusland. Ze zorgde voor een groot schandaal door te scheiden van groothertog Ernst Lodewijk van Hessen-Darmstadt en te hertrouwen met grootvorst Kirill Vladimirovitsj van Rusland.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">梅丽塔公主（Princess Victoria Melita of Saxe-Coburg and Gotha，1876年－1936年），英国阿尔弗雷德亲王的次女，黑森大公恩斯特·路德维希的表妹和第一任夫人。 1894年4月19日，恩斯特·路德维希在科堡与联合王国与萨克森-科堡-哥达公主维多利亚·梅丽塔结婚，维多利亚·梅丽塔是联合王国与萨克森-科堡-哥达王子，后来的联合王国爱丁堡公爵兼德意志帝国萨克森-科堡-哥达公爵阿尔弗雷德与俄罗斯女大公玛利亚·亚历山德罗芙娜的次女。维多利亚·梅丽塔的祖母便是恩斯特·路德维希的外祖母英国女王维多利亚女王。但二人的婚姻并不幸福。他们有一个女儿-伊丽莎白（1895-1903）死于伤寒。 维多利亚·梅丽塔声称他的丈夫是同性恋，与许多男童睡过。二人于1901年12月21日由黑森最高法庭以“夫妻双方相互厌恶”为由判决离婚。维多利亚·梅丽塔于1905年10月8日与俄罗斯大公基里尔·弗拉基米洛维奇结婚。有两女一子，包括普鲁士亲王路易·斐迪南的妻子基拉·基里洛芙娜女大公。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الأميرة فيكتوريا مليتا ساكس كوبورج وغوتا وادنبره (25 نوفمبر 1876 - 2 مارس 1936) كانت الطفلة الثالثة والإبنه الثانية لألفريد دوق ساكس كوبورغ وغوتا و ماريا الكسندروفنا دوقة روسيا وتعتبر حفيدة الملكة فيكتوريا.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Victoria Melita de Sajonia-Coburgo-Gotha (Malta, 25 de noviembre de 1876 - Baviera, 2 de marzo de 1936) fue una princesa británica que también fue gran duquesa de Hesse-Darsmtadt y luego gran duquesa rusa. Sus padres fueron el príncipe Alfredo de Sajonia-Coburgo-Gotha, duque de Edimburgo, y la gran duquesa rusa María Aleksándrovna.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Виктория Фёдоровна, урождённая Виктория Мелита (25 ноября 1876, Валлетта, Мальта — 2 марта 1936, Аморбах, Германия) — урождённая принцесса Великобританская, Ирландская и Саксен-Кобург-Готская, герцогиня Гессенская, с 1907 года великая княгиня с титулом Императорского Высочества; по мнению кирилловцев с 1918 года де-факто и с 1924 года де-юре — императрица с титулом Императорского Величества (титул оспаривается противниками кирилловцев).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Z domu Wiktoria Melita Sachsen-Coburg-Gotha (ur. 25 listopada 1876 w Valettcie (Malta), zm. 2 marca 1936 w Amorbach) – członkini brytyjskiej rodziny królewskiej, wnuczka brytyjskiej królowej Wiktorii. W latach 1894-1901, wielka księżna Hesji, później wielka księżna Rosji jako Wiktoria Fiodorowna.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Vittoria scandalizzò le famiglie reali d&#39;Europa con il suo divorzio e secondo matrimonio nei primi del Novecento.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinzessin Victoria Melita von Sachsen-Coburg und Gotha, genannt Ducky, VA (* 25. November 1876 in Valletta (Malta); † 2. März 1936 in Amorbach) war als Enkelin von Königin Victoria ein Mitglied der britischen königlichen Familie. Zum Zeitpunkt ihrer Geburt hatte sie den zehnten Platz in der britischen Thronfolge inne und daher den Titel „Her Royal Highness Princess Victoria of Edinburgh“. Durch ihre Ehen trug sie die Titel einer Großherzogin von Hessen und unter dem Namen Viktoria Feodorowna den einer Großfürstin von Russland.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ヴィクトリア・メリタ・オブ・サクス＝コバーグ＝ゴータ（英語: Victoria Melita of Saxe-Coburg-Gotha, 1876年11月25日 - 1936年5月2日）は、ヘッセン大公エルンスト・ルートヴィヒの最初の妃。のちにロシア大公キリル・ウラジーミロヴィチの妃となった。ロシア大公妃としてはヴィクトリヤ・フョードロヴナ（русский: Виктория Фёдоровна, ラテン文字転写: Victoria Feodorovna）と呼ばれた。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1901</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1894</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Maria_Alexandrovna_of_Russia" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Grand_Duke_Kirill_Vladimirovich_of_Russia" />
+    <dbo:title xml:lang="en">Princess of the United Kingdom of Great Britain and Ireland</dbo:title>
+    <dbo:title xml:lang="en">Grand Duchess Victoria Feodorovna of Russia</dbo:title>
+    <dbo:title xml:lang="en">Princess of Saxe-Coburg and Gotha</dbo:title>
+    <dbp:burialPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-03-07</dbp:burialPlace>
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Grand_Ducal_Mausoleum" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Peter_and_Paul_Fortress" />
+    <dbp:burialPlace rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-03-10</dbp:burialPlace>
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Russian_Federation" />
+    <dbp:burialPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">, Coburg</dbp:burialPlace>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Victoria Melita</dbp:caption>
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:date rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20091027141929</dbp:date>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Elisabeth_of_Hesse_and_by_Rhine_(1895–1903)" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duke_Vladimir_Kirillovich_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Kira_Kirillovna_of_Russia" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Unnamed stillborn son</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Maria_Kirillovna_of_Russia" />
+    <dbp:reason rdf:resource="http://dbpedia.org/resource/February_Revolution" />
+    <dbp:religion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Russian Orthodoxy</dbp:religion>
+    <dbp:religion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">prev. Anglicanism</dbp:religion>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Grand_Duchess_of_Hesse_and_by_Rhine" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Russian_consorts" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&quot;Victoria Melita of Edinburgh &quot;</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Hessian_consorts" />
+    <dbp:url rdf:resource="http://www.geocities.com/naciones_unidas_queenvictoria/victoria_melita.html" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-09</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-31</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Edinburgh_and_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Victoria_Feodorovna_(Victoria_Melita_of_Edinburgh)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Victoria_Feodorovna_(Victoria_Melita_of_Saxe-Coburg_and_Gotha)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Feodorovna_(Victoria_Melita_of_Edinburgh)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Feodorovna_(Victoria_Melita_of_Saxe-Coburg_and_Gotha)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Melitta">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Edinburgh_and_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirill_Vladimirovich,_Grand_Duke_of_Russia">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Kira_Kirillovna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Maria_Kirillovna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_of_Saxe-Coburg_and_Gotha,_Duchess_of_Saxony">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Melita_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Melita_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_of_Edinburgh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe_Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viktoria_Feodorovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Melita_of_Saxe-Coburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Federova">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Victoria_Melita_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+</rdf:RDF>

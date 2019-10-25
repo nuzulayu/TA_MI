@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="es">Luis Ernesto de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="en">Prince Ludwig of Hesse and by Rhine</rdfs:label>
+    <rdfs:label xml:lang="pt">Luís Ernesto de Hesse</rdfs:label>
+    <rdfs:label xml:lang="nl">Lodewijk Ernst van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="zh">路德维希·恩斯特·安德烈阿斯 (黑森-达姆施塔特)</rdfs:label>
+    <rdfs:comment xml:lang="pt">Luís Ernesto de Hesse e do Reno, (25 de outubro de 1931 - 16 de novembro de 1937), foi o filho mais velho do grão-duque Jorge Donatus, e da sua esposa, a princesa Cecília da Grécia e Dinamarca. Morreu aos 6 anos de idade num acidente de avião em 1937. Ele, os seus pais, o irmão mais novo Alexandre e a sua avó Leonor estavam a caminho de Londres para participar no casamento do seu tio, o príncipe Luís de Hesse, com Margaret Geddes. O avião embateu contra uma chaminé de uma fábrica em Oostende, na Bélgica, matando todos os seus ocupantes.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">路德维希·恩斯特·安德烈阿斯（Ludwig Ernst Andreas，1931年10月25日－1937年11月16日），出生于达姆施塔特。黑森-达姆施塔特王子，黑森和莱茵大公世子。是黑森和莱茵河畔大公国大公世子格奥尔格·多纳图斯与希腊公主塞西莉娅的长子，有一弟一妹。1937年11月16日随父母及弟弟亚历山大王子乘机飞往伦敦途中，在比利时奥斯滕德遇空难身亡。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prince Ludwig of Hesse and by Rhine (Ludwig Ernst Andreas), (25 October 1931 – 16 November 1937), was the eldest son of Georg Donatus, Hereditary Grand Duke of Hesse and Princess Cecilie of Greece and Denmark, an older sister of Prince Philip, Duke of Edinburgh. He was the first great-great-great-grandchild of Queen Victoria.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Príncipe Luis Ernesto de Hesse-Darmstadt (Ludwig Ernst Andreas, 25 de octubre de 1931 – 16 de noviembre de 1937) fue el hijo mayor de Jorge Donato, gran duque heredero de Hesse-Darmstadt y de la princesa Cecilia de Grecia y Dinamarca, hermana mayor del príncipe Felipe, duque de Edimburgo.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Lodewijk Ernst Andreas (Darmstadt, 25 oktober 1931 – Oostende, 16 november 1937) was een prins van Hessen en aan de Rijn. Hij was de oudste zoon van George Donatus van Hessen-Darmstadt en Cecilia van Griekenland en Denemarken, de oudere zuster van de Britse prins-gemaal Philip, Hertog van Edinburgh. Hij kwam met zijn ouders en grootmoeder (Eleonore van Solms-Hohensolms-Lich) en jongere broertje Alexander om het leven tijdens het vliegtuigongeluk bij Oostende in 1937. Zij waren onderweg naar Londen om het huwelijk bij te wonen van Lodewijks oom, prins Lodewijk met Margaret Geddes.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2134004" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02q9f06" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2134004" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_Ernesto_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lodewijk_Ernst_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luís_Ernesto_de_Hesse" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Belgium" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ostend" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-16</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Weimar_Republic" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hesse" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-10-25</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Mausoleum_for_the_Grand_Ducal_House_of_Hesse,_Rosenhöhe_(Darmstadt)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_aviation_accidents_or_incidents_in_Belgium" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1937_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1931_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10360526</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724595439</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Prince Ludwig of Hesse and by Rhine</foaf:name>
+    <foaf:name xml:lang="en">Prince Ludwig</foaf:name>
+    <dct:description xml:lang="en">German prince</dct:description>
+    <foaf:givenName xml:lang="en">Louis</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_Ludwig_of_Hesse_and_by_Rhine" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_Ludwig_of_Hesse_and_by_Rhine?oldid=724595439" />
+    <dbo:abstract xml:lang="nl">Lodewijk Ernst Andreas (Darmstadt, 25 oktober 1931 – Oostende, 16 november 1937) was een prins van Hessen en aan de Rijn. Hij was de oudste zoon van George Donatus van Hessen-Darmstadt en Cecilia van Griekenland en Denemarken, de oudere zuster van de Britse prins-gemaal Philip, Hertog van Edinburgh. Hij kwam met zijn ouders en grootmoeder (Eleonore van Solms-Hohensolms-Lich) en jongere broertje Alexander om het leven tijdens het vliegtuigongeluk bij Oostende in 1937. Zij waren onderweg naar Londen om het huwelijk bij te wonen van Lodewijks oom, prins Lodewijk met Margaret Geddes. Lodewijk Ernst had nog een jonger zusje, Johanna, maar die was thuisgebleven en overleefde dus al enige van het gezin. Zij werd geadopteerd door haar oom en tante, maar overleed op jonge leeftijd aan de gevolgen van een hersenvliesontsteking.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Príncipe Luis Ernesto de Hesse-Darmstadt (Ludwig Ernst Andreas, 25 de octubre de 1931 – 16 de noviembre de 1937) fue el hijo mayor de Jorge Donato, gran duque heredero de Hesse-Darmstadt y de la princesa Cecilia de Grecia y Dinamarca, hermana mayor del príncipe Felipe, duque de Edimburgo. Murió a los seis años, junto a sus padres, su hermano Alejandro y su abuela, la gran duquesa Eleonora, en un accidente de avión en 1937. Cuando volaban a Londres para asistir a la boda de su tío, el príncipe Luis, con Margaret Geddes, el avión se estrelló en la chimenea de una fábrica cerca de Ostende, Bélgica.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luís Ernesto de Hesse e do Reno, (25 de outubro de 1931 - 16 de novembro de 1937), foi o filho mais velho do grão-duque Jorge Donatus, e da sua esposa, a princesa Cecília da Grécia e Dinamarca. Morreu aos 6 anos de idade num acidente de avião em 1937. Ele, os seus pais, o irmão mais novo Alexandre e a sua avó Leonor estavam a caminho de Londres para participar no casamento do seu tio, o príncipe Luís de Hesse, com Margaret Geddes. O avião embateu contra uma chaminé de uma fábrica em Oostende, na Bélgica, matando todos os seus ocupantes.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">路德维希·恩斯特·安德烈阿斯（Ludwig Ernst Andreas，1931年10月25日－1937年11月16日），出生于达姆施塔特。黑森-达姆施塔特王子，黑森和莱茵大公世子。是黑森和莱茵河畔大公国大公世子格奥尔格·多纳图斯与希腊公主塞西莉娅的长子，有一弟一妹。1937年11月16日随父母及弟弟亚历山大王子乘机飞往伦敦途中，在比利时奥斯滕德遇空难身亡。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prince Ludwig of Hesse and by Rhine (Ludwig Ernst Andreas), (25 October 1931 – 16 November 1937), was the eldest son of Georg Donatus, Hereditary Grand Duke of Hesse and Princess Cecilie of Greece and Denmark, an older sister of Prince Philip, Duke of Edinburgh. He was the first great-great-great-grandchild of Queen Victoria. He was killed at age six in an airplane crash in 1937. He, his parents, younger brother Alexander, and grandmother Grand Duchess Eleonore were flying to London to attend the wedding of his uncle Prince Ludwig to Margaret Geddes. The plane crashed into a factory chimney near Ostend, Belgium.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:title xml:lang="en">Prince Ludwig of Hesse and by Rhine</dbo:title>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Ludwig of Hesse and by Rhine with his mother, Princess Cecilie of Greece and Denmark, hereditary grand duchess of Hesse, his younger brother Prince Alexander and baby sister Princess Johanna.</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hesse-Darmstadt" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Son" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_ludwig_of_hesse_and_by_rhine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_Ludwig_of_Hesse_and_by_Rhine">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine" />
+  </rdf:Description>
+</rdf:RDF>

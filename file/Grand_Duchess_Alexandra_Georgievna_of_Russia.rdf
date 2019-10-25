@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duke_Dmitri_Pavlovich_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Georgievna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Yurievna_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Georgievna_(Alexandra_of_Greece)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Georgievna_(Alexandra_of_Greece_and_Denmark)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_(Alexandra_of_Greece)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_(Alexandra_of_Greece_and_Denmark)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Maria_Pavlovna_of_Russia_(1890–1958)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuchess110141930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromCorfu" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDuchessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDuchesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekPrincesses" />
+    <rdfs:label xml:lang="it">Alessandra di Grecia (1870-1891)</rdfs:label>
+    <rdfs:label xml:lang="ja">アレクサンドラ・ゲオルギエヴナ</rdfs:label>
+    <rdfs:label xml:lang="es">Alejandra de Grecia</rdfs:label>
+    <rdfs:label xml:lang="en">Grand Duchess Alexandra Georgievna of Russia</rdfs:label>
+    <rdfs:label xml:lang="pl">Aleksandra Romanowa (1870–1891)</rdfs:label>
+    <rdfs:label xml:lang="pt">Alexandra Georgievna da Grécia e Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="nl">Alexandra van Griekenland (1870-1891)</rdfs:label>
+    <rdfs:label xml:lang="ar">الكسندرا جورجيفنا دوقة روسيا</rdfs:label>
+    <rdfs:label xml:lang="fr">Alexandra de Grèce (1870-1891)</rdfs:label>
+    <rdfs:label xml:lang="de">Alexandra von Griechenland und Dänemark</rdfs:label>
+    <rdfs:label xml:lang="ru">Александра Георгиевна</rdfs:label>
+    <rdfs:comment xml:lang="en">Grand Duchess Alexandra Georgievna of Russia (Russian: Алекса́ндра Гео́ргиевна), née Princess Alexandra of Greece (Greek: Πριγκίπισσα Αλεξάνδρα της Ελλάδας) (30 August 1870 – 24 September 1891) was the third child and firstborn daughter of King George I and Queen Olga of Greece, who herself was a daughter of a Russian grand duke, and was also a grandchild of Denmark&#39;s King Christian IX and Queen Louise. She was a sister to Constantine I of Greece, and thus aunt of three kings and two queens, Constantine&#39;s three sons, who all became kings of Greece, and two of his daughters, who were queens, in name, of Romania and Croatia, respectively. She was also a paternal aunt of Prince Philip, Duke of Edinburgh.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Aleksandra Gieorgijewna Romanowa (ur. 30 sierpnia 1870 w Korfu, zm. 24 września 1891 w Iljinskoje, koło Moskwy) - urodzona jako Aleksandra Grecka, księżniczka Grecji i Danii. Wielka księżna Rosji.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alexandra Georgievna da Rússia (em russo: Александра Георгиевна), nascida Princesa Alexandra da Grécia e da Dinamarca, Corfu, 30 de agosto de 1870-24 de setembro de 1891) foi a terceira criança e primeira rapariga a nascer do rei Jorge I da Grécia e da Olga Constantinovna da Rússia, uma filha do Constantino Nikolaevich da Rússia.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Alexandra de GrèceFichier:Princess Alexandra of Greece and Denmark (August 30, 1870–September 24, 1891).jpg La grande-duchesse Alexandra Gueorguievna de Russie. Alexandra de Grèce (en grec, Αλεξάνδρα της Ελλάδας / Alexándra tis Elládas), princesse de Grèce et de Danemark devenue la grande-duchesse Alexandra Gueorguievna de Russie (en russe, Александра Георгиевна Романова / Alexandra Gueorguievna Romanova), est née le 30 août 1870, au palais de Mon Repos, à Corfou, et décédée le 24 septembre 1891 à Ilinskoe (province de Moscou).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アレクサンドラ・ゲオルギエヴナ（русский: Александра Георгиевна, ラテン文字転写: Alexandra Georgievna, 1870年8月30日 - 1891年9月24日）は、ロシアの皇族、ロシア大公妃。皇帝アレクサンドル2世の六男パーヴェル・アレクサンドロヴィチ大公の最初の妻。 ギリシャ王ゲオルギオス1世とその王妃オルガの長女として、ケルキラ島で生まれた。 1889年、パーヴェル大公と結婚。2子をもうけた。 
+* マリア（1890年 - 1958年） 
+* ドミトリー（1891年 - 1941年） 第2子の妊娠7ヶ月の頃、アレクサンドラは友人とモスクヴァ河岸を散歩中、突然ボートが彼女の方へ向かって突っ込んだ。アレクサンドラは転倒し、翌日から激痛に襲われ、男児ドミトリーを生んだ。それから6日後、アレクサンドラは急死した。 彼女の死後、パーヴェルはオリガ・カルノヴィチと貴賤結婚した。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Gran Duquesa Alejandra Georgievna de Rusia, nacida Princesa Alejandra de Grecia (finca de Mon Repos, Corfú, 18 de agosto de 1870 - Ilinskoie, Moscú, 24 de septiembre de 1891) fue una princesa griega, la primera de la actual dinastía que nació en el reino de Grecia, hija del rey Jorge I de Grecia y de la reina Olga. Fue enterrada en el mausoleo de los Romanov, en la fortaleza de san Pedro y san Pablo de San Petersburgo. En 1940 trasladaron sus restos a Tatoi.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Alexandra Feodorovna (Grieks: Πριγκίπισσα Αλεξάνδρα της Ελλάδας και Δανίας, Russisch: Александра Георгиевна) (Korfoe, 30 augustus 1870 – Iljinskoje (bij Moskou), 24 september 1891) was een prinses van Griekenland en van 1889 tot aan haar dood grootvorstin van Rusland door haar huwelijk met Paul Aleksandrovitsj van Rusland.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Prinzessin Alexandra von Griechenland und Dänemark (* 18. Augustjul./ 30. August 1870greg. auf Korfu; † 12. Septemberjul./ 24. September 1891greg. in Iljinskoje bei Moskau) war eine griechische Prinzessin durch Heirat Großfürstin von Russland aus dem Haus Romanow-Holstein-Gottorp.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الكسندرا جورجيفنا دوقة روسيا (30 أغسطس 1870 - 24 سبتمبر 1891) كانت البنت البكر لجورج الأول ملك اليونان وأولغا كونستانتينوفنا دوقة روسيا توفيت في 24 سبتمبر 1891 عن عمر يناهز 21 سنة.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Вели́кая княги́ня Алекса́ндра Гео́ргиевна (18 [30] августа 1870, Корфу — 12 (24) сентября 1891, Ильинское, Московская губерния) — принцесса Греческая и Датская, после замужества — российская Великая княгиня.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Istri_Adipati_Agung_Aleksandra_Georgievna_dari_Rusia" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alexandra_van_Griekenland_(1870-1891)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alejandra_de_Grecia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alexandra_de_Grèce_(1870-1891)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alexandra_von_Griechenland_und_Dänemark" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexandra_Georgievna_da_Grécia_e_Dinamarca" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q232728" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0759by" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πριγκίπισσα_Αλεξάνδρα_της_Ελλάδας_και_της_Δανίας" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレクサンドラ・ゲオルギエヴナ" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q232728" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Aleksandra_Romanowa_(1870–1891)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alessandra_di_Grecia_(1870-1891)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow_Governorate" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1891-9-24</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1891-09-24</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Corfu" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1870-08-30</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1870-8-18</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1891_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Corfu" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_in_childbirth" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1870_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2344339</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">734020959</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Princess Alexandra</foaf:name>
+    <foaf:name xml:lang="en">Grand Duchess Alexandra Georgievna of Russia</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alejandra_Yurievna,_Grand_Duchess_of_Russia.jpg" />
+    <dct:description xml:lang="en">Russian royalty</dct:description>
+    <foaf:givenName xml:lang="en">Alexandra</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alejandra_Yurievna,_Grand_Duchess_of_Russia.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Grand_Duchess_Alexandra_Georgievna_of_Russia?oldid=734020959" />
+    <dbo:abstract xml:lang="nl">Alexandra Feodorovna (Grieks: Πριγκίπισσα Αλεξάνδρα της Ελλάδας και Δανίας, Russisch: Александра Георгиевна) (Korfoe, 30 augustus 1870 – Iljinskoje (bij Moskou), 24 september 1891) was een prinses van Griekenland en van 1889 tot aan haar dood grootvorstin van Rusland door haar huwelijk met Paul Aleksandrovitsj van Rusland.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Gran Duquesa Alejandra Georgievna de Rusia, nacida Princesa Alejandra de Grecia (finca de Mon Repos, Corfú, 18 de agosto de 1870 - Ilinskoie, Moscú, 24 de septiembre de 1891) fue una princesa griega, la primera de la actual dinastía que nació en el reino de Grecia, hija del rey Jorge I de Grecia y de la reina Olga. Con dieciocho años se prometió en matrimonio con el gran duque Pablo Románov, que era hermano del zar Alejandro III de Rusia y diez años mayor que Alejandra. Pablo era hijo del zar Alejandro II de Rusia y de la zarina María Alexandrovna. Se casaron en junio de 1889 en San Petersburgo, ciudad en la que residieron. El 18 de septiembre de 1890 nació su primera hija, la gran duquesa María Pávlovna Románova. Poco después volvió a estar embarazada, pero en una visita a la finca Ilinskoie, cerca de Moscú, se le adelantó el parto cuando estaba de siete meses. El alumbramiento se complicó y el 18 de septiembre de 1891 nacía el gran duque Dimitri Pavlovitch. Alejandra enfermó gravemente y permaneció en coma durante seis días, muriendo finalmente con veintiún años. Fue enterrada en el mausoleo de los Romanov, en la fortaleza de san Pedro y san Pablo de San Petersburgo. En 1940 trasladaron sus restos a Tatoi.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinzessin Alexandra von Griechenland und Dänemark (* 18. Augustjul./ 30. August 1870greg. auf Korfu; † 12. Septemberjul./ 24. September 1891greg. in Iljinskoje bei Moskau) war eine griechische Prinzessin durch Heirat Großfürstin von Russland aus dem Haus Romanow-Holstein-Gottorp.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alexandra Georgievna da Rússia (em russo: Александра Георгиевна), nascida Princesa Alexandra da Grécia e da Dinamarca, Corfu, 30 de agosto de 1870-24 de setembro de 1891) foi a terceira criança e primeira rapariga a nascer do rei Jorge I da Grécia e da Olga Constantinovna da Rússia, uma filha do Constantino Nikolaevich da Rússia.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Вели́кая княги́ня Алекса́ндра Гео́ргиевна (18 [30] августа 1870, Корфу — 12 (24) сентября 1891, Ильинское, Московская губерния) — принцесса Греческая и Датская, после замужества — российская Великая княгиня.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Grand Duchess Alexandra Georgievna of Russia (Russian: Алекса́ндра Гео́ргиевна), née Princess Alexandra of Greece (Greek: Πριγκίπισσα Αλεξάνδρα της Ελλάδας) (30 August 1870 – 24 September 1891) was the third child and firstborn daughter of King George I and Queen Olga of Greece, who herself was a daughter of a Russian grand duke, and was also a grandchild of Denmark&#39;s King Christian IX and Queen Louise. She was a sister to Constantine I of Greece, and thus aunt of three kings and two queens, Constantine&#39;s three sons, who all became kings of Greece, and two of his daughters, who were queens, in name, of Romania and Croatia, respectively. She was also a paternal aunt of Prince Philip, Duke of Edinburgh.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الكسندرا جورجيفنا دوقة روسيا (30 أغسطس 1870 - 24 سبتمبر 1891) كانت البنت البكر لجورج الأول ملك اليونان وأولغا كونستانتينوفنا دوقة روسيا توفيت في 24 سبتمبر 1891 عن عمر يناهز 21 سنة.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Alexandra de GrèceFichier:Princess Alexandra of Greece and Denmark (August 30, 1870–September 24, 1891).jpg La grande-duchesse Alexandra Gueorguievna de Russie. Alexandra de Grèce (en grec, Αλεξάνδρα της Ελλάδας / Alexándra tis Elládas), princesse de Grèce et de Danemark devenue la grande-duchesse Alexandra Gueorguievna de Russie (en russe, Александра Георгиевна Романова / Alexandra Gueorguievna Romanova), est née le 30 août 1870, au palais de Mon Repos, à Corfou, et décédée le 24 septembre 1891 à Ilinskoe (province de Moscou).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Aleksandra Gieorgijewna Romanowa (ur. 30 sierpnia 1870 w Korfu, zm. 24 września 1891 w Iljinskoje, koło Moskwy) - urodzona jako Aleksandra Grecka, księżniczka Grecji i Danii. Wielka księżna Rosji.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アレクサンドラ・ゲオルギエヴナ（русский: Александра Георгиевна, ラテン文字転写: Alexandra Georgievna, 1870年8月30日 - 1891年9月24日）は、ロシアの皇族、ロシア大公妃。皇帝アレクサンドル2世の六男パーヴェル・アレクサンドロヴィチ大公の最初の妻。 ギリシャ王ゲオルギオス1世とその王妃オルガの長女として、ケルキラ島で生まれた。 1889年、パーヴェル大公と結婚。2子をもうけた。 
+* マリア（1890年 - 1958年） 
+* ドミトリー（1891年 - 1941年） 第2子の妊娠7ヶ月の頃、アレクサンドラは友人とモスクヴァ河岸を散歩中、突然ボートが彼女の方へ向かって突っ込んだ。アレクサンドラは転倒し、翌日から激痛に襲われ、男児ドミトリーを生んだ。それから6日後、アレクサンドラは急死した。 彼女の死後、パーヴェルはオリガ・カルノヴィチと貴賤結婚した。</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Grand_Duke_Paul_Alexandrovich_of_Russia" />
+    <dbo:title xml:lang="en">Grand Duchess Alexandra Georgievna of Russia</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Glücksburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Maria_Pavlovna_of_Russia_(1890-1958)" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duke_Dmitri_Pavlovich_of_Russia" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duke_Paul_Alexandrovich_of_Russia">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Yurievna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Georgievna_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Georgievna_of_Greece_and_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Grand_Duchess_Alexandra_Georgievna_of_Russia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+  </rdf:Description>
+</rdf:RDF>

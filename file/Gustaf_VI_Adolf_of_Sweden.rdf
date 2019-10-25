@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olof_Palme">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_Mountbatten">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_of_Baden">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Johan_Bernadotte">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_V_of_Sweden">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustavus_VI">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolf">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialScientist110619642" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUppsalaUniversityAlumni" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheRoyalHouseOfChakri" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCommandersOfTheOrderOfSt.Olav" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSwedishProvinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scientist110560637" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheNorwegianLion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Maestro110280130" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Anthropologist109796323" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Archeologist109804806" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishMonarchsOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandMastersOfTheOrderOfCharlesXIII" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatClassicalArchaeologists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromStockholm" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEtruscanScholars" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheOrderOfTheDannebrog" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishArchaeologists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdfs:label xml:lang="es">Gustavo VI Adolfo de Suecia</rdfs:label>
+    <rdfs:label xml:lang="ja">グスタフ6世アドルフ (スウェーデン王)</rdfs:label>
+    <rdfs:label xml:lang="zh">古斯塔夫六世·阿道夫</rdfs:label>
+    <rdfs:label xml:lang="en">Gustaf VI Adolf of Sweden</rdfs:label>
+    <rdfs:label xml:lang="ar">غوستاف السادس أدولف</rdfs:label>
+    <rdfs:label xml:lang="ru">Густав VI Адольф</rdfs:label>
+    <rdfs:label xml:lang="fr">Gustave VI Adolphe</rdfs:label>
+    <rdfs:label xml:lang="de">Gustav VI. Adolf (Schweden)</rdfs:label>
+    <rdfs:label xml:lang="pl">Gustaw VI Adolf</rdfs:label>
+    <rdfs:label xml:lang="it">Gustavo VI Adolfo di Svezia</rdfs:label>
+    <rdfs:label xml:lang="pt">Gustavo VI Adolfo da Suécia</rdfs:label>
+    <rdfs:label xml:lang="nl">Gustaaf VI Adolf van Zweden</rdfs:label>
+    <rdfs:comment xml:lang="ru">Густав VI Адольф (11 ноября 1882 года — 15 сентября 1973 года) — король Швеции в 1950—1973 гг. Старший сын бывшего короля Густава V и Виктории Баденской. С рождения носил титул герцога Сконского. Его первая жена, Маргарита Коннаутская (с 1905) — внучка королевы Виктории, дочь герцога Артура Коннаутского. Имел от неё четырёх сыновей и дочь: 
+*  Густав Адольф, герцог Вестерботтенский (1906—1947) 
+*  Сигвард (1907—2002), 
+*  Ингрид (1910—2000), королева Дании, жена Фредерика IX и мать Маргрете II, 
+*  Бертиль (1912—1997), 
+*  Карл Юхан (1916—2012).</rdfs:comment>
+    <rdfs:comment xml:lang="es">Gustavo VI Adolfo (Oskar Fredrik Wilhelm Olaf Gustaf Adolf; Estocolmo, 11 de noviembre de 1882 - Helsingborg, 15 de septiembre de 1973) fue rey de Suecia desde 1950 hasta 1973. Hijo mayor de Gustavo V y de Victoria de Baden. Se casó en 1905 con Margarita de Connaught y en 1923 con Luisa Mountbatten. Gustavo VI Adolfo se convirtió en rey en una época donde la institución monárquica había perdido casi todo papel en la vida política de Suecia. Fue su popularidad lo que permitió que la monarquía se mantuviese como una forma de representación histórica y cultural.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) غوستاف السادس أدولف (11 نوفمبر 1882 - 15 سبتمبر 1973)، ملك السويد من 29 أكتوبر 1950 إلى 15 سبتمبر 1973.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Gustaf VI Adolf (Oscar Fredrik Wilhelm Olaf Gustaf Adolf; 11 November 1882 – 15 September 1973) was King of Sweden from 29 October 1950 until his death. He was the eldest son of King Gustaf V and his wife, Victoria of Baden, and had been Crown Prince of Sweden for the preceding 43 years in the reign of his father. Gustaf VI Adolf was a lifelong amateur archeologist particularly interested in Ancient Italian cultures.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Oscar Frederik Willem Olaf Gustaaf Adolf (Stockholm, 11 november 1882 – Helsingborg, 15 september 1973) was van 1950 tot 1973 als Gustaaf VI Adolf koning van Zweden. Hij was de oudste zoon van koning Gustaaf V en koningin Victoria van Baden.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Gustav VI. Adolf (vollständiger Name auf Schwedisch Oscar Fredrik Wilhelm Olaf Gustaf Adolf Bernadotte; * 11. November 1882 in Stockholm; † 15. September 1973 in Helsingborg) war König von Schweden von 1950 bis 1973. Unter seiner Regentschaft wurde eine neue Verfassung erarbeitet, die den Staat in eine demokratische Monarchie strukturierte, was einer Umwandlung zur Republik vorbeugte. Gustav war ein respektierter Gelehrter und Archäologe sowie eine Autorität auf dem Gebiet chinesischer Kunst.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Gustavo VI Adolfo (Estocolmo, 11 de novembro de 1882 – Helsingborg, 15 de setembro de 1973) foi o Rei da Suécia de 1950 até sua morte. Era o filho mais velho do rei Gustavo V e da rainha Vitória de Baden, tendo sido príncipe herdeiro durante 43 anos.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">グスタフ6世アドルフ（スウェーデン語: Gustaf VI Adolf、Oskar Fredrik Wilhelm Olaf Gustaf Adolf Bernadotte、1882年11月11日 - 1973年9月15日）は、ベルナドッテ王朝第6代のスウェーデン国王（在位：1950年10月29日 - 1973年9月15日）。グスタフ5世の長男。母はバーデン大公フリードリヒ1世の娘ヴィクトリア。 1980年に発行された10クローナ紙幣に肖像が使用されていた。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">古斯塔夫六世·阿道夫（1882年11月11日－1973年9月15日，英文：Gustaf VI Adolf），全名：奥斯卡·弗雷德里克·威廉·奥拉夫·古斯塔夫·阿道夫（Oskar Fredrik Wilhelm Olaf Gustav Adolf），瑞典国王。古斯塔夫五世的长子，一出生就授予斯科訥公爵。从母系来看他又是瓦萨王朝古斯塔夫四世的后裔。1950年10月29日即位。 1905年6月15日他与表妹康诺的玛格丽特公主结婚。玛格丽特公主是英国康诺和斯特拉森公爵阿瑟親王之女。 他第二次和路易丝·蒙巴頓（Louise Mountbatten）女士在1923年11月3日结婚，但這段婚姻並未帶來子女。他的皇位由孫兒卡爾十六世繼承，卡爾是西博滕公爵的兒子。 古斯塔夫六世·阿道夫也是一名業餘的考古學家，並在1953年獲英國國家學術院（British Academy）選為名譽會員。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Gustave VI Adolphe, né le 11 novembre 1882 à Stockholm et mort le 15 septembre 1973 à Helsingborg, est le fils de Gustave V, roi de Suède, et de Victoria de Bade. Il est roi de Suède de 1950 à sa mort.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Gustaw VI Adolf , właśc. Oscar Fredrik Wilhelm Olaf Gustaf Adolf Bernadotte (ur. 11 listopada 1882 w Sztokholmie, zm. 15 września 1973 w Helsingborgu) – król Szwecji w latach 1950–1973 z dynastii Bernadotte. Syn króla Szwecji Gustawa V Bernadotte i Wiktorii Badeńskiej, córki wielkiego księcia Badenii Fryderyka I Badeńskiego.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gustavo_VI_Adolfo_da_Suécia" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Gustavo_VI.a_Adolfo_Suediakoa" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q52878" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Gustaaf_VI_Adolf_van_Zweden" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Gustavo_VI_Adolfo_di_Svezia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gustave_VI_Adolphe" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Gustav_VI._Adolf" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0q787" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γουσταύος_ΣΤ΄_Αδόλφος_της_Σουηδίας" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gustav_VI._Adolf_(Schweden)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/グスタフ6世アドルフ_(スウェーデン王)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gustaw_VI_Adolf" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Gustavo_VI_Adolfo_de_Suecia" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Gustaf_VI_Adolf_dari_Swedia" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/구스타프_6세_아돌프" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q52878" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118719556" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Helsingborg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Sweden" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-9-15</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-09-15</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Royal_Palace_in_Stockholm" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-11-11</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_with_Collar_of_the_Order_of_Merit_of_the_Italian_Republic" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Bernadotte" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Extra_Knights_Companion_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_with_Collar_of_the_Order_of_the_Falcon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Red_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1973_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_Lutherans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Order_of_Saint_John_in_Sweden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Kungliga_begravningsplatsen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Masters_of_the_Order_of_Charles_XIII" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Stockholm" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Al_Rafidain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_with_Diamonds_of_the_Order_of_the_Sun_of_Peru" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Vasa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Skåne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Rue_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_House_and_Merit_Order_of_Peter_Frederick_Louis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_the_Royal_House_of_Chakri" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_the_Norwegian_Lion" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_archaeologists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Croix_of_the_Légion_d&#39;honneur" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Saint_Stanislaus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Saxe-Ernestine_House_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Uppsala_University_alumni" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Grand_Star_of_the_Decoration_for_Services_to_the_Republic_of_Austria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Pahlevi" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_monarchs_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Commanders_Grand_Cross_of_the_Order_of_the_Sword" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_House_Order_of_Fidelity" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Anna,_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Alexander_Nevsky" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Tower_and_Sword" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_White_Eagle_(Russia)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1882_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26651222</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742170585</dbo:wikiPageRevisionID>
+    <dbp:personalMotto rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duty Above All</dbp:personalMotto>
+    <foaf:name xml:lang="en">Gustaf VI Adolf</foaf:name>
+    <foaf:name xml:lang="en">Gustaf VI Adolf of Sweden</foaf:name>
+    <foaf:name xml:lang="en">Oscar Fredrik Wilhelm Olaf Gustaf Adolf</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf_VI_Adolf_of_Sweden_1962.jpg" />
+    <dct:description xml:lang="en">King of Sweden, anthropologist, art historian and archaeologist</dct:description>
+    <foaf:givenName xml:lang="en">Gustav</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gustaf_VI_Adolf_of_Sweden" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf_VI_Adolf_of_Sweden_1962.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gustaf_VI_Adolf_of_Sweden?oldid=742170585" />
+    <dbo:abstract xml:lang="es">Gustavo VI Adolfo (Oskar Fredrik Wilhelm Olaf Gustaf Adolf; Estocolmo, 11 de noviembre de 1882 - Helsingborg, 15 de septiembre de 1973) fue rey de Suecia desde 1950 hasta 1973. Hijo mayor de Gustavo V y de Victoria de Baden. Se casó en 1905 con Margarita de Connaught y en 1923 con Luisa Mountbatten. Gustavo VI Adolfo se convirtió en rey en una época donde la institución monárquica había perdido casi todo papel en la vida política de Suecia. Fue su popularidad lo que permitió que la monarquía se mantuviese como una forma de representación histórica y cultural.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Густав VI Адольф (11 ноября 1882 года — 15 сентября 1973 года) — король Швеции в 1950—1973 гг. Старший сын бывшего короля Густава V и Виктории Баденской. С рождения носил титул герцога Сконского. Его первая жена, Маргарита Коннаутская (с 1905) — внучка королевы Виктории, дочь герцога Артура Коннаутского. Имел от неё четырёх сыновей и дочь: 
+*  Густав Адольф, герцог Вестерботтенский (1906—1947) 
+*  Сигвард (1907—2002), 
+*  Ингрид (1910—2000), королева Дании, жена Фредерика IX и мать Маргрете II, 
+*  Бертиль (1912—1997), 
+*  Карл Юхан (1916—2012). Маргарита погибла от заражения крови при операции 1 мая 1920 года, за 30 лет до вступления Густава на престол. Вторая жена (с 1923), Луиза Баттенберг (Маунтбеттен) — тётка герцога Филиппа Эдинбургского, с 1950 года — королева Луиза. Во втором браке детей не было. Вступил на престол в возрасте 67 лет, использовал девиз: швед. Plikten framför allt («Долг прежде всего»). Во время правления Густава VI началась работа по конституционной реформе (новая Конституция принята в 1975 году, уже после его смерти). Как монарх был очень популярен. Увлекался археологией и ботаникой. Участвовал в археологических экспедициях в Китае (специализовался на китайском искусстве), Греции, Италии, основал Шведский институт в Риме. Как ботаник, собрал большую коллекцию рододендронов. Имел библиотеку в 80 тысяч томов, причём действительно читал все приобретаемые книги. Умер от воспаления лёгких, похоронен не в усыпальнице королей в Риддархольмской церкви, а в Хаге. Его преемником стал 27-летний внук Карл XVI Густав (старший сын Густава Адольфа, герцога Вестерботтенского, погибшего в 1947 году, ещё до вступления отца на престол).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">グスタフ6世アドルフ（スウェーデン語: Gustaf VI Adolf、Oskar Fredrik Wilhelm Olaf Gustaf Adolf Bernadotte、1882年11月11日 - 1973年9月15日）は、ベルナドッテ王朝第6代のスウェーデン国王（在位：1950年10月29日 - 1973年9月15日）。グスタフ5世の長男。母はバーデン大公フリードリヒ1世の娘ヴィクトリア。 1980年に発行された10クローナ紙幣に肖像が使用されていた。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Gustave VI Adolphe, né le 11 novembre 1882 à Stockholm et mort le 15 septembre 1973 à Helsingborg, est le fils de Gustave V, roi de Suède, et de Victoria de Bade. Il est roi de Suède de 1950 à sa mort.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Gustavo VI Adolfo (Estocolmo, 11 de novembro de 1882 – Helsingborg, 15 de setembro de 1973) foi o Rei da Suécia de 1950 até sua morte. Era o filho mais velho do rei Gustavo V e da rainha Vitória de Baden, tendo sido príncipe herdeiro durante 43 anos.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Oscar Frederik Willem Olaf Gustaaf Adolf (Stockholm, 11 november 1882 – Helsingborg, 15 september 1973) was van 1950 tot 1973 als Gustaaf VI Adolf koning van Zweden. Hij was de oudste zoon van koning Gustaaf V en koningin Victoria van Baden.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Gustaw VI Adolf , właśc. Oscar Fredrik Wilhelm Olaf Gustaf Adolf Bernadotte (ur. 11 listopada 1882 w Sztokholmie, zm. 15 września 1973 w Helsingborgu) – król Szwecji w latach 1950–1973 z dynastii Bernadotte. Syn króla Szwecji Gustawa V Bernadotte i Wiktorii Badeńskiej, córki wielkiego księcia Badenii Fryderyka I Badeńskiego.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) غوستاف السادس أدولف (11 نوفمبر 1882 - 15 سبتمبر 1973)، ملك السويد من 29 أكتوبر 1950 إلى 15 سبتمبر 1973.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">古斯塔夫六世·阿道夫（1882年11月11日－1973年9月15日，英文：Gustaf VI Adolf），全名：奥斯卡·弗雷德里克·威廉·奥拉夫·古斯塔夫·阿道夫（Oskar Fredrik Wilhelm Olaf Gustav Adolf），瑞典国王。古斯塔夫五世的长子，一出生就授予斯科訥公爵。从母系来看他又是瓦萨王朝古斯塔夫四世的后裔。1950年10月29日即位。 1905年6月15日他与表妹康诺的玛格丽特公主结婚。玛格丽特公主是英国康诺和斯特拉森公爵阿瑟親王之女。 他第二次和路易丝·蒙巴頓（Louise Mountbatten）女士在1923年11月3日结婚，但這段婚姻並未帶來子女。他的皇位由孫兒卡爾十六世繼承，卡爾是西博滕公爵的兒子。 古斯塔夫六世·阿道夫也是一名業餘的考古學家，並在1953年獲英國國家學術院（British Academy）選為名譽會員。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Gustaf VI Adolf (Oscar Fredrik Wilhelm Olaf Gustaf Adolf; 11 November 1882 – 15 September 1973) was King of Sweden from 29 October 1950 until his death. He was the eldest son of King Gustaf V and his wife, Victoria of Baden, and had been Crown Prince of Sweden for the preceding 43 years in the reign of his father. Gustaf VI Adolf was a lifelong amateur archeologist particularly interested in Ancient Italian cultures.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Gustav VI. Adolf (vollständiger Name auf Schwedisch Oscar Fredrik Wilhelm Olaf Gustaf Adolf Bernadotte; * 11. November 1882 in Stockholm; † 15. September 1973 in Helsingborg) war König von Schweden von 1950 bis 1973. Unter seiner Regentschaft wurde eine neue Verfassung erarbeitet, die den Staat in eine demokratische Monarchie strukturierte, was einer Umwandlung zur Republik vorbeugte. Gustav war ein respektierter Gelehrter und Archäologe sowie eine Autorität auf dem Gebiet chinesischer Kunst.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1950</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1950</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_V_of_Sweden" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Victoria_of_Baden" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Gustaf_V_of_Sweden" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Kungliga_begravningsplatsen" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Solna_Municipality" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louise_Mountbatten" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Carl_XVI_Gustaf_of_Sweden" />
+    <dbp:after rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Henri de Baillet-Latour</dbp:after>
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward VII of the United Kingdom</dbp:before>
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">William Grenfell</dbp:before>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King Gustaf VI Adolf in 1962</dbp:caption>
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/Majesty" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Bernadotte" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Carl Johan Bernadotte</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sigvard Bernadotte</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Bertil, Duke of Halland</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ingrid, Queen of Denmark</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Majesty</dbp:offstyle>
+    <dbp:regType rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_Sweden" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_Sweden" />
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King Gustaf VI Adolf of Sweden</dbp:royalName>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_Swedish_monarchs" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Swedish_monarchs" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">President of Organizing Committee for Summer Olympic Games</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_heirs_to_the_Swedish_throne" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke of Skåne</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1950</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1882</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1907</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1912</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Gustaf_Adolf,_Duke_of_Västerbotten">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_VI_Adolf,_King_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_VI_Adolf">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Jungle">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Scouts">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_VI_Adolph">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_VI_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Adolf,_Duke_of_Scania">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Adolf_of_Scania">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_XVI_Gustaf_of_Sweden">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrid_of_Sweden">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret_of_Connaught">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tage_Erlander">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_VI_Adolf">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equestrian_at_the_1956_Summer_Olympics">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cameronians_(Scottish_Rifles)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Bertil,_Duke_of_Halland">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigvard_Bernadotte">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_VI_of_sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_VI_Adolf_Of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Fredrik_Wilhelm_Olaf_Gustaf_Adolf">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_VI">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_VI_Adolf_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Frederick_William_Olaf_Gustavus_Adolphus_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Fredrik_Wilhelm_Olaf_Gustaf_Adolf_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gustaf_VI_Adolf_of_Sweden">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+  </rdf:Description>
+</rdf:RDF>

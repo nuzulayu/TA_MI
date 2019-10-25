@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Salvator&#39;s_Hall">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiki_Wigglesworth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anmer_Hall">
+    <dbo:tenant rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Action_on_Addiction">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Scouts">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Air_Training_Corps">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Elizabeth_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Elizabeth_middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_elizabeth_middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtMarlboroughCollege" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishSocialites" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtStAndrew&#39;sSchool,Pangbourne" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Socialite110619409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ImportantPerson110200781" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromReading,Berkshire" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSocialites" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishDuchessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBucklebury" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfStAndrews" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdfs:label xml:lang="fr">Catherine Middleton</rdfs:label>
+    <rdfs:label xml:lang="es">Catalina de Cambridge</rdfs:label>
+    <rdfs:label xml:lang="de">Catherine, Duchess of Cambridge</rdfs:label>
+    <rdfs:label xml:lang="it">Catherine Middleton</rdfs:label>
+    <rdfs:label xml:lang="pl">Katarzyna (księżna Cambridge)</rdfs:label>
+    <rdfs:label xml:lang="ar">كاثرين دوقة كامبريدج</rdfs:label>
+    <rdfs:label xml:lang="ja">キャサリン (ケンブリッジ公爵夫人)</rdfs:label>
+    <rdfs:label xml:lang="zh">劍橋公爵夫人凱薩琳</rdfs:label>
+    <rdfs:label xml:lang="nl">Catherine Middleton</rdfs:label>
+    <rdfs:label xml:lang="pt">Catarina, Duquesa de Cambridge</rdfs:label>
+    <rdfs:label xml:lang="en">Catherine, Duchess of Cambridge</rdfs:label>
+    <rdfs:label xml:lang="ru">Кэтрин, герцогиня Кембриджская</rdfs:label>
+    <rdfs:comment xml:lang="nl">Catherine, hertogin van Cambridge (voorheen: Catherine Elizabeth (Kate) Middleton, Reading, 9 januari 1982) is sinds 29 april 2011 de gemalin van prins William, de oudste zoon van de Britse kroonprins Charles.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Catherine Elizabeth Middleton dite Kate Middleton, née le 9 janvier 1982 à Reading au Royaume-Uni, est l&#39;épouse du prince William, duc de Cambridge, fils aîné du prince Charles, prince de Galles, et de la princesse de Galles, Diana Spencer. D&#39;origine roturière, elle est devenue membre de la famille royale britannique le jour de son mariage le 29 avril 2011. Depuis ce jour, elle porte le titre de Son Altesse royale la duchesse de Cambridge.</rdfs:comment>
+    <rdfs:comment xml:lang="de">HRH Catherine, Duchess of Cambridge (* 9. Januar 1982 in Reading, Berkshire, England, gebürtige Catherine Elizabeth „Kate“ Middleton) (deutsch Catherine, Herzogin von Cambridge) ist die Ehefrau des britischen Prinzen William, Duke of Cambridge.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">劍橋公爵夫人嘉芙蓮（英语：Catherine, Duchess of Cambridge，1982年1月9日－）是英國劍橋公爵威廉王子之妻。婚前本名為：嘉芙蓮·伊丽莎白·米德尔顿（Catherine Elizabeth Middleton），昵称「凯特」（Kate），一般華文媒體稱她作「凱特王妃」其實是錯誤的用法，因其夫只是王子而未有親王頭銜，中文裡只能稱為王子妃而非王妃。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Catherine, Duchess of Cambridge (born Catherine Elizabeth &quot;Kate&quot; Middleton; 9 January 1982) is the wife of Prince William, Duke of Cambridge. Following his father Charles, Prince of Wales, William is second in line to succeed his grandmother, Queen Elizabeth II, as monarch of the United Kingdom and 15 other Commonwealth realms. Her perceived impact on British and American fashion has been called the &quot;Kate Middleton effect&quot; in the media, and in 2012 and 2013, she was selected as one of the &quot;100 Most Influential People in the World&quot; by Time magazine.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">كاثرين دوقة كامبريدج (9 يناير 1982 -)، دوقة كامبريدج وزوجة الأمير ويليام دوق كامبريدج نجل ولي عهد المملكة المتحدة الأمير تشارلز. ووليام هو الثاني في تسلسل الخلافة بعد والده الأمير تشارلز. ولدت كيت في قرية شابل رو، وهي قرية قرب نيوبري، بيركشاير، انجلترا. درست تاريخ الفن في اسكتلندا في جامعة سانت اندروز، حيث التقت وليام في 2001 وأعلنا خطبتهما في 16 تشرين الثاني 2010، وكانت قد حضرت العديد من المناسبات الملكة الهامة قبل زواجها منه في 29 نيسان 2011 في كنيسة وستمنستر. ولكيت تأثير كبير على الموضة البريطانية والأمريكية، والتي اصطلح على تسميته &quot;تأثير كيت ميدلتون&quot;، ففي عام 2012 اختيرت كواحدم من &quot;أكثر الشخصيات تأثيرا في العالم&quot; من قبل مجلة تايم. في 22 يوليو 2013، أنجبت صبيًا، جورج أمير كامبريدج، والذي يحتل المركز الثالث في خط الخلافة على العرش البريطاني.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Кэ́трин Эли́забет Маунтбэттен-Виндзор, герцогиня Кембриджская (в девичестве Кэтрин Элизабет Миддлтон) (англ. Catherine Elizabeth, Duchess of Cambridge, née Catherine Elizabeth Middleton; род. 9 января 1982, Рединг) — супруга герцога Кембриджского Уильяма. В Шотландии — графиня Стратернская (англ. Countess of Strathearn).</rdfs:comment>
+    <rdfs:comment xml:lang="es">Catalina, duquesa de Cambridge (n. Catherine Elizabeth Middleton en Reading, Berkshire, 9 de enero de 1982) es la esposa del príncipe Guillermo, duque de Cambridge, quien es el segundo en línea de sucesión a los tronos de los 16 Reinos de la Mancomunidad, y si se convirtiese en rey, Catalina se convertiría en reina consorte. Antes de su matrimonio, era conocida popularmente como Kate Middleton.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Katarzyna, księżna Cambridge, właśc., ang.  Catherine, Duchess of Cambridge, urodzona jako Catherine Elizabeth Middleton (ur. 9 stycznia 1982 w Reading) – Angielka, od 29 kwietnia 2011 roku żona brytyjskiego księcia Wilhelma. Po ślubie uzyskała tytuł księżnej Cambridge. Pochodzi z hrabstwa Berkshire, ukończyła University of St Andrews na kierunku historia sztuki.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Catarina, Duquesa de Cambridge (Reading, 9 de janeiro de 1982) é a esposa do Príncipe Guilherme, Duque de Cambridge. Filha do empresário Michael Francis Middleton, que trabalhou como assistente de bordo antes de ser despachante de voo da companhia aérea British Airways, e de Carole Elizabeth Middleton (nascida Goldsmith), uma ex-assistente de bordo. O casal conheceu-se enquanto ambos trabalhavam na British Airways. Catarina tem dois irmãos, Philippa e James. Ela cresceu numa pequena aldeia em Bucklebury, a cerca de 45 quilometros de Londres. Os seus pais enriqueceram com uma empresa de artigos para festas infantis que criaram, a Party Pieces, o que permitiu a Catarina entrar para a alta sociedade e estudar em bons colégios.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ケンブリッジ公爵夫人キャサリン（Catherine, Duchess of Cambridge、旧名: キャサリン・エリザベス・&quot;ケイト&quot;・ミドルトン（Catherine Elizabeth &quot;Kate&quot; Middleton）、1982年1月9日 - ）は、イギリス王室のケンブリッジ公ウィリアム王子の配偶者。同王子との成婚に際し、同王子がケンブリッジ公爵に叙任されたことにより、ケンブリッジ公爵夫人と称される。敬称は殿下（Her Royal Highness）。 ケイトはキャサリンの愛称（短縮形）であるが、ウィリアムの恋人としてメディアに取り上げられるまで家族、友人からケイトと呼ばれたことはなかった。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_honours_of_the_British_Royal_Family_by_country" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Engagement_announcement_dress_of_Catherine_Middleton" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Duchess_of_Cambridge" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Family_of_Catherine" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Catherine,_vévodkyně_z_Cambridge" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Catalina_de_Cambridge" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Catherine,_Duchess_of_Cambridge" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/キャサリン_(ケンブリッジ公爵夫人)" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rTgTsJsxWSh-k4rU_bRgjDA" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Catarina,_Duquesa_de_Cambridge" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Catherine,_Istri_Adipati_Cambridge" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Kate_Middleton" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Catherine_Elizabeth" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q10479" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Catherine_Middleton" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rZMqqOg6zTTym6NK5-LBHkg" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05mnc3" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Catherine_Middleton" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q10479" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/케임브리지_공작부인_캐서린" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Katalina_Cambridgekoa" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Αικατερίνη,_Δούκισσα_του_Κέιμπριτζ" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Katarzyna_(księżna_Cambridge)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Catherine_Middleton" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/140486755" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Reading,_Berkshire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Berkshire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Royal_Berkshire_Hospital" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-01-09</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-1-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Catherine,_Duchess_of_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountbatten-Windsor_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_socialites" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Marlborough_College" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1982_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Commons_category_with_local_link_same_as_on_Wikidata" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St_Andrew&#39;s_School,_Pangbourne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Newbury,_Berkshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_countesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_St_Andrews" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Bucklebury" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Reading,_Berkshire" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1677192</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744469709</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dukeandduchessofcambridge.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.royal.uk/the-duchess-of-cambridge" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.princeofwales.gov.uk/personalprofiles/thedukeandduchessofcambridge/theduchessofcambridge/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://anthonyadolph.co.uk/princess-catherine/" />
+    <foaf:name xml:lang="en">Catherine Elizabeth</foaf:name>
+    <foaf:name xml:lang="en">Catherine, Duchess of Cambridge</foaf:name>
+    <foaf:name xml:lang="en">Catherine</foaf:name>
+    <foaf:homepage rdf:resource="http://www.princeofwales.gov.uk/personalprofiles/thedukeandduchessofcambridge/theduchessofcambridge/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Catherine_Elizabeth_Middleton_(colorized).jpg" />
+    <dct:description xml:lang="en">wife of Prince William, Duke of Cambridge</dct:description>
+    <foaf:givenName xml:lang="en">Catherine</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Catherine,_Duchess_of_Cambridge" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Catherine_Elizabeth_Middleton_(colorized).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Catherine,_Duchess_of_Cambridge?oldid=744469709" />
+    <dbo:abstract xml:lang="ar">كاثرين دوقة كامبريدج (9 يناير 1982 -)، دوقة كامبريدج وزوجة الأمير ويليام دوق كامبريدج نجل ولي عهد المملكة المتحدة الأمير تشارلز. ووليام هو الثاني في تسلسل الخلافة بعد والده الأمير تشارلز. ولدت كيت في قرية شابل رو، وهي قرية قرب نيوبري، بيركشاير، انجلترا. درست تاريخ الفن في اسكتلندا في جامعة سانت اندروز، حيث التقت وليام في 2001 وأعلنا خطبتهما في 16 تشرين الثاني 2010، وكانت قد حضرت العديد من المناسبات الملكة الهامة قبل زواجها منه في 29 نيسان 2011 في كنيسة وستمنستر. ولكيت تأثير كبير على الموضة البريطانية والأمريكية، والتي اصطلح على تسميته &quot;تأثير كيت ميدلتون&quot;، ففي عام 2012 اختيرت كواحدم من &quot;أكثر الشخصيات تأثيرا في العالم&quot; من قبل مجلة تايم. في 22 يوليو 2013، أنجبت صبيًا، جورج أمير كامبريدج، والذي يحتل المركز الثالث في خط الخلافة على العرش البريطاني.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Catarina, Duquesa de Cambridge (Reading, 9 de janeiro de 1982) é a esposa do Príncipe Guilherme, Duque de Cambridge. Filha do empresário Michael Francis Middleton, que trabalhou como assistente de bordo antes de ser despachante de voo da companhia aérea British Airways, e de Carole Elizabeth Middleton (nascida Goldsmith), uma ex-assistente de bordo. O casal conheceu-se enquanto ambos trabalhavam na British Airways. Catarina tem dois irmãos, Philippa e James. Ela cresceu numa pequena aldeia em Bucklebury, a cerca de 45 quilometros de Londres. Os seus pais enriqueceram com uma empresa de artigos para festas infantis que criaram, a Party Pieces, o que permitiu a Catarina entrar para a alta sociedade e estudar em bons colégios. Conheceu o príncipe Guilherme na Universidade de St. Andrews, na Escócia, em 2001, quando estudava História de Arte. Começaram a namorar em 2003 e viveram juntos nos tempos da universidade. Devido ao adiar constante do anúncio de casamento com o príncipe Guilherme, a imprensa chegou a usar a alcunha “Waity Katie” (“Katie à espera”). Depois de concluído o curso universitário Catarina trabalhou na cadeia de lojas de roupa Jigsaw, a trabalhar quatro dias por semana no departamento de compras de acessórios. Ela interessa-se por moda. Mais tarde, ela trabalhou no negócio da família. Em 2012, a revista norte-americana Time classificou Catarina e sua irmã, Pippa Middleton como uma das 100 pessoas mais influentes no mundo.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Catalina, duquesa de Cambridge (n. Catherine Elizabeth Middleton en Reading, Berkshire, 9 de enero de 1982) es la esposa del príncipe Guillermo, duque de Cambridge, quien es el segundo en línea de sucesión a los tronos de los 16 Reinos de la Mancomunidad, y si se convirtiese en rey, Catalina se convertiría en reina consorte. Antes de su matrimonio, era conocida popularmente como Kate Middleton.</dbo:abstract>
+    <dbo:abstract xml:lang="de">HRH Catherine, Duchess of Cambridge (* 9. Januar 1982 in Reading, Berkshire, England, gebürtige Catherine Elizabeth „Kate“ Middleton) (deutsch Catherine, Herzogin von Cambridge) ist die Ehefrau des britischen Prinzen William, Duke of Cambridge.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Кэ́трин Эли́забет Маунтбэттен-Виндзор, герцогиня Кембриджская (в девичестве Кэтрин Элизабет Миддлтон) (англ. Catherine Elizabeth, Duchess of Cambridge, née Catherine Elizabeth Middleton; род. 9 января 1982, Рединг) — супруга герцога Кембриджского Уильяма. В Шотландии — графиня Стратернская (англ. Countess of Strathearn).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ケンブリッジ公爵夫人キャサリン（Catherine, Duchess of Cambridge、旧名: キャサリン・エリザベス・&quot;ケイト&quot;・ミドルトン（Catherine Elizabeth &quot;Kate&quot; Middleton）、1982年1月9日 - ）は、イギリス王室のケンブリッジ公ウィリアム王子の配偶者。同王子との成婚に際し、同王子がケンブリッジ公爵に叙任されたことにより、ケンブリッジ公爵夫人と称される。敬称は殿下（Her Royal Highness）。 ケイトはキャサリンの愛称（短縮形）であるが、ウィリアムの恋人としてメディアに取り上げられるまで家族、友人からケイトと呼ばれたことはなかった。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Catherine, Duchess of Cambridge (born Catherine Elizabeth &quot;Kate&quot; Middleton; 9 January 1982) is the wife of Prince William, Duke of Cambridge. Following his father Charles, Prince of Wales, William is second in line to succeed his grandmother, Queen Elizabeth II, as monarch of the United Kingdom and 15 other Commonwealth realms. Middleton grew up in Chapel Row, a village near Newbury, Berkshire, England. She studied art history in Scotland at the University of St Andrews, where she met William in 2001. Their engagement was announced on 16 November 2010 before they married on 29 April 2011 at Westminster Abbey. The Duke and Duchess have two children: Prince George (born 22 July 2013) and Princess Charlotte of Cambridge (born 2 May 2015), who are respectively third and fourth in line to the British throne. Her perceived impact on British and American fashion has been called the &quot;Kate Middleton effect&quot; in the media, and in 2012 and 2013, she was selected as one of the &quot;100 Most Influential People in the World&quot; by Time magazine.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Catherine, hertogin van Cambridge (voorheen: Catherine Elizabeth (Kate) Middleton, Reading, 9 januari 1982) is sinds 29 april 2011 de gemalin van prins William, de oudste zoon van de Britse kroonprins Charles.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Catherine Elizabeth Middleton dite Kate Middleton, née le 9 janvier 1982 à Reading au Royaume-Uni, est l&#39;épouse du prince William, duc de Cambridge, fils aîné du prince Charles, prince de Galles, et de la princesse de Galles, Diana Spencer. D&#39;origine roturière, elle est devenue membre de la famille royale britannique le jour de son mariage le 29 avril 2011. Depuis ce jour, elle porte le titre de Son Altesse royale la duchesse de Cambridge.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">劍橋公爵夫人嘉芙蓮（英语：Catherine, Duchess of Cambridge，1982年1月9日－）是英國劍橋公爵威廉王子之妻。婚前本名為：嘉芙蓮·伊丽莎白·米德尔顿（Catherine Elizabeth Middleton），昵称「凯特」（Kate），一般華文媒體稱她作「凱特王妃」其實是錯誤的用法，因其夫只是王子而未有親王頭銜，中文裡只能稱為王子妃而非王妃。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Katarzyna, księżna Cambridge, właśc., ang.  Catherine, Duchess of Cambridge, urodzona jako Catherine Elizabeth Middleton (ur. 9 stycznia 1982 w Reading) – Angielka, od 29 kwietnia 2011 roku żona brytyjskiego księcia Wilhelma. Po ślubie uzyskała tytuł księżnej Cambridge. Pochodzi z hrabstwa Berkshire, ukończyła University of St Andrews na kierunku historia sztuki.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Carole_Middleton" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Michael_Francis_Middleton" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge" />
+    <dbo:title xml:lang="en">Duchess of Cambridge([[#Titles, styles, honours and arms</dbo:title>
+    <dbp:previousVersions rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Her previous coat of arms depicted the shield from her father Michael Middleton&#39;s coat of arms shaped into a lozenge hanging from a blue ribbon symbolising her unmarried state.  Her sister Pippa also uses the same lozenge-shaped coat of arms. Her brother, James, bears his father&#39;s arms, with a gold label for difference. In due course James will inherit his father&#39;s full coat of arms.</dbp:previousVersions>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Duchess of Cambridge in 2014</dbp:caption>
+    <dbp:coronet rdf:resource="http://dbpedia.org/resource/Coronet" />
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Quarterly 1st and 4th Gules three lions passant guardant in pale Or armed and langed Azure , 2nd Or a lion rampant Gules armed and langued Azure within a double tressure flory counterflory of the second , 3rd Azure a harp Or stringed Argent , the whole differenced with a label of three points Argent with the central point charged with an escallop Gules ; Impaled with a shield per pale Azure and Gules, a chevron Or, cotised Argent, between three acorns slipped and leaved Or .</dbp:escutcheon>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Windsor</dbp:house>
+    <dbp:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</dbp:imagesize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_George_of_Cambridge" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Charlotte_of_Cambridge" />
+    <dbp:notes rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--04-19</dbp:notes>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Signature of Catherine, Duchess of Cambridge.PNG</dbp:signature>
+    <dbp:supporters rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">To the dexter the Lion as borne and used as a Supporter by &quot;Our Dearly Beloved Grandson His Royal Highness Prince William of Wales Duke of Cambridge&quot; and to the sinister a Hind Argent unguled and gorged with &quot;a Coronet of Our Dearly Beloved Grandson&#39;s degree Or&quot;. The hind is white  and is hooved, unguled and has about its neck  the Duke of Cambridge&#39;s coronet. Both the hooves and coronet are gold .</dbp:supporters>
+    <dbp:symbolism rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right|100px The dividing line  down the centre is a canting of the name &#39;Middle-ton&#39;. The acorns  are a traditional symbol of England and a feature of west Berkshire, where the family have lived for 30 years. The three acorns also denote the family&#39;s three children. The gold chevron in the centre of the arms is an allusion to Carole Middleton&#39;s maiden name of Goldsmith. The two white chevronels  symbolise peaks and mountains, and the family&#39;s love of the Lake District and skiing.</dbp:symbolism>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Air Commandant of the Air Training Corps</dbp:title>
+    <dbp:yearAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-04-19</dbp:yearAdopted>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pippa_Middleton">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katherine_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Middleton">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Charlotte_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_of_Cambridge_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_William_Middleton">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Family_of_Catherine,_Duchess_of_Cambridge">
+    <dbp:members rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Mountbatten-Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Catherine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Catherine,_Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_William">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waity_Katie">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baroness_Carrickfergus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catharine,_Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_Kate_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Her_Royal_Highness_the_Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate,_Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Kate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Kate_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Catherine,_Duchess_of_Cambridge">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K-middy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_William_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cate_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Catherine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Middleton&#39;s_baby">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_Baroness_Carrickfergus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_Lady_Carrickfergus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_duchess_of_cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Mountbatten-Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_Duchess_of_Cabridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_Countess_of_Strathearn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_Dutchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_The_Duchess_of_Cambridge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+  </rdf:Description>
+</rdf:RDF>

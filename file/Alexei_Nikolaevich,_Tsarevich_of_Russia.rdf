@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsesarevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Alexei_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoodPerson110138767" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedChildren" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChildSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderedMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Juvenile109622049" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109917593" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Saint110546850" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianOrthodoxSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictimsOfRedTerrorInSovietRussia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheRoyalOrderOfTheSeraphim" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDukes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderedChildren" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEasternOrthodoxSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByRussiaByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedPeopleFromSaintPetersburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPassionBearers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleMurderedInRussia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRomanCatholicSaints" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Carrier109897696" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChildren" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfDanishDescent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdfs:label xml:lang="nl">Aleksej Nikolajevitsj van Rusland</rdfs:label>
+    <rdfs:label xml:lang="pt">Alexei Nikolaevich, Czarevich da Rússia</rdfs:label>
+    <rdfs:label xml:lang="pl">Aleksy Romanow (1904–1918)</rdfs:label>
+    <rdfs:label xml:lang="zh">阿列克谢·尼古拉耶维奇·罗曼诺夫</rdfs:label>
+    <rdfs:label xml:lang="it">Aleksej Nikolaevič Romanov</rdfs:label>
+    <rdfs:label xml:lang="de">Alexei Nikolajewitsch Romanow</rdfs:label>
+    <rdfs:label xml:lang="fr">Alexis Nikolaïevitch de Russie</rdfs:label>
+    <rdfs:label xml:lang="ja">アレクセイ・ニコラエヴィチ (ロシア皇太子)</rdfs:label>
+    <rdfs:label xml:lang="ru">Алексей Николаевич</rdfs:label>
+    <rdfs:label xml:lang="es">Alekséi Nikoláyevich Románov</rdfs:label>
+    <rdfs:label xml:lang="en">Alexei Nikolaevich, Tsarevich of Russia</rdfs:label>
+    <rdfs:comment xml:lang="fr">Le grand-duc et tsarévitch Alexis Nikolaïevitch de Russie (Alekseï Nikolaïevitch Romanov, en russe : Алексей Николаевич Романов), né le 12 août 1904 (30 juillet du calendrier julien) à Peterhof et assassiné le 17 juillet 1918 à Ekaterinbourg, membre de la famille impériale de Russie, était le fils du tsar Nicolas II et de la tsarine Alexandra Feodorovna.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Alekséi Nikoláyevich Románov (Алексе́й Никола́евич; 12 de agosto de 1904 – 17 de julio de 1918) fue el último tsesarévich (heredero aparente confundido con zarévich) del Imperio Ruso. Fue el quinto hijo y único varón nacido del matrimonio de Nicolás II y Alejandra Fiódorovna. Su título oficial era Su Alteza Imperial, Zarévich y Gran Duque de Rusia. Tras la Revolución rusa de 1917, murió asesinado junto a su familia el 17 de julio de 1918 en Ekaterinburgo.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Aleksy Mikołajewicz Romanow (ur. 30 lipca?/12 sierpnia 1904 w Peterhofie, zm. 17 lipca 1918 w Jekaterynburgu) – najmłodszy z pięciorga dzieci ostatniego imperatora Wszechrusi Mikołaja II i imperatorowej Aleksandry Fiodorowny. Ostatni cesarzewicz – następca tronu Rosji. Święty prawosławny.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Aleksej Nikolajevitsj Romanov (Russisch: Алексей Николаевич Романов) (Peterhof, 12 augustus 1904 - Jekaterinenburg, 17 juli 1918) was de zoon van tsaar Nicolaas II en tsarina Alexandra Fjodorovna. Hij was na zijn zussen Olga, Tatjana, Maria en Anastasia het vijfde kind van de tsaar en tsarina. Als enige zoon was hij troonopvolger. De Duitse keizer Wilhelm II was één van Aleksejs peetvaders. De stoffelijke resten van de overige familieleden werden in 1998 in de Sint-Petrus en Pauluskathedraal te Sint-Petersburg herbegraven.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Алексе́й Никола́евич (Рома́нов) (30 июля (12 августа) 1904, Петергоф — 17 июля 1918, Екатеринбург) — Наследник Цесаревич и Великий Князь, пятый ребёнок и единственный сын Николая II и Александры Фёдоровны. Расстрелян 17 июля 1918 вместе с родителями, сёстрами и слугами. Тезоименитство — 5 октября по юлианскому календарю. Канонизирован Русской православной церковью как страстотерпец (память — 4 июля по юлианскому календарю).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">阿列克谢·尼古拉耶维奇·罗曼诺夫（俄語：Алексе́й Никола́евич Рома́нов，1904年8月12日－1918年7月17日），俄罗斯帝国末代皇储。父親為沙皇尼古拉二世，母親為亚历山德拉·费奥多萝芙娜。 由於其為尼古拉二世的唯一兒子，故在其出生後自動地成為俄國皇儲。可惜的是，阿列克謝在出生不久後被檢驗出罹患了血友病。雖然皇后四處訪尋名醫為其治療，但仍失敗。阿列克謝其後在拉斯普京的治療下逐漸痊癒了。亦因如此，阿列克謝的出生實給予拉斯普京一個掌權的機會。1918年，沙俄滅亡，尼古拉二世全家遭布尔什维克軍隊（即後來的蘇聯共產黨）處決，但阿列克謝和其姐姐安娜斯塔西亞的遺體當時仍下落不明。 紐約時報2007年11月25日報導，蘇維埃時期的檔案中，有行刑者回憶處決過程的祕密報告。一群業餘人士分析報告後發現，線索就在行刑隊帶頭者尤洛夫斯基的證詞中。尤洛夫斯基表示，其他王室成員或支持者未來尋找沙皇一家遺骸時，會將目標設定為十一具遺體；他們為了混淆視聽，故意將其中兩具屍體焚毀，並埋在另一個地點。 這群業餘人士根據線索，在距離當初發現九具遺體地點約六十公尺的樹林裡，發現大抵燒得焦黑的兩具骨骸，裡面還夾雜子彈和盛裝強酸罐子的碎片，強酸應是用來毀屍滅跡。這些殘骸發現時的樣子和最早發現的九具屍體類似。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Alexei wurde am 3. September 1904 in der Kapelle im Schloss Peterhof getauft. Seine wichtigsten Paten waren seine Großmutter und sein Großonkel, Großfürst Alexei Alexandrowitsch. Seine anderen Paten waren seine älteste Schwester Olga, sein Urgroßvater König Christian IX. von Dänemark, König Eduard VII. des Vereinigten Königreichs, der Prinz von Wales und der Deutsche Kaiser Wilhelm II. Die Predigt wurde von Johannes von Kronstadt gehalten und das Kind wurde von Prinzessin Galitzine, der Herrin der Roben, zu dem Taufbecken gebracht. Als Vorsichtsmaßnahme hatte sie Gummisohlen, um nicht zu stolpern und ihn fallen zu lassen.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alexei Nikolaevich Romanov (em russo: Цесаревич Алексей Николаевич Романов; São Petersburgo, 12 de Agosto de 1904 - Ecaterimburgo, 17 de Julho de 1918) foi herdeiro aparente do trono russo desde o seu nascimento até à morte em 1918. Era o mais novo e único filho homem do imperador Nicolau II e da sua esposa, a imperatriz Alexandra Feodorovna.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アレクセイ・ニコラエヴィチ・ロマノフ（русский: Алексей Николаевич Романов, ラテン文字転写: Alexei Nikolaevich Romanov, 1904年8月12日 - 1918年7月17日）は、ロシア皇帝ニコライ2世の第一皇子、ロシア帝国最後の皇太子。1917年の二月革命で成立した臨時政府によって家族と共に監禁された。十月革命で権力を掌握したウラジーミル・レーニン率いるボリシェヴィキの命を受けたチェーカー（秘密警察）によって翌1918年7月17日に超法規的殺害（裁判手続きを踏まない殺人）が実行され、エカテリンブルクのイパチェフ館において家族・従者と共にわずか13歳の若さで銃殺された。正教会で聖人（新致命者）。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Alexei Nikolaevich (Russian: Алексе́й Никола́евич) (12 August 1904 [O.S. 30 July] – 17 July 1918) of the House of Romanov, was the Tsesarevich and heir apparent to the throne of the Russian Empire. He was the youngest child and only son of Emperor Nicholas II and Empress Alexandra Feodorovna. He was born with hemophilia; his mother&#39;s reliance on the faith healer Grigori Rasputin to treat the disease helped bring about the end of the Romanov dynasty. After the February Revolution of 1917, he and his family were sent into internal exile in Tobolsk, Siberia. He was murdered alongside his parents, four sisters, and three retainers during the Russian Civil War by order of the Bolshevik government, though rumors that he had survived persisted until the 2007 discovery of his and one of his sister</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q154045" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alexei_Nikolajewitsch_Romanow" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレクセイ・ニコラエヴィチ_(ロシア皇太子)" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Αλεξέι_Νικολάγιεβιτς,_Τσάρεβιτς_της_Ρωσίας" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Aleksej_Nikolajevitsj_van_Rusland" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alekséi_Nikoláyevich_Románov" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alexis_Nikolaïevitch_de_Russie" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/러시아_황태자_알렉세이_니콜라예비치" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Aleksy_Romanow_(1904–1918)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0198w_" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q154045" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Alexej_Nikolajevič" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Alexei_Nikolaevich" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Aleksej_Nikolaevič_Romanov" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119135353" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexei_Nikolaevich,_Czarevich_da_Rússia" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tsarevich_Alexei_Nikolaevich_of_Russia" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ipatiev_House" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_Socialist_Federative_Soviet_Republic" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Yekaterinburg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-07-17</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-7-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg_Governorate" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Petergof" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Peterhof_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-8-12</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-08-12</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_Danish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_dukes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Saint_Stanislaus_(Russian),_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Child_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Anna,_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Alexander_Nevsky" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1918_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Double_Dragon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Murdered_children" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Haemophilia_in_European_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Peter_and_Paul_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_English_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Passion_bearers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Croix_of_the_Légion_d&#39;honneur" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Medal_of_St._George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_White_Eagle_(Russian)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Murdered_Russian_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_executed_by_Russia_by_firing_squad" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_people_from_Saint_Petersburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_Russian_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_Red_Terror_in_Soviet_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_children" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heirs_apparent_who_never_acceded" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1904_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nicholas_II_of_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Christian_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_saints_of_the_Eastern_Orthodox_Church" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185107</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744963360</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.alexejromanov.com/shattered/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://tsarevichalexei.bravehost.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.serfes.org/royal/miracleprayers.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://alexeiromanov.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.frozentears.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.searchfoundationinc.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.romanov-memorial.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.angelfire.com/pa/ImperialRussian/royalty/russia/aleksei.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.struggler.org/GlorificationOfTheRoyalFamily.html" />
+    <foaf:name xml:lang="en">Alexei Nikolaevich Romanov</foaf:name>
+    <foaf:name xml:lang="en">Alexei Nikolaevich</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/The_Russian_Tsarevich_(1904_-_1918)_Q81540.jpg" />
+    <dct:description xml:lang="en">heir apparent of the Russian Empire</dct:description>
+    <foaf:givenName xml:lang="en">Alexis</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+    <foaf:surname xml:lang="en">Romanow</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/The_Russian_Tsarevich_(1904_-_1918)_Q81540.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Alexei_Nikolaevich,_Tsarevich_of_Russia?oldid=744963360" />
+    <dbo:abstract xml:lang="pl">Aleksy Mikołajewicz Romanow (ur. 30 lipca?/12 sierpnia 1904 w Peterhofie, zm. 17 lipca 1918 w Jekaterynburgu) – najmłodszy z pięciorga dzieci ostatniego imperatora Wszechrusi Mikołaja II i imperatorowej Aleksandry Fiodorowny. Ostatni cesarzewicz – następca tronu Rosji. Święty prawosławny.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Alexei wurde am 3. September 1904 in der Kapelle im Schloss Peterhof getauft. Seine wichtigsten Paten waren seine Großmutter und sein Großonkel, Großfürst Alexei Alexandrowitsch. Seine anderen Paten waren seine älteste Schwester Olga, sein Urgroßvater König Christian IX. von Dänemark, König Eduard VII. des Vereinigten Königreichs, der Prinz von Wales und der Deutsche Kaiser Wilhelm II. Die Predigt wurde von Johannes von Kronstadt gehalten und das Kind wurde von Prinzessin Galitzine, der Herrin der Roben, zu dem Taufbecken gebracht. Als Vorsichtsmaßnahme hatte sie Gummisohlen, um nicht zu stolpern und ihn fallen zu lassen. Von seiner Mutter hatte er die Bluterkrankheit (Hämophilie B) geerbt. Diese Krankheit kann bis zu seiner Urgroßmutter mütterlicherseits, Königin Victoria, zurückverfolgt werden. Alexei musste oft das Bett hüten und jede noch so kleine Verletzung vermeiden. Aufgrund von inneren Blutungen und aggressiver Medikation hatte er oft große Schmerzen zu erdulden. Der kleine Junge wurde bei vielen öffentlichen Veranstaltungen von starken Matrosen getragen, damit die Gefahr von Verletzungen möglichst gebannt wurde. Diese Matrosen waren Nagorny und Derewenko. Alexei machte sich über den stämmigen Derewenko lustig und verspottete ihn, weil er nicht mit dem flinken Nagorny mithalten konnte. „Sieh dir den rennenden Fatty an!“ rief er bei öffentlichen Prozessionen. Seine Krankheit war in den ersten Jahren als Staatsgeheimnis gehütet worden, bis der deutsche Kaiser Wilhelm II. auf einem Staatsbesuch einen großen blauen Fleck auf der Stirn des Jungen entdeckte und dieser im Laufe der Tage des Staatsbesuches nicht mehr verschwand. Wilhelm kannte sich mit der Bluterkrankheit sehr gut aus, da zwei Söhne seines Bruders Heinrich auch daran litten. Die Zarenkinder wuchsen in einer behüteten und familiären Atmosphäre auf, da die Eltern größten Wert darauf legten, dass die Kinder nicht von Gouvernanten großgezogen wurden, wie es bei den meisten Königshäusern der damaligen Zeit üblich war. Seine Eltern und Schwestern waren in ihn vernarrt und er war als „Baby“ in der Familie bekannt. Später wurde er auch liebevoll Aljoscha (Алёша) und Ljoschka (Лёшка) genannt. Von seiner Kindheit sind sehr viele Fotografien erhalten, da eines der großen Hobbys der Zarenfamilie das Fotografieren war. „Alexei war das Zentrum dieser vereinten Familie, er war im Mittelpunkt aller ihrer Hoffnungen und Gefühle“, schrieb sein Lehrer, Pierre Gilliard. „Seine Schwestern beteten ihn an. Er war der ganze Stolz und Freude seiner Eltern. Wenn er gut gestimmt war, war der Palast wie verwandelt. Jeder und alles schien in der Sonne gebadet.“ Der Junge hatte eine auffallende Ähnlichkeit zu seiner Mutter, schrieb sein Lehrer Gilliard. Er war groß für sein Alter, mit „einem langen, fein geschnittenen Gesicht, feinen Zügen, braunem Haar mit einem kupferfarbenen Glanz und großen grau-blauen Augen wie seine Mutter“. Obwohl er intelligent und liebevoll war, war seine Ausbildung häufig unterbrochen durch Ausbrüche der Hämophilie. Alexei trug als Kind, wie alle Männer der Romanows, eine Matrosenuniform und spielte Kriegsspiele. Es war ihm verboten, mit dem Fahrrad zu fahren oder wild zu spielen. Trotz der Beschränkungen seiner Tätigkeit war Alexei von Natur aus aktiv und lebhaft und hatte einen einfachen Geschmack. Er weigerte sich, etwas anderes als Russisch zu sprechen, und genoss das Tragen einer russischen Tracht. Als er ein kleines Kind war, spielte er gelegentlich Streiche auf Kosten der Gäste. Der berühmteste dieser war, als der kleine Prinz bei einer förmlichen Dinner-Party unter den Tisch kletterte, den Schuh eines weiblichen Gastes auszog und diesen seinem Vater zeigte. Nikolaus sagte seinem Jungen streng, er solle die „Trophäe“ zurückbringen. Alexei tat dies, aber nicht bevor er eine große reife Erdbeere in die Spitze des Schuhes getan hatte. Einige Wochen später wurde es dem Thronfolger nicht gestattet, an einem staatlichen Abendessen teilzunehmen. Im Alter von sieben war sein Verhalten beim Familienessen den Eltern peinlich. Der verwöhnte Alexei hänselte andere am Tisch, weigerte sich, auf seinem Stuhl zu sitzen, wollte sein Essen nicht essen und leckte seinen Teller ab. Sein Vater drehte den Kopf weg und versuchte, Alexeis Verhalten zu ignorieren. Seine Mutter tadelte seine ältere Schwester Olga, weil sie ihn nicht kontrollierte. Ihre Erwartung war unangemessen, sagte Großfürst Konstantin Konstantinowitsch von Russland, ein entfernter Verwandter der kaiserlichen Familie. Sein Lehrer, Pierre Gilliard, diskutierte mit den Eltern von Alexei, um sie schließlich zu überzeugen, dass eine größere Autonomie des Kindes zur Entwicklung einer besseren Selbstkontrolle beitragen würde. Der heranwachsende Alexei nutzte diese ungewohnte Freiheit und fing an, einigen seiner früheren Schwächen zu entwachsen. Höflinge berichteten, dass seine Krankheit ihn auch empfindlich für die Schmerzen der anderen machte. Zarewitsch Alexei war einer der ersten Pfadfinder in Russland. Der ADC des Zaren, Oberst Mordinow, erinnerte sich an Alexei: „Er hatte das, was wir Russen in der Regel als ein ‚goldenes Herz‘ bezeichneten. Er ging leicht mit Menschen eine Bindung ein, er mochte sie und versuchte sein Bestes zu tun, um ihnen zu helfen, vor allem, wenn es ihm schien, dass jemand zu Unrecht verletzt wurde. Seine Liebe, wie die der Eltern, war in erster Linie auf der Grundlage des Mitleids. Zarewitsch Alexei Nikolaewitsch war furchtbar faul, aber durchaus ein fähiger Junge (Ich glaube, er war faul, gerade weil er fähig war), er begriff alles schnell, wurde nachdenklich und leidenschaftlich über seine Jahre ... Trotz seiner Gutmütigkeit und seines Mitleides versprach er zweifellos, einen festen und unabhängigen Charakter in der Zukunft zu besitzen.“</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Алексе́й Никола́евич (Рома́нов) (30 июля (12 августа) 1904, Петергоф — 17 июля 1918, Екатеринбург) — Наследник Цесаревич и Великий Князь, пятый ребёнок и единственный сын Николая II и Александры Фёдоровны. Расстрелян 17 июля 1918 вместе с родителями, сёстрами и слугами. Тезоименитство — 5 октября по юлианскому календарю. Канонизирован Русской православной церковью как страстотерпец (память — 4 июля по юлианскому календарю).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Aleksej Nikolajevitsj Romanov (Russisch: Алексей Николаевич Романов) (Peterhof, 12 augustus 1904 - Jekaterinenburg, 17 juli 1918) was de zoon van tsaar Nicolaas II en tsarina Alexandra Fjodorovna. Hij was na zijn zussen Olga, Tatjana, Maria en Anastasia het vijfde kind van de tsaar en tsarina. Als enige zoon was hij troonopvolger. De Duitse keizer Wilhelm II was één van Aleksejs peetvaders. Aleksej leed aan hemofilie wat in die tijd niet te behandelen was. De tsaar had besloten om deze ziekte geheim te houden voor het Russische volk, zodat de Russen zich geen zorgen hoefden te maken over de troonopvolging. Aleksej had gedurende zijn jeugd vaak interne bloedingen, waardoor hij perioden niet kon lopen. Hij werd dan gedragen door zijn lijfwacht, de matroos Derevenko. Voor de bloedingen, die bijzonder pijnlijk waren, kreeg hij geen pijnstillers. Dit om te voorkomen dat hij hieraan verslaafd zou worden. Het leek erop dat de bloedingen werden gestopt door de monnik en sinistere wonderdoener Raspoetin. Op 15 mei 1917 was Aleksej niet langer troonpretendent, omdat zijn vader namens zichzelf en zijn zoon afstand nam van de troon. Ruim een jaar later, op 17 juli 1918, werden de Romanovs vermoord door de communisten. Het massagraf van tsarenfamilie is in het begin van de jaren 90 gevonden. Het lichaam van Aleksej was niet in dit graf aanwezig. Ook het lichaam van zus Maria Romanova was hier niet aanwezig. Dit in tegenstelling tot wat men eerst beweerde; dat zus Anastasia afwezig zou zijn. Op 24 augustus 2007 werd door de nieuwszender EuroNews bekendgemaakt dat zeer waarschijnlijk de stoffelijke resten van Aleksej en zijn oudere zuster Maria waren gevonden. Eind april 2008 werd dit door Russische onderzoekers na DNA-tests bevestigd. Het verhaal over de ontsnapping van Aleksej en Maria kan daarmee definitief naar de prullenmand worden verwezen. De stoffelijke resten van de overige familieleden werden in 1998 in de Sint-Petrus en Pauluskathedraal te Sint-Petersburg herbegraven. Op 14 augustus 2000 werd hij samen met zijn familie door de Russisch-orthodoxe Kerk tot strastoterpets verklaard, nadat de Russisch-orthodoxe Kerk in het Buitenland hem al in 1978 als martelaar heilig had verklaard. Zijn feestdag is op 4 juli.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Alexei Nikolaevich (Russian: Алексе́й Никола́евич) (12 August 1904 [O.S. 30 July] – 17 July 1918) of the House of Romanov, was the Tsesarevich and heir apparent to the throne of the Russian Empire. He was the youngest child and only son of Emperor Nicholas II and Empress Alexandra Feodorovna. He was born with hemophilia; his mother&#39;s reliance on the faith healer Grigori Rasputin to treat the disease helped bring about the end of the Romanov dynasty. After the February Revolution of 1917, he and his family were sent into internal exile in Tobolsk, Siberia. He was murdered alongside his parents, four sisters, and three retainers during the Russian Civil War by order of the Bolshevik government, though rumors that he had survived persisted until the 2007 discovery of his and one of his sisters&#39; remains. The family was formally interred on 17 July 1998—the eightieth anniversary of the murder—and were canonized as passion bearers by the Russian Orthodox Church in 2000.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">阿列克谢·尼古拉耶维奇·罗曼诺夫（俄語：Алексе́й Никола́евич Рома́нов，1904年8月12日－1918年7月17日），俄罗斯帝国末代皇储。父親為沙皇尼古拉二世，母親為亚历山德拉·费奥多萝芙娜。 由於其為尼古拉二世的唯一兒子，故在其出生後自動地成為俄國皇儲。可惜的是，阿列克謝在出生不久後被檢驗出罹患了血友病。雖然皇后四處訪尋名醫為其治療，但仍失敗。阿列克謝其後在拉斯普京的治療下逐漸痊癒了。亦因如此，阿列克謝的出生實給予拉斯普京一個掌權的機會。1918年，沙俄滅亡，尼古拉二世全家遭布尔什维克軍隊（即後來的蘇聯共產黨）處決，但阿列克謝和其姐姐安娜斯塔西亞的遺體當時仍下落不明。 紐約時報2007年11月25日報導，蘇維埃時期的檔案中，有行刑者回憶處決過程的祕密報告。一群業餘人士分析報告後發現，線索就在行刑隊帶頭者尤洛夫斯基的證詞中。尤洛夫斯基表示，其他王室成員或支持者未來尋找沙皇一家遺骸時，會將目標設定為十一具遺體；他們為了混淆視聽，故意將其中兩具屍體焚毀，並埋在另一個地點。 這群業餘人士根據線索，在距離當初發現九具遺體地點約六十公尺的樹林裡，發現大抵燒得焦黑的兩具骨骸，裡面還夾雜子彈和盛裝強酸罐子的碎片，強酸應是用來毀屍滅跡。這些殘骸發現時的樣子和最早發現的九具屍體類似。 2008年，負責領導DNA鑑定團隊的莫斯科國立大學教授羅格耶夫接受採訪時，表示尼古拉二世全部的孩子，連之前都傳說逃過一劫的安娜斯塔西亚，幾乎都能夠被證實遭到殺害，一個都沒有留下來。 2008年七月，俄國總檢察長辦公室發表聲明說：「使用三種遺傳檢驗完整進行的DNA研究結果證實了一種假設，即第二座墓穴埋葬了瑪麗亞女大公和阿列克謝皇太子的遺體。」2009年3月DNA鑑定結果公布，確定阿列克谢皇儲與瑪莉亞女大公遭到殺害。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アレクセイ・ニコラエヴィチ・ロマノフ（русский: Алексей Николаевич Романов, ラテン文字転写: Alexei Nikolaevich Romanov, 1904年8月12日 - 1918年7月17日）は、ロシア皇帝ニコライ2世の第一皇子、ロシア帝国最後の皇太子。1917年の二月革命で成立した臨時政府によって家族と共に監禁された。十月革命で権力を掌握したウラジーミル・レーニン率いるボリシェヴィキの命を受けたチェーカー（秘密警察）によって翌1918年7月17日に超法規的殺害（裁判手続きを踏まない殺人）が実行され、エカテリンブルクのイパチェフ館において家族・従者と共にわずか13歳の若さで銃殺された。正教会で聖人（新致命者）。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alexei Nikolaevich Romanov (em russo: Цесаревич Алексей Николаевич Романов; São Petersburgo, 12 de Agosto de 1904 - Ecaterimburgo, 17 de Julho de 1918) foi herdeiro aparente do trono russo desde o seu nascimento até à morte em 1918. Era o mais novo e único filho homem do imperador Nicolau II e da sua esposa, a imperatriz Alexandra Feodorovna. Alexei sofria de hemofilia por seu parentesco com a rainha Vitória do Reino Unido (portadora da doença), o que levou a sua mãe a confiar cegamente em Grigori Rasputin, um monge siberiano que, supostamente, o curava durante as suas crises. A sua vida acabou de forma trágica no dia 17 de Julho de 1918 quando foi assassinado juntamente com a sua família em Ekaterinburgo, nos Montes Urais. Em consequência do seu assassinato, Alexei foi canonizado pela Igreja Ortodoxa Russa como Portador da Paixão.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Alekséi Nikoláyevich Románov (Алексе́й Никола́евич; 12 de agosto de 1904 – 17 de julio de 1918) fue el último tsesarévich (heredero aparente confundido con zarévich) del Imperio Ruso. Fue el quinto hijo y único varón nacido del matrimonio de Nicolás II y Alejandra Fiódorovna. Su título oficial era Su Alteza Imperial, Zarévich y Gran Duque de Rusia. Tras la Revolución rusa de 1917, murió asesinado junto a su familia el 17 de julio de 1918 en Ekaterinburgo.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le grand-duc et tsarévitch Alexis Nikolaïevitch de Russie (Alekseï Nikolaïevitch Romanov, en russe : Алексей Николаевич Романов), né le 12 août 1904 (30 juillet du calendrier julien) à Peterhof et assassiné le 17 juillet 1918 à Ekaterinbourg, membre de la famille impériale de Russie, était le fils du tsar Nicolas II et de la tsarine Alexandra Feodorovna.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+    <dbo:title xml:lang="en">Tsesarevich of Russia</dbo:title>
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsesarevich Alexei in 1913</dbp:caption>
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/His_Imperial_Highness" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Holstein-Gottorp-Romanov" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Imperial Highness</dbp:offstyle>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Russian_Orthodox_Church" />
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsarevich Alexei Nikolaevich of Russia</dbp:royalName>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">SignatureAlexeyNikolaevich.jpg</dbp:signature>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tsesarevich" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexis_the_Young_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duke_Alexis_Nikolayevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nicolaievich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czarevitch_Alexei">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tzarevitch_Alexei">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nikolaevich_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_Provisional_Government">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksey_Nicolaievich_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksey_Nikolaevitch_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Alexei_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Alexei_Nicolaievich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Alexis_Nicolaievich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Alexei_Nikolaevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nikolaevich">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksej_Nikolaevič_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Alexei_Nikolaevich,_Tsarevich_of_Russia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksei_Nikolaevich,_Tsarevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksey_Nikolaevich,_Tsarevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nikolayevich_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexey_Nikolaevich,_Tsarevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexis_Nikolaevich,_Tsarevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Aleksei_Nikolaevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Aleksey_Nikolaevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Alexey_Nikolaevich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_Alexis_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Iosifovna_of_Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Iosifovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consumer109612848" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincessesOfSaxe-Altenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Customer109984659" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Convert109962414" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Patron110407726" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleOfDutchDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/User110741590" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuchess110141930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDuchessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDuchesses" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConvertsToEasternOrthodoxyFromLutheranism" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleOfHungarianDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleOfEnglishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPeopleOfAustrianDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPatronsOfMusic" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianWomen" />
+    <rdfs:label xml:lang="fr">Alexandra de Saxe-Altenbourg</rdfs:label>
+    <rdfs:label xml:lang="ja">アレクサンドラ・イオシフォヴナ</rdfs:label>
+    <rdfs:label xml:lang="pl">Aleksandra Sachsen-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="es">Alejandra de Sajonia-Altenburgo (Alejandra Iosifovna)</rdfs:label>
+    <rdfs:label xml:lang="en">Princess Alexandra of Saxe-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="pt">Alexandra Iosifovna (Alexandra de Saxe-Altemburgo)</rdfs:label>
+    <rdfs:label xml:lang="ru">Александра Иосифовна</rdfs:label>
+    <rdfs:label xml:lang="de">Alexandra von Sachsen-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="it">Alessandra di Sassonia-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="nl">Alexandra van Saksen-Altenburg</rdfs:label>
+    <rdfs:comment xml:lang="de">Alexandra Friederike Henriette Pauline Marianne Elisabeth von Sachsen-Altenburg (* 8. Juli 1830 in Altenburg; † 23. Junijul./ 6. Juli 1911greg. in Sankt Petersburg) war eine Prinzessin von Sachsen-Altenburg und durch Heirat unter dem Namen Alexandra Iosifowna (russisch Александра Иосифовна) russische Großfürstin.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アレクサンドラ・イオシフォヴナ（ヨシフォヴナとも、русский: Александра Иосифовна, ラテン文字転写: Alexandra Iosifovna, 1830年7月8日 - 1911年7月6日）は、ロシアの皇族、ロシア大公妃。ニコライ1世の次男コンスタンチン・ニコラエヴィチ大公の妻。結婚前の名前はアレクサンドラ・フリーデリケ・ヘンリエッテ・フォン・ザクセン＝アルテンブルク（Alexandra Friederike Henriette von Sachsen-Altenburg）。 ザクセン＝アルテンブルク公ヨーゼフとその妃であるアマーリエ・フォン・ヴュルテンベルクの第5子として、アルテンブルク（現在のテューリンゲン州、アルテンブルガー・ラント郡）で生まれた。長姉アレクサンドリーネ・マリーはハノーファー王ゲオルク5世の妃。コンスタンティンの姉、ヴュルテンベルク王妃オリガ・ニコラエヴナの仲介により、シュトゥットガルトでコンスタンチンと見合いをし、婚約した。 1848年9月にコンスタンチンと結婚。6子の母となった。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Elisabeth Alexandra Frederika Henriette van Saksen-Altenburg (Hildburghausen, Duitsland, 8 juli 1830 – Sint-Petersburg, Rusland, 6 juli 1911), Prinses van Saksen-Altenburg, was de dochter van Jozef van Saksen-Altenburg en Amelie van Württemberg.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Aleksandra Fryderyka Henrietta von Sachsen-Altenburg (ur. 8 lipca 1830 w Altenburg, zm. 6 lipca 1911 w Petersburgu) – piąta córka Józefa Jerzego Fryderyka Ernesta Karola, księcia Saksonii-Altenburga oraz jego żony Amelii Wirtemberskiej. Wielka księżna rosyjska. Aleksandra wyszła za mąż za wielkiego księcia Konstantyna Mikołajewicza Romanowa, drugiego syna cara Rosji Mikołaja I, w październiku 1848 roku. Po przejściu na prawosławie otrzymała imiona: Aleksandra Józefowna. Aleksandra i Konstantyn mieli sześcioro dzieci: Wielka księżna Aleksandra zmarła w 1911 roku.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Grand Duchess Alexandra Iosifovna of Russia (8 July 1830 Altenburg – 6 July 1911 Saint Petersburg), born Princess Alexandra Friederike Henriette of Saxe-Altenburg was the fifth daughter of Joseph, Duke of Saxe-Altenburg and Amelie Theresa Luise, Duchess of Württemberg. She was the paternal great-grandmother of  Prince Philip, Duke of Edinburgh through her elder daughter Olga.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Alejandra de Sajonia-Altenburgo (Alejandra Iósifovna; Altenburgo, 8 de julio de 1830 - San Petersburgo el 6 de julio de 1911) era la quinta hija del Duque José de Sajonia-Altenburgo y de la duquesa Amelia de Wurtemberg. Una de sus cinco hermanas fue María, reina consorte de Hannover.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Великая княгиня Алекса́ндра Ио́сифовна, урождённая Александра Саксен-Альтенбургская (8 июля 1830, Альтенбург — 6 июля 1911, Санкт-Петербург) — эрнестинская принцесса, супруга великого князя Константина Николаевича, своего троюродного брата. Шеф 6-го драгунского Глуховского полка.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alexandra Iosifovna da Rússia (Altemburgo, 8 de julho de 1830 – São Petersburgo, 6 de julho de 1911), nascida princesa Alexandra Frederica Henriqueta de Saxe-Altemburgo, foi a quinta filha de José de Saxe-Altemburgo e da sua esposa Amélia de Württemberg.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Alexandra de Saxe-Altenbourg, née Alexandra Frédérique Henriette Pauline Marianne Élisabeth le 8 juillet 1830 à Altenbourg et morte le 6 juillet 1911 à Saint-Pétersbourg, est une princesse allemande de Saxe-Altenbourg devenue grande-duchesse de Russie sous le nom d&#39;Alexandra Iossifovna de Russie par son mariage avec le grand-duc Constantin Nikolaïevitch de Russie.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.050yh2" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/117761060" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alejandra_de_Sajonia-Altenburgo_(Alejandra_Iosifovna)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alexandra_de_Saxe-Altenbourg" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alexandra_von_Sachsen-Altenburg" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Alexandra_Sasko-Altenburská" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレクサンドラ・イオシフォヴナ" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alessandra_di_Sassonia-Altenburg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57950" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Aleksandra_Sachsen-Altenburg" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alexandra_van_Saksen-Altenburg" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexandra_Iosifovna_(Alexandra_de_Saxe-Altemburgo)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q57950" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/St._Petersburg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-7-6</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-07-06</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Altenburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Saxe-Altenburg" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1830-7-8</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1830-07-08</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_Dutch_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_English_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_duchesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_Austrian_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saxe-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1911_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1830_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Eastern_Orthodoxy_from_Lutheranism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_of_Saxe-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_people_of_Hungarian_descent" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1430589</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743217737</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Princess Alexandra of Saxe-Altenburg</foaf:name>
+    <foaf:name xml:lang="en">Princess Alexandra</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Alexandra_of_Saxe-Altenburg.jpg" />
+    <dct:description xml:lang="en">Grand Duchess of Russia</dct:description>
+    <foaf:givenName xml:lang="en">Alexandra</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Princess_Alexandra_of_Saxe-Altenburg" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Alexandra_of_Saxe-Altenburg.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Princess_Alexandra_of_Saxe-Altenburg?oldid=743217737" />
+    <dbo:abstract xml:lang="ru">Великая княгиня Алекса́ндра Ио́сифовна, урождённая Александра Саксен-Альтенбургская (8 июля 1830, Альтенбург — 6 июля 1911, Санкт-Петербург) — эрнестинская принцесса, супруга великого князя Константина Николаевича, своего троюродного брата. Шеф 6-го драгунского Глуховского полка.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Grand Duchess Alexandra Iosifovna of Russia (8 July 1830 Altenburg – 6 July 1911 Saint Petersburg), born Princess Alexandra Friederike Henriette of Saxe-Altenburg was the fifth daughter of Joseph, Duke of Saxe-Altenburg and Amelie Theresa Luise, Duchess of Württemberg. She was the paternal great-grandmother of  Prince Philip, Duke of Edinburgh through her elder daughter Olga.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Aleksandra Fryderyka Henrietta von Sachsen-Altenburg (ur. 8 lipca 1830 w Altenburg, zm. 6 lipca 1911 w Petersburgu) – piąta córka Józefa Jerzego Fryderyka Ernesta Karola, księcia Saksonii-Altenburga oraz jego żony Amelii Wirtemberskiej. Wielka księżna rosyjska. Aleksandra wyszła za mąż za wielkiego księcia Konstantyna Mikołajewicza Romanowa, drugiego syna cara Rosji Mikołaja I, w październiku 1848 roku. Po przejściu na prawosławie otrzymała imiona: Aleksandra Józefowna. Aleksandra i Konstantyn mieli sześcioro dzieci: 
+*  Mikołaja Konstantynowicza (1850–1918) 
+*  Olgę Konstantinowną (1851–1926), wyszła za mąż za króla Grecji Jerzego I 
+*  Werę Konstantinowną (1854–1912) 
+*  Konstantyna Konstantynowicza (1858–1915) 
+*  Dymitra Konstantynowicza (1860–1919) 
+*  Wieczesława Konstantynowicza (1862–1879) W 1862 r. Konstanty Mikołajewicz Romanow został mianowany namiestnikiem Królestwa Polskiego, który w 1863 r. zarządził przeprowadzenie branki do wojska rosyjskiego, co przyspieszyło wybuch powstania styczniowego. Długie lata małżeństwo Aleksandry i jej męża było udane. Jednak po pewnym czasie Konstanty zaczął zdradzać żonę, gdy na Krymie poznał balerinę Annę Wasiljewnę Kuzniecową, z którą miał kilkoro dzieci. Aleksandra bardzo to przeżywała. Miała obsesję na punkcie swojego wyglądu, stale porównywała się do cesarzowej Elżbiety. W ostatnich latach swojego życia wielki książę Konstanty był sparaliżowany, a Aleksandra nie chciała się zgodzić na widzenie męża z kochanką i ich wspólnymi dziećmi. Jednak gdy Anna umarła na szkarlatynę, Aleksandra posłała mężowi telegram kondolencyjny. Wielka księżna Aleksandra zmarła w 1911 roku.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alexandra Iosifovna da Rússia (Altemburgo, 8 de julho de 1830 – São Petersburgo, 6 de julho de 1911), nascida princesa Alexandra Frederica Henriqueta de Saxe-Altemburgo, foi a quinta filha de José de Saxe-Altemburgo e da sua esposa Amélia de Württemberg.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Alexandra de Saxe-Altenbourg, née Alexandra Frédérique Henriette Pauline Marianne Élisabeth le 8 juillet 1830 à Altenbourg et morte le 6 juillet 1911 à Saint-Pétersbourg, est une princesse allemande de Saxe-Altenbourg devenue grande-duchesse de Russie sous le nom d&#39;Alexandra Iossifovna de Russie par son mariage avec le grand-duc Constantin Nikolaïevitch de Russie.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Elisabeth Alexandra Frederika Henriette van Saksen-Altenburg (Hildburghausen, Duitsland, 8 juli 1830 – Sint-Petersburg, Rusland, 6 juli 1911), Prinses van Saksen-Altenburg, was de dochter van Jozef van Saksen-Altenburg en Amelie van Württemberg. Alexandra&#39;s grootvader aan vaderskant was Frederik van Saksen-Altenburg en haar grootvader aan moederskant was Lodewijk van Württemberg, een broer van koning Frederik I en hij was ook een broer van tsarina Maria Fjodorovna. Alexandra was de vijfde dochter van hertog Jozef van Saksen-Altenburg en zijn vrouw. Alexandra had alleen maar zussen en geen broers. En toen haar vader in 1868 stierf werd hij opgevolgd door Alexandra&#39;s oom hertog George van Saksen-Altenburg. Alexandra was een jongere zus van Marie (1818-1907) zij werd de vrouw van de blinde koning George V van Hannover, Pauline (1819-1825), Theresia (1823-1915) en van Elisabeth (1826-1896) zij huwde groothertog Peter II van Oldenburg. Alexandra was een oudere zus van Louise (1832-1833).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Alejandra de Sajonia-Altenburgo (Alejandra Iósifovna; Altenburgo, 8 de julio de 1830 - San Petersburgo el 6 de julio de 1911) era la quinta hija del Duque José de Sajonia-Altenburgo y de la duquesa Amelia de Wurtemberg. Una de sus cinco hermanas fue María, reina consorte de Hannover.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Alexandra Friederike Henriette Pauline Marianne Elisabeth von Sachsen-Altenburg (* 8. Juli 1830 in Altenburg; † 23. Junijul./ 6. Juli 1911greg. in Sankt Petersburg) war eine Prinzessin von Sachsen-Altenburg und durch Heirat unter dem Namen Alexandra Iosifowna (russisch Александра Иосифовна) russische Großfürstin.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アレクサンドラ・イオシフォヴナ（ヨシフォヴナとも、русский: Александра Иосифовна, ラテン文字転写: Alexandra Iosifovna, 1830年7月8日 - 1911年7月6日）は、ロシアの皇族、ロシア大公妃。ニコライ1世の次男コンスタンチン・ニコラエヴィチ大公の妻。結婚前の名前はアレクサンドラ・フリーデリケ・ヘンリエッテ・フォン・ザクセン＝アルテンブルク（Alexandra Friederike Henriette von Sachsen-Altenburg）。 ザクセン＝アルテンブルク公ヨーゼフとその妃であるアマーリエ・フォン・ヴュルテンベルクの第5子として、アルテンブルク（現在のテューリンゲン州、アルテンブルガー・ラント郡）で生まれた。長姉アレクサンドリーネ・マリーはハノーファー王ゲオルク5世の妃。コンスタンティンの姉、ヴュルテンベルク王妃オリガ・ニコラエヴナの仲介により、シュトゥットガルトでコンスタンチンと見合いをし、婚約した。 1848年9月にコンスタンチンと結婚。6子の母となった。 
+* ニコライ（1850年 - 1918年） 
+* オリガ（1851年 - 1926年） - ギリシア王ゲオルギオス1世と結婚 
+* ヴェラ（1854年 - 1912年） - ヴュルテンベルク公オイゲンと結婚 
+* コンスタンチン（1858年 - 1915年） 
+* ドミトリー（1860年 - 1919年） 
+* ヴャチェスラフ（1862年 - 1879年）</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Joseph,_Duke_of_Saxe-Altenburg" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Amelia_of_Württemberg" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Grand_Ducal_Mausoleum" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Grand_Duke_Constantine_Nikolaevich_of_Russia" />
+    <dbo:title xml:lang="en">Grand Duchess Alexandra Iosifovna of Russia</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Altenburg" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duke_Vyacheslav_Constantinovich_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duke_Dimitri_Constantinovich_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duke_Nicholas_Constantinovich_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duke_Constantine_Constantinovich_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Vera_Constantinovna_of_Russia" />
+    <dbp:religion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(prev. Lutheran)</dbp:religion>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox_Church" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Iosifovna_(Alexandra_of_Saxe-Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Iosifovna_(Alexandra_of_Saxe-Altenburg)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Iosifovna_(Alexandra_of_Saxe-Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Iosifovna_(Alexandra_of_Saxe-Altenburg)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph,_Duke_of_Saxe-Altenburg">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_iosifovna_of_altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Iosifovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Alexandra_Iosifovna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Saxe-Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Iosifovna_(Alexandra_Friederike_Henriette_of_Saxe-Altenburg)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Iosifovna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Princess_Alexandra_of_Saxe-Altenburg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+  </rdf:Description>
+</rdf:RDF>

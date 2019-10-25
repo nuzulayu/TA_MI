@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Carole_Middleton" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pippa_Middleton">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Carole_Middleton" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Middleton">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishWomenInBusiness" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishRacehorseOwnersAndBreeders" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Businessman109882007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110388924" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBucklebury" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Businessperson109882716" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromEaling" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Capitalist109609232" />
+    <rdfs:label xml:lang="es">Carole Middleton</rdfs:label>
+    <rdfs:label xml:lang="en">Carole Middleton</rdfs:label>
+    <rdfs:comment xml:lang="es">Carole Elizabeth Middleton (nacida Goldsmith) (31 de enero de 1955 en Perivale, Middlesex) es la madre de Catalina de Cambridge.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Carole Elizabeth Middleton (née Goldsmith; born 31 January 1955) is a former flight attendant turned businesswoman, and mother of Catherine, Duchess of Cambridge, and her siblings, Philippa &quot;Pippa&quot; Charlotte Middleton and James William Middleton. Middleton&#39;s first grandchild, Prince George of Cambridge, was born on 22 July 2013 and is third in the line of succession to the British throne. On 2 May 2015, her first granddaughter, Princess Charlotte of Cambridge, was born, who is now fourth in line to succeed to the British throne.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q14244952" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Carole_Middleton" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q14244952" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Carole_Middleton" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Carole_Middleton" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fpq0qp" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carole_Middleton" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Perivale" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-01-31</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-1-31</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Online_retailer_founders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_people_of_English_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_company_founders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Catherine,_Duchess_of_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Retail_company_founders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Berkshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Ealing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_women_in_business" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Bucklebury" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1955_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:21st-century_British_businesspeople" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_British_businesspeople" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_racehorse_owners_and_breeders" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31668893</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740580659</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.debretts.com/people/royal-family/royal-wedding/william-and-catherine/catherine-middleton" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.partypieces.co.uk/" />
+    <foaf:name xml:lang="en">Carole Middleton</foaf:name>
+    <foaf:homepage rdf:resource="http://www.partypieces.co.uk/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Carole_Elizabeth_Middleton_on_the_balcony_of_Buckingham_Palace.jpg" />
+    <dct:description xml:lang="en">mother of Catherine, Duchess of Cambridge</dct:description>
+    <foaf:givenName xml:lang="en">Carole</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Carole_Middleton" />
+    <foaf:surname xml:lang="en">Middleton</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Carole_Elizabeth_Middleton_on_the_balcony_of_Buckingham_Palace.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Carole_Middleton?oldid=740580659" />
+    <dbo:abstract xml:lang="en">Carole Elizabeth Middleton (née Goldsmith; born 31 January 1955) is a former flight attendant turned businesswoman, and mother of Catherine, Duchess of Cambridge, and her siblings, Philippa &quot;Pippa&quot; Charlotte Middleton and James William Middleton. Middleton&#39;s first grandchild, Prince George of Cambridge, was born on 22 July 2013 and is third in the line of succession to the British throne. On 2 May 2015, her first granddaughter, Princess Charlotte of Cambridge, was born, who is now fourth in line to succeed to the British throne.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carole Elizabeth Middleton (nacida Goldsmith) (31 de enero de 1955 en Perivale, Middlesex) es la madre de Catalina de Cambridge.</dbo:abstract>
+    <dbo:birthName xml:lang="en">Carole Elizabeth Goldsmith</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1955</dbo:birthYear>
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/James_William_Middleton" />
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Pippa_Middleton" />
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Carole_Middleton__1" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Prince_George_of_Cambridge" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge" />
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Princess_Charlotte_of_Cambridge" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Michael_Francis_Middleton" />
+    <dbp:parents rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dorothy Harrison</dbp:parents>
+    <dbp:parents rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ronald Goldsmith</dbp:parents>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Attendant" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_William_Middleton">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Carole_Middleton" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Elizabeth_Middleton">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Carole_Middleton" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Carole_Middleton">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Carole_Middleton" />
+  </rdf:Description>
+</rdf:RDF>

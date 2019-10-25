@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Elisabeth_of_Prussia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elisabeth_of_Prussia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrussianPrinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Girl110129825" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dame109989045" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDamesOfTheOrderOfLouise" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdfs:label xml:lang="es">Isabel de Prusia</rdfs:label>
+    <rdfs:label xml:lang="nl">Elisabeth van Pruisen</rdfs:label>
+    <rdfs:label xml:lang="ru">Елизавета Прусская</rdfs:label>
+    <rdfs:label xml:lang="pt">Isabel da Prússia</rdfs:label>
+    <rdfs:label xml:lang="de">Elisabeth von Preußen</rdfs:label>
+    <rdfs:label xml:lang="en">Princess Elisabeth of Prussia</rdfs:label>
+    <rdfs:label xml:lang="fr">Élisabeth de Prusse</rdfs:label>
+    <rdfs:label xml:lang="it">Elisabetta di Prussia</rdfs:label>
+    <rdfs:label xml:lang="ja">エリーザベト・フォン・プロイセン (1815-1885)</rdfs:label>
+    <rdfs:label xml:lang="pl">Elżbieta Maria Karolina Wiktoria Pruska</rdfs:label>
+    <rdfs:comment xml:lang="de">Prinzessin Elisabeth von Preußen, vollständiger Name Marie Elisabeth Karoline Viktoria (* 18. Juni 1815 in Berlin; † 21. März 1885 in Bessungen bei Darmstadt) war durch Heirat Prinzessin von Hessen-Darmstadt.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Isabel da Prússia (18 de junho de 1815 - 21 de março de 1885) foi a segunda filha e quinta criança do príncipe Guilherme da Prússia e da condessa Maria Ana de Hesse-Homburgo. Era neta do rei Frederico Guilherme II da Prússia.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Elżbieta Maria Karolina Wiktoria Pruska (ur. 18 czerwca 1815 w Berlinie, zm. 25 marca 1885 w Bessungen) – księżna Hesji i Renu, córka ks. Wilhelma Hohenzollerna, żona ks. Karola Heskiego, z którym miała czworo dzieci: 
+*  wielki książę Ludwika IV Heskiego, 
+*  książę Henryk Ludwik Heski, 
+*  księżniczka Anna Heska, 
+*  książę Wilhelm Heski.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La princesse Élisabeth de Prusse (18 juin 1815-21 mars 1885) était la deuxième fille du prince Guillaume de Prusse (1783-1851) et de Marie-Anne-Amélie de Hesse-Hombourg. Elle était, par son père, la petite-fille du roi Frédéric-Guillaume II de Prusse et, par sa mère, celle du landgrave Frédéric V de Hesse-Hombourg. Elle est en outre l&#39;arrière-arrière-grand-mère du prince Philip d&#39;Édimbourg.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">マリー・エリーザベト・カロリーネ・ヴィクトリア・フォン・プロイセン（Marie Elisabeth Karoline Viktoria von Preußen, 1815年6月18日 ベルリン - 1885年3月21日 ベッスンゲン、ダルムシュタット郊外）は、ドイツ・プロイセンの王族、プロイセン王女（Prinzessin von Preußen）。ヘッセン大公子カールと結婚した。 プロイセン王フリードリヒ・ヴィルヘルム2世の四男ヴィルヘルムと、その妻でヘッセン＝ホンブルク方伯フリードリヒ5世の娘であるマリアンネの間の次女として、ベルリン王宮で生まれた。リーゼンゲビルゲ山地（現在のクルコノシェ山地(Krkonoše)）の麓にあるシュミーデベルク（現在のポーランド領ドルヌィ・シロンスク県コヴァルィ）郊外のフィッシュバッハ城（Schloss Fischbach）で育った。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Princess Elisabeth of Prussia (18 June 1815 – 21 March 1885) was the second daughter of Prince Wilhelm of Prussia and Landgravine Marie Anna of Hesse-Homburg and a granddaughter of Frederick William II of Prussia. Prince Philip, Duke of Edinburgh is her great-great-grandson).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Marie Elisabeth Caroline Victoria van Pruisen (Berlijn, 18 juni 1815 - Bessungen, 21 maart 1885) was een Pruisische prinses uit het Huis Hohenzollern. Zij was het zesde kind en de derde dochter van Frederik Willem Karel van Pruisen en Marie Anne Amalie van Hessen-Homburg. Zij was een zuster van de Beierse koningin Marie. Ze huwde op 22 oktober 1836 met Karel van Hessen-Darmstadt, een broer van groothertog Lodewijk III van Hessen-Darmstadt. In Hessen zette Elisabeth zich meteen in voor de armenzorg. In 1858 werd in Darmstadt het op haar initiatief gebouwde diaconessenhuis Elisabethenstift geopend.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Мария Елизавета Каролина Виктория Прусская (нем. Marie Elisabeth Karoline Viktoria; 18 июня 1815, Берлин — 21 марта 1885, Бессунген) — принцесса Прусская, в замужестве принцесса Гессен-Дармштадтская. Бабушка по отцовской линии последней российской императрицы Александры Фёдоровны.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Isabel de Prusia (en alemán: Marie Elisabeth Caroline Viktoria Prinzessin von Preußen; 18 de junio de 1815 - 21 de marzo de 1885) fue la segunda hija del príncipe Guillermo de Prusia y de la landgravina María Ana de Hesse-Homburg, y nieta de Federico Guillermo II de Prusia. Su hijo mayor Luis, sería Gran Duque de Hesse-Darmstadt, después de la muerte sin descendencia de su tío, Luis III, en 1877.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Elisabeth_von_Preußen" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Isabel_da_Prússia" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05sy3t5" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Elżbieta_Maria_Karolina_Wiktoria_Pruska" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Isabel_de_Prusia" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Elisabeth_van_Pruisen" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Princess_Elisabeth_of_Prussia" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Princess_Elisabeth_of_Prussia" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エリーザベト・フォン・プロイセン_(1815-1885)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Elisabetta_di_Prussia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Élisabeth_de_Prusse" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q269351" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/136924565" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q269351" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-3-21</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-03-21</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Prussia" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Berlin" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1815-6-18</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1815-06-18</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Louise" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1815_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1885_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hohenzollern" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24101472</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743041690</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Princess Elisabeth of Prussia</foaf:name>
+    <foaf:name xml:lang="en">Princess Elizabeth</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Elisabeth_of_Prussia_(1815_-_1885).jpg" />
+    <dct:description xml:lang="en">daughter of Prince Wilhelm of Prussia and Landgravine Marie Anna of Hesse-Homburg</dct:description>
+    <foaf:givenName xml:lang="en">Elisabeth</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Princess_Elisabeth_of_Prussia" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Elisabeth_of_Prussia_(1815_-_1885).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Princess_Elisabeth_of_Prussia?oldid=743041690" />
+    <dbo:abstract xml:lang="pl">Elżbieta Maria Karolina Wiktoria Pruska (ur. 18 czerwca 1815 w Berlinie, zm. 25 marca 1885 w Bessungen) – księżna Hesji i Renu, córka ks. Wilhelma Hohenzollerna, żona ks. Karola Heskiego, z którym miała czworo dzieci: 
+*  wielki książę Ludwika IV Heskiego, 
+*  książę Henryk Ludwik Heski, 
+*  księżniczka Anna Heska, 
+*  książę Wilhelm Heski.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Isabel da Prússia (18 de junho de 1815 - 21 de março de 1885) foi a segunda filha e quinta criança do príncipe Guilherme da Prússia e da condessa Maria Ana de Hesse-Homburgo. Era neta do rei Frederico Guilherme II da Prússia.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La princesse Élisabeth de Prusse (18 juin 1815-21 mars 1885) était la deuxième fille du prince Guillaume de Prusse (1783-1851) et de Marie-Anne-Amélie de Hesse-Hombourg. Elle était, par son père, la petite-fille du roi Frédéric-Guillaume II de Prusse et, par sa mère, celle du landgrave Frédéric V de Hesse-Hombourg. Elle est en outre l&#39;arrière-arrière-grand-mère du prince Philip d&#39;Édimbourg.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Princess Elisabeth of Prussia (18 June 1815 – 21 March 1885) was the second daughter of Prince Wilhelm of Prussia and Landgravine Marie Anna of Hesse-Homburg and a granddaughter of Frederick William II of Prussia. Prince Philip, Duke of Edinburgh is her great-great-grandson).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">マリー・エリーザベト・カロリーネ・ヴィクトリア・フォン・プロイセン（Marie Elisabeth Karoline Viktoria von Preußen, 1815年6月18日 ベルリン - 1885年3月21日 ベッスンゲン、ダルムシュタット郊外）は、ドイツ・プロイセンの王族、プロイセン王女（Prinzessin von Preußen）。ヘッセン大公子カールと結婚した。 プロイセン王フリードリヒ・ヴィルヘルム2世の四男ヴィルヘルムと、その妻でヘッセン＝ホンブルク方伯フリードリヒ5世の娘であるマリアンネの間の次女として、ベルリン王宮で生まれた。リーゼンゲビルゲ山地（現在のクルコノシェ山地(Krkonoše)）の麓にあるシュミーデベルク（現在のポーランド領ドルヌィ・シロンスク県コヴァルィ）郊外のフィッシュバッハ城（Schloss Fischbach）で育った。 1836年10月22日にベルリンにおいて、ヘッセン大公ルートヴィヒ2世の次男カールと結婚した。エリーザベトは福祉・慈善事業に強い関心を寄せ、1858年にはヘッセン大公国の首都ダルムシュタットに女性奉仕団体のエリーザベト救貧院（Elisabethenstift）を創設し、救貧院に1万グルデンを寄付した。救貧院に対する責任感のみならず、エリーザベトは私生活でも慈悲と敬虔を重んじて暮らし、宮廷に説教師を呼び寄せたり、宮廷において福祉事業推進のための運動をしたりした。 エリーザベトは父から贈られたハンス・ホルバイン（子）制作の絵画『ダルムシュタットの聖母（Darmstädter Madonna）』をダルムシュタットに持ち込んだが、この絵画作品は1871年に「ホルバイン論争（Dresdner Holbeinstreit）」を引き起こした。1878年に義理の娘のアリスがジフテリアで急逝した後、エリーザベトは寡夫となった息子の大公ルートヴィヒ4世を傍で支え、また幼くして母を失った孫たちの母親代わりになろうと努めた。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Мария Елизавета Каролина Виктория Прусская (нем. Marie Elisabeth Karoline Viktoria; 18 июня 1815, Берлин — 21 марта 1885, Бессунген) — принцесса Прусская, в замужестве принцесса Гессен-Дармштадтская. Бабушка по отцовской линии последней российской императрицы Александры Фёдоровны.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinzessin Elisabeth von Preußen, vollständiger Name Marie Elisabeth Karoline Viktoria (* 18. Juni 1815 in Berlin; † 21. März 1885 in Bessungen bei Darmstadt) war durch Heirat Prinzessin von Hessen-Darmstadt.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Isabel de Prusia (en alemán: Marie Elisabeth Caroline Viktoria Prinzessin von Preußen; 18 de junio de 1815 - 21 de marzo de 1885) fue la segunda hija del príncipe Guillermo de Prusia y de la landgravina María Ana de Hesse-Homburg, y nieta de Federico Guillermo II de Prusia. Su hijo mayor Luis, sería Gran Duque de Hesse-Darmstadt, después de la muerte sin descendencia de su tío, Luis III, en 1877.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Marie Elisabeth Caroline Victoria van Pruisen (Berlijn, 18 juni 1815 - Bessungen, 21 maart 1885) was een Pruisische prinses uit het Huis Hohenzollern. Zij was het zesde kind en de derde dochter van Frederik Willem Karel van Pruisen en Marie Anne Amalie van Hessen-Homburg. Zij was een zuster van de Beierse koningin Marie. Ze huwde op 22 oktober 1836 met Karel van Hessen-Darmstadt, een broer van groothertog Lodewijk III van Hessen-Darmstadt. In Hessen zette Elisabeth zich meteen in voor de armenzorg. In 1858 werd in Darmstadt het op haar initiatief gebouwde diaconessenhuis Elisabethenstift geopend. Aan Elisabeth dankt Hessen ook de aanwezigheid van de zogenaamde Darmstadt Madonna van de schilder Hans Holbein. Dit schilderij werd in 1822 op een Berlijnse salon aangekocht door de vader van prinses Elisabeth. Zij erfde het schilderij na diens overlijden in 1851. Toen haar zoon Lodewijk, die sinds 1877 groothertog van Hessen en aan de Rijn was in 1878 weduwnaar werd, stond Elisabeth hem - tot haar eigen dood - als landsvrouwe terzijde.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Wilhelm_of_Prussia_(1783–1851)" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Landgravine_Marie_Anna_of_Hesse-Homburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Charles_of_Hesse_and_by_Rhine" />
+    <dbo:title xml:lang="en">Princess Charles of Hesse and by Rhine</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hohenzollern" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louis_IV,_Grand_Duke_of_Hesse" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Anna_of_Hesse_and_by_Rhine" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince William</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Henry</dbp:issue>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elizabeth_of_Prussia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Princess_Elisabeth_of_Prussia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Princess_Elisabeth_of_Prussia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Princess_Elisabeth_of_Prussia" />
+  </rdf:Description>
+</rdf:RDF>

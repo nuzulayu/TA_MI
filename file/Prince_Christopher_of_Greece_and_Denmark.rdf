@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Françoise_of_Orléans_(1902–1953)">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Michael_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Francoise_of_Greece_and_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="zh">克里斯托弗罗斯</rdfs:label>
+    <rdfs:label xml:lang="pt">Cristóvão da Grécia e Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="pl">Krzysztof (książę Grecji i Danii)</rdfs:label>
+    <rdfs:label xml:lang="ar">كريستوفر أمير اليونان والدنمارك</rdfs:label>
+    <rdfs:label xml:lang="en">Prince Christopher of Greece and Denmark</rdfs:label>
+    <rdfs:label xml:lang="fr">Christophe de Grèce</rdfs:label>
+    <rdfs:label xml:lang="ru">Христофор Греческий</rdfs:label>
+    <rdfs:label xml:lang="it">Cristoforo di Grecia</rdfs:label>
+    <rdfs:label xml:lang="es">Cristóbal de Grecia</rdfs:label>
+    <rdfs:label xml:lang="de">Christoph von Griechenland</rdfs:label>
+    <rdfs:label xml:lang="ja">クリストフォロス (ギリシャ王子)</rdfs:label>
+    <rdfs:label xml:lang="nl">Christoffel van Griekenland en Denemarken</rdfs:label>
+    <rdfs:comment xml:lang="ru">Христофо́р Гре́ческий и Да́тский (греч. Χριστόφορος της Ελλάδας και της Δανίας; дат. Christophoros af Grækenland og Danmark; 10 августа 1888, Павловск, Санкт-Петербургская губерния, Российская империя — 21 января 1940, Афины, Греция) — принц греческого королевского дома, младший сын короля Георга I и великой княжны Ольги Константиновны; дважды был женат; от второго брака родился известный французский писатель Михаил Греческий.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">كريستوفر أمير اليونان والدنمارك (10 أغسطس 1888 - 21 يناير 1940) كان الابن الاصغر لجورج الأول ملك اليونان وزوجته أولغا كونستانتينوفنا دوقة روسيا.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Prinz Christoph von Griechenland und Dänemark, genannt „Christo“ (* 29. Julijul./ 10. August 1888greg. in Pawlowsk; † 21. Januar 1940 in Paris, Frankreich) war ein Mitglied des Hauses Schleswig-Holstein-Sonderburg-Glücksburg.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Christoffel (Grieks: Χριστόφορος, Christophoros) (Pavlovsk, 10 augustus 1888 – Palermo, 21 januari 1940), prins van Griekenland en Denemarken, was het jongste kind van koning George I van Griekenland en koningin Olga. Hij groeide op in een gezin waarin men in meerdere talen sprak. Hij sprak zelf uiteindelijk Grieks, Engels, Deens, Russisch, Frans en Italiaans. Christoffel communiceerde in het Engels met zijn ouders en in het Grieks met zijn broers en zussen. Zijn ouders daarentegen spraken Duits tegen elkaar.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Christophe de Grèce (en grec moderne : Χριστόφορος της Ελλάδας), prince de Grèce et de Danemark, est né le 10 août 1888 à Pavlovsk, en Russie, et est décédé le 21 janvier 1940 à Paris, en France. C’est un membre de la famille royale hellène.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">希腊和丹麦的克里斯托夫王子（Prince Christopher of Greece and Denmark；1888年8月10日－1940年1月21日），是希腊人国王乔治一世的幼子，石勒苏益格-荷尔斯泰因-索恩德堡-格吕克斯堡王朝的成员。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">クリストフォロス・ティス・エラザス（Χριστόφορος της Ελλάδας, 1888年8月10日 - 1940年1月21日）は、ギリシャの王族。 ゲオルギオス1世とその王妃オルガの末子として、ロシア帝国のパヴロフスクで生まれた。ギリシャ軍に入隊するが、彼は兄弟たちとは違って王族の義務よりもピアノを弾くのを好む性質であった。青年時代、ポルトガル、リトアニア、アルバニアの3ヶ国から国王にと打診されたが、責務を嫌うクリストフォロスはどれも辞退している。 1910年、スコットランドを訪れたクリストフォロスは、ファイフ公爵アレグザンダーと従姉であるイギリス王女ルイーズの長女アレクサンドラと結婚の約束をした。ルイーズの妹ヴィクトリア・アレクサンドラの励ましもあり婚約に至るかと思われたが、公爵の反対に合い、結婚を諦めた。 1929年、クリストフォロスはフランソワーズ・ドルレアンと再婚した。フランソワーズはオルレアン家のフランス王位請求者ジャンの娘であった。1939年1月、長男ミハイルが誕生したが、クリストフォロスは息子が生まれた翌年に亡くなった。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prince Christopher of Greece and Denmark (10 August 1888 – 21 January 1940) was the youngest son and last child of King George I of Greece, belonging to a dynasty which mounted and lost the throne of Greece several times during his lifetime. Much of his life was spent living abroad.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Cristóvão da Grécia e Dinamarca (10 de agosto de 1888 - 21 de janeiro de 1940) era o filho de um rei da Grécia que pertencia a uma dinastia que perdeu e voltou ao trono várias vezes durante a sua vida. Passou grande parte da vida a viver no estrangeiro.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Krzysztof, książę Grecji i Danii (ur. 10 sierpnia 1888 – 21 stycznia 1940) – członek dynastii Glücksburgów, najmłodszy syn i dziecko króla Grecji Jerzego I Greckiego (1845 – 1913) i Olgi Konstantinowny Romanowej (1851 – 1926). 1 stycznia 1920 roku książę Krzysztof poślubił Nancy Stewart Worthington Leeds, która po ślubie była znana jako Anastasia, księżna Grecji i Danii. 3 lata po ślubie żona księcia zachorowała na raka i zmarła.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El príncipe Cristóbal de Grecia nació el 29 de julio de 1888 en el palacio de Pávlovsk, San Petersburgo. Era hijo del rey Jorge I de Grecia y de Olga, reina de Grecia, siendo el menor de los hermanos (se llevaba veinte años con su hermano mayor Constantino). Le ofrecieron los tronos de Portugal, Lituania y Albania, y todos los rechazó. Cristóbal se trasladó su residencia de Londres a Roma, viviendo en la Villa Anastasia. El 7 de enero de 1940 murió Cristóbal en Atenas a consecuencia de la complicación de una enfermedad pulmonar por una gripe.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Cristóbal_de_Grecia" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/クリストフォロス_(ギリシャ王子)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Christoph_von_Griechenland" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q447757" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q447757" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cristóvão_da_Grécia_e_Dinamarca" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Christoffel_van_Griekenland_en_Denemarken" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06npjp" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cristoforo_di_Grecia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Christophe_de_Grèce" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πρίγκιπας_Χριστόφορος_της_Ελλάδας_και_της_Δανίας" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Krzysztof_(książę_Grecji_i_Danii)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Athens" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Paris" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-01-21</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-1-21</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Pavlovsk,_Saint_Petersburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-08-10</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-0-0</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Pavlovsk,_Saint_Petersburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1940_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1888_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princes" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2122151</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">735914632</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.glintofgold.org/romanovs/bio/christo.html" />
+    <foaf:name xml:lang="en">Prince Christopher of Greece and Denmark</foaf:name>
+    <foaf:name xml:lang="en">Prince Christopher</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Christopher_of_Greece.jpg" />
+    <dct:description xml:lang="en">Greek prince</dct:description>
+    <foaf:givenName xml:lang="en">Cristoforo</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_Christopher_of_Greece_and_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Christopher_of_Greece.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_Christopher_of_Greece_and_Denmark?oldid=735914632" />
+    <dbo:abstract xml:lang="nl">Christoffel (Grieks: Χριστόφορος, Christophoros) (Pavlovsk, 10 augustus 1888 – Palermo, 21 januari 1940), prins van Griekenland en Denemarken, was het jongste kind van koning George I van Griekenland en koningin Olga. Hij groeide op in een gezin waarin men in meerdere talen sprak. Hij sprak zelf uiteindelijk Grieks, Engels, Deens, Russisch, Frans en Italiaans. Christoffel communiceerde in het Engels met zijn ouders en in het Grieks met zijn broers en zussen. Zijn ouders daarentegen spraken Duits tegen elkaar. Christoffel sloot zich aan bij het Griekse leger, al had hij liever piano gestudeerd. Op jonge leeftijd al kreeg hij drie tronen aangeboden, die van Portugal, Litouwen en Albanië. Hij weigerde echter alle drie aanbiedingen omdat hij zich niet wilde bezighouden met koninklijke verplichtingen en alle beslommeringen daaromheen.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">كريستوفر أمير اليونان والدنمارك (10 أغسطس 1888 - 21 يناير 1940) كان الابن الاصغر لجورج الأول ملك اليونان وزوجته أولغا كونستانتينوفنا دوقة روسيا.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Христофо́р Гре́ческий и Да́тский (греч. Χριστόφορος της Ελλάδας και της Δανίας; дат. Christophoros af Grækenland og Danmark; 10 августа 1888, Павловск, Санкт-Петербургская губерния, Российская империя — 21 января 1940, Афины, Греция) — принц греческого королевского дома, младший сын короля Георга I и великой княжны Ольги Константиновны; дважды был женат; от второго брака родился известный французский писатель Михаил Греческий.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">クリストフォロス・ティス・エラザス（Χριστόφορος της Ελλάδας, 1888年8月10日 - 1940年1月21日）は、ギリシャの王族。 ゲオルギオス1世とその王妃オルガの末子として、ロシア帝国のパヴロフスクで生まれた。ギリシャ軍に入隊するが、彼は兄弟たちとは違って王族の義務よりもピアノを弾くのを好む性質であった。青年時代、ポルトガル、リトアニア、アルバニアの3ヶ国から国王にと打診されたが、責務を嫌うクリストフォロスはどれも辞退している。 1910年、スコットランドを訪れたクリストフォロスは、ファイフ公爵アレグザンダーと従姉であるイギリス王女ルイーズの長女アレクサンドラと結婚の約束をした。ルイーズの妹ヴィクトリア・アレクサンドラの励ましもあり婚約に至るかと思われたが、公爵の反対に合い、結婚を諦めた。 1920年、アメリカ人女性ナンシー・ステュアート・ワーシントン・リーズと結婚した。ナンシーはギリシャ・デンマーク王女アナスタシアと名乗った。ナンシーは2度の結婚歴（死別と離別）のある平民であったため、2人の結婚が許可されるまで6年を要した。彼女は2度目の夫から莫大な遺産を相続した大富豪で、1920年代に亡命を余儀なくされたギリシャ王室はナンシーの財力を頼って生活した。しかし結婚からわずか3年後、ナンシーは癌のためにロンドンで死去した。クリストフォロスとの間に子はなかったが、彼はナンシーの先夫との子ウィリアムと養子縁組し、姪にあたるクセニヤ・ゲオルギエヴナ（クリストフォロスの姉マリア・ゲオルギエヴナの娘）と結婚させた。 1929年、クリストフォロスはフランソワーズ・ドルレアンと再婚した。フランソワーズはオルレアン家のフランス王位請求者ジャンの娘であった。1939年1月、長男ミハイルが誕生したが、クリストフォロスは息子が生まれた翌年に亡くなった。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Christophe de Grèce (en grec moderne : Χριστόφορος της Ελλάδας), prince de Grèce et de Danemark, est né le 10 août 1888 à Pavlovsk, en Russie, et est décédé le 21 janvier 1940 à Paris, en France. C’est un membre de la famille royale hellène.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Cristóvão da Grécia e Dinamarca (10 de agosto de 1888 - 21 de janeiro de 1940) era o filho de um rei da Grécia que pertencia a uma dinastia que perdeu e voltou ao trono várias vezes durante a sua vida. Passou grande parte da vida a viver no estrangeiro.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinz Christoph von Griechenland und Dänemark, genannt „Christo“ (* 29. Julijul./ 10. August 1888greg. in Pawlowsk; † 21. Januar 1940 in Paris, Frankreich) war ein Mitglied des Hauses Schleswig-Holstein-Sonderburg-Glücksburg.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El príncipe Cristóbal de Grecia nació el 29 de julio de 1888 en el palacio de Pávlovsk, San Petersburgo. Era hijo del rey Jorge I de Grecia y de Olga, reina de Grecia, siendo el menor de los hermanos (se llevaba veinte años con su hermano mayor Constantino). Con 25 años, pasando una temporada en el palacio del zar Nicolás II de Rusia, se fijó en la Gran Duquesa Olga Nikoláyevna, y pidió su mano al zar, que se rió y, como excusa, comentó que Olga era muy joven para contraer matrimonio, aunque en realidad, tanto Nicolás II como su esposa la zarina Alejandra Fiódorovna ya tenían planes de casar a Olga con Carlos de Rumanía (futuro rey Carlos II). Le ofrecieron los tronos de Portugal, Lituania y Albania, y todos los rechazó. Se casó el 1 de enero de 1920 en Vevey, Suiza con la viuda estadounidense Nancy Stewart Worthington Leeds, quien poseía una gran fortuna que sirvió para ayudar económicamente a la familia real griega en época de apuros. El rey Constantino I de Grecia le otorgó el título de princesa Anastasia de Grecia. El 29 de agosto de 1923 moría Nancy en Londres dejando viudo a Cristóbal. Cristóbal se trasladó su residencia de Londres a Roma, viviendo en la Villa Anastasia. El 11 de febrero de 1929 se casó con princesa Francisca de Orleans en Palermo. Tuvieron un hijo Miguel de Grecia, nacido el 7 de enero de 1939. Miguel es uno de los familiares más queridos por la Reina Sofía. El 7 de enero de 1940 murió Cristóbal en Atenas a consecuencia de la complicación de una enfermedad pulmonar por una gripe.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">希腊和丹麦的克里斯托夫王子（Prince Christopher of Greece and Denmark；1888年8月10日－1940年1月21日），是希腊人国王乔治一世的幼子，石勒苏益格-荷尔斯泰因-索恩德堡-格吕克斯堡王朝的成员。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prince Christopher of Greece and Denmark (10 August 1888 – 21 January 1940) was the youngest son and last child of King George I of Greece, belonging to a dynasty which mounted and lost the throne of Greece several times during his lifetime. Much of his life was spent living abroad.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Krzysztof, książę Grecji i Danii (ur. 10 sierpnia 1888 – 21 stycznia 1940) – członek dynastii Glücksburgów, najmłodszy syn i dziecko króla Grecji Jerzego I Greckiego (1845 – 1913) i Olgi Konstantinowny Romanowej (1851 – 1926). 1 stycznia 1920 roku książę Krzysztof poślubił Nancy Stewart Worthington Leeds, która po ślubie była znana jako Anastasia, księżna Grecji i Danii. 3 lata po ślubie żona księcia zachorowała na raka i zmarła. 11 lutego 1929, książę poślubił księżniczkę Orleanu, Françoise (1902 – 1953), córkę Jan, księcia de Guise (1874 – 1940). Para miała jednego syna, Michała, który urodził się 7 stycznia 1939.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Anastasia_of_Greece_and_Denmark" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Françoise_of_Orléans_(1902–1953)" />
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/HRH" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Schleswig-Holstein-Sonderburg-Glücksburg" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Michael_of_Greece_and_Denmark" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Royal Highness</dbp:offstyle>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Greek_Orthodox" />
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Christopher of Greece and Denmark</dbp:royalName>
+    <dbp:styles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HRH Prince Christopher of Greece and Denmark</dbp:styles>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Son" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Anastasia_of_Greece_and_Denmark">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Christopher_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_christopher_of_greece_and_denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_Christopher_of_Greece_and_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

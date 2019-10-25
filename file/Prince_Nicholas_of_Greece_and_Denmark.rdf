@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Olga_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Nicholas_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdfs:label xml:lang="ar">نيكولاس أمير اليونان والدنمارك</rdfs:label>
+    <rdfs:label xml:lang="ja">ニコラオス・ティス・エラザス (1872-1938)</rdfs:label>
+    <rdfs:label xml:lang="de">Nikolaus von Griechenland (1872–1938)</rdfs:label>
+    <rdfs:label xml:lang="ru">Николай (принц Греческий и Датский)</rdfs:label>
+    <rdfs:label xml:lang="pt">Nicolau da Grécia e Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="it">Nicola di Grecia</rdfs:label>
+    <rdfs:label xml:lang="nl">Nicolaas van Griekenland en Denemarken</rdfs:label>
+    <rdfs:label xml:lang="es">Nicolás de Grecia (1872-1938)</rdfs:label>
+    <rdfs:label xml:lang="en">Prince Nicholas of Greece and Denmark</rdfs:label>
+    <rdfs:label xml:lang="fr">Nicolas de Grèce (1872-1938)</rdfs:label>
+    <rdfs:label xml:lang="pl">Mikołaj (książę Grecji i Danii)</rdfs:label>
+    <rdfs:label xml:lang="zh">尼古拉奥斯</rdfs:label>
+    <rdfs:comment xml:lang="de">Nikolaus, Prinz von Griechenland und Dänemark - gr. Νικόλαος της Ελλάδας / Nikolaos tis Elládas - (* 9. Januarjul./ 21. Januar 1872greg. in Athen; † 8. Februar 1938 ebenda) aus dem Haus Schleswig-Holstein-Sonderburg-Glücksburg war ein Mitglied der griechischen Königsfamilie.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Nicolás de Schleswig-Holstein-Sonderburg-Glücksburg (en griego Πρίγκιπας Νικόλαος της Ελλάδας), príncipe de Grecia y de Dinamarca, nació el 22 de enero de 1872 y falleció el 8 de febrero de 1938. Miembro de la familia real griega.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">نيكولاس أمير اليونان والدنمارك (22 يناير 1872 - 8 فبراير 1938) هو الابن الثالث لجورج الأول ملك اليونان، والملكة أولغا.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Nicolau da Grécia e Dinamarca (9 de janeiro de 1872 - 8 de janeiro de 1938) foi um membro da Casa de Schleswig-Holstein-Sonderburg-Glücksburg e o terceiro filho de Jorge I da Grécia, rei dos Helenos, e de Olga Constantinova da Rússia.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Nicolas de Grèce (en grec, Νικόλαος της Ελλάδας / Nikólaos tis Elládas), prince de Grèce et de Danemark est né à Athènes le 22 janvier 1872 et est décédé dans cette même ville le 8 février 1938. C’est un membre de la famille royale hellène et un peintre.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prince Nicholas of Greece and Denmark (22 January 1872 – 8 February 1938), of the Glücksburg branch of the House of Oldenburg, was the fourth child and third son of George I, King of the Hellenes, and of Queen Olga. He was known as &quot;Greek Nicky&quot; in the family to distinguish him from his paternal first cousin Emperor Nicholas II of Russia. Prince Nicholas was a talented painter, often signing his works as &quot;Nicolas Leprince.&quot;</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Nicolaas van Sleeswijk-Holstein-Sonderburg-Glücksburg (Grieks: Πρίγκιπας Νικόλαος της Ελλάδας) (Athene, Griekenland, 22 januari 1872 – Athene, 8 februari 1938), prins van Griekenland en Denemarken, was de derde zoon van koning George I en Olga Konstantinova van Rusland. Hij trouwde op 29 augustus 1902 te Tsarskoje Selo met grootvorstin Helena Vladimirovna van Rusland, een kleindochter van tsaar Alexander II. Ze kregen drie dochters:</rdfs:comment>
+    <rdfs:comment xml:lang="zh">尼古拉王子GCVO（希腊语：Νικόλαος，丹麥語：Nikolaos，1872年1月22日－1938年2月8日），是希腊国王乔治一世与奥尔嘉·康斯坦丁诺芙娜王后的第三子。擅长艺术。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ニコラオス・ティス・エラザス・ケ・ザニアス（ギリシア語: Νικόλαος της Ελλάδας και Δανίας, 1872年1月22日 - 1938年2月8日）は、ギリシャ王ゲオルギオス1世とその妻オルガ王妃との間の三男（第4子）。グリュックスブルク家の一員であり、ギリシャ王子およびデンマーク王子の称号を有した。父方の従兄であるロシア皇帝ニコライ2世と区別するため、「ギリシャのニッキー」の愛称で呼ばれた。 1902年に、ロシア皇帝アレクサンドル2世の孫娘で、自身の又従妹にあたるロシア大公女エレナ・ウラジーミロヴナと結婚した。エレナはニコライ2世の処刑後にロシア皇帝を自称したキリル・ウラジーミロヴィチ大公の妹にあたる。夫妻は3人の娘をもうけた。娘たちはいずれも美女として有名であった。 
+* オルガ（1903年 - 1997年） - 1923年、ユーゴスラヴィア王子パヴレと結婚 
+* エリサヴェト（1904年 - 1955年） - 1934年、トールリンク＝イェッテンバッハ伯爵カール・テーオドルと結婚 
+* マリナ（1906年 - 1968年） - 1934年、イギリス王子ジョージと結婚</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Николай (греч. Νικόλαος; 22 января 1872 — 8 февраля 1938) — принц Греческий и Датский из дома Глюксбургов.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Nikolaos zu Schleswig-Holstein-Sonderburg-Glücksburg (ur. 22 lutego 1872 w Atenach, zm. 8 marca 1938 tamże) – książę Grecji i Danii. Urodził się jako trzeci syn (czwarte dziecko) króla Grecji Jerzego I i jego żony królowej Olgi. 29 sierpnia 1902 w Carskim Siole poślubił wielką księżnę Rosji Elenę Władimirownę Romanową. Para miała trzy córki: 
+*  Olgę (1903-1997) 
+*  Elżbietę (1904-1955) 
+*  Marinę (1906-1968)</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q170160" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ニコラオス・ティス・エラザス_(1872-1938)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πρίγκιπας_Νικόλαος_της_Ελλάδας_και_της_Δανίας" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Nicolaas_van_Griekenland_en_Denemarken" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Mikołaj_(książę_Grecji_i_Danii)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Nicola_di_Grecia" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06251n" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q170160" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Nicolas_de_Grèce_(1872-1938)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Nikolaus_von_Griechenland_(1872–1938)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1014424763" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nicolás_de_Grecia_(1872-1938)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nicolau_da_Grécia_e_Dinamarca" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Athens" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1938-02-08</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1938-2-8</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Greece" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Athens" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1872-01-22</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1872-1-22</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1872_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1938_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_Naval_Merit" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1865381</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719999879</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Prince Nicholas of Greece and Denmark</foaf:name>
+    <foaf:name xml:lang="en">Prince Nicholas</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus_von_Griechenland.jpg" />
+    <dct:description xml:lang="en">Prince of Greece and Denmark</dct:description>
+    <foaf:givenName xml:lang="en">Nicola</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_Nicholas_of_Greece_and_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus_von_Griechenland.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_Nicholas_of_Greece_and_Denmark?oldid=719999879" />
+    <dbo:abstract xml:lang="zh">尼古拉王子GCVO（希腊语：Νικόλαος，丹麥語：Nikolaos，1872年1月22日－1938年2月8日），是希腊国王乔治一世与奥尔嘉·康斯坦丁诺芙娜王后的第三子。擅长艺术。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nicolau da Grécia e Dinamarca (9 de janeiro de 1872 - 8 de janeiro de 1938) foi um membro da Casa de Schleswig-Holstein-Sonderburg-Glücksburg e o terceiro filho de Jorge I da Grécia, rei dos Helenos, e de Olga Constantinova da Rússia.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Николай (греч. Νικόλαος; 22 января 1872 — 8 февраля 1938) — принц Греческий и Датский из дома Глюксбургов.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ニコラオス・ティス・エラザス・ケ・ザニアス（ギリシア語: Νικόλαος της Ελλάδας και Δανίας, 1872年1月22日 - 1938年2月8日）は、ギリシャ王ゲオルギオス1世とその妻オルガ王妃との間の三男（第4子）。グリュックスブルク家の一員であり、ギリシャ王子およびデンマーク王子の称号を有した。父方の従兄であるロシア皇帝ニコライ2世と区別するため、「ギリシャのニッキー」の愛称で呼ばれた。 1902年に、ロシア皇帝アレクサンドル2世の孫娘で、自身の又従妹にあたるロシア大公女エレナ・ウラジーミロヴナと結婚した。エレナはニコライ2世の処刑後にロシア皇帝を自称したキリル・ウラジーミロヴィチ大公の妹にあたる。夫妻は3人の娘をもうけた。娘たちはいずれも美女として有名であった。 
+* オルガ（1903年 - 1997年） - 1923年、ユーゴスラヴィア王子パヴレと結婚 
+* エリサヴェト（1904年 - 1955年） - 1934年、トールリンク＝イェッテンバッハ伯爵カール・テーオドルと結婚 
+* マリナ（1906年 - 1968年） - 1934年、イギリス王子ジョージと結婚 ニコラオスは画家として知られたほか、兄のコンスタンティノスおよびゲオルギオスと一緒に1896年アテネオリンピック開催に尽力したことでも有名である。オリンピック競技がギリシャで復活したのは393年以来のことであった。ニコラオスは射撃競技の責任者を務めた。 ニコラオスは1913年、父ゲオルギオス1世がテッサロニキで暗殺されたときに、父の死はドイツ諜報機関の差し金だと発言して、国際問題を引き起こした。こうした説を持ち出したのは、兄コンスタンティノスの即位に伴って新王妃となったドイツ人の義姉ソフィア（ドイツ皇帝ヴィルヘルム2世の妹）への嫌がらせだったと思われる。ニコラオスは1938年にアテネで亡くなり、タトイ宮殿にある王家の地下納骨堂に埋葬された。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">نيكولاس أمير اليونان والدنمارك (22 يناير 1872 - 8 فبراير 1938) هو الابن الثالث لجورج الأول ملك اليونان، والملكة أولغا.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prince Nicholas of Greece and Denmark (22 January 1872 – 8 February 1938), of the Glücksburg branch of the House of Oldenburg, was the fourth child and third son of George I, King of the Hellenes, and of Queen Olga. He was known as &quot;Greek Nicky&quot; in the family to distinguish him from his paternal first cousin Emperor Nicholas II of Russia. Prince Nicholas was a talented painter, often signing his works as &quot;Nicolas Leprince.&quot;</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Nicolaas van Sleeswijk-Holstein-Sonderburg-Glücksburg (Grieks: Πρίγκιπας Νικόλαος της Ελλάδας) (Athene, Griekenland, 22 januari 1872 – Athene, 8 februari 1938), prins van Griekenland en Denemarken, was de derde zoon van koning George I en Olga Konstantinova van Rusland. Hij trouwde op 29 augustus 1902 te Tsarskoje Selo met grootvorstin Helena Vladimirovna van Rusland, een kleindochter van tsaar Alexander II. Ze kregen drie dochters: 
+*  Olga (11 juni 1903 – 16 oktober 1997), getrouwd met Paul van Joegoslavië 
+*  Elisabeth (24 mei 1904 – 11 januari 1955), getrouwd met graaf Karel Theodoor zu Törring-Jettenbach, een kleinzoon van Karel Theodoor in Beieren  
+*  Marina (13 december 1906 – 27 augustus 1968), getrouwd met George, Hertog van Kent Nicolaas had de bijnaam “Greek Nicky” (Greek, opdat hij niet verward zou worden met “Nicky”). Hij was een getalenteerd schilder en ondertekende zijn werken altijd met “Nicolaas Leprince”. Samen met zijn broers Constantijn en George hielp hij bij de organisatie van de Olympische Zomerspelen 1896 in Athene.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Nicolas de Grèce (en grec, Νικόλαος της Ελλάδας / Nikólaos tis Elládas), prince de Grèce et de Danemark est né à Athènes le 22 janvier 1872 et est décédé dans cette même ville le 8 février 1938. C’est un membre de la famille royale hellène et un peintre.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Nikolaus, Prinz von Griechenland und Dänemark - gr. Νικόλαος της Ελλάδας / Nikolaos tis Elládas - (* 9. Januarjul./ 21. Januar 1872greg. in Athen; † 8. Februar 1938 ebenda) aus dem Haus Schleswig-Holstein-Sonderburg-Glücksburg war ein Mitglied der griechischen Königsfamilie.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Nicolás de Schleswig-Holstein-Sonderburg-Glücksburg (en griego Πρίγκιπας Νικόλαος της Ελλάδας), príncipe de Grecia y de Dinamarca, nació el 22 de enero de 1872 y falleció el 8 de febrero de 1938. Miembro de la familia real griega.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Nikolaos zu Schleswig-Holstein-Sonderburg-Glücksburg (ur. 22 lutego 1872 w Atenach, zm. 8 marca 1938 tamże) – książę Grecji i Danii. Urodził się jako trzeci syn (czwarte dziecko) króla Grecji Jerzego I i jego żony królowej Olgi. 29 sierpnia 1902 w Carskim Siole poślubił wielką księżnę Rosji Elenę Władimirownę Romanową. Para miała trzy córki: 
+*  Olgę (1903-1997) 
+*  Elżbietę (1904-1955) 
+*  Marinę (1906-1968)</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Elena_Vladimirovna_of_Russia" />
+    <dbo:title xml:lang="en">Prince Nicholas of Greece and Denmark</dbo:title>
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/HRH" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Glücksburg" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Olga_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Elizabeth,_Countess_of_Toerring-Jettenbach" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Marina_of_Greece_and_Denmark" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Royal Highness</dbp:offstyle>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Greek_Orthodox" />
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Nicholas of Greece and Denmark</dbp:royalName>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Marina_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elizabeth_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Elena_Vladimirovna_of_Russia">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Nicholas_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_Nicholas_of_Greece_and_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

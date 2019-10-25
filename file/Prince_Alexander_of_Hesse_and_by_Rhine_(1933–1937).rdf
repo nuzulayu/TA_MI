@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="pt">Alexandre Jorge de Hesse</rdfs:label>
+    <rdfs:label xml:lang="zh">黑森與萊茵王子亞歷山大</rdfs:label>
+    <rdfs:label xml:lang="en">Prince Alexander of Hesse and by Rhine (1933–1937)</rdfs:label>
+    <rdfs:label xml:lang="es">Alejandro Jorge de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="nl">Alexander George van Hessen-Darmstadt</rdfs:label>
+    <rdfs:comment xml:lang="en">(For his great-great-granduncle, see Prince Alexander of Hesse and by Rhine (1823–1888).) Prince Alexander of Hesse and by Rhine (Alexander Georg Karl Heinrich), (14 April 1933 – 16 November 1937), was the second son of Georg Donatus, Hereditary Grand Duke of Hesse and Princess Cecilie of Greece and Denmark, an elder sister of Prince Philip, Duke of Edinburgh.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Alexander George Karel Hendrik (Darmstadt, 14 april 1933 - nabij Oostende, 16 november 1937) was een prins van Hessen en aan de Rijn. Hij was de jongste zoon van George Donatus van Hessen-Darmstadt en Cecilia van Griekenland en Denemarken, de oudere zuster van de Britse prins-gemaal Philip, Hertog van Edinburgh. Hij kwam met zijn ouders en grootmoeder (Eleonore van Solms-Hohensolms-Lich) en oudere broertje Lodewijk Ernst om het leven tijdens het vliegtuigongeluk bij Oostende in 1937. Zij waren onderweg naar Londen om het huwelijk bij te wonen van Alexanders oom, prins Lodewijk met Margaret Geddes.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alexandre Jorge de Hesse e do Reno, (14 de abril de 1933 - 16 de novembro de 1937), foi o segundo filho do grão-duque Jorge Donatus, e da sua esposa, a princesa Cecília da Grécia e Dinamarca. Morreu aos 4 anos de idade num acidente de avião em 1937. Ele, os seus pais, o irmão mais velho Luís e a sua avó Leonor estavam a caminho de Londres para participar no casamento do seu tio, o Príncipe Luís de Hesse, com Margaret Geddes. O avião embateu contra uma chaminé de uma fábrica em Oostende, na Bélgica, matando todos os seus ocupantes.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">黑森和莱因大公国亚历山大王子（英语:Prince Alexander of Hesse and by Rhine，1933年4月14日－1937年11月16日），全名亚历山大·格奥尔格·卡尔·海因里希(英语:Alexander Georg Karl Heinrich)，是黑森世袭大公格奧尔格·多纳图斯与希腊和丹麦的塞西莉娅公主所生的次子，有一哥一妹。1937年11月16日随父母及哥哥路德维希王子乘机飞往伦敦途中，在比利时奥斯滕德遇空难身亡。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Príncipe Alejandro Jorge de Hesse-Darmstadt (Alexander Georg Karl Heinrich, 14 de abril de 1933 – 16 de noviembre de 1937) fue el segundo hijo de Jorge Donato, gran duque hereditario de Hesse-Darmstadt y de la princesa Cecilia de Grecia y Dinamarca, hermana mayor del príncipe Felipe, duque de Edimburgo.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2874895" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alejandro_Jorge_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alexander_George_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02q9f3n" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexandre_Jorge_de_Hesse" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2874895" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ostend" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-16</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-4-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-04-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Mausoleum_for_the_Grand_Ducal_House_of_Hesse,_Rosenhöhe_(Darmstadt)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_aviation_accidents_or_incidents_in_Belgium" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1937_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1933_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10360690</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724609740</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Prince Alexander of Hesse and by Rhine</foaf:name>
+    <foaf:name xml:lang="en">Prince Alexander</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander_de_hesse_1933.jpg" />
+    <foaf:givenName xml:lang="en">Alexander</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander_de_hesse_1933.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)?oldid=724609740" />
+    <dbo:abstract xml:lang="en">(For his great-great-granduncle, see Prince Alexander of Hesse and by Rhine (1823–1888).) Prince Alexander of Hesse and by Rhine (Alexander Georg Karl Heinrich), (14 April 1933 – 16 November 1937), was the second son of Georg Donatus, Hereditary Grand Duke of Hesse and Princess Cecilie of Greece and Denmark, an elder sister of Prince Philip, Duke of Edinburgh. He was killed at age four in an airplane crash in 1937. He, his parents, older brother Ludwig, and grandmother Grand Duchess Eleonore were flying to London to attend the wedding of his paternal uncle Prince Ludwig to Margaret Geddes. The plane crashed into a factory chimney near Ostend, Belgium, killing all those on board.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Príncipe Alejandro Jorge de Hesse-Darmstadt (Alexander Georg Karl Heinrich, 14 de abril de 1933 – 16 de noviembre de 1937) fue el segundo hijo de Jorge Donato, gran duque hereditario de Hesse-Darmstadt y de la princesa Cecilia de Grecia y Dinamarca, hermana mayor del príncipe Felipe, duque de Edimburgo. Murió a los cuatro años de edad, junto a sus padres, su hermano Luis y su abuela, la gran duquesa Leonor, en un accidente de avión en 1937. Cuando volaban a Londres para asistir a la boda de su tío, el príncipe Luis, con Margaret Geddes, el avión se estrelló en la chimenea de una fábrica cerca de Ostende, Bélgica.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alexandre Jorge de Hesse e do Reno, (14 de abril de 1933 - 16 de novembro de 1937), foi o segundo filho do grão-duque Jorge Donatus, e da sua esposa, a princesa Cecília da Grécia e Dinamarca. Morreu aos 4 anos de idade num acidente de avião em 1937. Ele, os seus pais, o irmão mais velho Luís e a sua avó Leonor estavam a caminho de Londres para participar no casamento do seu tio, o Príncipe Luís de Hesse, com Margaret Geddes. O avião embateu contra uma chaminé de uma fábrica em Oostende, na Bélgica, matando todos os seus ocupantes.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">黑森和莱因大公国亚历山大王子（英语:Prince Alexander of Hesse and by Rhine，1933年4月14日－1937年11月16日），全名亚历山大·格奥尔格·卡尔·海因里希(英语:Alexander Georg Karl Heinrich)，是黑森世袭大公格奧尔格·多纳图斯与希腊和丹麦的塞西莉娅公主所生的次子，有一哥一妹。1937年11月16日随父母及哥哥路德维希王子乘机飞往伦敦途中，在比利时奥斯滕德遇空难身亡。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Alexander George Karel Hendrik (Darmstadt, 14 april 1933 - nabij Oostende, 16 november 1937) was een prins van Hessen en aan de Rijn. Hij was de jongste zoon van George Donatus van Hessen-Darmstadt en Cecilia van Griekenland en Denemarken, de oudere zuster van de Britse prins-gemaal Philip, Hertog van Edinburgh. Hij kwam met zijn ouders en grootmoeder (Eleonore van Solms-Hohensolms-Lich) en oudere broertje Lodewijk Ernst om het leven tijdens het vliegtuigongeluk bij Oostende in 1937. Zij waren onderweg naar Londen om het huwelijk bij te wonen van Alexanders oom, prins Lodewijk met Margaret Geddes. Lodewijk Ernst had nog een jonger zusje, Johanna, maar die was thuisgebleven en overleefde dus als enige van het gezin. Zij werd geadopteerd door haar oom en tante, maar overleed op jonge leeftijd aan de gevolgen van een hersenvliesontsteking.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:title xml:lang="en">Prince of Hesse and by Rhine</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hesse-Darmstadt" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Son" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933-1937)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+  </rdf:Description>
+</rdf:RDF>

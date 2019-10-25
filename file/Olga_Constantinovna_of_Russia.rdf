@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Queen_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga,_Queen_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Olga_Konstantinovna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_konstantinovna_of_russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianWomenOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegentsOfGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Girl110129825" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Regent110516117" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Migrant110314952" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDuchesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSaintPetersburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFemaleRegents" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuchess110141930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Admiral109771204" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FlagOfficer110094584" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatImperialRussianEmigrantsToGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianAdmirals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dame109989045" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegents" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emigrant110051975" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDamesOfTheOrderOfQueenMariaLuisa" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdfs:label xml:lang="en">Olga Constantinovna of Russia</rdfs:label>
+    <rdfs:label xml:lang="de">Olga Konstantinowna Romanowa</rdfs:label>
+    <rdfs:label xml:lang="ja">オルガ (ギリシャ王妃)</rdfs:label>
+    <rdfs:label xml:lang="nl">Olga Konstantinova van Rusland</rdfs:label>
+    <rdfs:label xml:lang="pt">Olga Constantinovna da Rússia</rdfs:label>
+    <rdfs:label xml:lang="fr">Olga Constantinovna de Russie</rdfs:label>
+    <rdfs:label xml:lang="ar">أولغا كونستانتينوفنا دوقة روسيا</rdfs:label>
+    <rdfs:label xml:lang="it">Ol&#39;ga Konstantinovna Romanova</rdfs:label>
+    <rdfs:label xml:lang="ru">Ольга Константиновна</rdfs:label>
+    <rdfs:label xml:lang="pl">Olga Romanowa (królowa Grecji)</rdfs:label>
+    <rdfs:label xml:lang="es">Olga Konstantínova Románova</rdfs:label>
+    <rdfs:comment xml:lang="pt">Olga Constantinovna da Rússia (em russo: Великая Княжна Ольга Константиновна; transl.: Velikaya Knyaginya Olga Constantinovna), mais tarde rainha Olga da Grécia, (3 de setembro de 1851 – 18 de junho de 1926) foi a rainha consorte do rei Jorge I da Grécia e, durante um breve período de tempo em 1920, regente da Grécia.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Olga Constantinovna de Russie (en russe : Ольга Константиновна Романова / Olga Konstantinovna Romanova et en grec moderne : Όλγα της Ελλάδας / Olga tis Elládas), grande-duchesse de Russie puis, par son mariage, reine des Hellènes et princesse de Danemark, est née le 3 septembre 1851 (22 août C.J.) au palais de Pavlovsk, à Saint-Pétersbourg, en Russie, et est morte le 18 juin 1926 à Rome, en Italie. C’est un membre de la dynastie des Romanov, une reine de Grèce (entre 1867 et 1913) et une régente de ce pays (du 18 novembre au 11 décembre 1920).</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Великая княжна О́льга Константи́новна (22 августа [3 сентября] 1851, Павловск — 18 июня 1926, Рим) — жена второго греческого короля Георга, регент Греции в ноябре — декабре 1920 года. Внучка императора Николая I, дочь его сына Константина Николаевича и Александры Иосифовны. Родная сестра великого князя Константина Константиновича, известного поэта, публиковавшегося под псевдонимом К.Р. Бабушка Филиппа Эдинбургского — супруга Елизаветы II. В 1920 году, после смерти своего внука Александра и до повторного вступления на престол своего сына Константина, исполняла обязанности регента Греции.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Großfürstin Olga Konstantinowna Romanowa (russisch Ольга Константиновна Романова, wissenschaftliche Transliteration Ol&#39;ga Konstantinovna Romanova; * 22. Augustjul./ 3. September 1851greg. in Pawlowsk; † 18. Juni 1926 in Rom) war die Gattin König Georgs I. von Griechenland.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Grand Duchess Olga Constantinovna of Russia (Russian: О́льга Константи́новна Рома́нова; IPA: [ˈolʲɡə kənstɐnˈtʲinəvnə rɐˈmanəvə]), later Queen Olga of the Hellenes (Greek: Βασίλισσα Όλγα των Ελλήνων) (3 September [O.S. 22 August] 1851 – 18 June 1926), was the wife of King George I of Greece and, briefly in 1920, regent of Greece. Prince Philip, Duke of Edinburgh, is her grandson.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Olga Konstantínovna Románova (San Petersburgo, 3 de septiembre de 1851 - Roma, 18 de junio de 1926) fue una gran duquesa de Rusia por nacimiento y, por matrimonio, reina consorte de los Helenos —regente entre el 18 de noviembre y el 11 de diciembre de 1920— y princesa de Dinamarca. Asimismo, era miembro de la dinastía Romanov.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Olga Konstantinowna Romanowa (ur. 3 września 1851 w Pawłowsku, zm. 18 czerwca 1926 w Rzymie) − wielka księżna Rosji, królowa Grecji. Olga Romanowa była córką wielkiego księcia Konstantego Mikołajewicza Romanowa, brata cara Aleksandra II, oraz Aleksandry Józefównej, córki księcia Sachsen-Altenburg, Józefa Wettyna.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">オリガ・コンスタンチノヴナ（ロシア語: Ольга Константиновна, 1851年9月3日 - 1926年6月18日）は、ギリシャ王ゲオルギオス1世の王妃、ロシア大公女。ギリシャ語名はオルガ（Ελληνικά: Όλγα, ラテン文字転写: Olga）。ロシア皇帝ニコライ1世の次男コンスタンチン大公とその妻であるアレクサンドラ・イオシフォヴナ大公妃の長女として、パヴロフスクで生まれた。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Grootvorstin Olga Konstantinova van Rusland (Russisch: Великая Княжна Ольга Константиновна) (Pavlovsk (Sint-Petersburg), 3 september 1851 - Rome, 18 juni 1926), was een Russische grootvorstin. Door haar huwelijk met koning George I van Griekenland, was zij koningin van Griekenland (Grieks: Βασίλισσα Όλγα των Ελλήνων). Ze was ook een korte periode, in 1920, koningin-regentes van Griekenland. Zij was de dochter van grootvorst Constantijn Nikolajevitsj Romanov (een jongere broer van tsaar Alexander II) en Alexandra van Saksen-Altenburg. Zij was een kleindochter van tsaar Nicolaas I.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">أولجا كونستانتينوفناوبالروسية Ольга Константиновна Романова، عرفت بعد ذلك أولجا ملكة هيلينز وباليونانية Βασίλισσα Όλγα των Ελλήνων. كان والدها شقيق ألكسندر الثاني. وهى من سلالة رومانوف، وإبنة الدوق قسطنطين نيكولايفيتش وزوجته الأميرة الكسندرا ساكس التينبورغ. أمضت طفولتها في سانت بطرسبرغ وبولندا وشبه جزيرة القرم، وفي عام 1867 تزوجت الملك جورج الأول من اليونان وهى في سن السادسة عشرة. في البداية، لم تشعرب بالراحة في العيش فى مملكة اليونان، لكنها سرعان ما انخرطت في العمل الاجتماعي والخيري. كما انها ساعدت فى تأسس المستشفيات والمراكز المساعدة، ولكن محاولتها لتعزيز موقفها فى العمل الاجتماعى ، بترجمة جديدة للأناجيل اليونانية أثارت إضطرابات مع رجال الدين.في عام 1913 تم إغتيال زوجها ، وعادت أولغا لروسيا. عندما اندلعت الحرب العالمية الأولى، ساعدت فى إنشاء مستشفى عسكري في قصر بافلوفسك، الذي ينتمي لأخيه</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/オルガ_(ギリシャ王妃)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Olga_Constantinovna_da_Rússia" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Olga_Romanowa_(królowa_Grecji)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q155178" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Olga_Constantinovna_de_Russie" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/101219373X" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Olga_Konstantinovna" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Olga_Konstantinovna_Romanovová" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Olga_Konstantinova_van_Rusland" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.050yc5" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Olga_Konstantinowna_Romanowa" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/73025724" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Olga_Konstantínova_Románova" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q155178" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ol&#39;ga_Konstantinovna_Romanova" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/러시아의_올가_콘스탄티노브나" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Όλγα_των_Ελλήνων" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rome" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-06-18</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-6-18</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Pavlovsk,_Saint_Petersburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1851-09-03</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1851-9-3</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1926_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_of_the_Order_of_Queen_Maria_Luisa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_queens_consort" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1851_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_women" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Greek_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_women_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Russian_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_duchesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Female_regents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_Switzerland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regents_of_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_Greek_language" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1430549</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737656670</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Olga Constantinovna of Russia</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Olga_of_Greece_VI_restoration.jpg" />
+    <dct:description xml:lang="en">Queen consort of the Hellenes</dct:description>
+    <foaf:givenName xml:lang="en">Olga</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Olga_Constantinovna_of_Russia" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Olga_of_Greece_VI_restoration.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Olga_Constantinovna_of_Russia?oldid=737656670" />
+    <dbo:abstract xml:lang="pt">Olga Constantinovna da Rússia (em russo: Великая Княжна Ольга Константиновна; transl.: Velikaya Knyaginya Olga Constantinovna), mais tarde rainha Olga da Grécia, (3 de setembro de 1851 – 18 de junho de 1926) foi a rainha consorte do rei Jorge I da Grécia e, durante um breve período de tempo em 1920, regente da Grécia. Membro da dinastia Romanov, Olga era filha do grão-duque Constantino Nikolaevich e da sua esposa, a princesa Alexandra de Saxe-Altemburgo. Passou a sua infância entre São Petersburgo, a Polónia e a Crimeia e casou-se com o rei Jorge I da Grécia em 1867, quando tinha dezasseis anos de idade. Inicialmente sentia-se pouco à vontade no reino da Grécia, mas começou a desenvolver trabalho social e caritativo pouco depois. Abriu hospitais e centros de ajuda, mas a sua tentativa de promover uma nova tradução mais acessível para grego dos Evangelhos desencadeou várias revoltas entre os conservadores religiosos. Após o assassinato do seu marido em 1913, regressou à Rússia. Quando rebentou a Primeira Guerra Mundial, organizou um hospital militar no Palácio de Pavlovsk, que pertencia ao seu irmão. Ficou presa no palácio quando rebentou a Revolução Russa de 1917, mas graças à intervenção da embaixada dinamarquesa, conseguiu fugir para a Suíça. Não lhe foi possível regressar à Grécia, uma vez que o seu filho, o rei Constantino I, tinha sido deposto. Em outubro de 1920, regressou a Atenas após a doença súbita do seu neto, o rei Alexandre. Após a morte deste, foi nomeada regente até à restauração de Constantino I que aconteceu no mês seguinte. Contudo, após a derrota da Grécia na Guerra Greco-Turca de 1919-1922, a família real grega foi novamente exilada e passou os seus últimos anos de vida entre o Reino Unido, França e Itália.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">أولجا كونستانتينوفناوبالروسية Ольга Константиновна Романова، عرفت بعد ذلك أولجا ملكة هيلينز وباليونانية Βασίλισσα Όλγα των Ελλήνων. كان والدها شقيق ألكسندر الثاني. وهى من سلالة رومانوف، وإبنة الدوق قسطنطين نيكولايفيتش وزوجته الأميرة الكسندرا ساكس التينبورغ. أمضت طفولتها في سانت بطرسبرغ وبولندا وشبه جزيرة القرم، وفي عام 1867 تزوجت الملك جورج الأول من اليونان وهى في سن السادسة عشرة. في البداية، لم تشعرب بالراحة في العيش فى مملكة اليونان، لكنها سرعان ما انخرطت في العمل الاجتماعي والخيري. كما انها ساعدت فى تأسس المستشفيات والمراكز المساعدة، ولكن محاولتها لتعزيز موقفها فى العمل الاجتماعى ، بترجمة جديدة للأناجيل اليونانية أثارت إضطرابات مع رجال الدين.في عام 1913 تم إغتيال زوجها ، وعادت أولغا لروسيا. عندما اندلعت الحرب العالمية الأولى، ساعدت فى إنشاء مستشفى عسكري في قصر بافلوفسك، الذي ينتمي لأخيها. وقالت انها كانت محاصرا في القصر بعد الثورة الروسية عام 1917، حتى تدخلت السفارة الدنماركية، مما يسمح لها الهرب إلى سويسرا. لا يمكن لأولجا العودة إلى اليونان كما ان ابنها الملك قسطنطين الأول، قد خلع من الحكم.في أكتوبر 1920، عادت إلى أثينا لتزور حفيدها الملك الكسندر لتعرضه لمرض مميت. بعد وفاته، تم تعيينها لتكون الوصية حتى استعادة قسطنطين الأولالحكم في الشهر التالي. بعد هزيمة اليونانيين في الحرب اليونانية التركية من 1919-1922 كانت العائلة المالكة اليونانية في المنفى مرة أخرى وقضت أولجا السنوات الأخيرة من حياتها في المملكة المتحدة وفرنسا وإيطاليا.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Grootvorstin Olga Konstantinova van Rusland (Russisch: Великая Княжна Ольга Константиновна) (Pavlovsk (Sint-Petersburg), 3 september 1851 - Rome, 18 juni 1926), was een Russische grootvorstin. Door haar huwelijk met koning George I van Griekenland, was zij koningin van Griekenland (Grieks: Βασίλισσα Όλγα των Ελλήνων). Ze was ook een korte periode, in 1920, koningin-regentes van Griekenland. Zij was de dochter van grootvorst Constantijn Nikolajevitsj Romanov (een jongere broer van tsaar Alexander II) en Alexandra van Saksen-Altenburg. Zij was een kleindochter van tsaar Nicolaas I. In 1867 trouwde ze - pas zestien jaar oud - met de Griekse koning George I, die ze had leren kennen toen deze zijn zuster, Dagmar, de vrouw van de Russische kroonprins Alexander, kwam bezoeken. Het paar kreeg acht kinderen:</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Olga Constantinovna de Russie (en russe : Ольга Константиновна Романова / Olga Konstantinovna Romanova et en grec moderne : Όλγα της Ελλάδας / Olga tis Elládas), grande-duchesse de Russie puis, par son mariage, reine des Hellènes et princesse de Danemark, est née le 3 septembre 1851 (22 août C.J.) au palais de Pavlovsk, à Saint-Pétersbourg, en Russie, et est morte le 18 juin 1926 à Rome, en Italie. C’est un membre de la dynastie des Romanov, une reine de Grèce (entre 1867 et 1913) et une régente de ce pays (du 18 novembre au 11 décembre 1920). Fille du grand-duc Constantin Nikolaïevitch de Russie et de la grande-duchesse Alexandra de Saxe-Altenbourg, elle passe une enfance dorée entre Saint-Pétersbourg, la Pologne et la Crimée. Elle épouse, à l’âge de seize ans, en 1867, le roi Georges Ier de Grèce et l’accompagne dans son nouveau pays. Dans le royaume hellène, Olga s’adapte d’abord difficilement. Très vite, elle s’engage cependant dans le travail social et fonde plusieurs hôpitaux et centres d’aide aux démunis. Elle soutient également son époux, dont le règne est ponctué par différents conflits avec l’Empire ottoman. La souveraine met par ailleurs au monde une nombreuse famille, dont elle passe beaucoup de temps à s’occuper. En 1913, Georges Ier de Grèce, l&#39;époux d&#39;Olga, est assassiné par un anarchiste. Désormais reine douairière, elle ne tarde pas à retourner en Russie. Lorsque la Première Guerre mondiale éclate, elle met en place un hôpital militaire dans le palais de Pavlovsk, qui appartient à sa famille. Mais quand la Révolution russe se produit en 1917, elle se retrouve prisonnière dans le château et il faut l’intervention de l’ambassade du Danemark pour que les Bolcheviks l’autorisent enfin à quitter sa terre natale. Une fois à l&#39;abri, Olga ne peut retourner en Grèce où son fils, le roi Constantin Ier, vient d’être déposé. Elle s’installe donc en Suisse, où résident désormais la plupart de ses enfants et petits-enfants, et c’est seulement en 1920 qu’elle peut rentrer à Athènes. Le pays est alors plongé dans la guerre gréco-turque de 1919-1922 et l’instabilité politique causée par la mort sans héritier du roi Alexandre Ier permet à la souveraine d’être nommée régente en attendant le retour de Constantin Ier sur le trône. Cependant, la défaite des Grecs face aux troupes de Mustafa Kemal conduit la famille royale à un nouvel exil et Olga passe les dernières années de son existence entre le Royaume-Uni, la France et l’Italie.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Grand Duchess Olga Constantinovna of Russia (Russian: О́льга Константи́новна Рома́нова; IPA: [ˈolʲɡə kənstɐnˈtʲinəvnə rɐˈmanəvə]), later Queen Olga of the Hellenes (Greek: Βασίλισσα Όλγα των Ελλήνων) (3 September [O.S. 22 August] 1851 – 18 June 1926), was the wife of King George I of Greece and, briefly in 1920, regent of Greece. Prince Philip, Duke of Edinburgh, is her grandson. A member of the Romanov dynasty, she was the daughter of Grand Duke Constantine Nikolaievich and his wife, Princess Alexandra of Saxe-Altenburg. She spent her childhood in Saint Petersburg, Poland and the Crimea, and married King George I of Greece in 1867 at the age of sixteen. At first, she felt ill at ease in the Kingdom of Greece, but she quickly became involved in social and charitable work. She founded hospitals and help centers, but her attempt to promote a new, more accessible, Greek translation of the Gospels sparked riots by religious conservatives. On the assassination of her husband in 1913, Olga returned to Russia. When the First World War broke out, she set up a military hospital in Pavlovsk Palace, which belonged to her brother. She was trapped in the palace after the Russian Revolution of 1917, until the Danish embassy intervened, allowing her to escape to Switzerland. Olga could not return to Greece as her son, King Constantine I, had been deposed. In October 1920, she returned to Athens on the fatal illness of her grandson, King Alexander. After his death, she was appointed regent until the restoration of Constantine I the following month. After the defeat of the Greeks in the Greco-Turkish War of 1919–22 the Greek royal family were again exiled and Olga spent the last years of her life in the United Kingdom, France and Italy.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Großfürstin Olga Konstantinowna Romanowa (russisch Ольга Константиновна Романова, wissenschaftliche Transliteration Ol&#39;ga Konstantinovna Romanova; * 22. Augustjul./ 3. September 1851greg. in Pawlowsk; † 18. Juni 1926 in Rom) war die Gattin König Georgs I. von Griechenland.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Olga Konstantínovna Románova (San Petersburgo, 3 de septiembre de 1851 - Roma, 18 de junio de 1926) fue una gran duquesa de Rusia por nacimiento y, por matrimonio, reina consorte de los Helenos —regente entre el 18 de noviembre y el 11 de diciembre de 1920— y princesa de Dinamarca. Asimismo, era miembro de la dinastía Romanov. Hija del gran duque Constantino Nikoláyevich de Rusia y de su esposa, la princesa Alejandra de Sajonia-Altenburgo, pasó una infancia feliz entre San Petersburgo, Polonia y Crimea. Se casó, con 16 años, en 1867, con el rey Jorge I de Grecia y se fue a vivir con él a Grecia. Aunque la adaptación fue inicialmente difícil, rápidamente, se involucró en trabajos sociales y fundó diversos hospitales y centros de ayuda a los desfavorecidos. Asimismo, apoyó a su esposo en los diferentes problemas del país con el Imperio otomano y trajo al mundo una gran familia a la que dedicó mucho tiempo. En 1913, el rey Jorge es asesinado por un anarquista y Olga, ya viuda, no tardó en volver a Rusia. Cuando estalló la Primera guerra mundial, puso en marcha un hospital militar en el palacio Pávlovsk, que pertenecía a su familia. No obstante, cuando comenzó la Revolución rusa en 1917 fue hecha prisionera en el castillo y fue necesaria la intervención de la embajada de Dinamarca para que los bolcheviques la autorizaran a abandonar el país. Ya en el exilio, no pudo ir a Grecia donde su hijo, el rey Constantino I acababa de casarse. Se instaló en Suiza donde residían la mayor parte de sus hijos y de sus nietos y no sería hasta 1920 cuando pudo volver a Atenas. El país estaba en aquel momento sumido en la guerra greco-turca y en la inestabilidad política causada por la muerte sin heredero del rey Alejandro I de Grecia. Esto permitió a la soberana ser nombrada regente a la espera de la vuelta de Constantino I al trono. Sin embargo, la derrota de los griegos ante las tropas de Mustafa Kemal Atatürk condujo a la familia real a un nuevo exilio y Olga pasó los últimos años de su vida entre el Reino Unido, Francia e Italia.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Olga Konstantinowna Romanowa (ur. 3 września 1851 w Pawłowsku, zm. 18 czerwca 1926 w Rzymie) − wielka księżna Rosji, królowa Grecji. Olga Romanowa była córką wielkiego księcia Konstantego Mikołajewicza Romanowa, brata cara Aleksandra II, oraz Aleksandry Józefównej, córki księcia Sachsen-Altenburg, Józefa Wettyna.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Великая княжна О́льга Константи́новна (22 августа [3 сентября] 1851, Павловск — 18 июня 1926, Рим) — жена второго греческого короля Георга, регент Греции в ноябре — декабре 1920 года. Внучка императора Николая I, дочь его сына Константина Николаевича и Александры Иосифовны. Родная сестра великого князя Константина Константиновича, известного поэта, публиковавшегося под псевдонимом К.Р. Бабушка Филиппа Эдинбургского — супруга Елизаветы II. Ольга Константиновна до такой степени увлекалась поэзией Михаила Лермонтова, что составила домашнее издание «Извлечения из сочинений Лермонтова на каждый день года» с автографами членов русской императорской фамилии и некоторых иностранных. Венчание короля Греции Георга I с великой княжной состоялось в Санкт-Петербурге 15 (27) октября 1867 года. Брак, укрепивший дипломатические отношения Греции и России и сблизивший два царствующих дома, — одна из удач российской дипломатии. Укрепление русских позиций в этом важном Средиземноморском регионе, тем более в преддверии угрозы военного конфликта с Турцией, было чрезвычайно важным. Королева занималась благотворительностью, основала в Пирее, в котором находилась база российского флота, военно-морской госпиталь. Она также открыла медицинские курсы для женщин и сама посещала их. С начала Первой мировой войны приехала в Россию, работала в госпиталях, помогая раненым. От своего отца Ольга унаследовала любовь к русскому флоту, которую сохранила на всю жизнь. В разгар войны балканских стран с Турцией, начавшейся в 1912 году, король Георг I пал жертвой террористического акта. После его гибели королева Ольга Константиновна, пребывая до революции в России, жила в том числе и в Константиновском дворце (Стрельна), резиденции Константиновичей. В 1920 году, после смерти своего внука Александра и до повторного вступления на престол своего сына Константина, исполняла обязанности регента Греции. Скончалась в 1926 году. Первоначально тело было захоронено в крипте православной церкви Рождества Христова и Николая Чудотворца во Флоренции (Греческий Королевский Дом использовал одно из помещений крипты в качестве усыпальницы для монархов-изгнанников). В 1936 году, после восстановления монархии в Греции, состоялось перезахоронение останков королевы Ольги в Татое — усадьбе греческих королей в окрестностях Афин.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">オリガ・コンスタンチノヴナ（ロシア語: Ольга Константиновна, 1851年9月3日 - 1926年6月18日）は、ギリシャ王ゲオルギオス1世の王妃、ロシア大公女。ギリシャ語名はオルガ（Ελληνικά: Όλγα, ラテン文字転写: Olga）。ロシア皇帝ニコライ1世の次男コンスタンチン大公とその妻であるアレクサンドラ・イオシフォヴナ大公妃の長女として、パヴロフスクで生まれた。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1867</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0027</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Grand_Duke_Konstantin_Nikolayevich_of_Russia" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sherrard</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Wilson</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Campbell</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1p" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1p" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1pp" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1968</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Van der Kiste</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Carabott</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Michael of Greece</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2p" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2p" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2p" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1993</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2004</p:>
+    -->
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Sophia_of_Prussia" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Amalia_of_Oldenburg" />
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1936-11-17</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Holstein-Gottorp-Romanov" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Andrew_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Olga</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <dbp:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-17</dbp:reign>
+    <dbp:reignType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tenure</dbp:reignType>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Eastern_Orthodox" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Queen_consort_of_the_Hellenes" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_heads_of_state_of_Greece" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Greek_royal_consorts" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-27</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alexandra_of_Saxe-Altenburg">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Olga_Constantinovna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Konstantinovna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Konstantinova_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_I_of_Greece">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I_of_Greece">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Andrew_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amalia_of_Oldenburg">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Oldenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Olga_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Olga_Constantinovna_of_Russia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+  </rdf:Description>
+</rdf:RDF>

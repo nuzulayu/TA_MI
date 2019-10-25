@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_of_Greece">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Eugénie_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Marie_Bonaparte">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdfs:label xml:lang="de">Georg von Griechenland</rdfs:label>
+    <rdfs:label xml:lang="fr">Georges de Grèce</rdfs:label>
+    <rdfs:label xml:lang="pl">Jerzy (książę grecki)</rdfs:label>
+    <rdfs:label xml:lang="zh">乔治王子 (希腊)</rdfs:label>
+    <rdfs:label xml:lang="it">Giorgio di Grecia</rdfs:label>
+    <rdfs:label xml:lang="en">Prince George of Greece and Denmark</rdfs:label>
+    <rdfs:label xml:lang="pt">Jorge da Grécia e Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="es">Jorge de Grecia</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج أمير اليونان والدنمارك</rdfs:label>
+    <rdfs:label xml:lang="ja">ゲオルギオス (ギリシャ王子)</rdfs:label>
+    <rdfs:label xml:lang="ru">Георг, граф Корфский</rdfs:label>
+    <rdfs:comment xml:lang="ja">ゲオルギオス・ティス・エラザス （ギリシャ語表記:Γεώργιος της Ελλάδας、1869年6月24日　- 1957年11月25日）は、ギリシャ王国の王族。 ゲオルギオス1世とその王妃オルガの次男として、ケルキラ島で生まれた。1883年以降、父方の叔父でデンマーク海軍提督であったヴァルデマー王子に預けられた。後にゲオルギオスは婚約者に『この時私は父に見捨てられたと感じ、以後は叔父のために大人になったのだ。』と話している。 1891年、ゲオルギオスは従兄であるロシア皇太子ニコライ（のちのニコライ2世）の極東歴訪に同行した。日本でニコライが大津事件に遭遇した際は、彼の救助にあたっている。 1896年、アテネオリンピック開催時、兄コンスタンティノス（のちのコンスタンティノス1世）、弟ニコラオスとともに組織委員会に加わった。 ギリシャ独立後もオスマン帝国領下にあったクレタ島では、ギリシャ復帰を求めて不穏な空気が高まっていた。1898年、列強が介入しクレタ島は半独立国家となり、初代総督にゲオルギオスが選ばれた。しかしギリシャ愛国者は完全併合を求めて活動を続けた。1906年の選挙結果、ゲオルギオスは総督職を解かれ、1908年にクレタは正式にギリシャへ復帰した。 1957年、フランスのサン＝クルーで死去。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جورج أمير اليونان والدنمارك (24 يونيو 1869 - 25 نوفمبر 1957) كان الابن الثاني لجورج الأول ملك اليونان وأولغا كونستانتينوفنا دوقة روسيا.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jorge (Corfu, 24 de junho de 1869 – Saint-Cloud, 25 de novembro de 1957) foi o segundo filho do rei Jorge I da Grécia e sua esposa a grã-duquesa Olga Constantinovna da Rússia. Ele serviu como alto comissário do Estado de Creta durante seu período de transição de independência do Império Otomano e união com o Reino da Grécia.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Георг Греческий и Датский (греч. Γεώργιος της Ελλάδας; 24 июня 1869, Корфу, Греция — 25 ноября 1957, Сен-Клу, Париж) — член греческой королевской семьи, стоявший во главе автономного Крита, (1897). Принц Candia (Принц Острова Крит). Второй сын короля Греции Георга I. В молодости играл достаточно важную политическую и социальную роль в Греции. Георг прошёл курс обучения во флоте Дании и России, активно участвовал в организации Олимпийских игр в Афинах в 1896 году. В 1898—1906 годах принц был правителем Критского государства.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Georges de Grèce (en grec moderne : Γεώργιος της Ελλάδας / Geórgios tis Elládas), prince de Grèce et de Danemark, est né le 24 juin 1869, au palais de Mon Repos, à Corfou, en Grèce, et décédé le 25 novembre 1957 à Saint-Cloud, près de Paris, en France. Amiral de carrière et Haut-commissaire de la Crète autonome entre 1898 et 1906, c&#39;est un membre de la famille royale hellène.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Georg, Prinz von Griechenland und Dänemark - gr. Γεώργιος της Ελλάδας / Geórgios tis Elládas - (* 12. Junijul./ 24. Juni 1869greg. in Mon Repos, Korfu; † 25. November 1957 in Saint-Cloud, Département Hauts-de-Seine) aus dem Haus Schleswig-Holstein-Sonderburg-Glücksburg war ein Mitglied der griechischen Königsfamilie. Zwischen 1898 und 1906 amtierte er als Hochkommissar des Kretischen Staates.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge, príncipe de Grecia y Dinamarca (Corfú, 24 de junio de 1869 – Saint Cloud, 25 de noviembre de 1957), conocido familiarmente como el tío Goggy. Miembro muy querido de la familia real griega, llegó a ser Alto Comisionado de Creta durante el período de transición de la soberanía otomana a su unión con Grecia.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prince George of Greece and Denmark (Greek: Πρίγκιπας Γεώργιος; 24 June 1869 – 25 November 1957) was the second son of George I of Greece and Olga Konstantinovna of Russia, and is remembered chiefly for having once saved the life of the future Emperor of Russia, Nicholas II in 1891 during their visit to Japan together. He served as high commissioner of the Cretan State during its transition towards independence from Ottoman rule and union with Greece.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jerzy książę grecki i duński, hrabia Korfu (gr.: Πρίγκιπας Γεώργιος) z dynastii Oldenburgów-Glücksburgów, (24 czerwca 1869, Korfu – 25 listopada 1957, Saint-Cloud) – syn króla Hellenów Jerzego I i jego małżonki Olgi Konstantinowny Romanowej, mąż sławnej psychoanalityczki Marii Bonaparte, stryj księcia Edynburga, Filipa, polityk grecki.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">乔治王子 (希腊)（Γεώργιος της Ελλάδας；1869年6月24日－1957年11月25日），是希腊人国王乔治一世的次子，石勒苏益格-荷尔斯泰因-索恩德堡-格吕克斯堡王朝的成员，1898年至1906年任克里特高级专员。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_de_Grecia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Georges_de_Grèce" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q170396" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ゲオルギオス_(ギリシャ王子)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_di_Grecia" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jerzy_(książę_grecki)" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πρίγκιπας_Γεώργιος_της_Ελλάδας" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q170396" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04myrs" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/그리스와_덴마크의_왕자_요르요스" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_von_Griechenland" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_da_Grécia_e_Dinamarca" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1013629647" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/France" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Île-de-France_(region)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Saint-Cloud" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1957-11-25</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Corfu" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Greece" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1869-06-24</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1869-6-24</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Corfu" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1869_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_people_of_Danish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hellenic_Navy_admirals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_admirals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:High_Commissioners_of_Crete" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1957_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princes" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1259449</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742384573</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Prince George</foaf:name>
+    <foaf:name xml:lang="en">Prince George of Greece and Denmark</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_George_of_Greece_in_1902,_High_Commissioner_in_Crete.jpg" />
+    <dct:description xml:lang="en">Prince of Greece and Denmark</dct:description>
+    <foaf:givenName xml:lang="en">Georgios</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_George_of_Greece_and_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_George_of_Greece_in_1902,_High_Commissioner_in_Crete.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_George_of_Greece_and_Denmark?oldid=742384573" />
+    <dbo:abstract xml:lang="pt">Jorge (Corfu, 24 de junho de 1869 – Saint-Cloud, 25 de novembro de 1957) foi o segundo filho do rei Jorge I da Grécia e sua esposa a grã-duquesa Olga Constantinovna da Rússia. Ele serviu como alto comissário do Estado de Creta durante seu período de transição de independência do Império Otomano e união com o Reino da Grécia.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ゲオルギオス・ティス・エラザス （ギリシャ語表記:Γεώργιος της Ελλάδας、1869年6月24日　- 1957年11月25日）は、ギリシャ王国の王族。 ゲオルギオス1世とその王妃オルガの次男として、ケルキラ島で生まれた。1883年以降、父方の叔父でデンマーク海軍提督であったヴァルデマー王子に預けられた。後にゲオルギオスは婚約者に『この時私は父に見捨てられたと感じ、以後は叔父のために大人になったのだ。』と話している。 1891年、ゲオルギオスは従兄であるロシア皇太子ニコライ（のちのニコライ2世）の極東歴訪に同行した。日本でニコライが大津事件に遭遇した際は、彼の救助にあたっている。 1896年、アテネオリンピック開催時、兄コンスタンティノス（のちのコンスタンティノス1世）、弟ニコラオスとともに組織委員会に加わった。 ギリシャ独立後もオスマン帝国領下にあったクレタ島では、ギリシャ復帰を求めて不穏な空気が高まっていた。1898年、列強が介入しクレタ島は半独立国家となり、初代総督にゲオルギオスが選ばれた。しかしギリシャ愛国者は完全併合を求めて活動を続けた。1906年の選挙結果、ゲオルギオスは総督職を解かれ、1908年にクレタは正式にギリシャへ復帰した。 1957年、フランスのサン＝クルーで死去。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prince George of Greece and Denmark (Greek: Πρίγκιπας Γεώργιος; 24 June 1869 – 25 November 1957) was the second son of George I of Greece and Olga Konstantinovna of Russia, and is remembered chiefly for having once saved the life of the future Emperor of Russia, Nicholas II in 1891 during their visit to Japan together. He served as high commissioner of the Cretan State during its transition towards independence from Ottoman rule and union with Greece.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg, Prinz von Griechenland und Dänemark - gr. Γεώργιος της Ελλάδας / Geórgios tis Elládas - (* 12. Junijul./ 24. Juni 1869greg. in Mon Repos, Korfu; † 25. November 1957 in Saint-Cloud, Département Hauts-de-Seine) aus dem Haus Schleswig-Holstein-Sonderburg-Glücksburg war ein Mitglied der griechischen Königsfamilie. Zwischen 1898 und 1906 amtierte er als Hochkommissar des Kretischen Staates.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jerzy książę grecki i duński, hrabia Korfu (gr.: Πρίγκιπας Γεώργιος) z dynastii Oldenburgów-Glücksburgów, (24 czerwca 1869, Korfu – 25 listopada 1957, Saint-Cloud) – syn króla Hellenów Jerzego I i jego małżonki Olgi Konstantinowny Romanowej, mąż sławnej psychoanalityczki Marii Bonaparte, stryj księcia Edynburga, Filipa, polityk grecki. Jako młody człowiek Jerzy towarzyszył kuzynowi, carewiczowi Mikołajowi Aleksandrowiczowi w czasie jego podróży po Azji i uratował mu życie w Kyoto, gdy japoński zamachowiec zaatakował go na ulicy mieczem samurajskim.Pierwszy cios zranił Mikołaja w czoło, drugi odparł Jerzy swoją laską. Zamachowiec powiedział później, że chciał poprzez ten spektakularny atak zwrócić uwagę na niedolę samurajów, pozbawionych swych przywilejów poprzez reformy Meiji. Grecja, taka jaka powstała w roku 1820, nie obejmowała swymi granicami Krety, Cypru i okręgu Salonik, które nadal należały do Imperium Osmańskiego. Szczególnie na Krecie, która miała pokaźną większość grecką, wybuchały przez cały XIX wiek powstania niepodległościowe pod hasłem enosis, zjednoczenia z Matką Helladą. W roku 1897 rząd grecki postanowił działać i wysłał na wyspę ekspedycję wojskową, która podjęła walkę z oddziałami sułtana. Obawiając się naruszenia równowagi sił na Bałkanach (Austro-Węgry , Bułgaria i Serbia miały także apetyt na różne terytoria osmańskie), ówczesne mocarstwa Francja, Anglia, Italia i Rosja okupowały Kretę i podzieliły ją na cztery strefy okupacyjne. W roku 1898 wojska sułtańskie opuściły wyspę. Stworzono namiastkę parlamentu z deputowanymi chrześcijańskimi i muzułmańskimi i funkcję Wysokiego Komisarza Krety, którą powierzono księciu Jerzemu. Wyspa pozostawała jednak nadal w składzie Imperium Osmańskiego, co nie zadowalało skrajnych nacjonalistów, którym przewodził Eleftherios Venizelos. Venizelos, zacięty wróg monarchii greckiej, przyjął początkowo funkcję ministra sprawiedliwości w rządzie stworzonym przez Jerzego, ale drogi ich wkrótce się rozeszły: monarchista i rojalista Jerzy dążył do wprowadzenia absolutyzmu i obwołania Krety niepodległym królestwem pod własnym berłem, Venizelos pragnął republiki i połączenia się z Grecją. W roku 1905 Venizelos wszczął powstanie republikańskie w okolicach dawnej stolicy Kandii, które Jerzemu udało się stłumić za pomocą stworzonej przez siebie Żandarmerii Kreteńskiej. W roku 1906 w przeprowadzonych na wyspie wyborach Jerzy i jego zwolennicy uzyskali 38 127 głosów, a partia Venizelosa 33 279. Mimo uzyskania nieznacznej większości dla koncepcji Jerzego społeczeństwo było zatem podzielone prawie po połowie i spory nie ustawały. Na koniec zadziałała dyplomacja brytyjska: w r. 1906 księcia Jerzego odwołano ze stanowiska Wysokiego Komisarza, które przejął były grecki premier Aleksandros Zaimis, bardziej ugodowy wobec Venizelosa. W roku 1908 kreteńskie Zgromadzenie Narodowe ogłosiło enosis z Grecją. W roku 1907 książę Jerzy ożenił się z księżniczką Marią Bonaparte, jedyną córką księcia Rolanda Bonapartego, ostatniego przedstawiciela gałęzi rodu pochodzącej od Lucjana, brata Napoleona. Choć małżeństwo nie było zbyt szczęśliwe – Maria miała wielu kochanków, m.in. Aristide Brianda czy psychoanalityka Rudolfa Loewensteina – para pozostała ze sobą do końca życia i miała dwoje dzieci, syna i córkę (Piotra i Eugenię). Książę Jerzy zmarł w osiem dni po obchodach swego złotego wesela z Marią w wieku lat 88. Był najdłużej żyjącym członkiem dynastii Oldenburgów swego pokolenia. Uzdrowisko Georgioupoli blisko Chanii otrzymało swą nazwę na jego cześć. Pochowany jest wraz z Marią na cmentarzu królewskim w Tatoi koło Aten.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Georges de Grèce (en grec moderne : Γεώργιος της Ελλάδας / Geórgios tis Elládas), prince de Grèce et de Danemark, est né le 24 juin 1869, au palais de Mon Repos, à Corfou, en Grèce, et décédé le 25 novembre 1957 à Saint-Cloud, près de Paris, en France. Amiral de carrière et Haut-commissaire de la Crète autonome entre 1898 et 1906, c&#39;est un membre de la famille royale hellène. Deuxième fils du roi Georges Ier et de la reine Olga de Grèce, le prince joue, dans sa jeunesse, un rôle politique et social assez important dans son pays. Après avoir suivi, à Copenhague, une formation navale dans la marine et noué une relation amoureuse très étroite avec son oncle, le prince Valdemar de Danemark, Georges accompagne le tsarévitch Nicolas de Russie dans un voyage à travers l&#39;Asie, durant lequel il sauve l&#39;héritier du trône. De retour en Grèce, Georges participe ensuite activement à l’organisation des Jeux olympiques d’Athènes de 1896, avant d&#39;être nommé Haut-commissaire de la Crète autonome entre 1898 et 1906. Mais, opposé à l’homme politique crétois Elefthérios Venizélos, Georges ne parvient pas à réaliser l’énosis et doit renoncer à son poste de gouverneur, ce qu&#39;il considère comme un grave échec personnel. Libéré de toute obligation politique, le prince s’installe en France, où il épouse la richissime Marie Bonaparte, sans pour autant mettre fin à sa liaison avec Valdemar. Pendant la Première Guerre mondiale, Georges profite de sa présence à Paris pour jouer le rôle d’ambassadeur officieux de la Grèce. Il essaie ainsi d&#39;user de ses liens avec l’Entente pour obtenir de larges compensations territoriales pour son pays en échange d&#39;une entrée en guerre aux côtés des Alliés. Cependant, sa médiation est un échec et le roi Constantin Ier de Grèce opte pour une neutralité de plus en plus bienveillante vis-à-vis des puissances centrales. En 1917, le roi des Hellènes est finalement déposé par l&#39;Entente, qui part à la recherche d&#39;un nouveau souverain pour la Grèce. Les liens de Georges et de son épouse avec le président du Conseil français Aristide Briand en font alors de sérieux candidats pour ceindre la couronne. Malgré tout, Georges refuse catégoriquement de trahir son frère et c’est l’un des fils de Constantin qui remplace finalement son père sur le trône. À partir de 1925, la vie du prince est largement bouleversée par la rencontre de Marie Bonaparte avec Sigmund Freud. D&#39;abord opposé à la passion de sa femme pour la psychanalyse, Georges apprend progressivement à apprécier le praticien autrichien, sans toutefois accepter ses idées. En 1939, le prince perd son amant, qui meurt après cinquante-six ans de relation amoureuse. Peu de temps après, il se brouille avec son fils, qui a épousé une roturière divorcée. C&#39;est le début d&#39;une période difficile, qui coïncide avec le déclenchement de la Seconde Guerre mondiale et un long exil en Afrique du Sud (1941-1944). Revenu en Europe à la fin du conflit, Georges passe ses dernières années aux côtés de sa femme, partageant son temps entre l&#39;écriture de ses Mémoires et quelques visites officielles.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge, príncipe de Grecia y Dinamarca (Corfú, 24 de junio de 1869 – Saint Cloud, 25 de noviembre de 1957), conocido familiarmente como el tío Goggy. Miembro muy querido de la familia real griega, llegó a ser Alto Comisionado de Creta durante el período de transición de la soberanía otomana a su unión con Grecia.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">乔治王子 (希腊)（Γεώργιος της Ελλάδας；1869年6月24日－1957年11月25日），是希腊人国王乔治一世的次子，石勒苏益格-荷尔斯泰因-索恩德堡-格吕克斯堡王朝的成员，1898年至1906年任克里特高级专员。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جورج أمير اليونان والدنمارك (24 يونيو 1869 - 25 نوفمبر 1957) كان الابن الثاني لجورج الأول ملك اليونان وأولغا كونستانتينوفنا دوقة روسيا.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Георг Греческий и Датский (греч. Γεώργιος της Ελλάδας; 24 июня 1869, Корфу, Греция — 25 ноября 1957, Сен-Клу, Париж) — член греческой королевской семьи, стоявший во главе автономного Крита, (1897). Принц Candia (Принц Острова Крит). Второй сын короля Греции Георга I. В молодости играл достаточно важную политическую и социальную роль в Греции. Георг прошёл курс обучения во флоте Дании и России, активно участвовал в организации Олимпийских игр в Афинах в 1896 году. В 1898—1906 годах принц был правителем Критского государства. Он выступал против греческого политика Элефтериоса Венизелоса и его идеи Энозиса (присоединения Крита к Греции); потерпев неудачу, принц был вынужден покинуть свой пост, что расценил как личный провал. Оставив политику, Георг уехал во Францию, где женился на Марии Бонапарт. Проживая в Париже, Георг стал исполнять обязанности посла Греции. Во время Первой мировой войны он использовал свою должность, чтобы получить территориальные компенсации для своей страны в обмен на участие Греции в войне на стороне союзников. Однако его усилия были напрасными, так как король Георг предпочёл сохранять нейтралитет. В 1917 году знакомство принца и его жены с Аристидом Брианом сделало Георга кандидатом на греческий трон. Сам принц не особо стремился стать королём, в итоге престол занял один из его племянников. Встреча супруги принца Марии с Зигмундом Фрейдом в 1925 году заметно изменила их жизнь. До самой смерти Георг был официальным представителем Греции во Франции.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Greece" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Marie_Bonaparte" />
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince George in 1902</dbp:caption>
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/HRH" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Schleswig-Holstein-Sonderburg-Glücksburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Eugénie_of_Greece_and_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Peter_of_Greece_and_Denmark" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Royal Highness</dbp:offstyle>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Greek_Orthodox" />
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince George of Greece and Denmark</dbp:royalName>
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HRH Prince George of Greece and Denmark</dbp:titles>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Peter_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cretan_State">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_george_of_greece_and_denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_George_of_Greece_and_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

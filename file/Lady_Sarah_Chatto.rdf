@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah_Chatto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chatto">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Chatto">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah_Chatto">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfWelshDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtBedalesSchool" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109918248" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfMiddlesexUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDaughtersOfBritishEarls" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Offspring110373998" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat21st-centuryEnglishPainters" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtFrancisHollandSchool" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryEnglishPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKensington" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat21st-centuryBritishPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryBritishPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Daughter109992837" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleOffspring110084043" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfCamberwellCollegeOfArts" />
+    <rdfs:label xml:lang="ja">サラ・チャット</rdfs:label>
+    <rdfs:label xml:lang="pt">Sarah Chatto</rdfs:label>
+    <rdfs:label xml:lang="en">Lady Sarah Chatto</rdfs:label>
+    <rdfs:label xml:lang="es">Sarah Chatto</rdfs:label>
+    <rdfs:label xml:lang="pl">Sarah Chatto</rdfs:label>
+    <rdfs:label xml:lang="fr">Sarah Armstrong-Jones</rdfs:label>
+    <rdfs:label xml:lang="nl">Sarah Armstrong-Jones</rdfs:label>
+    <rdfs:comment xml:lang="ja">レディ・サラ・フランシス・エリザベス・チャット（Lady Sarah Frances Elizabeth Chatto, 1964年5月1日 - ）は、アンソニー・アームストロング＝ジョーンズとマーガレット王女の1人目の女子である。イギリス王位継承順位では21番目に当たる。 1994年7月14日にダニエル・チャットと結婚した。サミュエル・チャットとアーサー・チャットを産んでいる。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Sarah Chatto, nascida Sarah Francis Elizabeth Armstrong-Jones (Londres, 1 de maio de 1964) é a única filha da falecida princesa Margarida do Reino Unido, a segunda filha do rei Jorge VI e da rainha Isabel Bowes-Lyon. Ela é a 18° na linha de sucessão ao trono britânico e, ao nascer, era a sétima. Sarah é a única sobrinha da rainha Isabel II. Ela e sua prima, Ana, Princesa Real, foram as únicas netas da rainha-mãe. 
+* Samuel David Benedict Chatto, nascido em 28 de julho de 1996. 
+* Arthur Robert Nathaniel Chatto, nascido em 5 de fevereiro de 1999.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Sarah Frances Elizabeth Armstrong-Jones (Kensington Palace (Londen), 1 mei 1964) is de enige dochter van Antony Armstrong-Jones en Margaret Windsor. Ze is de 21ste (2016) in lijn voor de troonopvolging. Sarah en haar nicht Anne Mountbatten-Windsor waren de enige kleindochters van Elizabeth Bowes-Lyon, de moeder van Koningin Elizabeth II van het Verenigd Koninkrijk. Ze trouwde met Daniel Chatto op 14 juli 1994. Ze hebben samen 2 kinderen: 
+*  Samuel David Benedict Chatto (28 juli 1996) 
+*  Arthur Robert Nathaniel Chatto (5 februari 1999)</rdfs:comment>
+    <rdfs:comment xml:lang="es">Lady Sarah Frances Elizabeth Chatto, nacida Armstrong-Jones (n. 1 de mayo de 1964) es la hija menor del matrimonio de la princesa Margarita, condesa de Snowdon, y Antony Armstrong-Jones, 1.er. conde de Snowdon; ocupa el lugar número veintiuno en la línea de sucesión al trono británico.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Lady Sarah Chatto, née Sarah Armstrong-Jones le 1er mai 1964 au palais de Kensington à Londres, est une artiste-peintre britannique, apparentée à la famille royale.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Lady Sarah Frances Elizabeth Chatto (née Armstrong-Jones; born 1 May 1964) is the only daughter of the 1st Earl of Snowdon and Princess Margaret, Countess of Snowdon, the second daughter of King George VI and Queen Elizabeth. She is 21st in line to succeed her maternal aunt; at the time of her birth, she was seventh in line. She is the only niece of Queen Elizabeth II and the youngest grandchild of King George VI and Queen Elizabeth the Queen Mother.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Lady Sarah Frances Elizabeth Chatto, z domu Armstrong-Jones (ur. 1 maja 1964 w Pałacu Kensington, Londyn) – malarka, córka Antony&#39;ego Armstronga-Jonesa i Małgorzaty Windsor, drugiej córki króla Jerzego VI. Siostrzenica Elżbiety II. 21 w kolejce w sukcesji do tronu brytyjskiego.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Sarah_Chatto" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1040807" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Sarah_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Sarah_Chatto" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/サラ・チャット" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Arthur_Chatto" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1040807" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Sarah_Armstrong-Jones" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027qr7" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Sarah_Chatto" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Sarah_Chatto" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Sarah_Chatto" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4r3k5srVvyQtKTAMr3kPLC3Q" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Lady_Sarah_Chatto" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Samuel_Chatto" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kensington_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1964-5-1</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1964-05-01</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_Welsh_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:21st-century_English_painters" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Kensington" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daughters_of_British_earls" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Armstrong-Jones_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Francis_Holland_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Camberwell_College_of_Arts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Bedales_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1964_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Middlesex_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_English_painters" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431403</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741831073</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Lady Sarah Chatto</foaf:name>
+    <dct:description xml:lang="en">niece of Queen Elizabeth II</dct:description>
+    <foaf:givenName xml:lang="en">Sarah</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Lady_Sarah_Chatto" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Lady_Sarah_Chatto?oldid=741831073" />
+    <dbo:abstract xml:lang="fr">Lady Sarah Chatto, née Sarah Armstrong-Jones le 1er mai 1964 au palais de Kensington à Londres, est une artiste-peintre britannique, apparentée à la famille royale.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">レディ・サラ・フランシス・エリザベス・チャット（Lady Sarah Frances Elizabeth Chatto, 1964年5月1日 - ）は、アンソニー・アームストロング＝ジョーンズとマーガレット王女の1人目の女子である。イギリス王位継承順位では21番目に当たる。 1994年7月14日にダニエル・チャットと結婚した。サミュエル・チャットとアーサー・チャットを産んでいる。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Lady Sarah Frances Elizabeth Chatto (née Armstrong-Jones; born 1 May 1964) is the only daughter of the 1st Earl of Snowdon and Princess Margaret, Countess of Snowdon, the second daughter of King George VI and Queen Elizabeth. She is 21st in line to succeed her maternal aunt; at the time of her birth, she was seventh in line. She is the only niece of Queen Elizabeth II and the youngest grandchild of King George VI and Queen Elizabeth the Queen Mother.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Sarah Frances Elizabeth Armstrong-Jones (Kensington Palace (Londen), 1 mei 1964) is de enige dochter van Antony Armstrong-Jones en Margaret Windsor. Ze is de 21ste (2016) in lijn voor de troonopvolging. Sarah en haar nicht Anne Mountbatten-Windsor waren de enige kleindochters van Elizabeth Bowes-Lyon, de moeder van Koningin Elizabeth II van het Verenigd Koninkrijk. Ze trouwde met Daniel Chatto op 14 juli 1994. Ze hebben samen 2 kinderen: 
+*  Samuel David Benedict Chatto (28 juli 1996) 
+*  Arthur Robert Nathaniel Chatto (5 februari 1999) Sarah heeft op de Camberwell School of Art and Middlesex Polytechnic gezeten en is nu een professioneel schilder. Ze is ook vicepresident van het Koninklijk Ballet.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Lady Sarah Frances Elizabeth Chatto, z domu Armstrong-Jones (ur. 1 maja 1964 w Pałacu Kensington, Londyn) – malarka, córka Antony&#39;ego Armstronga-Jonesa i Małgorzaty Windsor, drugiej córki króla Jerzego VI. Siostrzenica Elżbiety II. 21 w kolejce w sukcesji do tronu brytyjskiego.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Lady Sarah Frances Elizabeth Chatto, nacida Armstrong-Jones (n. 1 de mayo de 1964) es la hija menor del matrimonio de la princesa Margarita, condesa de Snowdon, y Antony Armstrong-Jones, 1.er. conde de Snowdon; ocupa el lugar número veintiuno en la línea de sucesión al trono británico.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Sarah Chatto, nascida Sarah Francis Elizabeth Armstrong-Jones (Londres, 1 de maio de 1964) é a única filha da falecida princesa Margarida do Reino Unido, a segunda filha do rei Jorge VI e da rainha Isabel Bowes-Lyon. Ela é a 18° na linha de sucessão ao trono britânico e, ao nascer, era a sétima. Sarah é a única sobrinha da rainha Isabel II. Ela e sua prima, Ana, Princesa Real, foram as únicas netas da rainha-mãe. Sarah nasceu no Palácio de Kensington, em Londres. Casou-se com Daniel Chatto, filho de ator Tom Chatto e de Ros Chatto em 14 de julho de 1994. A cerimônia foi oficializada pelo reverendo Chad Varah. Juntos, o casal tem dois filhos: 
+* Samuel David Benedict Chatto, nascido em 28 de julho de 1996. 
+* Arthur Robert Nathaniel Chatto, nascido em 5 de fevereiro de 1999. Lady Sarah estudou na Escola de Arte de Camberwell e a Universidade de Middlesex, sendo atualmente uma pintora profissional. Ela também é a vice-presidente do Royal Ballet, um cargo que recebeu em 2004. A princesa Margaret foi uma das patronas do Royal Ballet. Ela e seu único irmão, o Visconde Linley, tem atraído menos atenção da mídia do que seus primos, os filhos da rainha, e a mãe deles interferiu-se muito pouco em sua vida profissional e pessoal; daí o sucesso de ambos em ambas as áreas. A rainha mantém bom contato com Sarah e com Daniel Chatto; eles frequentemente a acompanham em feriados nacionais e são sempre convidados para eventos reais. Eles comumente passam o Natal com a família real em Sandringham House, Norfolk.</dbo:abstract>
+    <dbo:alias xml:lang="en">Sarah Frances Elizabeth Chatto</dbo:alias>
+    <dbo:birthName xml:lang="en">Sarah Frances Elizabeth Armstrong-Jones</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1964</dbo:birthYear>
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto__1" />
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Painting" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret,_Countess_of_Snowdon" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Daniel_Chatto" />
+    <dbp:children rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:children>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_Throne" />
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</dbp:title>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah_Armstrong-Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Chatto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Chatto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Robert_Nathaniel_Chatto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_David_Benedict_Chatto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Sarah-Armstrong_Jones">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Lady_Sarah_Chatto">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Lady_Sarah_Chatto" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanNaziPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHereditaryGrandDukesOfHesse" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictimsOfAviationAccidentsOrIncidentsInBelgium" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdfs:label xml:lang="de">Georg Donatus von Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="es">Jorge Donato de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="pt">Jorge Donatus</rdfs:label>
+    <rdfs:label xml:lang="en">Georg Donatus, Hereditary Grand Duke of Hesse</rdfs:label>
+    <rdfs:label xml:lang="it">Giorgio Donato d&#39;Assia-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="nl">George Donatus van Hessen-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="fr">Georges de Hesse-Darmstadt</rdfs:label>
+    <rdfs:label xml:lang="ja">ゲオルク・ドナトゥス・フォン・ヘッセン＝ダルムシュタット</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج دوناتوس دوق هيس</rdfs:label>
+    <rdfs:label xml:lang="ru">Георг Донатус, наследный принц Гессенский</rdfs:label>
+    <rdfs:label xml:lang="zh">格奥尔格·多纳图斯 (黑森-达姆施塔特)</rdfs:label>
+    <rdfs:comment xml:lang="nl">George Donatus Willem Nicolaas Eduard Hendrik Karel (Darmstadt, 8 november 1906 – Oostende, 16 november 1937) was een groothertog van Hessen en aan de Rijn. Hij was de oudste zoon van Ernst Lodewijk van Hessen-Darmstadt en diens echtgenote Eleonore van Solms-Hohensolms-Lich. Zelf trouwde hij op 2 februari 1931 in Darmstadt met Cecilia van Griekenland en Denemarken, een zuster van de Engelse prins-gemaal Philip Mountbatten. Zij kregen drie kinderen: 
+* Lodewijk Ernst (1931-1937) 
+* Alexander George (1933-1937) 
+* Johanna (1936-1939)</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jorge Donatus, Grão-duque herdeiro de Hesse (8 de novembro de 1906 - 16 de novembro de 1937) foi o primeiro filho do segundo casamento do grão-duque Ernesto Luís de Hesse com a princesa Leonor de Solms-Hohensolms-Lich. O seu nome completo era Jorge Donatus Guilherme Nicolau Eduardo Henrique Carlos. O nome de &quot;Nicolau&quot; foi-lhe dado em honra do seu tio, o czar Nicolau II da Rússia.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (نوفمبر 2015) ولد جورج ويلهلم دوناتوس نيكولاس ادوارد هاينريش كارل في 8 نوفمبر 1906 بألمانيا وتوفي في 16 نوفمبر 1937 في حادث تحطم طائرة.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Georges Donatus de Hesse-Darmstadt, (en allemand Georg Donatus von Hessen-Darmstadt), né le 8 novembre 1906, mort accidentellement le 16 novembre 1937 à Ostende sur le vol de la Sabena OO-AUB.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Georg Donatus, Hereditary Grand Duke of Hesse (Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl, 8 November 1906 – 16 November 1937) was the first child of Ernest Louis, Grand Duke of Hesse and Princess Eleonore of Solms-Hohensolms-Lich.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl, Erbgroßherzog von Hessen und bei Rhein (* 8. November 1906 in Darmstadt; † 16. November 1937 in Steene, bei Ostende, Belgien) war der älteste Sohn des letzten regierenden Großherzogs Ernst Ludwig von Hessen und bei Rhein und dessen zweiter Gemahlin Eleonore zu Solms-Hohensolms-Lich. Kurz nach dem Tod des Vaters kam er mit fast seiner gesamten Familie bei einem Flugzeugabsturz ums Leben.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge Donato de Hesse-Darmstadt, heredero del título Gran Duque de Hesse-Darmstadt (Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl, 8 de noviembre de 1906 - 16 de noviembre de 1937), fue el hijo mayor de Ernesto Luis de Hesse-Darmstadt, quien fuera el último gran duque de Hesse-Darmstadt, y de Leonor de Solms-Hohensolms-Lich.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ゲオルク・ドナトゥス・フォン・ヘッセン＝ダルムシュタット（ドイツ語: Georg Donatus von Hessen-Darmstadt, 1906年11月8日 - 1937年11月16日）は、ドイツ・ヘッセン大公国の大公世子、およびヘッセン大公家家長（1937年）。全名はゲオルク・ドナトゥス・ヴィルヘルム・ニコラウス・エドゥアルト・ハインリヒ・カール（Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl）。 ゲオルク・ドナトゥスはヘッセン大公エルンスト・ルートヴィヒとその2番目の妻でゾルムス＝ホーエンゾルムス＝リッヒ侯ヘルマンの娘であるエレオノーレの間に長男として生まれた。ゲオルクは1931年2月2日にギリシャ王子アンドレオスの娘セシリアと結婚し、間に2男1女をもうけた。ゲオルク・ドナトゥスは1937年5月1日に妻と一緒にナチス党に入党した。 飛行機事故で亡くなったヘッセン大公家の5人の遺骸は、ダルムシュタットのローゼンヘーエ公園（Park Rosenhöhe）にあるエルンスト・ルートヴィヒ大公の墓所の隣に埋葬された。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">格奥尔格·多纳图斯·威廉·尼库劳斯·爱德华·亨利·卡尔（GEORG DONATUS Wilhelm Nikolaus Eduard Heinrich Karl，1906年11月8日－1937年11月16日），黑森和莱茵河畔大公国大公世子，黑森家族达姆施塔特支首领。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Георг Донатус, принц Гессенский (полное имя: Георг Донатус Вильгельм Николай Эдуард Генрих Карл, нем. Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl Erbgroßherzog von Hessen und bei Rhein; 8 ноября 1906 — 16 ноября 1937) — наследный Великий герцог Гессенский и Рейнский.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q60737" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fl6dj" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_Donatus" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Georges_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q60737" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/125012721" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_Donato_de_Hesse-Darmstadt" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_Donatus_von_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_Donato_d&#39;Assia-Darmstadt" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_Donatus_van_Hessen-Darmstadt" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ゲオルク・ドナトゥス・フォン・ヘッセン＝ダルムシュタット" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ostend" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Belgium" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-16</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-11-8</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-11-08</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heirs_apparent_who_never_acceded" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_aviation_accidents_or_incidents_in_Belgium" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hesse-Darmstadt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1937_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hereditary_Grand_Dukes_of_Hesse" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Mausoleum_for_the_Grand_Ducal_House_of_Hesse,_Rosenhöhe_(Darmstadt)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1906_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6026394</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743041954</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Georg Donatus</foaf:name>
+    <foaf:name xml:lang="en">Georg Donatus, Hereditary Grand Duke of Hesse</foaf:name>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/GeorgdonatusHD.jpg" />
+    <dct:description xml:lang="en">German noble</dct:description>
+    <foaf:givenName xml:lang="en">Georg</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/GeorgdonatusHD.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse?oldid=743041954" />
+    <dbo:abstract xml:lang="pt">Jorge Donatus, Grão-duque herdeiro de Hesse (8 de novembro de 1906 - 16 de novembro de 1937) foi o primeiro filho do segundo casamento do grão-duque Ernesto Luís de Hesse com a princesa Leonor de Solms-Hohensolms-Lich. O seu nome completo era Jorge Donatus Guilherme Nicolau Eduardo Henrique Carlos. O nome de &quot;Nicolau&quot; foi-lhe dado em honra do seu tio, o czar Nicolau II da Rússia.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (نوفمبر 2015) ولد جورج ويلهلم دوناتوس نيكولاس ادوارد هاينريش كارل في 8 نوفمبر 1906 بألمانيا وتوفي في 16 نوفمبر 1937 في حادث تحطم طائرة.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Georg Donatus, Hereditary Grand Duke of Hesse (Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl, 8 November 1906 – 16 November 1937) was the first child of Ernest Louis, Grand Duke of Hesse and Princess Eleonore of Solms-Hohensolms-Lich.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ゲオルク・ドナトゥス・フォン・ヘッセン＝ダルムシュタット（ドイツ語: Georg Donatus von Hessen-Darmstadt, 1906年11月8日 - 1937年11月16日）は、ドイツ・ヘッセン大公国の大公世子、およびヘッセン大公家家長（1937年）。全名はゲオルク・ドナトゥス・ヴィルヘルム・ニコラウス・エドゥアルト・ハインリヒ・カール（Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl）。 ゲオルク・ドナトゥスはヘッセン大公エルンスト・ルートヴィヒとその2番目の妻でゾルムス＝ホーエンゾルムス＝リッヒ侯ヘルマンの娘であるエレオノーレの間に長男として生まれた。ゲオルクは1931年2月2日にギリシャ王子アンドレオスの娘セシリアと結婚し、間に2男1女をもうけた。ゲオルク・ドナトゥスは1937年5月1日に妻と一緒にナチス党に入党した。 1937年10月9日に父エルンスト・ルートヴィヒが死ぬと、ゲオルク・ドナトゥスはヘッセン大公家家長となった。その1ヶ月後の11月16日、弟ルートヴィヒのロンドンでの結婚式に出席するため、ゲオルク・ドナトゥスは母と妻と二人の息子、子供たちの乳母、家族の友人とともにダルムシュタットで飛行機に搭乗した。ところが飛行機はオーステンデ近郊のステーンにある工場の煙突に激突して墜落、乗客乗員全員が死亡した。ゲオルク・ドナトゥスの子供のうち末娘のヨハンナだけは飛行機に搭乗しなかったため助かったが、1939年には髄膜炎のために2歳で死亡している。 飛行機事故で亡くなったヘッセン大公家の5人の遺骸は、ダルムシュタットのローゼンヘーエ公園（Park Rosenhöhe）にあるエルンスト・ルートヴィヒ大公の墓所の隣に埋葬された。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">格奥尔格·多纳图斯·威廉·尼库劳斯·爱德华·亨利·卡尔（GEORG DONATUS Wilhelm Nikolaus Eduard Heinrich Karl，1906年11月8日－1937年11月16日），黑森和莱茵河畔大公国大公世子，黑森家族达姆施塔特支首领。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Георг Донатус, принц Гессенский (полное имя: Георг Донатус Вильгельм Николай Эдуард Генрих Карл, нем. Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl Erbgroßherzog von Hessen und bei Rhein; 8 ноября 1906 — 16 ноября 1937) — наследный Великий герцог Гессенский и Рейнский.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl, Erbgroßherzog von Hessen und bei Rhein (* 8. November 1906 in Darmstadt; † 16. November 1937 in Steene, bei Ostende, Belgien) war der älteste Sohn des letzten regierenden Großherzogs Ernst Ludwig von Hessen und bei Rhein und dessen zweiter Gemahlin Eleonore zu Solms-Hohensolms-Lich. Kurz nach dem Tod des Vaters kam er mit fast seiner gesamten Familie bei einem Flugzeugabsturz ums Leben.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">George Donatus Willem Nicolaas Eduard Hendrik Karel (Darmstadt, 8 november 1906 – Oostende, 16 november 1937) was een groothertog van Hessen en aan de Rijn. Hij was de oudste zoon van Ernst Lodewijk van Hessen-Darmstadt en diens echtgenote Eleonore van Solms-Hohensolms-Lich. Zelf trouwde hij op 2 februari 1931 in Darmstadt met Cecilia van Griekenland en Denemarken, een zuster van de Engelse prins-gemaal Philip Mountbatten. Zij kregen drie kinderen: 
+* Lodewijk Ernst (1931-1937) 
+* Alexander George (1933-1937) 
+* Johanna (1936-1939) In oktober 1937 overleed zijn vader. George Donatus volgde hem op als titulair groothertog. Even daarvoor waren George en zijn vrouw lid geworden van de NSDAP. Een maand later vertrok hij met zijn vrouw en twee zoons en met zijn moeder naar Londen, om daar het huwelijk bij te wonen van zijn jongere broer Lodewijk. Het Sabena-toestel waarmee zij reisden verongelukte evenwel bij Oostende. Zijn jongere broer adopteerde vervolgens zijn overlevende dochtertje, dat evenwel twee jaar later overleed aan de gevolgen van een hersenvliesontsteking.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge Donato de Hesse-Darmstadt, heredero del título Gran Duque de Hesse-Darmstadt (Georg Donatus Wilhelm Nikolaus Eduard Heinrich Karl, 8 de noviembre de 1906 - 16 de noviembre de 1937), fue el hijo mayor de Ernesto Luis de Hesse-Darmstadt, quien fuera el último gran duque de Hesse-Darmstadt, y de Leonor de Solms-Hohensolms-Lich.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Georges Donatus de Hesse-Darmstadt, (en allemand Georg Donatus von Hessen-Darmstadt), né le 8 novembre 1906, mort accidentellement le 16 novembre 1937 à Ostende sur le vol de la Sabena OO-AUB.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_Louis,_Grand_Duke_of_Hesse" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Eleonore_of_Solms-Hohensolms-Lich" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Darmstadt" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark" />
+    <dbo:title xml:lang="en">Hereditary Grand Duke of Hesse</dbo:title>
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Grand_Duchy_of_Hesse" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Stillborn son</dbp:issue>
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Grand Dukedom abolished in 1918</dbp:reason>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Grand_Duke_of_Hesse_and_by_Rhine" />
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1937</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alexander_of_Hesse_and_by_Rhine_(1933–1937)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Ludwig_of_Hesse_and_by_Rhine">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Johanna_of_Hesse_and_by_Rhine">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Cecilie_of_Greece_and_Denmark">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Eleonore_of_Solms-Hohensolms-Lich">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Georg_Donatus,_Hereditary_Grand_Duke_of_Hesse" />
+  </rdf:Description>
+</rdf:RDF>

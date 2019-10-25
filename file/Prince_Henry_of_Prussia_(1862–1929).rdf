@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Wilhelm_Heinrich_of_Prussia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Heinrich_of_Prussia_(1862–1929)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862-1929)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_of_Prussia">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatImperialGermanNavyAdmirals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBerlin" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheHouseOrderOfTheGoldenLion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromTheProvinceOfBrandenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheRoyalOrderOfTheSeraphim" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FlagOfficer110094584" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfChrist(papacy)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Admiral109771204" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfSaintJohn(BailiwickOfBrandenburg)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalNavyAdmiralsOfTheFleet" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfSaintHubert" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAustro-HungarianNavyOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheHouseOrderOfHohenzollern" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrussianPrinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdfs:label xml:lang="es">Enrique de Prusia (1862-1929)</rdfs:label>
+    <rdfs:label xml:lang="pt">Henrique da Prússia</rdfs:label>
+    <rdfs:label xml:lang="it">Enrico di Prussia</rdfs:label>
+    <rdfs:label xml:lang="de">Heinrich von Preußen (1862–1929)</rdfs:label>
+    <rdfs:label xml:lang="pl">Henryk Hohenzollern</rdfs:label>
+    <rdfs:label xml:lang="ru">Генрих Прусский (1862—1929)</rdfs:label>
+    <rdfs:label xml:lang="fr">Henri de Prusse (1862-1929)</rdfs:label>
+    <rdfs:label xml:lang="en">Prince Henry of Prussia (1862–1929)</rdfs:label>
+    <rdfs:label xml:lang="nl">Hendrik van Pruisen (1862-1929)</rdfs:label>
+    <rdfs:label xml:lang="zh">阿尔贝特·威廉·海因里希 (普鲁士)</rdfs:label>
+    <rdfs:label xml:lang="ja">ハインリヒ・フォン・プロイセン (1862-1929)</rdfs:label>
+    <rdfs:comment xml:lang="fr">Albert Guillaume Henri de Prusse, prince de Prusse et d’Allemagne, est né le 14 août 1862 à Berlin et est décédé le 20 avril 1929 au manoir de Hemmelmark. Fils de l&#39;empereur Frédéric III d&#39;Allemagne et de la princesse Victoria du Royaume-Uni, il est de trois ans le frère cadet du Kaiser Guillaume II. Il est commandant en chef de la flotte de la Baltique pendant la Première Guerre mondiale. Il demeura au château de Kiel entre 1888 et 1918.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Enrique de Prusia (Alberto Guillermo Enrique; Berlín, 14 de agosto de 1862 - Hemmelmark, 20 de abril de 1929), conocido como &quot;Henry&quot;, era el hermano menor del Emperador Guillermo II de Alemania. Hizo carrera de oficial de marina, ocupando diversos comandos de la Armada Imperial Alemana y, finalmente, fue ascendido al grado de Gran Almirante.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Albert Wilhelm Heinrich von Preußen (* 14. August 1862 in Potsdam; † 20. April 1929 in Hemmelmark, Schleswig-Holstein) war Großadmiral der Kaiserlichen Marine und Bruder Kaiser Wilhelms II.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prinz Albert Wilhelm Heinrich von Preußen or Prince Henry of Prussia, Generalinspekteur der Marine (born Albert Wilhelm Heinrich, 14 August 1862 – 20 April 1929) was a younger brother of German Emperor William II and a Prince of Prussia. He was also a grandson of Queen Victoria. A career naval officer, he held various commands in the Imperial German Navy and eventually rose to the rank of Grand Admiral.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ハインリヒ・フォン・プロイセン（ドイツ語: Heinrich von Preußen, 1862年8月14日 - 1929年4月20日）は、プロイセン王国の王族・軍人。全名はアルベルト・ヴィルヘルム・ハインリヒ（Albert Wilhelm Heinrich）だが、もっぱらハインリヒと呼ばれる。フリードリヒ3世の次男で、ヴィルヘルム2世の弟。ドイツ帝国海軍で司令官として軍歴を積み、最終的には海軍元帥に任じられた。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Albert Willem Hendrik (14 augustus 1862 - 20 april 1929), Prins van Pruisen, was de jongste zoon van de Duitse keizer Frederik III en diens vrouw Victoria. Hij was de broer van de latere Duitse keizer Wilhelm II en een kleinzoon van de Britse koningin Victoria. Hendrik trouwde op 24 mei 1888 met Irene van Hessen en aan de Rijn. Het paar kreeg drie kinderen: Hendrik had weinig gemeen met zijn broer Wilhelm. Hij had niet de geldingsdrang van de laatste Duitse keizer. Hij was in Noord-Duitsland zeer geliefd, vanwege zijn bescheidenheid en ook onder zijn soldaten genoot hij een grote populariteit.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Генрих Альберт Вильгельм, принц Прусский (нем. Heinrich Albert Wilhelm Prinz von Preußen; 14 августа 1862, Потсдам — 20 апреля 1929, Шлезвиг-Гольштейн— сын императора Германии Фридриха III и Виктории Великобританской, единственный выживший брат германского императора Вильгельма II (двое других умерли в детстве), гросс-адмирал (4 сентября 1909).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">阿尔贝特·威廉·海因里希（Albert Wilhelm Heinrich；1862年8月14日－1929年4月20日），经常称为海因里希亲王（Prinz Heinrich），德国将领。 阿尔贝特·威廉·海因里希是德国皇帝腓特烈三世的第三个孩子，威廉二世皇帝的弟弟，生于柏林。他的母亲是英国维多利亚长公主（即维多利亚女王的长女）。 西元1878年~1880年，海因里希亲王进行了一次环球旅行。1882年~1884年和1903年，他又两度访问美国。1914年他访问了南美洲。由于他的社交技巧，海因里希亲王在所有访问过的地方都受到公众的欢迎。 西元1880年海因里希进入德国海军服役，並很快获得晋升，1901年時已被提升为海军上将。1906年，海因里希亲王被任命为现役战列舰舰队司令。他也获得了陆军元帅的军衔。在1914年第一次世界大战爆发后，海因里希成为波罗的海舰队的最高指挥官。在俄国退出大战之后，波罗的海舰队失去任务，海因里希结束了他的军旅生涯。 西元1888年他和黑森-莱茵大公路德维希四世的三女伊莲妮（西元1866年-1953年）结婚，育有三子。在伊莲妮的开导下，他决定不再像大哥威廉和大姐夏洛特一样敌视母亲，母子终于和解了。 在德国于一战中失败、君主制被推翻后，海因里希亲王携家人到石勒苏益格-荷尔斯泰因隐居。他在那里度过了晚年，和父亲一样死于喉癌。享年66岁。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alberto Guilherme Henrique (Berlim, 14 de agosto de 1862 – Hemmelmark, 20 de abril de 1929) foi o terceiro filho, o segundo menino, do imperador Frederico III da Alemanha e sua esposa Vitória, Princesa Real. Era o irmão mais novo do imperador Guilherme II e também neto da rainha Vitória do Reino Unido. Henrique seguiu uma carreira militar na Marinha Imperial da Alemanha e eventualmente alcançou a patente de grande almirante.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Albrecht Wilhelm Henryk (ur. 14 sierpnia 1862 w Poczdamie, zm. 20 kwietnia 1929 w Hemmelmark) – książę Prus z dynastii Hohenzollernów, Grossadmiral.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Hendrik_van_Pruisen_(1862-1929)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Enrico_di_Prussia" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q57569" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57569" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Pangeran_Henry_dari_Prusia_(1862–1929)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Enrique_de_Prusia_(1862-1929)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0hhvlvb" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/하인리히_폰_프로이센_왕자" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Heinrich_von_Preußen_(1862–1929)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Henryk_Hohenzollern" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Henri_de_Prusse_(1862-1929)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118709798" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Henrique_da_Prússia" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ハインリヒ・フォン・プロイセン_(1862-1929)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:deathPlace rdf:resource="http://wikidata.dbpedia.org/resource/Q881820" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schloss_Hemmelmark" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schleswig-Holstein" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Barkelsby" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-04-20</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-4-20</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kronprinzenpalais" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Berlin" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Prussia" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1862-08-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1862-8-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Rue_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_military_personnel_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Naval_aviators" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Crown_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_House_Order_of_Hohenzollern,_Honor_Cross" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Saxe-Ernestine_House_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_Saint_Hubert" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Order_of_Kalākaua" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1862_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Zähringer_Lion" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_Christ_(papacy)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Double_Dragon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Star_of_Romania" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_Order_of_the_Wendish_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_and_Merit_Order_of_Peter_Frederick_Louis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Berthold_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Fidelity" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_House_Order_of_the_Golden_Lion" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_admirals_of_the_Imperial_German_Navy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Christ_(Portugal)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_expatriates_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Ludwigsorden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1929_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_White_Eagle_(Serbia)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_White_Falcon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Berlin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Province_of_Brandenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Red_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_esophageal_cancer" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prussian_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Tower_and_Sword" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Albert_the_Bear" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_cancer_in_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_Naval_Merit" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_House_Order_of_Hohenzollern" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Pour_le_Mérite_(military_class)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Colonel_generals_of_Prussia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Christ_(Brazil)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_Saint_Joseph" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1392120</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743067884</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Prince Henry of Prussia</foaf:name>
+    <foaf:name xml:lang="en">Prince Henry</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Albert_Wilhelm_Heinrich_of_Prussia.jpg" />
+    <dct:description xml:lang="en">Prussian prince and admiral (1862-1929)</dct:description>
+    <foaf:givenName xml:lang="en">Henri</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Prince_Henry_of_Prussia_(1862–1929)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Albert_Wilhelm_Heinrich_of_Prussia.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Prince_Henry_of_Prussia_(1862–1929)?oldid=743067884" />
+    <dbo:abstract xml:lang="ru">Генрих Альберт Вильгельм, принц Прусский (нем. Heinrich Albert Wilhelm Prinz von Preußen; 14 августа 1862, Потсдам — 20 апреля 1929, Шлезвиг-Гольштейн— сын императора Германии Фридриха III и Виктории Великобританской, единственный выживший брат германского императора Вильгельма II (двое других умерли в детстве), гросс-адмирал (4 сентября 1909).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alberto Guilherme Henrique (Berlim, 14 de agosto de 1862 – Hemmelmark, 20 de abril de 1929) foi o terceiro filho, o segundo menino, do imperador Frederico III da Alemanha e sua esposa Vitória, Princesa Real. Era o irmão mais novo do imperador Guilherme II e também neto da rainha Vitória do Reino Unido. Henrique seguiu uma carreira militar na Marinha Imperial da Alemanha e eventualmente alcançou a patente de grande almirante.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Albrecht Wilhelm Henryk (ur. 14 sierpnia 1862 w Poczdamie, zm. 20 kwietnia 1929 w Hemmelmark) – książę Prus z dynastii Hohenzollernów, Grossadmiral.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ハインリヒ・フォン・プロイセン（ドイツ語: Heinrich von Preußen, 1862年8月14日 - 1929年4月20日）は、プロイセン王国の王族・軍人。全名はアルベルト・ヴィルヘルム・ハインリヒ（Albert Wilhelm Heinrich）だが、もっぱらハインリヒと呼ばれる。フリードリヒ3世の次男で、ヴィルヘルム2世の弟。ドイツ帝国海軍で司令官として軍歴を積み、最終的には海軍元帥に任じられた。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prinz Albert Wilhelm Heinrich von Preußen or Prince Henry of Prussia, Generalinspekteur der Marine (born Albert Wilhelm Heinrich, 14 August 1862 – 20 April 1929) was a younger brother of German Emperor William II and a Prince of Prussia. He was also a grandson of Queen Victoria. A career naval officer, he held various commands in the Imperial German Navy and eventually rose to the rank of Grand Admiral.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Albert Willem Hendrik (14 augustus 1862 - 20 april 1929), Prins van Pruisen, was de jongste zoon van de Duitse keizer Frederik III en diens vrouw Victoria. Hij was de broer van de latere Duitse keizer Wilhelm II en een kleinzoon van de Britse koningin Victoria. Hendrik trouwde op 24 mei 1888 met Irene van Hessen en aan de Rijn. Het paar kreeg drie kinderen: 
+*  Waldemar Wilhelm Ludwig Friedrich Viktor Heinrich (20 maart 1889 – 2 mei 1945) 
+*  Wilhelm Viktor Karl August Heinrich Sigismund (27 november 1896 – 14 november 1978) 
+*  Barbara Irene Adelheid Viktoria Elisabeth Bathildis (1920-1994) 
+*  Donata (1956) 
+*  Thyra (1989) 
+*  Alix (1992) 
+*  Niklot Alexis (1994) 
+*  Edwina (1960) 
+*  Ludwig Leopold Bernhard Georg Maria (1996) 
+*  Paul Friedrich Christian Fabian Maria (1997) 
+*  Ferdinand Johann Albrecht Maria (1999) 
+*  Alfred Friedrich Ernst Heinrich Conrad (1924-2013) 
+*  Heinrich Viktor Ludwig Friedrich (9 januari 1900 – 26 februari 1904) Hendrik bezocht eerst het gymnasium in Kassel en trad in 1877 als vijftienjarige toe tot de Kaiserliche Marine. Vanaf 1887 stonden verschillende schepen onder zijn commando. In 1900 stond hij aan het hoofd van de Duitse vloot die betrokken was bij de onlusten in de Zuid-Chinese Zee. Onder zijn leiding veroverde de vloot de havenstad Kiautschou. Bij het begin van de Eerste Wereldoorlog werd hij door zijn broer benoemd tot opperbevelhebber van de Oostzee. Hij slaagde erin om de Russische vloot in het defensief te dringen en voorkwam verschillende aanvalspogingen op de Duitse kust. Na het einde van de oorlog, die ook het einde van de monarchie betekende, trok Hendrik zich terug uit de marine. Hendrik had weinig gemeen met zijn broer Wilhelm. Hij had niet de geldingsdrang van de laatste Duitse keizer. Hij was in Noord-Duitsland zeer geliefd, vanwege zijn bescheidenheid en ook onder zijn soldaten genoot hij een grote populariteit. Na 1918 trokken Hendrik en zijn familie zich terug op hun landgoed Hemmelmarck. Daar legde de prins zich toe op zeilen en autoracen. Hij was een verdienstelijk wedstrijdzeiler. Hendrik overleed, net als zijn vader, aan keelkanker.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Albert Wilhelm Heinrich von Preußen (* 14. August 1862 in Potsdam; † 20. April 1929 in Hemmelmark, Schleswig-Holstein) war Großadmiral der Kaiserlichen Marine und Bruder Kaiser Wilhelms II.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Albert Guillaume Henri de Prusse, prince de Prusse et d’Allemagne, est né le 14 août 1862 à Berlin et est décédé le 20 avril 1929 au manoir de Hemmelmark. Fils de l&#39;empereur Frédéric III d&#39;Allemagne et de la princesse Victoria du Royaume-Uni, il est de trois ans le frère cadet du Kaiser Guillaume II. En juillet 1914, il effectue une visite officieuse en Grande-Bretagne pour y sonder son cousin, le roi George V sur l&#39;attitude à attendre du Royaume-Uni en cas de guerre européenne : le Cabinet étant divisé à ce moment, le roi lui répondit que son gouvernement ferait tout pour rester en dehors du conflit ; cette réponse dilatoire fut mal interprétée à Berlin et compte parmi les causes de la Première Guerre Mondiale. Il est commandant en chef de la flotte de la Baltique pendant la Première Guerre mondiale. Il demeura au château de Kiel entre 1888 et 1918.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Enrique de Prusia (Alberto Guillermo Enrique; Berlín, 14 de agosto de 1862 - Hemmelmark, 20 de abril de 1929), conocido como &quot;Henry&quot;, era el hermano menor del Emperador Guillermo II de Alemania. Hizo carrera de oficial de marina, ocupando diversos comandos de la Armada Imperial Alemana y, finalmente, fue ascendido al grado de Gran Almirante.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">阿尔贝特·威廉·海因里希（Albert Wilhelm Heinrich；1862年8月14日－1929年4月20日），经常称为海因里希亲王（Prinz Heinrich），德国将领。 阿尔贝特·威廉·海因里希是德国皇帝腓特烈三世的第三个孩子，威廉二世皇帝的弟弟，生于柏林。他的母亲是英国维多利亚长公主（即维多利亚女王的长女）。 西元1878年~1880年，海因里希亲王进行了一次环球旅行。1882年~1884年和1903年，他又两度访问美国。1914年他访问了南美洲。由于他的社交技巧，海因里希亲王在所有访问过的地方都受到公众的欢迎。 西元1880年海因里希进入德国海军服役，並很快获得晋升，1901年時已被提升为海军上将。1906年，海因里希亲王被任命为现役战列舰舰队司令。他也获得了陆军元帅的军衔。在1914年第一次世界大战爆发后，海因里希成为波罗的海舰队的最高指挥官。在俄国退出大战之后，波罗的海舰队失去任务，海因里希结束了他的军旅生涯。 西元1888年他和黑森-莱茵大公路德维希四世的三女伊莲妮（西元1866年-1953年）结婚，育有三子。在伊莲妮的开导下，他决定不再像大哥威廉和大姐夏洛特一样敌视母亲，母子终于和解了。 在德国于一战中失败、君主制被推翻后，海因里希亲王携家人到石勒苏益格-荷尔斯泰因隐居。他在那里度过了晚年，和父亲一样死于喉癌。享年66岁。</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_III,_German_Emperor" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Victoria,_Princess_Royal" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Barkelsby" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/House_Hemmelmark" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Schleswig-Holstein" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Irene_of_Hesse_and_by_Rhine" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Henning_von_Holtzendorff" />
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">new post</dbp:before>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Commander-in-Chief of High Seas Fleet of the Imperial German Navy</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1907</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1900–1904)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Waldemar_of_Prussia_(1889–1945)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/High_Seas_Fleet">
+    <dbo:notableCommander rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Irene_of_Hesse_and_by_Rhine">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich,_Prince_of_Prussia_(1862-1929)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Wilhelm_Heinrich_of_Prussia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Sigismund_of_Prussia_(1896–1978)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria,_Princess_Royal">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henning_von_Holtzendorff">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Henry_of_Prussia">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Heinrich">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_heinrich_of_prussia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Prince_Henry_of_Prussia_(1862–1929)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Heinrich_of_Prussia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Heinrich_of_Prussia_(1862-1929)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Prince_Henry_of_Prussia_(1862–1929)" />
+  </rdf:Description>
+</rdf:RDF>

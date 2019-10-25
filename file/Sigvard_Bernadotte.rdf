@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marianne_Bernadotte">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Sigvard,_Duke_of_Uplandia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Sigvard_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Count_Sigvard_Bernadotte_of_Wisborg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Count_Sigvard_Bernadotte">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigvard">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigvard_Bernadotte">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIllustrators" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Performer110415638" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Entertainer109616922" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/InteriorDesigner110210648" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountsOfWisborg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSwedishProvinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishPrinces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIndustrialDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArtistsFromStockholm" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishIndustrialDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishDesigners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUppsalaUniversityAlumni" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Actor109765278" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromStockholm" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Illustrator109812068" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSwedishActors" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Specialist110631941" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdfs:label xml:lang="ru">Сигвард Бернадот, граф Висборгский</rdfs:label>
+    <rdfs:label xml:lang="nl">Sigvard Bernadotte de Wisborg</rdfs:label>
+    <rdfs:label xml:lang="fr">Sigvard Bernadotte</rdfs:label>
+    <rdfs:label xml:lang="pt">Sigvard Bernadotte</rdfs:label>
+    <rdfs:label xml:lang="pl">Sigvard Bernadotte</rdfs:label>
+    <rdfs:label xml:lang="de">Sigvard Bernadotte</rdfs:label>
+    <rdfs:label xml:lang="ja">シグヴァルド・ベルナドッテ</rdfs:label>
+    <rdfs:label xml:lang="en">Sigvard Bernadotte</rdfs:label>
+    <rdfs:label xml:lang="zh">西格瓦尔德亲王 (乌普兰公爵)</rdfs:label>
+    <rdfs:label xml:lang="es">Sigvard Bernadotte</rdfs:label>
+    <rdfs:label xml:lang="it">Sigvard Bernadotte</rdfs:label>
+    <rdfs:comment xml:lang="pt">Sigvard Oscar Frederico Bernadotte (Drottningholm, 7 de junho de 1907 — Estocolmo, 4 de fevereiro de 2002) foi um nobre e designer de produtos sueco, e um membro da Casa de Bernadotte, a família real sueca.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Sigvard Oscar Frederik graaf Bernadotte de Wisborg (Slot Drottningholm, 7 juni 1907 – Stockholm, 4 februari 2002) was tot 1934 prins van Zweden en hertog van Uppland. Hij was de tweede zoon van koning Gustaaf VI Adolf van Zweden en van kroonprinses Margaretha van Connaught. Tijdens zijn geboorte was zijn vader prins van Zweden en hertog van Skåne.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Sigvard BernadotteFichier:LRK-SigvardB.jpg Titres Duc d&#39;Uppland 8 juin 1907 — 8 mars 1934(26 ans et 9 mois) Comte de Wisborg 2 juillet 1951 — 4 février 2002(50 ans 7 mois et 2 jours) Fichier:Blason du Prince Sigvard duc d&#39;Uppland.svg Ducs d&#39;Uppland Sigvard Oscar Fredrik Bernadotte, duc d&#39;Uppland puis comte de Wisborg, né le 7 juin 1907 au Château de Drottningholm et mort le 4 février 2002 à Stockholm (Suède) est un designer suédois. Il est le deuxième fils du roi Gustaf VI Adolf de Suède et de sa première femme, la princesse Margaret de Connaught.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Сигвард Бернадот, граф Висборгский (швед. Sigvard Oscar Fredrik Bernadotte, официально известен под титулом Принц Сигвард, Герцог Уппландский; 7 июня 1907, Дроттнингхольм — 4 февраля 2002, Стокгольм) — второй сын короля Густава VI Адольфа Шведского и его первой жены, Принцессы Маргариты Коннаутской.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">シグヴァルド・オスカル・フレドリク・ベルナドッテ（Sigvard Oscar Fredrik Bernadotte, 1907年6月7日 - 2002年2月4日）は、スウェーデンのインダストリアルデザイナーである。シグヴァルドはグスタフ6世アドルフと最初の妻マーガレット・オブ・コノートの次男に生まれ、元々はウップランド公シグヴァルド王子として知られていたが1934年に平民と結婚したため王族の称号を失ない、その後ヴィスボリのベルナドッテ伯爵（Count Bernadotte af Wisborg）の称号を授かった。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sigvard Oscar Fredrik Bernadotte, Count of Wisborg (7 June 1907 in Drottningholm – 4 February 2002 in Stockholm) was a Swedish industrial designer. He was the second son of King Gustav VI Adolf of Sweden and his first wife, Margaret, Duchess of Scania, and was originally known as Prince Sigvard, Duke of Uppland, but lost his royal titles in 1934 when he married a commoner. He was also a paternal uncle of King Carl XVI Gustaf of Sweden and a maternal uncle of Queen Margrethe II of Denmark and Queen Anne-Marie of Greece.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Sigvard Oscar Fredrik Bernadotte (ur. 7 czerwca 1907 w pałacu Drottningholm, zm. 4 lutego 2002 w Sztokholmie) – do 8 marca 1934 książę Szwecji, a także książę Upplandu, od 2 lipca 1951 hrabia Wisborga, projektant przemysłowy, asystent reżysera. Urodził się jako drugi syn księcia Skanii Gustawa Adolfa (przyszłego króla Szwecji Gustawa VI Adolfa) i jego pierwszej żony księżnej Małgorzaty. W państwie tym panował wówczas jego pradziadek król Oskar II. 
+*  hrabicza Michaela Bernadotte (ur. 1944)</rdfs:comment>
+    <rdfs:comment xml:lang="es">Sigvard Bernadotte (Sigvard Oskar Fredrik; Drottningholm, 7 de junio de 1907 - Estocolmo, 4 de febrero de 2002). Diseñador y príncipe sueco, duque de Uppland y conde de Wisborg. Era hijo del rey Gustavo VI Adolfo y de su primera esposa, la princesa Margarita de Connaught. Fue uno de los diseñadores más famosos de su país, trabajando en publicidad para varias empresas. Diseñó desde lujosos objetos de plata hasta utensilios de uso diario. Estudió teatro en Múnich y fue asistente de director en Berlín; también trabajó en Hollywood y en el cine sueco.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">西格瓦尔德·奥斯卡·弗雷德里克·贝尔纳多特（Prins Sigvard Bernadotte，1907年6月7日－2002年2月4日），是瑞典王子、乌普兰公爵，瑞典國王古斯塔夫六世·阿道夫的次子，1934年娶平民Erica Maria Patzek为妻，1943年10月14日离婚，后又娶Sonja Christensen Robbert为妻，并生下一个儿子Count Michael Sigvard Bernadotte af Wisborg，但两人又于1961年6月6日离婚，不久西格瓦尔德又与Marianne Bernadotte结婚。由于繼承法不承認他的婚姻，因此，他丧失了皇位继承权。他的个人生活包括收藏豪华银器，刀子和碗等。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Sigvard Oscar Fredrik Bernadotte af Wisborg (* 7. Juni 1907 auf Schloss Drottningholm; † 4. Februar 2002 in Stockholm) war ein schwedischer Graf, Designer, Illustrator und ehemaliger Prinz, Herzog von Uppland, Sohn des schwedischen Königs Gustav VI. Adolf und der Kronprinzessin Margareta (Margaret von Connaught).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03fz25" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q447209" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/120197138" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Sigvard_Bernadotte_de_Wisborg" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Sigvard_Bernadotte" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/シグヴァルド・ベルナドッテ" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q447209" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Count_Sigvard_Bernadotte_of_Wisborg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Sweden" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-02-04</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-2-4</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sweden" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Drottningholm_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-6-7</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-06-07</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Kungliga_begravningsplatsen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1907_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Prince_Eugen_Medal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Uppsala_University_alumni" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Artists_from_Stockholm" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bernadotte_af_Wisborg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Counts_of_Wisborg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_memoirists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Uppland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Bernadotte" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_industrial_designers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disinherited_European_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Swedish_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2002_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">839945</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741629416</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Sigvard Bernadotte</foaf:name>
+    <foaf:name xml:lang="en">Count Sigvard Bernadotte of Wisborg</foaf:name>
+    <foaf:name xml:lang="en">Sigvard Oscar Fredrik Bernadotte</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sigvard Bernadotte</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/LRK-SigvardB.jpg" />
+    <dct:description xml:lang="en">Swedish designer and illustrator</dct:description>
+    <foaf:givenName xml:lang="en">Sigvard</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sigvard_Bernadotte" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/LRK-SigvardB.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sigvard_Bernadotte?oldid=741629416" />
+    <dbo:abstract xml:lang="en">Sigvard Oscar Fredrik Bernadotte, Count of Wisborg (7 June 1907 in Drottningholm – 4 February 2002 in Stockholm) was a Swedish industrial designer. He was the second son of King Gustav VI Adolf of Sweden and his first wife, Margaret, Duchess of Scania, and was originally known as Prince Sigvard, Duke of Uppland, but lost his royal titles in 1934 when he married a commoner. He was also a paternal uncle of King Carl XVI Gustaf of Sweden and a maternal uncle of Queen Margrethe II of Denmark and Queen Anne-Marie of Greece. From 1994 to 2002, he was the oldest living great-grandchild of Queen Victoria of the United Kingdom, and having reached the age of 94, he was her longest-lived male descendant until being overtaken by his younger brother Carl Johan on 29 June 2011.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Sigvard Oscar Frederik graaf Bernadotte de Wisborg (Slot Drottningholm, 7 juni 1907 – Stockholm, 4 februari 2002) was tot 1934 prins van Zweden en hertog van Uppland. Hij was de tweede zoon van koning Gustaaf VI Adolf van Zweden en van kroonprinses Margaretha van Connaught. Tijdens zijn geboorte was zijn vader prins van Zweden en hertog van Skåne.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Сигвард Бернадот, граф Висборгский (швед. Sigvard Oscar Fredrik Bernadotte, официально известен под титулом Принц Сигвард, Герцог Уппландский; 7 июня 1907, Дроттнингхольм — 4 февраля 2002, Стокгольм) — второй сын короля Густава VI Адольфа Шведского и его первой жены, Принцессы Маргариты Коннаутской.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Sigvard BernadotteFichier:LRK-SigvardB.jpg Titres Duc d&#39;Uppland 8 juin 1907 — 8 mars 1934(26 ans et 9 mois) Comte de Wisborg 2 juillet 1951 — 4 février 2002(50 ans 7 mois et 2 jours) Fichier:Blason du Prince Sigvard duc d&#39;Uppland.svg Ducs d&#39;Uppland Sigvard Oscar Fredrik Bernadotte, duc d&#39;Uppland puis comte de Wisborg, né le 7 juin 1907 au Château de Drottningholm et mort le 4 février 2002 à Stockholm (Suède) est un designer suédois. Il est le deuxième fils du roi Gustaf VI Adolf de Suède et de sa première femme, la princesse Margaret de Connaught.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">西格瓦尔德·奥斯卡·弗雷德里克·贝尔纳多特（Prins Sigvard Bernadotte，1907年6月7日－2002年2月4日），是瑞典王子、乌普兰公爵，瑞典國王古斯塔夫六世·阿道夫的次子，1934年娶平民Erica Maria Patzek为妻，1943年10月14日离婚，后又娶Sonja Christensen Robbert为妻，并生下一个儿子Count Michael Sigvard Bernadotte af Wisborg，但两人又于1961年6月6日离婚，不久西格瓦尔德又与Marianne Bernadotte结婚。由于繼承法不承認他的婚姻，因此，他丧失了皇位继承权。他的个人生活包括收藏豪华银器，刀子和碗等。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Sigvard Bernadotte (Sigvard Oskar Fredrik; Drottningholm, 7 de junio de 1907 - Estocolmo, 4 de febrero de 2002). Diseñador y príncipe sueco, duque de Uppland y conde de Wisborg. Era hijo del rey Gustavo VI Adolfo y de su primera esposa, la princesa Margarita de Connaught. En 1934 contrajo matrimonio con la ciudadana alemana Erica Maria Patzek, caso que motivó la pérdida de su título de príncipe y de duque, así como su exclusión de la línea de sucesión al trono. En 1943 se divorció de Erica y casó con la danesa Sonja Robbert. En 1961 se divorció nuevamente y se casaría ese mismo año con la actriz sueca Gullan Marianne Lindberg. Sólo tuvo un hijo, Michael Bernadotte, hijo de Sonja Robbert, nacido en 1944. El 2 de julio de 1951, la Gran Duquesa Carlota de Luxemburgo lo invistió como Conde de Wisborg, un título que la monarquía de Luxemburgo había creado para los miembros de la familia real sueca -emparentada con la familia real luxemburguesa- casados con personas no nobles. Sigvard luchó durante varios años por la devolución de sus títulos reales suecos, visitando incluso la Corte Europea de Derechos Humanos en 1983, donde sus protestas tuvieron eco, pero su sobrino el rey Carlos XVI Gustavo nunca le regresaría sus privilegios. Paradójicamente a su hermano Príncipe Bertil le permitiría casarse con Lilian May Davies conservando el título de Príncipe y adquiriéndolo ella, por lo que se influyeron las malas relaciones familiares en la negativa del Rey. A partir de 1983, comenzó por iniciativa propia a utilizar de nuevo el título de príncipe. Fue uno de los diseñadores más famosos de su país, trabajando en publicidad para varias empresas. Diseñó desde lujosos objetos de plata hasta utensilios de uso diario. Estudió teatro en Múnich y fue asistente de director en Berlín; también trabajó en Hollywood y en el cine sueco. Falleció en 2002. Sus restos fueron sepultados en el Palacio Parque de Haga, en Estocolmo, el mismo donde se hallan sus padres.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">シグヴァルド・オスカル・フレドリク・ベルナドッテ（Sigvard Oscar Fredrik Bernadotte, 1907年6月7日 - 2002年2月4日）は、スウェーデンのインダストリアルデザイナーである。シグヴァルドはグスタフ6世アドルフと最初の妻マーガレット・オブ・コノートの次男に生まれ、元々はウップランド公シグヴァルド王子として知られていたが1934年に平民と結婚したため王族の称号を失ない、その後ヴィスボリのベルナドッテ伯爵（Count Bernadotte af Wisborg）の称号を授かった。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Sigvard Oscar Frederico Bernadotte (Drottningholm, 7 de junho de 1907 — Estocolmo, 4 de fevereiro de 2002) foi um nobre e designer de produtos sueco, e um membro da Casa de Bernadotte, a família real sueca.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Sigvard Oscar Fredrik Bernadotte af Wisborg (* 7. Juni 1907 auf Schloss Drottningholm; † 4. Februar 2002 in Stockholm) war ein schwedischer Graf, Designer, Illustrator und ehemaliger Prinz, Herzog von Uppland, Sohn des schwedischen Königs Gustav VI. Adolf und der Kronprinzessin Margareta (Margaret von Connaught).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Sigvard Oscar Fredrik Bernadotte (ur. 7 czerwca 1907 w pałacu Drottningholm, zm. 4 lutego 2002 w Sztokholmie) – do 8 marca 1934 książę Szwecji, a także książę Upplandu, od 2 lipca 1951 hrabia Wisborga, projektant przemysłowy, asystent reżysera. Urodził się jako drugi syn księcia Skanii Gustawa Adolfa (przyszłego króla Szwecji Gustawa VI Adolfa) i jego pierwszej żony księżnej Małgorzaty. W państwie tym panował wówczas jego pradziadek król Oskar II. 8 marca 1934 w Londynie poślubił Niemkę Erikę Patzek. W wyniku jej niedynastycznego pochodzenia stracił prawa dynastyczne i tytuły księcia Szwecji i Upplandu. 2 lipca 1951 wielka księżna Luksemburga Szarlotta nadała mu tytuł hrabiego Wisborga. Para nie miała dzieci, a 14 października 1943 rozwiodła się. Jego drugą żoną była Dunka Sonja Robbert. Ich ślub odbył się 26 października 1943 w Kopenhadze. 6 czerwca 1961 małżonkowie rozwiedli się. Mieli jednego syna: 
+*  hrabicza Michaela Bernadotte (ur. 1944) 30 lipca 1961 w Sztokholmie ożenił się po raz trzeci z Gullan Marianne Lindberg. Z tego związku nie miał dzieci.</dbo:abstract>
+    <dbo:imdbId>0076027</dbo:imdbId>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Margaret_of_Connaught" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Marianne_Lindberg" />
+    <dbo:title xml:lang="en">prev. Prince of Sweden, Duke of Uppland</dbo:title>
+    <dbo:title xml:lang="en">Count of Wisborg</dbo:title>
+    <dbp:after rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">none</dbp:after>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Prince_Gustaf,_Duke_of_Uppland" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Bernadotte" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Count Michael Sigvard Bernadotte af Wisborg</dbp:issue>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Uppland" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Designer" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Sigvard,_Duke_of_Uppland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seward_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigvard,_Duke_of_Upland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigvard_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigvard_of_Upland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Sigvard_Oscar_Fredrik_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Sigismund_Oscar_Frederick_of_Sweden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sigvard_Bernadotte">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sigvard_Bernadotte" />
+  </rdf:Description>
+</rdf:RDF>

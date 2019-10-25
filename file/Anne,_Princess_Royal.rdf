@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/English_Lacrosse_Association">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Aid_Nursing_Yeomanry">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/12_(Vancouver)_Field_Ambulance">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Quality_Foundation">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Special_Forces_Club">
+    <dbp:keyPeople rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Not_Forgotten_Association__1">
+    <dbo:person rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_London_International_Programmes">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Phillips">
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Royal">
+    <dbp:incumbent rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zara_Phillips">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Attenborough">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harper_Adams_University">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Edinburgh">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Princess_Royal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Princess_Royal_(Princess_Anne)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal">
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomenInTheBritishMilitary" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheQueen&#39;sServiceOrder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Rider110529965" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Administrator109770949" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/President110467179" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Contestant109613191" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfKing&#39;sCollegeLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLivingPeople" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Rival110533013" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicCompetitorsForGreatBritain" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtBenendenSchool" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicEquestriansOfGreatBritain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEventRidersFromTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCompanionsOfTheOrderOfLogohu" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLadiesOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lady110243137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheThistle" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Head110162991" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishSportsExecutivesAndAdministrators" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalOlympicParticipants" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLadiesOfTheThistle" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Horseman110185793" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FlagOfficer110094584" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Admiral109771204" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalNavyAdmirals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishEquestrians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Participant110401829" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithHarperAdamsUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Executive110069645" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPresidentsOfTheBritishScienceAssociation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEquestriansAtThe1976SummerOlympics" />
+    <rdfs:label xml:lang="ja">アン (イギリス王女)</rdfs:label>
+    <rdfs:label xml:lang="fr">Anne du Royaume-Uni</rdfs:label>
+    <rdfs:label xml:lang="it">Anna, principessa reale</rdfs:label>
+    <rdfs:label xml:lang="es">Ana del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="ru">Анна (принцесса Великобритании)</rdfs:label>
+    <rdfs:label xml:lang="pl">Anna (księżniczka angielska)</rdfs:label>
+    <rdfs:label xml:lang="en">Anne, Princess Royal</rdfs:label>
+    <rdfs:label xml:lang="zh">安妮长公主</rdfs:label>
+    <rdfs:label xml:lang="ar">آن (أميرة)</rdfs:label>
+    <rdfs:label xml:lang="nl">Anne Mountbatten-Windsor</rdfs:label>
+    <rdfs:label xml:lang="pt">Ana, Princesa Real</rdfs:label>
+    <rdfs:label xml:lang="de">Anne, Princess Royal</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يناير 2016) آن إليزابيث أليس مونتباتن وندسور (15 أغسطس 1950)، أميرة من العائلة البريطانية المالكة حيث أنها الإبنة الوحيدة للملكة إليزابيث الثانية والأمير فيليب.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Принце́сса А́нна (англ. The Princess Anne, Princess Royal, Anne Elizabeth Alice Louise; род. 15 августа 1950, Лондон) — член британской королевской семьи, единственная дочь королевы Елизаветы II. На момент своего рождения была на третьем месте в порядке престолонаследия, после вступления на трон Елизаветы переместилась на второе место (вплоть до рождения в 1960 году своего брата принца Эндрю). В настоящее время находится на двенадцатом месте в порядке престолонаследия.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">プリンセス・ロイヤル・アン（Princess Anne, Princess Royal；全名Anne Elizabeth Alice Louise、1950年8月15日 - ）は、イギリスの王族。「プリンセス・ロイヤル」の称号を持つ。父はエディンバラ公フィリップ、母はイギリス女王エリザベス2世。兄にウェールズ公チャールズ、弟にヨーク公爵アンドルー、ウェセックス伯爵エドワードがいる。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Patrona di oltre 200 organizzazioni caritatevoli, ha circa 500 incarichi per conto della regina e della corte inglese. Ella è inoltre particolarmente nota per il suo talento equestre; ha vinto in totale due medaglie d&#39;argento (1975) e una d&#39;oro (1971) all&#39;European Eventing Championships, ed è stata il primo membro della famiglia reale inglese a prendere parte ai Giochi olimpici. È attualmente sposata col vice ammiraglio sir Timothy Laurence, ma ha avuto due figli dal precedente matrimonio con Mark Phillips.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Ana del Reino Unido, la princesa real (Anne Elizabeth Alice Louise; 15 de agosto de 1950), es la única hija de la reina Isabel II del Reino Unido y su consorte, el príncipe Felipe, duque de Edimburgo. Es la séptima en llevar el título de &quot;princesa real&quot; y la duodécima en la línea de sucesión al trono.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Anna, księżniczka królewska, właśc., ang. Anne, Princess Royal (ur. 15 sierpnia 1950 w Londynie) – księżniczka angielska, księżniczka Kanady, Australii i Bermudów, córka królowej Anglii Elżbiety II i księcia Filipa, olimpijka (jazda konna). W linii sukcesji do tronu brytyjskiego zajmuje obecnie dwunastą pozycję.</rdfs:comment>
+    <rdfs:comment xml:lang="de">HRH Anne Elizabeth Alice Louise, Princess Royal (* 15. August 1950 in Clarence House, London) ist ein Mitglied der britischen Königsfamilie. Sie ist nach ihrem Bruder Prince Charles das zweite Kind und die einzige Tochter von Königin Elisabeth II. und Prinz Philip. Prinzessin Anne ist die derzeitige Trägerin des Titels Princess Royal.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ana Isabel Alice Luísa (Londres, 15 de agosto de 1950) é a única filha da rainha Isabel II do Reino Unido e do príncipe Filipe, Duque de Edimburgo. Sétima detentora do título de Princesa Real, Ana é conhecida por seu trabalho de caridade, sendo patronesse de mais de duzentas organizações e realizando por volta de quinhentos compromissos reais e aparições públicas por ano. Ela é também conhecida por seus talentos no hipismo; Ana já venceu duas medalhas de prata e uma de ouro no European Eventing Championship, sendo o primeiro membro da família real a competir nos Jogos Olímpicos. É casada com Timothy Laurence, tendo dois filhos de seu casamento anterior com Mark Phillips.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La princesse Anne, princesse royale (Anne Elizabeth Alice Louise) est née le 15 août 1950. Elle est membre de la famille royale britannique. C&#39;est la seule fille parmi les quatre enfants du prince Philippe, duc d&#39;Édimbourg, et d&#39;Elisabeth II, reine du Royaume-Uni de Grande-Bretagne et d&#39;Irlande du Nord. Elle occupe la douzième place dans l&#39;ordre de succession au trône britannique.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Anne, Princess Royal, KG, KT, GCVO, GCStJ, QSO, GCL, CD (Anne Elizabeth Alice Louise; born 15 August 1950) is the second child and only daughter of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. At the time of her birth, she was third in the line of succession, behind her mother and elder brother Charles. She rose to second after her mother&#39;s accession, but is currently 12th in line.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">安妮长公主（英语：The Princess Anne, Princess Royal，1950年8月15日－），全名安妮·伊丽莎白·爱莉斯·路易斯（Anne Elizabeth Alice Louise），曾姓菲利普斯（Phillips），娘家姓蒙巴顿- 温莎（Mountbatten-Windsor），生于1950年8月15日，英国女王伊丽莎白二世的长女。曾是英国王位第2顺位继承人，现为第12顺位继承人。現任長公主，是著名的慈善工作者。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Anne Elizabeth Alice Louise (Clarence House, Londen, 15 augustus 1950) is de enige dochter van de Britse koningin Elizabeth II en prins Philip. Prinses Anne draagt de titel Princess Royal, een titel die aan de oudste dochter van een Brits monarch kan worden toegekend. Anne is momenteel (2016) twaalfde in lijn voor de Britse troonopvolging.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_honours_of_the_British_Royal_Family_by_country" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πριγκίπισσα_Άννα" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ana,_Princesa_Real" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q151754" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Princess_Anne" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Anne,_Princess_Royal" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Anna,_principessa_reale" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アン_(イギリス王女)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/프린세스_로열_앤" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ana_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Anne_Mountbatten-Windsor" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118593978" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwXfXDEvySMS6svUMdhecxg" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Anne,_Princess_Royal" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q151754" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Anne_Mountbatten-Windsor" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0xn5r" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Anna_(księżniczka_angielska)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Putri_Anne" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Anne_du_Royaume-Uni" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Clarence_House" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-08-15</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1950-8-15</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_House_of_Orange" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Female_equestrians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_in_the_British_Army" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women&#39;s_Royal_Naval_Service_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_in_the_Royal_Navy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Spanish_Riding_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Oak_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Benenden_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Navy_admirals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_equestrians_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anne,_Princess_Royal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Event_riders_from_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_equestrians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_High_Commissioner_to_the_General_Assembly_of_the_Church_of_Scotland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Companions_of_the_Order_of_Logohu" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_New_Zealand_1990_Commemoration_Medal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_Royal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_Trinity_House" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Girlguiding_UK" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Cordons_of_the_Order_of_the_Precious_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dames_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountbatten-Windsor_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Grand_Decoration_with_Sash_for_Services_to_the_Republic_of_Austria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_air_commodores" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Windsor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Harper_Adams_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:BBC_Sports_Personality_of_the_Year_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Equestrians_at_the_1976_Summer_Olympics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_King&#39;s_College_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_the_British_Science_Association" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Olympic_participants" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1950_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:International_Olympic_Committee_members" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Thistle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Queen&#39;s_Service_Order" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125231</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744370141</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.uel.ac.uk/news/press_releases/bridges.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/onthisday/hi/dates/stories/november/14/newsid_2519000/2519003.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/onthisday/hi/dates/stories/november/15/newsid_2539000/2539937.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/onthisday/hi/dates/stories/december/12/newsid_2547000/2547723.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.royal.uk/the-princess-royal" />
+    <foaf:name xml:lang="en">Anne, Princess Royal</foaf:name>
+    <foaf:name xml:lang="en">Princess Anne</foaf:name>
+    <foaf:name xml:lang="en">Anne Elizabeth Alice Louise</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Anne_October_2015.jpg" />
+    <dct:description xml:lang="en">daughter of Elizabeth II</dct:description>
+    <foaf:givenName xml:lang="en">Anna</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anne,_Princess_Royal" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Princess_Anne_October_2015.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anne,_Princess_Royal?oldid=744370141" />
+    <dbo:abstract xml:lang="zh">安妮长公主（英语：The Princess Anne, Princess Royal，1950年8月15日－），全名安妮·伊丽莎白·爱莉斯·路易斯（Anne Elizabeth Alice Louise），曾姓菲利普斯（Phillips），娘家姓蒙巴顿- 温莎（Mountbatten-Windsor），生于1950年8月15日，英国女王伊丽莎白二世的长女。曾是英国王位第2顺位继承人，现为第12顺位继承人。現任長公主，是著名的慈善工作者。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Ana del Reino Unido, la princesa real (Anne Elizabeth Alice Louise; 15 de agosto de 1950), es la única hija de la reina Isabel II del Reino Unido y su consorte, el príncipe Felipe, duque de Edimburgo. Es la séptima en llevar el título de &quot;princesa real&quot; y la duodécima en la línea de sucesión al trono. En el momento de su nacimiento era la tercera en la línea de sucesión al trono, y desde 1952, año de la proclamación al trono de su madre hasta 1960, cuando nació su hermano el príncipe Andrés, duque de York, estuvo en el segundo puesto. Posteriormente, cuando nació el príncipe Eduardo, conde de Wessex, volvió de nuevo a descender en la línea; posteriores nacimientos la han ido postergando al actual lugar en la línea de sucesión.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">プリンセス・ロイヤル・アン（Princess Anne, Princess Royal；全名Anne Elizabeth Alice Louise、1950年8月15日 - ）は、イギリスの王族。「プリンセス・ロイヤル」の称号を持つ。父はエディンバラ公フィリップ、母はイギリス女王エリザベス2世。兄にウェールズ公チャールズ、弟にヨーク公爵アンドルー、ウェセックス伯爵エドワードがいる。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Anne Elizabeth Alice Louise (Clarence House, Londen, 15 augustus 1950) is de enige dochter van de Britse koningin Elizabeth II en prins Philip. Prinses Anne draagt de titel Princess Royal, een titel die aan de oudste dochter van een Brits monarch kan worden toegekend. Anne is momenteel (2016) twaalfde in lijn voor de Britse troonopvolging.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ana Isabel Alice Luísa (Londres, 15 de agosto de 1950) é a única filha da rainha Isabel II do Reino Unido e do príncipe Filipe, Duque de Edimburgo. Sétima detentora do título de Princesa Real, Ana é conhecida por seu trabalho de caridade, sendo patronesse de mais de duzentas organizações e realizando por volta de quinhentos compromissos reais e aparições públicas por ano. Ela é também conhecida por seus talentos no hipismo; Ana já venceu duas medalhas de prata e uma de ouro no European Eventing Championship, sendo o primeiro membro da família real a competir nos Jogos Olímpicos. É casada com Timothy Laurence, tendo dois filhos de seu casamento anterior com Mark Phillips.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Patrona di oltre 200 organizzazioni caritatevoli, ha circa 500 incarichi per conto della regina e della corte inglese. Ella è inoltre particolarmente nota per il suo talento equestre; ha vinto in totale due medaglie d&#39;argento (1975) e una d&#39;oro (1971) all&#39;European Eventing Championships, ed è stata il primo membro della famiglia reale inglese a prendere parte ai Giochi olimpici. È attualmente sposata col vice ammiraglio sir Timothy Laurence, ma ha avuto due figli dal precedente matrimonio con Mark Phillips.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Принце́сса А́нна (англ. The Princess Anne, Princess Royal, Anne Elizabeth Alice Louise; род. 15 августа 1950, Лондон) — член британской королевской семьи, единственная дочь королевы Елизаветы II. На момент своего рождения была на третьем месте в порядке престолонаследия, после вступления на трон Елизаветы переместилась на второе место (вплоть до рождения в 1960 году своего брата принца Эндрю). В настоящее время находится на двенадцатом месте в порядке престолонаследия. С 1987 носит титул Королевской принцессы (Princess Royal), который по традиции присваивается старшей дочери царствующего монарха.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Anne, Princess Royal, KG, KT, GCVO, GCStJ, QSO, GCL, CD (Anne Elizabeth Alice Louise; born 15 August 1950) is the second child and only daughter of Queen Elizabeth II and Prince Philip, Duke of Edinburgh. At the time of her birth, she was third in the line of succession, behind her mother and elder brother Charles. She rose to second after her mother&#39;s accession, but is currently 12th in line. Anne is known for her charitable work, and is patron of over 200 organizations. She is also known for equestrian talents; she won two silver medals (1975) and one gold medal (1971) at the European Eventing Championships, and is the first member of the British Royal Family to have competed in the Olympic Games. Princess Anne has held the title of Princess Royal since 1987 and is its seventh holder. Anne was married to Captain Mark Phillips in 1973; they divorced in 1992. They have two children and three grandchildren. In 1992, within months of her divorce, Anne married Vice Admiral Sir Timothy Laurence, whom she had met while he served as her mother&#39;s equerry between 1986 and 1989.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La princesse Anne, princesse royale (Anne Elizabeth Alice Louise) est née le 15 août 1950. Elle est membre de la famille royale britannique. C&#39;est la seule fille parmi les quatre enfants du prince Philippe, duc d&#39;Édimbourg, et d&#39;Elisabeth II, reine du Royaume-Uni de Grande-Bretagne et d&#39;Irlande du Nord. Elle occupe la douzième place dans l&#39;ordre de succession au trône britannique.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Anna, księżniczka królewska, właśc., ang. Anne, Princess Royal (ur. 15 sierpnia 1950 w Londynie) – księżniczka angielska, księżniczka Kanady, Australii i Bermudów, córka królowej Anglii Elżbiety II i księcia Filipa, olimpijka (jazda konna). W linii sukcesji do tronu brytyjskiego zajmuje obecnie dwunastą pozycję.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يناير 2016) آن إليزابيث أليس مونتباتن وندسور (15 أغسطس 1950)، أميرة من العائلة البريطانية المالكة حيث أنها الإبنة الوحيدة للملكة إليزابيث الثانية والأمير فيليب.</dbo:abstract>
+    <dbo:abstract xml:lang="de">HRH Anne Elizabeth Alice Louise, Princess Royal (* 15. August 1950 in Clarence House, London) ist ein Mitglied der britischen Königsfamilie. Sie ist nach ihrem Bruder Prince Charles das zweite Kind und die einzige Tochter von Königin Elisabeth II. und Prinz Philip. Prinzessin Anne ist die derzeitige Trägerin des Titels Princess Royal.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Mark_Phillips" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Timothy_Laurence" />
+    <dbo:title xml:lang="en">Princess Royal([[#Titles, styles, honours and arms</dbo:title>
+    <dbp:blp rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:blp>
+    <dbp:banner rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Princess&#39;s personal standard is that of the Sovereign in right of the United Kingdom, labelled for difference as in her arms.
+50px</dbp:banner>
+    <dbp:bannerimage rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Royal Standard of Princess Anne, Princess Royal.svg</dbp:bannerimage>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Princess Royal at Chatham House, October 2015</dbp:caption>
+    <dbp:coronet rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The coronet of a daughter of the Sovereign Proper.</dbp:coronet>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">March 2016</dbp:date>
+    <dbp:escutcheon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Quarterly 1st and 4th, Gules three lions passant guardant Or; 2nd, Or a lion rampant Gules within a double tressure flory counterflory Gules; 3rd, Azure a harp Or stringed Argent.</dbp:escutcheon>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Windsor" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Peter_Phillips" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Zara_Phillips" />
+    <dbp:notes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Princess Royal&#39;s personal arms are those of the Sovereign in right of the United Kingdom with a label for difference.</dbp:notes>
+    <dbp:orders rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HONI SOIT QUI MAL Y PENSE</dbp:orders>
+    <dbp:orders rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Order of the Garter circlet:</dbp:orders>
+    <dbp:otherElements rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The whole differenced by a label of three points Argent, first and third charged with a St George&#39;s cross the second with a heart Gules.</dbp:otherElements>
+    <dbp:supporters rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dexter a lion rampant guardant Or imperially crowned proper, sinister a unicorn Argent, armed, crined and unguled Or, gorged with a coronet Or composed of crosses patée and fleurs de lis a chain affixed thereto passing between the forelegs and reflexed over the back also Or.</dbp:supporters>
+    <dbp:symbolism rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">As with the Royal Arms of the United Kingdom. The first and fourth quarters are the arms of England, the second of Scotland, the third of Ireland.</dbp:symbolism>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/University_of_London" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Grand_Masters_of_the_Royal_Victorian_Order" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/University_of_the_Highlands_and_Islands" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_University_of_Edinburgh" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Harper_Adams_University" />
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Line_of_succession_to_the_British_throne" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/BBC_Sports_Personality_of_the_Year" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Princess_Royal" />
+    <dbp:yearAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1962</dbp:yearAdopted>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2007</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2011</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1987</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1971</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1981</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Child" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophie,_Countess_of_Wessex">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_the_Highlands_and_Islands">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Newfoundland_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Household_Cavalry">
+    <dbp:colonelsOfTheRegiment rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_Laurence">
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Worcestershire_and_Sherwood_Foresters_Regiment">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_School_of_Economics">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_London">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Holloway,_University_of_London">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Acid_Survivors_Trust_International">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen&#39;s_Gurkha_Signals">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RNRMC">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+    <dbp:keyPeople rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Scots_Borderers">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Scouts">
+    <dbp:name rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/109th_Signals_Squadron">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOAS,_University_of_London">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_College_London">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_School_of_Speech_and_Drama">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Phillips">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Margaret_Cancer_Centre">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Victorian_Order">
+    <dbp:head rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sebastian_Coe">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esso_Northumbria">
+    <dbp:shipSponsor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995_European_Youth_Summer_Olympic_Days">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_H.R.H._the_Princess_Royal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_The_Princess_Anne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Princess_Anne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_II">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King&#39;s_College_London">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Academy_of_Music">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liverpool_School_of_Tropical_Medicine">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_London_Institute_in_Paris">
+    <dbo:chancellor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Anne,_Princess_Royal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Scots">
+    <dbp:colonelInChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Yachting_Association">
+    <dbp:president rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King&#39;s_Royal_Hussars">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/35_(South_Midlands)_Signal_Regiment">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1_Field_Ambulance">
+    <dbo:patron rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/14th/20th_King&#39;s_Hussars">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Scottish_Geographical_Society__5">
+    <dbo:person rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Cooper">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Elizabeth_Alice_Louise">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1_(Royal_Buckinghamshire_Yeomanry)_Signal_Squadron">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/154_(Scottish)_Regiment_RLC">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/36_(Eastern)_Signal_Regiment">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/37_Signal_Regiment">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/40_(Ulster)_Signal_Regiment">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Canadian_Medical_Service">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandy_Pflueger">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Australian_Corps_of_Signals">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Grey_and_Simcoe_Foresters">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRH_Princess_Anne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Princess_Royal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Communications_and_Electronics_Branch">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Army_Veterinary_Corps">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Logistic_Corps">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Albion_(L14)">
+    <dbp:shipSponsor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Talent_(S92)">
+    <dbp:shipSponsor rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal_(of_the_United_Kingdom)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Windsor,_Princess_Royal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Anne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloucestershire_Rugby_Football_Union">
+    <dbp:patron rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedding_of_Charles,_Prince_of_Wales,_and_Lady_Diana_Spencer">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Mountbatten">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Elizabeth_Alice_Windsor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anne,_Princess_Royal">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Anne,_The_Princess_Royal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal" />
+  </rdf:Description>
+</rdf:RDF>

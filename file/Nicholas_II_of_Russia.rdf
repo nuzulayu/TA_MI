@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1905_Russian_Revolution">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russo-Japanese_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Olga_Nikolaevna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Witte">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergey_Muromtsev">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mykola_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolaj_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czar_Nicholas_Romanov_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Csar_Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsar_Nicholas_II_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution_in_the_Kingdom_of_Poland_(1905–07)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duke_Nicholas_II_of_Finland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II_of_Finland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_Front_(World_War_I)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Stolypin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Maria_Nikolaevna_of_Russia_(1899–1918)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armenian_national_liberation_movement">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_III_of_Russia">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Romanov">
+    <dbp:finalRuler rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Feodorovna_(Dagmar_of_Denmark)">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_Revolution">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winter_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Stürmer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchy_of_Finland">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafail_Levitsky">
+    <dbp:patrons rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emperor_of_All_Russia">
+    <dbp:lastMonarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Sipyagin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsar_Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Congress_Poland">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Guchkov">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Alexandrovich_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Tatiana_Nikolaevna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Goremykin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduard_Pleske">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emperor_Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Aleksandrovich_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsar_Nikolas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_Dalian">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II,_Emperor_and_Autocrat_of_All_the_Russias">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II_of_Russia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Survivor110681194" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoodPerson110138767" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEasternCatholicSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheRusso-JapaneseWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianEmperors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByRussiaByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedPeopleFromSaintPetersburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedRussianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderedRussianMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfThe1905RussianRevolution" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDukes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatImperialRussianPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRulersOfFinland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleMurderedInRussia" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRomanCatholicSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEasternOrthodoxPeopleExecutedByTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Saint110546850" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheOrderOfTheDannebrog" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emperor110053004" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSaintPetersburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEasternOrthodoxSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianOrthodoxSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianTsars" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsWhoAbdicated" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Czar109987239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfDanishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFieldMarshals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAttemptedAssassinationSurvivors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FieldMarshal110086821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110296176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictimsOfRedTerrorInSovietRussia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheRussianRevolution" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuke110142060" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLeadersOustedByACoup" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTheHaguePeaceConferences" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderedMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheRoyalHouseOfChakri" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheRussianCivilWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsWithCollarOfTheOrderOfTheSeraphim" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsAndDamesGrandCrossOfTheEquestrianOrderOfTheHolySepulchre" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOrthodoxMonarchs" />
+    <rdfs:label xml:lang="nl">Nicolaas II van Rusland</rdfs:label>
+    <rdfs:label xml:lang="ru">Николай II</rdfs:label>
+    <rdfs:label xml:lang="fr">Nicolas II</rdfs:label>
+    <rdfs:label xml:lang="it">Nicola II di Russia</rdfs:label>
+    <rdfs:label xml:lang="ar">نيقولا الثاني إمبراطور روسيا</rdfs:label>
+    <rdfs:label xml:lang="pt">Nicolau II da Rússia</rdfs:label>
+    <rdfs:label xml:lang="zh">尼古拉二世 (俄罗斯)</rdfs:label>
+    <rdfs:label xml:lang="pl">Mikołaj II Romanow</rdfs:label>
+    <rdfs:label xml:lang="de">Nikolaus II. (Russland)</rdfs:label>
+    <rdfs:label xml:lang="es">Nicolás II de Rusia</rdfs:label>
+    <rdfs:label xml:lang="en">Nicholas II of Russia</rdfs:label>
+    <rdfs:label xml:lang="ja">ニコライ2世</rdfs:label>
+    <rdfs:comment xml:lang="pl">Mikołaj II Aleksandrowicz Romanow, ros. Николай II, Николай Александрович Романов (ur. 6 maja?/18 maja 1868 w Sankt Petersburgu, zm. w nocy z 16 na 17 lipca 1918 w Jekaterynburgu) – ostatni cesarz rosyjski, król Polski, wielki książę Finlandii, panujący w latach 1894–1917. Koronowany w Moskwie 14 maja?/26 maja 1896; syn Aleksandra III z dynastii Romanowów i jego żony carycy Marii Fiodorowny. Święty kościoła prawosławnego.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ニコライ2世（русский: Николай II, ラテン文字転写: Nikolai II、ニコライ・アレクサンドロヴィチ・ロマノフ、русский: Николай Александрович Романов, ラテン文字転写: Nikolai Aleksandrovich Romanov、1868年5月18日（ユリウス暦5月6日） - 1918年7月17日（ユリウス暦7月4日））は、ロマノフ朝第14代にして最後のロシア皇帝（在位1894年11月1日 - 1917年3月15日）。 皇后はヘッセン大公国の大公女アレクサンドラ・フョードロヴナ（通称アリックス）。皇子女としてオリガ皇女、タチアナ皇女、マリア皇女、アナスタシア皇女、アレクセイ皇太子がいる。ドイツ皇帝ヴィルヘルム2世やイギリス国王ジョージ5世は従兄にあたる。 日露戦争・第一次世界大戦において指導的な役割を果たすが、革命勢力を厳しく弾圧したためロシア革命を招き、1918年7月17日未明にエカテリンブルクのイパチェフ館において一家ともども虐殺された。東ローマ帝国の皇帝教皇主義の影響を受けたロシアにおいて、皇帝は宗教的な指導者としての性格も強いため、正教会の聖人（新致命者）に列せられている。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Nicolas II (en russe : Николай Александрович Романов, Nikolaï Aleksandrovitch Romanov), de la dynastie des Romanov, né le 18 mai (6 mai) 1868 au palais de Tsarskoïe Selo et assassiné avec toute sa famille le 17 juillet 1918 à Iekaterinbourg, est le dernier empereur de Russie, roi de Pologne et grand-prince de Finlande.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Nicolás II de Rusia (en ruso: Николáй Алексáндрович Ромáнов, Nikolái Aleksándrovich Románov; San Petersburgo, 6 de mayojul./ 18 de mayo de 1868greg.-Ekaterimburgo, 17 de julio de 1918) fue el último zar de Rusia. Hijo de Alejandro III, gobernó desde la muerte de su padre, el 20 de octubre de 1894, hasta su abdicación el 2 de marzo de 1917 (de acuerdo al calendario juliano), cuando renunció en su nombre y en nombre de su hijo heredero al trono y este pasó a su hermano, el gran duque Miguel. Durante su reinado vio como el Imperio ruso sufrió una debacle económica y militar. Fue apodado «Nicolás el Sanguinario» por los críticos debido a la Tragedia de Jodynka, el Domingo Sangriento y por los pogromos antisemitas que se produjeron durante su reinado. Como jefe de Estado, aprobó la movilización</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Nicolaas II Aleksandrovitsj (Russisch: Николай II Александрович, Nikolaj II Aleksandrovitsj) (Tsarskoje Selo, 18 mei 1868 – Jekaterinenburg, 17 juli 1918) was de laatste tsaar (keizer) van Rusland, grootvorst van Finland en titulaire koning van Polen. Zijn officiële titel was Nicolaas II, Al-Russisch Keizer en Autocraat. In zijn volledige vorm omvatte zijn naam bovendien de namen van een aantal andere steden en gebieden waarover hij regeerde.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Nikolaus II. (russisch Николай II; gebürtig Nikolaus Alexandrowitsch Romanow, russisch Николай Александрович Романов; * 6. Maijul./ 18. Mai 1868greg. im Alexanderpalast, Zarskoje Selo; † 17. Juli 1918 in Jekaterinburg) aus dem Herrschergeschlecht Romanow-Holstein-Gottorp war der letzte Kaiser bzw. Zar des Russischen Reiches. Sein offizieller Titel lautete Zar Nikolaus II., Kaiser und Autokrat aller Russen. Nach seiner Abdankung wurde er gemeinsam mit seiner Familie interniert und in der Nacht auf den 17. Juli 1918 von den Bolschewiki in Jekaterinburg ermordet.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">نيقولا الثاني (بالروسية: Николай II, Николай Александрович Романов، نسخ الروسية: نيكولاي الثاني، نيكولاي ألكسندروفيتش رومانوف)(18 مايو [ن.ق. 6 مايو] 1868، تسارسكوي سيلو (بوشكين حاليًا)، سانت بطرسبرغ - 17 يوليو 1918، ييكاتيرينبرغ)، آخر أباطرة روسيا، وملك بولندا (اسميًا)، والدوق الأكبر لفنلندا، استمر حكمه لروسيا من 1 نوفمبر [ن.ق. 20 أكتوبر] 1894 عد وفاة والده الإمبراطور ألكسندر الثالث, وحتى 15 مارس [ن.ق. 2 مارس] 1917 حين تنازل عن العرش لأخيه الدوق الأكبر ميخائيل ألكسندروفيتش. ينتسب إلى عائلة رومانوف الإمبراطورية. كان لقبه الرسمي المختصر هو نيقولا الثاني, إمبراطور وأوتوقراط كل الروسيات ويكنيه الروس الأرثوذكس بالقديس نيقولا حامل العاطفة وكثيرًا ما يُكنى بالقديس نيقولا الشهيد, ولقبه معارضوه نيقولا الدامي. حاز رتبة (عقيد) منذ 1892، بالإضافة إلى ذلك، نال رتبًا عسكرية من ملك المملكة المتحدة وهي: أ</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il suo titolo ufficiale era: «Per Grazia di Dio, Imperatore e Autocrate di tutte le Russie (in russo: Божию Милостию, Император и Самодержец Всероссийский?, Božiju Milostiju, Imperator i Samoderžec Vserossijskij), zar di Polonia, di Mosca, di Kiev, di Vladimir, di Novgorod, di Kazan&#39;, di Astrachan&#39; e della Siberia; granduca di Finlandia e di Lituania; erede di Norvegia; signore e sovrano di Iberia, dell&#39;Armenia e del Turkestan; duca dello Schleswig-Holstein, dello Stormarn, di Dithmarschen e dell&#39;Oldenburg».</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Nicolau II (em russo: Николáй Алексáндрович Ромáнов; transl.: Nikolái Alieksándrovich Románov) foi o último Imperador da Rússia, Rei da Polônia e Grão-Duque da Finlândia. Nasceu no Palácio de Catarina, em Tsarskoye Selo, próximo de São Petersburgo, em 18 de maio (6 de maio no calendário juliano) de 1868. É também conhecido como São Nicolau o Portador da Paixão pela Igreja Ortodoxa Russa. Oficialmente, era chamado Nicolau II, Imperador e Autocrata de Todas as Rússias.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Никола́й II Алекса́ндрович (6 [18] мая 1868, Царское Село — 17 июля 1918, Екатеринбург) — Император Всероссийский, Царь Польский и Великий Князь Финляндский (20 октября [1 ноября] 1894 — 2 [15] марта 1917). Из императорского дома Романовых. Полковник (1892); кроме того, от британских монархов имел чины адмирала флота (28 мая (10 июня) 1908  года) и фельдмаршала британской армии (18 (31) декабря 1915  года).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Nicholas II (Russian: Николай II Nikolay Vtoroy; 18 May [O.S. 6 May] 1868 – 17 July 1918) was the last Emperor of Russia, ruling from 1 November 1894 until his forced abdication on 15 March 1917. His reign saw the fall of the Russian Empire from being one of the foremost great powers of the world to economic and military collapse. Due to the Khodynka Tragedy, anti-Semitic pogroms, Bloody Sunday, the violent suppression of the 1905 Revolution, the execution of political opponents and his perceived responsibility for the Russo-Japanese War, he was given the nickname Nicholas the Bloody by his political enemies.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">尼古拉·亚历山德罗维奇·羅曼諾夫即尼古拉二世（俄语：Николай II Александрович，1868年5月18日－1918年7月17日，儒略曆1868年5月6日－1918年7月4日），俄罗斯帝国末代沙皇和芬蘭大公，在位时间1894年—1917年。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Shooting_of_the_Romanov_family" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wedding_of_Nicholas_II" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_films_about_the_Romanovs" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rpPK4V3GISqGd6r1RTzycbA" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Tsar_Nicholas_II" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ニコライ2世" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nicolau_II_da_Rússia" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Nikolas_II.a_Errusiakoa" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Nikolaus_II._(Russland)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/니콜라이_2세" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nicolás_II_de_Rusia" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Nikolai_II_dari_Rusia" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1089741642" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N13304926287853148943" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Νικόλαος_Β΄_της_Ρωσίας" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Mikołaj_II_Romanow" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Mikuláš_II._Alexandrovič" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Nicola_II_di_Russia" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q40787" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Nicolaas_II_van_Rusland" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q40787" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11873492X" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nicholas_II_of_Russia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Nicolas_II" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05hks" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Yekaterinburg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ipatiev_House" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-7-17</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-07-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Alexander_Palace" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Pushkin,_Saint_Petersburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tsarskoye_Selo" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-5-18</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Ludwigsorden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_monarchs_in_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Double_Dragon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_Order_of_the_Wendish_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_and_Merit_Order_of_Peter_Frederick_Louis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_Danish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_White_Eagle_(Russia)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Murdered_Russian_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_emperors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_Red_Terror_in_Soviet_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Holy_Sepulchre" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hague_Conventions_of_1899_and_1907" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antisemitism_in_the_Russian_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinations_in_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Gold_Medal_of_Military_Valor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Saint_Alexander_(Bulgaria)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Croix_of_the_Légion_d&#39;honneur" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Rising_Sun_with_Paulownia_Flowers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Peter_and_Paul_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Christ_(Portugal)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_who_abdicated" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_ousted_by_a_coup" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Seal_of_Solomon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Eastern_Orthodox_people_executed_by_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_White_Falcon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Vladimir,_4th_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Victorian_Chain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_the_Royal_House_of_Chakri" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Russo-Japanese_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1868_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_1905_Russian_Revolution" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_Saints_Maurice_and_Lazarus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Saint_Stanislaus_(Russian),_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Russian_Revolution" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1918_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Southern_Cross" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rulers_of_Finland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Orthodox_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Anna,_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Alexander_Nevsky" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Russian_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._George_of_the_Fourth_Degree" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_dukes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antisemitism_in_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Eastern_Catholic_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_Carol_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Crown_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_executed_by_Russia_by_firing_squad" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_people_from_Saint_Petersburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_Saint_Hubert" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_Russian_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nicholas_II_of_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Christian_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_saints_of_the_Eastern_Orthodox_Church" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_anti-communists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Extra_Knights_Companion_of_the_Garter" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30172853</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745333434</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://gatchino.com/literatura/sokolov_n_a/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=AYbNAAAAMAAJ&amp;pg=RA1-PA5414" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.eyewitnesstohistory.com/nicholas.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.frozentears.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.alexanderpalace.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nicholasandalexandra.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.romanov-memorial.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.smithsonianmag.com/people-places/Resurrecting-the-Czar.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pravmir.com/article_101.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.normandythenandnow.com/cherbourg-torpedoes-and-a-tsar-in-the-playground/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://az.lib.ru/w/witte_s_j/text_0040.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://az.lib.ru/w/witte_s_j/text_0070.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://az.lib.ru/w/witte_s_j/text_0050.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://az.lib.ru/w/witte_s_j/text_0060.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kingandwilson.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.freewebs.com/romanovsisters/romanovsisters.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news-service.stanford.edu/news/2004/march3/romanov-33.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/historic_figures/nicholas_ii.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://gatchina3000.ru/literatura/radzinski_e/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.firstworldwar.com/source/nicholasiiabdication.htm" />
+    <foaf:name xml:lang="en">Nicholas II</foaf:name>
+    <foaf:name xml:lang="en">Nikolay Alexandrovich Romanov</foaf:name>
+    <foaf:name xml:lang="en">Nicholas II of Russia</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas_II_by_Boissonnas_&amp;_Eggler_c1909.jpg" />
+    <dct:description xml:lang="en">last Emperor of Russia, Grand Duke of Finland, and titular King of Poland</dct:description>
+    <foaf:givenName xml:lang="en">Nicholas</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Nicholas_II_of_Russia" />
+    <foaf:surname xml:lang="en">Romanow</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas_II_by_Boissonnas_&amp;_Eggler_c1909.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Nicholas_II_of_Russia?oldid=745333434" />
+    <dbo:abstract xml:lang="zh">尼古拉·亚历山德罗维奇·羅曼諾夫即尼古拉二世（俄语：Николай II Александрович，1868年5月18日－1918年7月17日，儒略曆1868年5月6日－1918年7月4日），俄罗斯帝国末代沙皇和芬蘭大公，在位时间1894年—1917年。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Nicolas II (en russe : Николай Александрович Романов, Nikolaï Aleksandrovitch Romanov), de la dynastie des Romanov, né le 18 mai (6 mai) 1868 au palais de Tsarskoïe Selo et assassiné avec toute sa famille le 17 juillet 1918 à Iekaterinbourg, est le dernier empereur de Russie, roi de Pologne et grand-prince de Finlande. Nicolas II est « tsar de toutes les Russies », de 1894 à 1917. Il connaît de nombreux surnoms suivant les époques : « Nicolas le Pacifique », pendant son règne, puis les Soviétiques le baptisent « Nicolas le Sanguinaire », de nos jours, la tradition orthodoxe le décrit comme « un saint digne de la passion du Christ ». Sous son règne et sous celui de son père, Alexandre III, la Russie connaît un essor économique, social, politique et culturel sans précédent. Les serfs ont été libérés pendant le règne de son grand-père Alexandre II et les impôts sont allégés. Le Premier ministre Piotr Stolypine réussit à développer une classe de paysans riches. Le pays devient la troisième ou quatrième puissance économique mondiale et possède le premier réseau ferroviaire après les États-Unis et le Canada. Le rouble devient une monnaie convertible et, outre un nombre important de marchands et d&#39;industriels, l&#39;Empire possède désormais ses propres financiers qui sont souvent des mécènes. Sur le plan culturel, la Russie connaît alors un « Âge d&#39;argent », et prend la deuxième place dans le domaine de l&#39;édition de livres. De nouvelles universités, des écrivains, sculpteurs, peintres, danseurs sont à l&#39;époque connus dans le monde entier. Selon Alexander Gerschenkron, « nul doute qu&#39;au train où croissait l&#39;équipement industriel pendant les années du règne de Nicolas II, sans le régime communiste, la Russie eût déjà dépassé les États-Unis ». Nicolas II gouverne de 1894 jusqu&#39;à son abdication en 1917. Il ne réussit pas à gérér efficacement les mutations culturelles et socio-économiques de son empire. Il est dépassé face à l&#39;agitation politique, la défaite des armées impériales face au Japon puis face à l&#39;Allemagne pendant la Première Guerre mondiale. Son règne se termine en 1917 avec la révolution de Février. Il est d&#39;abord enfermé avec sa famille dans le palais Alexandre à Tsarskoïe Selo, puis plus tard dans la maison du gouverneur à Tobolsk, et finalement dans la villa Ipatiev, à Iekaterinbourg. Nicolas II, son épouse, son fils, ses quatre filles, le médecin de la famille, son domestique personnel, la femme de chambre et le cuisinier seront ensuite mis à mort par des bolcheviks dans la nuit du 16 au 17 juillet 1918.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ニコライ2世（русский: Николай II, ラテン文字転写: Nikolai II、ニコライ・アレクサンドロヴィチ・ロマノフ、русский: Николай Александрович Романов, ラテン文字転写: Nikolai Aleksandrovich Romanov、1868年5月18日（ユリウス暦5月6日） - 1918年7月17日（ユリウス暦7月4日））は、ロマノフ朝第14代にして最後のロシア皇帝（在位1894年11月1日 - 1917年3月15日）。 皇后はヘッセン大公国の大公女アレクサンドラ・フョードロヴナ（通称アリックス）。皇子女としてオリガ皇女、タチアナ皇女、マリア皇女、アナスタシア皇女、アレクセイ皇太子がいる。ドイツ皇帝ヴィルヘルム2世やイギリス国王ジョージ5世は従兄にあたる。 日露戦争・第一次世界大戦において指導的な役割を果たすが、革命勢力を厳しく弾圧したためロシア革命を招き、1918年7月17日未明にエカテリンブルクのイパチェフ館において一家ともども虐殺された。東ローマ帝国の皇帝教皇主義の影響を受けたロシアにおいて、皇帝は宗教的な指導者としての性格も強いため、正教会の聖人（新致命者）に列せられている。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Никола́й II Алекса́ндрович (6 [18] мая 1868, Царское Село — 17 июля 1918, Екатеринбург) — Император Всероссийский, Царь Польский и Великий Князь Финляндский (20 октября [1 ноября] 1894 — 2 [15] марта 1917). Из императорского дома Романовых. Полковник (1892); кроме того, от британских монархов имел чины адмирала флота (28 мая (10 июня) 1908  года) и фельдмаршала британской армии (18 (31) декабря 1915  года). Правление Николая II было ознаменовано экономическим развитием России и одновременно ростом в ней социально-политических противоречий, революционного движения, вылившегося в революцию 1905—1907 годов и Февральскую революцию 1917 года; во внешней политике — экспансией на Дальнем Востоке, войной с Японией, а также участием России в военных блоках европейских держав и Первой мировой войне. Николай II отрёкся от престола в ходе Февральской революции 1917 года и находился вместе с семьёй под домашним арестом в царскосельском дворце. Летом 1917 года по решению Временного правительства был вместе с семьёй отправлен в ссылку в Тобольск, а весной 1918 года перемещён большевиками в Екатеринбург, где в июле 1918 года был расстрелян вместе с семьёй и приближёнными. Прославлен (вместе с женой и детьми) в лике святых Русской православной церковью как страстотерпец 20 августа 2000 года, ранее, в 1981 году, прославлен Русской зарубежной церковью как мученик.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">نيقولا الثاني (بالروسية: Николай II, Николай Александрович Романов، نسخ الروسية: نيكولاي الثاني، نيكولاي ألكسندروفيتش رومانوف)(18 مايو [ن.ق. 6 مايو] 1868، تسارسكوي سيلو (بوشكين حاليًا)، سانت بطرسبرغ - 17 يوليو 1918، ييكاتيرينبرغ)، آخر أباطرة روسيا، وملك بولندا (اسميًا)، والدوق الأكبر لفنلندا، استمر حكمه لروسيا من 1 نوفمبر [ن.ق. 20 أكتوبر] 1894 عد وفاة والده الإمبراطور ألكسندر الثالث, وحتى 15 مارس [ن.ق. 2 مارس] 1917 حين تنازل عن العرش لأخيه الدوق الأكبر ميخائيل ألكسندروفيتش. ينتسب إلى عائلة رومانوف الإمبراطورية. كان لقبه الرسمي المختصر هو نيقولا الثاني, إمبراطور وأوتوقراط كل الروسيات ويكنيه الروس الأرثوذكس بالقديس نيقولا حامل العاطفة وكثيرًا ما يُكنى بالقديس نيقولا الشهيد, ولقبه معارضوه نيقولا الدامي. حاز رتبة (عقيد) منذ 1892، بالإضافة إلى ذلك، نال رتبًا عسكرية من ملك المملكة المتحدة وهي: أدميرال بالأسطول (11 يونيو [ن.ق. 28 مايو] 1908)، مشير بالجيش البريطاني (1 يناير 1916 [ن.ق. 18 ديسمبر 1915]). تميزت إدارة نيقولا الثاني بالتطور الاقتصادي في روسيا، في الوقت الذي زادت فيه التناقضات الاجتماعية والسياسية مع الحركة الثورية التي أشعلت ثورة 1905-1907 وثورة 1917. أما في السياسة الخارجية، فقد تميزت إدارة نيقولا الثاني بالتوسع في الشرق الأقصى، والحرب مع اليابان، كما تعرضت روسيا في عهده إلى هزيمة منكرة حين دمر اليابانيون الأسطول الروسي ، مما أثار في البلاد انتفاضة قوية امتلأت بالشيوعية ، ولكن نيقولا استنتج رغم فشلها أن عليه القيام بإصلاحات فوافق مباشرة على دعوة المجلس التشريعي الدوما أو البرلمان الروسي ، فضلًا عن مشاركة روسيا في الكتل العسكرية للقوى الأوروبية، وفي عام 1914م أدخل روسيا في الحرب العالمية الأولى رغم أن البلاد لم تكن مهيأة لها, فتعرض للكثير من الهزائم ، وقد قتل في الأخيرة 3300000 روسيٍ.قامت الطبقات الوسطى على الفور غاضبة بلا حدود تدعمها مجموعات عديدة تدعو للإصلاح بالمطالبة بتغيير الحكم ، فتنازل نيقولا الثاني عن العرش بعد قيام ثورة فبراير 1917 ووُضع وأسرته تحت الإقامة الجبرية في قصر تسارسكوي سيلو. في صيف عام 1917، نقل مع عائلته إلى المنفى في توبولسك بموجب قرار من الحكومة المؤقتة. وفي ربيع عام 1918 نقله البلاشفة إلى مدينة ييكاتيرينبرغ، حيث أُعدموا رميًا بالرصاص في 17 يوليو 1918، إلى جانب أسرته وحاشيته. بعد 82 عامًا, في 15 أغسطس 2000, أعلنت الكنيسة الأرثوذكسية الروسية عن تقديسه وأسرته بصفتهم حاملي عاطفة, وهو تصنيف للمؤمنين الذين تحملوا المعاناة والموت على أيدي الأعداء السياسيين حسب التقليد المسيحي, وذلك في الكنيسة الأرثوذكسية الروسية داخل روسيا, وفي 1981 مُنحوا صفة الشهداء في الكنيسة الأرثوذكسية الروسية خارج روسيا التي تقع في نيويورك.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il suo titolo ufficiale era: «Per Grazia di Dio, Imperatore e Autocrate di tutte le Russie (in russo: Божию Милостию, Император и Самодержец Всероссийский?, Božiju Milostiju, Imperator i Samoderžec Vserossijskij), zar di Polonia, di Mosca, di Kiev, di Vladimir, di Novgorod, di Kazan&#39;, di Astrachan&#39; e della Siberia; granduca di Finlandia e di Lituania; erede di Norvegia; signore e sovrano di Iberia, dell&#39;Armenia e del Turkestan; duca dello Schleswig-Holstein, dello Stormarn, di Dithmarschen e dell&#39;Oldenburg». Fu, de facto, l&#39;ultimo zar dell&#39;Impero russo. Ha conosciuto numerosi appellativi: &quot;Nicola il pacifico&quot; durante gli anni di regno, mentre la letteratura sovietica comunista lo ha dipinto invece come &quot;Nicola il sanguinario&quot;; la tradizione popolare russa lo conosce invece come &quot;Nicola, il santo, grande portatore della Passione&quot;. Appartenente alla dinastia dei Romanov, alto 1,73 m, castano con occhi azzurri, considerato attraente in gioventù, sposò, in contrasto con i genitori, Alice d&#39;Assia e del Reno, figlia del granduca Luigi IV d&#39;Assia e del Reno e della principessa Alice del Regno Unito, a sua volta figlia della regina Vittoria. Viene considerato il quinto uomo più ricco e il secondo capo di Stato più ricco della storia, in quanto ebbe a sua disposizione un capitale stimato in 900 milioni di dollari (234 miliardi di euro attuali).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Nicolaas II Aleksandrovitsj (Russisch: Николай II Александрович, Nikolaj II Aleksandrovitsj) (Tsarskoje Selo, 18 mei 1868 – Jekaterinenburg, 17 juli 1918) was de laatste tsaar (keizer) van Rusland, grootvorst van Finland en titulaire koning van Polen. Zijn officiële titel was Nicolaas II, Al-Russisch Keizer en Autocraat. In zijn volledige vorm omvatte zijn naam bovendien de namen van een aantal andere steden en gebieden waarover hij regeerde.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Mikołaj II Aleksandrowicz Romanow, ros. Николай II, Николай Александрович Романов (ur. 6 maja?/18 maja 1868 w Sankt Petersburgu, zm. w nocy z 16 na 17 lipca 1918 w Jekaterynburgu) – ostatni cesarz rosyjski, król Polski, wielki książę Finlandii, panujący w latach 1894–1917. Koronowany w Moskwie 14 maja?/26 maja 1896; syn Aleksandra III z dynastii Romanowów i jego żony carycy Marii Fiodorowny. Święty kościoła prawosławnego.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Nicholas II (Russian: Николай II Nikolay Vtoroy; 18 May [O.S. 6 May] 1868 – 17 July 1918) was the last Emperor of Russia, ruling from 1 November 1894 until his forced abdication on 15 March 1917. His reign saw the fall of the Russian Empire from being one of the foremost great powers of the world to economic and military collapse. Due to the Khodynka Tragedy, anti-Semitic pogroms, Bloody Sunday, the violent suppression of the 1905 Revolution, the execution of political opponents and his perceived responsibility for the Russo-Japanese War, he was given the nickname Nicholas the Bloody by his political enemies. Russia suffered a decisive defeat in the Russo-Japanese War, which saw the annihilation of the Russian Baltic Fleet at the Battle of Tsushima, loss of Russian influence over Manchuria and Korea, and the Japanese annexation of South Sakhalin. The Anglo-Russian Entente, designed to counter German attempts to gain influence in the Middle East, ended the Great Game between Russia and the United Kingdom. As head of state, Nicholas approved the Russian mobilization on 31 July 1914, which led to Germany declaring war on Russia on the following day. It is estimated that around 3.3 million Russians were killed in World War I. The Imperial Army&#39;s severe losses and the High Command&#39;s incompetent management of the war efforts, along with the lack of food and other supplies on the Home Front, were the leading causes of the fall of the Romanov dynasty. Following the February Revolution of 1917 Nicholas abdicated on behalf of himself and his son, and he and his family were imprisoned. In the spring of 1918, Nicholas was handed over to the local Ural Soviet; with the approval of Lenin, Nicholas and his family were eventually executed by the Bolsheviks on the night of 16–17 July 1918. The recovered remains of the Imperial Family were finally re-interred in St. Petersburg in 1998. In 1981, Nicholas, his wife and their children were canonized as martyrs by the Russian Orthodox Church Outside Russia, located in New York City. On 15 August 2000 Nicholas and his family were canonized as passion bearers, a title commemorating believers who face death in a Christ-like manner, by the Russian Orthodox Church within Russia.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Nicolás II de Rusia (en ruso: Николáй Алексáндрович Ромáнов, Nikolái Aleksándrovich Románov; San Petersburgo, 6 de mayojul./ 18 de mayo de 1868greg.-Ekaterimburgo, 17 de julio de 1918) fue el último zar de Rusia. Hijo de Alejandro III, gobernó desde la muerte de su padre, el 20 de octubre de 1894, hasta su abdicación el 2 de marzo de 1917 (de acuerdo al calendario juliano), cuando renunció en su nombre y en nombre de su hijo heredero al trono y este pasó a su hermano, el gran duque Miguel. Durante su reinado vio como el Imperio ruso sufrió una debacle económica y militar. Fue apodado «Nicolás el Sanguinario» por los críticos debido a la Tragedia de Jodynka, el Domingo Sangriento y por los pogromos antisemitas que se produjeron durante su reinado. Como jefe de Estado, aprobó la movilización de agosto de 1914 que marcó el inicio de la Primera Guerra Mundial, la revolución y la consecuente caída de la dinastía Románov. Su reinado acabó con la Revolución rusa, cuando, intentando volver del cuartel general a la capital, su tren fue detenido en Pskov y fue obligado a abdicar. A partir de entonces, el zar y su familia fueron apresados, primero en el Palacio de Alejandro, en Tsárskoye Seló, después en la casa del gobernador de Tobolsk y finalmente en la Casa Ipátiev, en Ekaterimburgo. Nicolás II, su mujer, su hijo, sus cuatro hijas, el médico de la familia imperial, un criado personal, la camarera de la emperatriz y el cocinero de la familia fueron asesinados en el sótano de la casa por los bolcheviques en la madrugada del 16 al 17 de julio de 1918. Este acto fue ordenado por Vladímir Ilich Lenin y por el líder bolchevique Yákov Sverdlov. Posteriormente, Nicolás II, su mujer y sus hijos fueron canonizados como mártires por la Iglesia Ortodoxa Rusa en el exilio.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nicolau II (em russo: Николáй Алексáндрович Ромáнов; transl.: Nikolái Alieksándrovich Románov) foi o último Imperador da Rússia, Rei da Polônia e Grão-Duque da Finlândia. Nasceu no Palácio de Catarina, em Tsarskoye Selo, próximo de São Petersburgo, em 18 de maio (6 de maio no calendário juliano) de 1868. É também conhecido como São Nicolau o Portador da Paixão pela Igreja Ortodoxa Russa. Oficialmente, era chamado Nicolau II, Imperador e Autocrata de Todas as Rússias. Filho de Alexandre III, governou desde a morte do pai, em 1 de novembro de 1894, até sua abdicação em 15 de março de 1917, quando renunciou em seu nome e no nome de seu herdeiro, passando o trono para seu irmão, o grão-duque Miguel Alexandrovich. Durante seu reinado viu a Rússia decair de uma potência do mundo para um desastre econômico e militar. Nicolau foi apelidado pelos críticos de &quot;o Sanguinário&quot; por causa da Tragédia de Khodynka, pelo Domingo Sangrento e pelos fatais programas antissemitas que aconteceram na época de seu reinado. Como Chefe de Estado, aprovou a mobilização de agosto de 1914 que marcou o primeiro passo fatal em direção à Primeira Guerra Mundial, a revolução e consequente queda da dinastia Romanov. O seu reinado terminou com a Revolução Russa de 1917, quando, tentando retornar do quartel-general para a capital, seu trem foi detido em Pskov e ele foi obrigado a abdicar. A partir daí, o czar e sua família foram aprisionados, primeiro no Palácio de Alexandre em Tsarskoye Selo, depois na Casa do Governador em Tobolsk e finalmente na Casa Ipatiev em Ecaterimburgo. Nicolau II, sua mulher, seu filho, suas quatro filhas, o médico da família imperial, um servo pessoal, a camareira da imperatriz e o cozinheiro da família foram executados no porão da casa pelos bolcheviques na madrugada de 16 para 17 de julho de 1918. É conhecido que esse evento foi ordenado de Moscou por Lenin e pelo também líder bolchevique Yakov Sverdlov. Mais tarde Nicolau II, sua mulher e seus filhos foram canonizados como neomártires por grupos ligados à Igreja Ortodoxa Russa no exílio.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Nikolaus II. (russisch Николай II; gebürtig Nikolaus Alexandrowitsch Romanow, russisch Николай Александрович Романов; * 6. Maijul./ 18. Mai 1868greg. im Alexanderpalast, Zarskoje Selo; † 17. Juli 1918 in Jekaterinburg) aus dem Herrschergeschlecht Romanow-Holstein-Gottorp war der letzte Kaiser bzw. Zar des Russischen Reiches. Sein offizieller Titel lautete Zar Nikolaus II., Kaiser und Autokrat aller Russen. Er regierte vom 1. November 1894 bis zu seiner Abdankung am 15. März 1917 infolge der Februarrevolution. Durch sein Festhalten an der autokratischen Politik seiner Vorgänger und fehlender Bereitschaft zu demokratischen Reformen hatte Nikolaus maßgeblichen Anteil am Zusammenbruch der russischen Monarchie während des Ersten Weltkriegs. Nach seiner Abdankung wurde er gemeinsam mit seiner Familie interniert und in der Nacht auf den 17. Juli 1918 von den Bolschewiki in Jekaterinburg ermordet. Am 20. August 2000 wurden Nikolaus und seine Familie aufgrund ihres Märtyrertodes von der Russisch-Orthodoxen Kirche heiliggesprochen.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1894</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0020</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Maria_Feodorovna_(Dagmar_of_Denmark)" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alexander_III_of_Russia" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Alexander_III_of_Russia" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Georgy_Lvov" />
+    <dbp:altstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir</dbp:altstyle>
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">king-elect</dbp:as>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Alexander_III_of_Russia" />
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:birthDate>
+    <dbp:burialDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-07-17</dbp:burialDate>
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Russia" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Peter_and_Paul_Cathedral" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg" />
+    <dbp:canonizedBy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Russian Orthodox Church Abroad and the Russian Orthodox Church</dbp:canonizedBy>
+    <dbp:canonizedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1981</dbp:canonizedDate>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsar Nicholas II, in a British uniform  1909</dbp:caption>
+    <dbp:corType rdf:resource="http://dbpedia.org/resource/Coronation_of_the_Russian_monarch" />
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbp:coronation>
+    <dbp:dipstyle rdf:resource="http://dbpedia.org/resource/His_Imperial_Majesty" />
+    <dbp:feastDay rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-17</dbp:feastDay>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Holstein-Gottorp-Romanov" />
+    <dbp:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</dbp:imagesize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Tatiana_Nikolaevna_of_Russia" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">*</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Olga_Nikolaevna_of_Russia" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Maria_Nikolaevna_of_Russia_(1899–1918)" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alexei_Nikolaevich,_Tsarevich_of_Russia" />
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Prince_Frederick_Charles_of_Hesse" />
+    <dbp:offstyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Your Imperial Majesty</dbp:offstyle>
+    <dbp:reason rdf:resource="http://dbpedia.org/resource/February_Revolution" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Russian_Orthodox_Church" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:royalName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nicholas II of Russia</dbp:royalName>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nicholas II Signature.svg</dbp:signature>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_Russian_rulers" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Russian_rulers" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Grand_Duke_of_Finland" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1917</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1894</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-saint-noun-2" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Emperor" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_theatre_of_World_War_I">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_War_(series)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_the_second">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tzar_Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tzar_Nickolaus_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czar_Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsar_nicholas_ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Alexandrovich_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_Empire">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czar_Nicholas_II_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_ii_of_russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergey_Lvovich_Levitsky">
+    <dbp:patrons rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Nicolson,_1st_Baron_Carnock">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czar_of_Russia_Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fyodor_Aleksandrovich_Golovin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Khomyakov">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czar_Nicholas_II:_Last_Czar_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II,_Grand_Duke_of_Finland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II_of_Poland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_2nd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Goremykin&#39;s_First_Cabinet">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Goremykin&#39;s_Second_Cabinet">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Stolypin&#39;s_Cabinet">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Witte&#39;s_Cabinet">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Kokovtsov&#39;s_Cabinet">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_the_Great_(Fabergé_egg)">
+    <dbp:madeFor rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Alexandrovich_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloody_Nicholas">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_II_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_II_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_Tsar_Nicholas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsar_Nikolai_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsar_Nicolas_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Николай_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Nicholas_the_Martyr">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Nicholas_the_Passion-Bearer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Nicholas_the_Second">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II,_Emperor_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Nicholas_II_of_Russia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+  </rdf:Description>
+</rdf:RDF>

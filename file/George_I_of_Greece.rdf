@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1896_Summer_Olympics">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_of_Hesse-Kassel">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I,_King_of_the_Hellenes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_of_Greece">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_Kanaris">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Nicholas_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandros_Zaimis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I,_King_of_Hellenes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Presidential_Mansion,_Athens">
+    <dbp:client rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Christopher_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine_I_of_Greece">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I_of_Greece">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleMurderedInGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheOrderOfTheDannebrog" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromCopenhagen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOrthodoxMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAssassinatedGreekPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekPeopleOfDanishDescent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderVictims" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/King110231515" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfSchleswig-Holstein-Sonderburg-Glücksburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishPrinces" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekPeopleOfTheBalkanWars" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreekPeopleOfTheGreco-TurkishWar(1897)" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderedMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKingsOfGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryMonarchsInEurope" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdfs:label xml:lang="pl">Jerzy I Grecki</rdfs:label>
+    <rdfs:label xml:lang="pt">Jorge I da Grécia</rdfs:label>
+    <rdfs:label xml:lang="nl">George I van Griekenland</rdfs:label>
+    <rdfs:label xml:lang="ja">ゲオルギオス1世 (ギリシャ王)</rdfs:label>
+    <rdfs:label xml:lang="en">George I of Greece</rdfs:label>
+    <rdfs:label xml:lang="zh">乔治一世 (希腊)</rdfs:label>
+    <rdfs:label xml:lang="de">Georg I. (Griechenland)</rdfs:label>
+    <rdfs:label xml:lang="it">Giorgio I di Grecia</rdfs:label>
+    <rdfs:label xml:lang="fr">Georges Ier (roi des Hellènes)</rdfs:label>
+    <rdfs:label xml:lang="es">Jorge I de Grecia</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج الأول ملك اليونان</rdfs:label>
+    <rdfs:label xml:lang="ru">Георг I (король Греции)</rdfs:label>
+    <rdfs:comment xml:lang="pt">Jorge I (Copenhague, 24 de dezembro de 1845 – Salonica, 18 de março de 1913), nascido príncipe Guilherme de Schleswig-Holstein-Sonderburg-Glücksburg, foi o Rei da Grécia de sua eleição em 1863 até seu assassinato.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) 20بك هذه المقالة عن جورج الأول ملك اليونان؛ إن كنت تبحث عن عناوين مشابهة، فانظر جورج الأول. الملك جورج الأول (24 ديسمبر 1845 - 18 مارس 1913) ملك اليونان الثانى من 30 مارس 1863 حتى 18 مارس 1913 ، كان الملك جورج أميراً دنماركيا أختارته الجمعية الوطنية اليونانية ملكا على اليونان بدعم من بريطانيا العظمى وروسيا وفرنسا، اغتيل في 1913 وخلفه ابنه الملك قسطنطين الأول. مشاريع شقيقة في كومنز صور وملفات عن: جورج الأول ملك اليونان</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ゲオルギオス1世（Ελληνικά: Γεώργιος Α΄ της Ελλάδας, ラテン文字転写: Geórgios Aʹ, Vasiléfs tis Ellínon、1845年12月24日 - 1913年3月18日）は、ギリシャの国王（在位：1863年3月30日 - 1913年3月18日）。元々はデンマーク王子だったが、1863年に議会で初代国王オソン1世の廃位と、自身の即位が可決されると、イギリスやフランス、ロシアなど列強諸国の支援もあって、17歳の若さで王位に就いた。これに伴い、デンマークの国教であるルーテル教会からギリシャ正教会に改宗した。 王位に就いた当時は、ギリシャは後進国の位置に甘んじており、このような同国の問題点の解決に努めた。ゲオルギオス1世は一院制議会を施行し、ギリシャが立憲君主制国家であることを宣布し、経済面に力点を置いた近代化を志向した。中でも特に力を注いだ農村環境の改善は、1920年に実現することとなった。一方で、1864年にはイオニア諸島、1881年にはテッサリア、1912年にはマケドニア・イピロス・テッサロニキ、1913年にはクレタ島を獲得した。 しかし、ギリシャの領土獲得の為には手段を選ばないかのような発言を繰り返して周辺諸国の反発を買い、第一次バルカン戦争中の1913年に、前年オスマン帝国から奪還したテッサロニキを訪問した際、暗殺された。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Jorge I (en griego: Γεώργιος A&#39;, Βασιλεύς των Ελλήνων; 24 de diciembre de 1845–18 de marzo de 1913) fue rey de Grecia de 1863 a 1913. Aunque era príncipe de Dinamarca, con solo 17 años fue elegido rey por la Asamblea Nacional de Grecia, que había depuesto al anterior monarca, Otón I. Su nominación fue propuesta y apoyada por las grandes potencias de la época: el Reino Unido de Gran Bretaña e Irlanda, el Segundo Imperio francés y el Imperio ruso, y se convirtió en el primer monarca de una nueva casa real griega.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Georg I. - gr. Γεώργιος Αʹ, Βασιλεύς των Ελλήνων / Geórgios Αʹ, Vasiléfs ton Ellínon - gebürtig Prinz Christian Vilhelm Ferdinand Adolf Georg von Schleswig-Holstein-Sonderburg-Glücksburg - (* 24. Dezember 1845 in Kopenhagen; † 5. Märzjul./ 18. März 1913greg. in Thessaloniki) aus dem Hause Schleswig-Holstein-Sonderburg-Glücksburg war von 1863 bis zu seiner Ermordung 1913 griechischer König.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il principe Cristiano Guglielmo Ferdinando Adolfo Giorgio di Schleswig-Holstein-Sonderburg-Glücksburg (Christian Vilhelm Ferdinand Adolf Georg von Schleswig-Holstein-Sonderburg-Glücksburg, in danese), noto fino alla sua ascesa al trono ellenico come principe Guglielmo, era il figlio secondogenito di Cristiano IX di Danimarca della casata dei Glücksburg e fratello di Alessandra di Danimarca, moglie del re Edoardo VII d&#39;Inghilterra. Aveva iniziato la sua carriera militare nella flotta danese ed aveva appena 17 anni quando salì al trono di Grecia il 30 marzo 1863.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Georges Ier de Grèce (en grec moderne : Γεώργιος A&#39; της Ελλάδας / Geórgios I tis Elládas), né Christian Guillaume Ferdinand Adolphe Georges de Schleswig-Holstein-Sonderbourg-Glücksbourg, prince de Danemark puis, par son élection, roi des Hellènes, est né le 24 décembre 1845 à Copenhague, au Danemark, et est décédé le 18 mars 1913 à Thessalonique, en Grèce. Second souverain de la Grèce moderne et fondateur de la dynastie royale hellène contemporaine, il règne presque cinquante ans, de 1863 à 1913.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Christiaan Willem Ferdinand Adolf George (Grieks: Γεώργιος A&#39;, Βασιλεύς των Ελλήνων, Georgios A&#39;, Vasilefs ton Ellinon) (Kopenhagen, 24 december 1845 – Thessaloniki, 18 maart 1913) was als George I koning van Griekenland vanaf 1863 tot zijn dood in 1913.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jerzy I (gr. Γεώργιος Α΄, Βασιλεύς των Ελλήνων), urodzony jako prins Vilhelm af Slesvig-Holsten-Sønderborg-Glücksborg (ur. 24 grudnia 1845 w Kopenhadze, zm. 18 marca 1913 w Salonikach) – król Grecji w latach 1863–1913 z dynastii Glücksburgów, bocznej linii Oldenburgów. Syn króla Danii – Chrystiana IX Glücksburga i Luizy Heskiej (z linii Hessen-Kassel).</rdfs:comment>
+    <rdfs:comment xml:lang="en">George I (Greek: Γεώργιος Αʹ, Βασιλεύς των Ελλήνων, Geórgios Αʹ, Vasiléfs ton Ellínon; born Prince William of Schleswig-Holstein-Sonderburg-Glücksburg; 24 December 1845 – 18 March 1913) was king of Greece from 1863 until his assassination in 1913.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Георг I (греч. Γεώργιος Αʹ, 24 декабря 1845, Копенгаген — 18 марта 1913, Салоники) — король эллинов (греч. Βασιλεύς των Ελλήνων) в 1863—1913 годах, преемник Оттона I Баварского на греческом престоле по результатам референдума в Греции 1862 года, основатель династии греческих Глюксбургов.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ゲオルギオス1世_(ギリシャ王)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Georges_Ier_(roi_des_Hellènes)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giorgio_I_di_Grecia" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_I_of_Greece" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q17142" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jerzy_I_Grecki" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.019mnq" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jorge_I_de_Grecia" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jiří_I._Řecký" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/요르요스_1세" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/102300186" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jorge_I_da_Grécia" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_I_van_Griekenland" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rESnxxC6EQD-zEMpjCgktfA" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γεώργιος_Α΄_της_Ελλάδας" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q17142" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georg_I._(Griechenland)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/George_I_dari_Yunani" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Thessaloniki" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1913-3-18</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1913-03-18</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Denmark" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1845-12-24</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_Lutherans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Greece_(1863–1909)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1913_crimes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_people_of_the_Greco-Turkish_War_(1897)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Schleswig-Holstein-Sonderburg-Glücksburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_Greek_politicians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_people_of_the_Balkan_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1913_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_Order_of_the_Wendish_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Murdered_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_murdered_in_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Greek_people_of_Danish_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Assassinated_heads_of_state" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_monarchs_in_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Denmark)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nobility_from_Copenhagen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Greece)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1845_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kings_of_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Tatoi_Palace_Royal_Cemetery" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187387</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739795825</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongernessamling.dk/en/amalienborg/person/vilhelm-georg-i/" />
+    <foaf:name xml:lang="en">George I of Greece</foaf:name>
+    <foaf:name xml:lang="en">George I</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_George_of_Hellenes.jpg" />
+    <dct:description xml:lang="en">the King of Greece from 1863 to 1913</dct:description>
+    <foaf:givenName xml:lang="en">Georges</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_I_of_Greece" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/King_George_of_Hellenes.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_I_of_Greece?oldid=739795825" />
+    <dbo:abstract xml:lang="ja">ゲオルギオス1世（Ελληνικά: Γεώργιος Α΄ της Ελλάδας, ラテン文字転写: Geórgios Aʹ, Vasiléfs tis Ellínon、1845年12月24日 - 1913年3月18日）は、ギリシャの国王（在位：1863年3月30日 - 1913年3月18日）。元々はデンマーク王子だったが、1863年に議会で初代国王オソン1世の廃位と、自身の即位が可決されると、イギリスやフランス、ロシアなど列強諸国の支援もあって、17歳の若さで王位に就いた。これに伴い、デンマークの国教であるルーテル教会からギリシャ正教会に改宗した。 王位に就いた当時は、ギリシャは後進国の位置に甘んじており、このような同国の問題点の解決に努めた。ゲオルギオス1世は一院制議会を施行し、ギリシャが立憲君主制国家であることを宣布し、経済面に力点を置いた近代化を志向した。中でも特に力を注いだ農村環境の改善は、1920年に実現することとなった。一方で、1864年にはイオニア諸島、1881年にはテッサリア、1912年にはマケドニア・イピロス・テッサロニキ、1913年にはクレタ島を獲得した。 しかし、ギリシャの領土獲得の為には手段を選ばないかのような発言を繰り返して周辺諸国の反発を買い、第一次バルカン戦争中の1913年に、前年オスマン帝国から奪還したテッサロニキを訪問した際、暗殺された。 没後、1954年から発行されていた10ドラクマ紙幣に肖像が使用されていた。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jerzy I (gr. Γεώργιος Α΄, Βασιλεύς των Ελλήνων), urodzony jako prins Vilhelm af Slesvig-Holsten-Sønderborg-Glücksborg (ur. 24 grudnia 1845 w Kopenhadze, zm. 18 marca 1913 w Salonikach) – król Grecji w latach 1863–1913 z dynastii Glücksburgów, bocznej linii Oldenburgów. Syn króla Danii – Chrystiana IX Glücksburga i Luizy Heskiej (z linii Hessen-Kassel). Wyznaczony na króla przy poparciu Wielkiej Brytanii, Francji i Rosji, po zdetronizowaniu Ottona I Wittelsbacha w wyniku puczu wojskowego. Miał wpływ na formowanie się greckiej demokracji przez nadanie jej konstytucji. Pomimo początkowej niepopularności stał się monarchą popularnym i lubianym. Zamordowany w Salonikach przez Greka Schinasa.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Георг I (греч. Γεώργιος Αʹ, 24 декабря 1845, Копенгаген — 18 марта 1913, Салоники) — король эллинов (греч. Βασιλεύς των Ελλήνων) в 1863—1913 годах, преемник Оттона I Баварского на греческом престоле по результатам референдума в Греции 1862 года, основатель династии греческих Глюксбургов.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georg I. - gr. Γεώργιος Αʹ, Βασιλεύς των Ελλήνων / Geórgios Αʹ, Vasiléfs ton Ellínon - gebürtig Prinz Christian Vilhelm Ferdinand Adolf Georg von Schleswig-Holstein-Sonderburg-Glücksburg - (* 24. Dezember 1845 in Kopenhagen; † 5. Märzjul./ 18. März 1913greg. in Thessaloniki) aus dem Hause Schleswig-Holstein-Sonderburg-Glücksburg war von 1863 bis zu seiner Ermordung 1913 griechischer König.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Jorge I (Copenhague, 24 de dezembro de 1845 – Salonica, 18 de março de 1913), nascido príncipe Guilherme de Schleswig-Holstein-Sonderburg-Glücksburg, foi o Rei da Grécia de sua eleição em 1863 até seu assassinato. Originalmente um príncipe dinamarquês, Jorge parecia estar destinado a uma carreira na Marinha Real. Foi eleito rei pela Assembleia Nacional Grega quando tinha apenas dezessete anos, pouco depois da deposição do impopular rei Oto. Sua nomeação foi sugerida e apoiada pelas grandes potências da época: o Reino Unido da Grã-Bretanha e Irlanda, o Segundo Império Francês e o Império Russo. Ele se casou com a grã-duquesa Olga Constantinovna da Rússia, tornando-se o primeiro monarca da nova dinastia real grega. Duas de suas irmãs, Alexandra e Dagmar, casaram-se com os monarcas britânico e russo, respectivamente. O rei Eduardo VII e o imperador Alexandre III eram seus cunhados enquanto Jorge V e Nicolau II eram seus sobrinhos. O reinado de quase cinquenta anos de Jorge foi caracterizado por ganhos territoriais enquanto a Grécia estabelecia seu lugar na Europa pré-Primeira Guerra Mundial. O Reino Unido cedeu pacificamente as Ilhas Jônicas, enquanto a Tessália foi anexada do Império Otomano após a Guerra Russo-Turca de 1877–78. A Grécia nem sempre foi bem sucedida em suas ambições expansivas, sendo derrotada na Guerra Greco-Turca de 1897. Jorge foi assassinado durante a Primeira Guerra Balcânica, logo depois das tropas gregas terem ocupado Salonica. Ele foi sucedido por seu filho Constantino I.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Jorge I (en griego: Γεώργιος A&#39;, Βασιλεύς των Ελλήνων; 24 de diciembre de 1845–18 de marzo de 1913) fue rey de Grecia de 1863 a 1913. Aunque era príncipe de Dinamarca, con solo 17 años fue elegido rey por la Asamblea Nacional de Grecia, que había depuesto al anterior monarca, Otón I. Su nominación fue propuesta y apoyada por las grandes potencias de la época: el Reino Unido de Gran Bretaña e Irlanda, el Segundo Imperio francés y el Imperio ruso, y se convirtió en el primer monarca de una nueva casa real griega. El reinado de Jorge I, el más largo de la historia moderna de Grecia, pues duró casi 50 años, se caracterizó por las incorporaciones territoriales de Grecia al mismo tiempo que el país se hacía un hueco en la Europa anterior a la Primera Guerra Mundial. Jorge I fue asesinado durante la Primera Guerra de los Balcanes y desde entonces, y en contraste con su reinado, los de sus sucesores resultaron cortos e inseguros.</dbo:abstract>
+    <dbo:abstract xml:lang="en">George I (Greek: Γεώργιος Αʹ, Βασιλεύς των Ελλήνων, Geórgios Αʹ, Vasiléfs ton Ellínon; born Prince William of Schleswig-Holstein-Sonderburg-Glücksburg; 24 December 1845 – 18 March 1913) was king of Greece from 1863 until his assassination in 1913. Originally a Danish prince, George was born in Copenhagen, and seemed destined for a career in the Royal Danish Navy. He was only 17 years old when he was elected king by the Greek National Assembly, which had deposed the unpopular former king Otto. His nomination was both suggested and supported by the Great Powers: the United Kingdom of Great Britain and Ireland, the Second French Empire and the Russian Empire. He married the Russian grand duchess Olga Constantinovna of Russia, and became the first monarch of a new Greek dynasty. Two of his sisters, Alexandra and Dagmar, married into the British and Russian royal families. King Edward VII and Tsar Alexander III were his brothers-in-law and King George V and Tsar Nicholas II were his nephews. George&#39;s reign of almost 50 years (the longest in modern Greek history) was characterized by territorial gains as Greece established its place in pre-World War I Europe. Britain ceded the Ionian Islands peacefully, while Thessaly was annexed from the Ottoman Empire after the Russo-Turkish War (1877–1878). Greece was not always successful in its expansionist ambitions; it was defeated in the Greco-Turkish War (1897). During the First Balkan War, after Greek troops had occupied much of Greek Macedonia, George was assassinated in Thessaloniki. Compared to his own long tenure, the reigns of his successors Constantine, Alexander, and George proved short and insecure.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Christiaan Willem Ferdinand Adolf George (Grieks: Γεώργιος A&#39;, Βασιλεύς των Ελλήνων, Georgios A&#39;, Vasilefs ton Ellinon) (Kopenhagen, 24 december 1845 – Thessaloniki, 18 maart 1913) was als George I koning van Griekenland vanaf 1863 tot zijn dood in 1913. Als Deense prins werd hij als zeventienjarige jongen door het Griekse parlement gekozen als koning van Griekenland (der Hellenen), omdat een jaar eerder koning Otto was afgezet. Zijn benoeming werd ook door de Grote Mogendheden goedgekeurd (Verenigd Koninkrijk van Groot-Brittannië en Ierland, het Tweede Franse Keizerrijk en het Russische Rijk). Als eerste Griekse monarch van een nieuwe dynastie, werd zijn 50 jaar lange regering (de langste in de moderne Griekse geschiedenis) gekenmerkt door de territoriale winsten van Griekenland en vestigde het zijn plaats in de periode voor de Eerste Wereldoorlog. Twee weken voor zijn 50-jarig regeringsjubileum en tijdens de Eerste Balkanoorlog werd George vermoord. In scherp contrast met zijn eigen regering, waren de regeringen van zijn opvolgers kort en onveilig.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) 20بك هذه المقالة عن جورج الأول ملك اليونان؛ إن كنت تبحث عن عناوين مشابهة، فانظر جورج الأول. الملك جورج الأول (24 ديسمبر 1845 - 18 مارس 1913) ملك اليونان الثانى من 30 مارس 1863 حتى 18 مارس 1913 ، كان الملك جورج أميراً دنماركيا أختارته الجمعية الوطنية اليونانية ملكا على اليونان بدعم من بريطانيا العظمى وروسيا وفرنسا، اغتيل في 1913 وخلفه ابنه الملك قسطنطين الأول. وجد كلأ من الملك جورج الثاني والملك ألكسندر الأول والملك بول,و أمير فيليب زوج الملكة إليزابيث الثانية ملكة المملكة المتحدة أي يعنى (الجد الأكبر لملوك المملكة المتحدة (بريطانيا) القدامين) مشاريع شقيقة في كومنز صور وملفات عن: جورج الأول ملك اليونان 
+* 32xبوابة الدنمارك 
+* 32xبوابة اليونان 
+* 32xبوابة أعلام 
+* 32xبوابة ملكية 
+* 32xبوابة عقد 190025بك هذه بذرة مقالة عن حياة شخصية يونانية بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il principe Cristiano Guglielmo Ferdinando Adolfo Giorgio di Schleswig-Holstein-Sonderburg-Glücksburg (Christian Vilhelm Ferdinand Adolf Georg von Schleswig-Holstein-Sonderburg-Glücksburg, in danese), noto fino alla sua ascesa al trono ellenico come principe Guglielmo, era il figlio secondogenito di Cristiano IX di Danimarca della casata dei Glücksburg e fratello di Alessandra di Danimarca, moglie del re Edoardo VII d&#39;Inghilterra. Aveva iniziato la sua carriera militare nella flotta danese ed aveva appena 17 anni quando salì al trono di Grecia il 30 marzo 1863.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Georges Ier de Grèce (en grec moderne : Γεώργιος A&#39; της Ελλάδας / Geórgios I tis Elládas), né Christian Guillaume Ferdinand Adolphe Georges de Schleswig-Holstein-Sonderbourg-Glücksbourg, prince de Danemark puis, par son élection, roi des Hellènes, est né le 24 décembre 1845 à Copenhague, au Danemark, et est décédé le 18 mars 1913 à Thessalonique, en Grèce. Second souverain de la Grèce moderne et fondateur de la dynastie royale hellène contemporaine, il règne presque cinquante ans, de 1863 à 1913. En 1863, le prince Guillaume de Danemark est élu roi des Hellènes sous le nom de Georges Ier. Désireux de ne pas commettre les mêmes erreurs que son prédécesseur, le roi Othon Ier de Grèce, le jeune monarque ne tarde pas à s’helléniser et à aller à la rencontre de ses nouveaux sujets. Encore jeune et inexpérimenté, Georges Ier est confronté à une situation intérieure très difficile. À son arrivée au pouvoir, la scène politique grecque est en effet divisée et de graves problèmes financiers secouent le pays. L’agitation nationaliste est par ailleurs très forte et la Grande Idée, autrement dit le désir de réunir tous les Grecs dans un seul et même pays, est au cœur de la politique nationale. Le règne de Georges Ier est donc largement marqué par les volontés expansionnistes de la population hellène et par l’annexion, tantôt pacifique, tantôt belliqueuse, de plusieurs provinces majoritairement peuplées de Grecs : les îles Ioniennes (1864), la Thessalie (1880) et surtout la Macédoine, l’Épire et la Crète (1913). Malgré tout, la politique de Georges et de ses gouvernements est loin d’être toujours couronnée de succès et des humiliations nationales (comme lorsque les grandes puissances organisent un blocus contre le pays en 1885) et de graves défaites militaires (comme lors de la Guerre gréco-turque de 1897) ponctuent également son règne. Sur un plan plus personnel, Georges Ier donne naissance à une importante famille, dont plusieurs membres règnent encore sur des États européens. Le mariage du roi avec la grande-duchesse Olga Constantinovna de Russie donne en effet naissance à plusieurs enfants, avec lesquels le souverain entretient des relations étroites mais parfois orageuses. Georges Ier meurt assassiné à Thessalonique en 1913 et son fils Constantin Ier lui succède alors sur le trône de Grèce.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1913</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1863</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louise_of_Hesse" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Otto,_King_of_Greece" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Tatoi_Palace" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Greece" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Olga_Constantinovna_of_Russia" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of Greece</dbp:as>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Otto,_King_of_Greece" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George I in the uniform of an Admiral of the Royal Hellenic Navy</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Schleswig-Holstein-Sonderburg-Glücksburg" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Nicholas</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince George</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Alexandra</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Maria</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Constantine_I_of_Greece" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Andrew</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Olga</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Christopher</dbp:issue>
+    <dbp:regType rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_Greece" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">George I of Greece signature.svg</dbp:signature>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_kings_of_Greece" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_kings_of_Greece" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-30</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dimitrios_Valvis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eleftherios_Venizelos">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Andrew_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greek_destroyer_Vasilefs_Georgios">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandros_Koumoundouros">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Balkan_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Alexandra_Georgievna_of_Russia">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Maria_of_Greece_and_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greek_ironclad_Vasilefs_Georgios">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charilaos_Trikoupis">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_i_of_greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Γεώργιος_A&#39;,_Βασιλεύς_των_Ελλήνων">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_George_I_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgios_A&#39;,_Basileus_ton_Ellenon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geórgios_I_of_Greece">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I_of_the_Hellenes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_I_of_Greece">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_I_of_Greece" />
+  </rdf:Description>
+</rdf:RDF>

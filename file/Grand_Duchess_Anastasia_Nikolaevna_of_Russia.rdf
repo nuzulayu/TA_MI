@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia_(1868-1935)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_Romanoff">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastacia_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_Romanova">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfDanishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianGrandDuchesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleMurderedInRussia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Juvenile109622049" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryChristianFemaleSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Child109917593" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfGermanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEasternOrthodoxSaints" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderedMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMurderedChildren" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfEnglishDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPassionBearers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoodPerson110138767" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByRussiaByFiringSquad" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedPeopleFromSaintPetersburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRomanCatholicSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChildSaints" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Saint110546850" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Carrier109897696" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GrandDuchess110141930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChristianSaints" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedChildren" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictimsOfRedTerrorInSovietRussia" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianOrthodoxSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByFiringSquad" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChildren" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdfs:label xml:lang="ar">الدوقة الكبرى أناستاسيا نيكولايفنا من روسيا</rdfs:label>
+    <rdfs:label xml:lang="it">Anastasija Nikolaevna Romanova</rdfs:label>
+    <rdfs:label xml:lang="de">Anastasia Nikolajewna Romanowa</rdfs:label>
+    <rdfs:label xml:lang="ja">アナスタシア・ニコラエヴナ</rdfs:label>
+    <rdfs:label xml:lang="fr">Anastasia Nikolaïevna de Russie</rdfs:label>
+    <rdfs:label xml:lang="en">Grand Duchess Anastasia Nikolaevna of Russia</rdfs:label>
+    <rdfs:label xml:lang="es">Anastasia Nikoláyevna de Rusia</rdfs:label>
+    <rdfs:label xml:lang="pl">Anastazja Romanowa (1901–1918)</rdfs:label>
+    <rdfs:label xml:lang="nl">Anastasia Nikolajevna van Rusland</rdfs:label>
+    <rdfs:label xml:lang="ru">Анастасия Николаевна</rdfs:label>
+    <rdfs:label xml:lang="zh">阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃</rdfs:label>
+    <rdfs:label xml:lang="pt">Anastásia Nikolaevna da Rússia</rdfs:label>
+    <rdfs:comment xml:lang="ja">アナスタシア・ニコラエヴナ・ロマノヴァ（русский: Анастаси́я Никола́евна Рома́нова, ラテン文字転写: Anastasia Nikolaevna Romanova、1901年6月18日 - 1918年7月17日）は、最後のロシア皇帝ニコライ2世とアレクサンドラ皇后の第四皇女。ロシア大公女。1917年の二月革命で成立した臨時政府によって家族とともに監禁された。翌1918年7月17日にエカテリンブルクのイパチェフ館においてヤコフ・ユロフスキーが指揮する銃殺隊によって裁判手続きを踏まない殺人が実行され、家族・従者とともにわずか17歳の若さで銃殺された。2000年にロシア正教会によって新致命者として列聖された。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Grand Duchess Anastasia Nikolaevna of Russia (Russian: Великая Княжна Анастасия Николаевна Романова, Velikaya Knyazhna Anastasiya Nikolayevna Romanova) (June 18 [O.S. June 5] 1901 – July 17, 1918) was the youngest daughter of Tsar Nicholas II, the last sovereign of Imperial Russia, and his wife, Tsarina Alexandra Fyodorovna.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Fu uccisa insieme al padre, alla madre, alle sue tre sorelle Ol&#39;ga, Tat&#39;jana, Marija e al fratello Aleksej il 17 luglio 1918 per ordine dei bolscevichi, i quali ne occultarono anche i corpi. Nonostante voci circa una sua presunta sopravvivenza, alimentate anche dalla circostanza che fosse ignota la localizzazione dei resti della famiglia imperiale, dopo la dissoluzione dell&#39;Unione Sovietica nel 1991 i primi scavi permisero di ritrovare alcuni corpi, eccetto quelli di Alessio e di una delle ragazze – la stessa Anastasia o sua sorella maggiore Maria; successivamente, nel gennaio 2008, alcuni scienziati russi annunciarono che i resti di un ragazzo e di una giovane donna, trovati l&#39;anno prima presso Ekaterinburg erano molto probabilmente quelli dello zarevič e di una delle sue sorelle: ciò fu </rdfs:comment>
+    <rdfs:comment xml:lang="pt">Anastásia Nikolaevna da Rússia (em russo Великая Княжна Анастасия Николаевна Романова; São Petersburgo, 18 de junho de 1901 – Ecaterimburgo, 17 de julho de 1918) foi a quarta filha e segunda mais nova do czar Nicolau II da Rússia e da czarina Alexandra Feodorovna, os últimos governantes autocráticos da Rússia Imperial. Era irmã mais nova das grã-duquesas Olga, Tatiana e Maria, e irmã mais velha de Alexei, Czarevich da Rússia, o mais novo. Morreu assassinada por soldados bolcheviques aos 17 anos, junto com os demais membros da família imperial russa.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Großfürstin Anastasia von Russland (Anastasia Nikolajewna Romanowa, russisch Великая Княжна Анастасия Николаевна; * 5. Junijul./ 18. Juni 1901greg. in Peterhof; † 17. Juli 1918 in Jekaterinburg) war die jüngste Tochter des letzten russischen Kaiserpaares, Nikolaus II. und Alexandra Fjodorowna, vormals Alix von Hessen-Darmstadt. Trotz späterer Legendenbildung ist seit 2007 erwiesen, dass sie zusammen mit der gesamten Familie von den Bolschewiki ermordet wurde.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Gran Duquesa Anastasia Nikoláyevna Románova (originalmente su nombre en ruso suena como &quot;Anastasía&quot; y con el título completo: Великая княжна Анастасия Николаевна Романова); nacida el 18 de junio de 1901 (5 de junio según el calendario juliano), muerta el 17 de julio de 1918. Fue la hija más joven del emperador Nicolás II, el último zar de la Rusia Imperial, y de su esposa Alejandra Fiódorovna. Anastasia fue la hermana menor de la gran duquesa Olga, la gran duquesa Tatiana y la gran duquesa María, y la hermana mayor de Alekséi Nikoláyevich Románov, zarévich de Rusia. Fue asesinada junto al resto de su familia el 17 de julio de 1918 por fuerzas de la policía secreta bolchevique. La leyenda de que Anastasia había sobrevivido a la Revolución Rusa estuvo vigente durante todo el siglo XX y mu</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Anastazja Nikołajewna Romanowa (Wielikaja Kniażna Anastasija Nikołajewna Romanowa, ros. Великая Княжна Анастасия Николаевна Романова), ur. 18 czerwca 1901 w Peterhofie, zm. 17 lipca 1918 w Jekaterynburgu) – wielka księżna Rosji, najmłodsza córka cara Mikołaja II, ostatniego władcy Imperium Rosyjskiego, i jego żony Aleksandry Fiodorowny. Anastazja była młodszą siostrą wielkiej księżnej Olgi, wielkiej księżnej Tatiany i wielkiej księżnej Marii, i starszą siostrą Aleksieja Nikołajewicza, rosyjskiego carewicza. Została zamordowana razem z rodziną 17 lipca 1918 roku przez tajną bolszewicką policję.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Anastasia Nikolajevna Romanova (Russisch: Анастасия Николаевна Романова) (Peterhof, 5 juni 1901 — Jekaterinenburg, 17 juli 1918), grootvorstin van Rusland, was de vierde en jongste dochter van tsaar Nicolaas II van Rusland en tsarina Alexandra Fjodorovna. Anastasia stierf op 17-jarige leeftijd in Jekaterinenburg door het executiecommando van de bolsjewieken. Ze werd vermoord samen met haar ouders, haar zussen (Olga, Tatjana en Maria), haar broer (Aleksej) en enkele kamerhulpen van de familie. Haar oom Michaël werd vlak voor hen vermoord om de reactie van Nicolaas&#39; neef, koning George V te peilen. Deze reageerde echter niet, hetgeen leidde tot de moord op de Romanovs.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Анастаси́я Никола́евна (Романова); (5 (18) июня 1901, Петергоф — в ночь с 16 на 17 июля 1918, Екатеринбург) — великая княжна, четвёртая дочь императора Николая II и Александры Фёдоровны. Расстреляна вместе с семьёй в доме Ипатьева. После её смерти около 30 женщин объявляли себя «чудом спасшейся великой княжной», но все рано или поздно были разоблачены как самозванки. Прославлена вместе с родителями, сёстрами и братом в соборе новомучеников Российских как страстотерпица на юбилейном Архиерейском соборе Русской православной церкви в августе 2000 года. Ранее, в 1981 году, они же были канонизированы Русской православной церковью за рубежом. Память — 4 июля по юлианскому календарю.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">安娜塔西亞·尼古拉耶芙娜·罗曼诺娃女大公（俄语：Великая Княжна Анастасия Николаевна Романова，1901年6月18日－1918年7月17日）是俄羅斯帝國末代皇帝尼古拉二世與妻子亞歷山德拉·費奧多蘿芙娜最小的女兒。 阿纳斯塔西娅是奧麗加、塔季揚娜與瑪麗亞的妹妹，也是阿列克謝皇儲的姊姊。她被認為與沙皇尼古拉二世一家同時被布爾什維克的秘密警察所暗殺，但是有傳聞指出阿纳斯塔西娅逃過了這次暗殺。而且因為葉卡捷琳堡附近的墳墓中所發現的遺體在經過DNA測試之後，並沒有發現俄羅斯皇儲阿列克謝與阿纳斯塔西娅或姊姊瑪麗亞的遺體，造成這種傳聞被快速的傳播開來。俄羅斯科學家在2008年1月22日宣佈：2007年8月於葉卡捷琳堡附近發現的骨骸非常可能是13歲的阿列克謝皇儲與他的一位姊姊。DNA測試的最後結果證實尼古拉二世全家遭滅門。 曾經有幾位女子宣稱自己是阿纳斯塔西娅，其中最著名的是安娜·安德森。安德森於1984年去世後，遺體被火化。即使她曾經宣布自己得到幾位認識阿纳斯塔西娅的人士認同，但是在1994年時以安德森的身體組織與頭髮進行DNA測試後，證實她與阿纳斯塔西娅沒有任何血緣關係。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) أناستاسيا نيكولايڤنا رومانوڤا (بالروسية Великая Княжна Анастасия Николаевна Романова)؛ (18 يونيو 1901 - 17 يوليو 1918)، صغرى بنات القيصر الروسي نيقولا الثاني، آخر حكام روسيا القيصرية، من زوجته ألكساندرا فيودوروفنا. قامت العديد من النساء بادعاء شخصية أناستاسيا على مر التاريخ، كانت أشهرهن آنا آندرسون التي توفيت عام 1984. عام 1994 أجريت فحوصات د.ن.أ على بعض أنسجة وشعر أنا أندرسون وأظهرت انعدام صلتها بالأميرة الروسية.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Anastasia Nikolaïevna de Russie (en russe : Анастасия Николаевна Романова), née le 18 juin 1901 (5 juin du calendrier julien) à Peterhof est fusillée avec toute sa famille le 17 juillet 1918 à Ekaterinbourg dans la villa Ipatiev. Elle est la quatrième fille du tsar Nicolas II de Russie et de son épouse l&#39;impératrice Alexandra Fiodorovna, née princesse Alix de Hesse-Darmstadt. Membre de la famille impériale de Russie, sa mort « mystérieuse » fut une énigme pendant la première moitié du XXe siècle.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Anastasia_Nikolaevna" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Anastazja_Romanowa_(1901–1918)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1025434757" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/506ed232-71fb-454c-b81e-52123050c735#id" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Anastasia_Nikolajewna_Romanowa" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アナスタシア・ニコラエヴナ" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Anastasia_Nikolaïevna_de_Russie" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/러시아_여대공_아나스타시야_니콜라예브나" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Anastázie_Nikolajevna" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Anastásia_Nikolaevna_da_Rússia" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/257859686" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0k091" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q151130" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q151130" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μεγάλη_Δούκισσα_Αναστασία_της_Ρωσίας" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Anastasia_Nikolajevna_van_Rusland" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Anastasija_Nikolaevna_Romanova" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Anastasia_Nikoláyevna_de_Rusia" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Anastasia_Nikolaevna_Errusiakoa" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_SFSR" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ipatiev_House" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Yekaterinburg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-07-17</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-7-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Peterhof_Palace" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Petergof" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1901-06-18</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1901-6-18</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_German_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_Russian_women" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1901_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Murdered_children" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victims_of_Red_Terror_in_Soviet_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Peter_and_Paul_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Passion_bearers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_grand_duchesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_English_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Christian_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_saints_of_the_Eastern_Orthodox_Church" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saint_Petersburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Child_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_children" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_Russian_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nicholas_II_of_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Murdered_Russian_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_executed_by_Russia_by_firing_squad" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_people_from_Saint_Petersburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1918_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_female_saints_of_the_Late_Modern_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp-Romanov" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_people_of_Danish_descent" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75392</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741653841</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.alexanderpalace.org/russiancourt2006/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.alexanderpalace.org/realtsaritsa/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.alexanderpalace.org/2006pierre/introduction.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.alexanderpalace.org/eagar/eagar.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.frozentears.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hemophilia.org/NHFWeb/MainPgs/MainNHF.aspx?menuid=181&amp;contentid=46&amp;rptname=bleeding" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20070808133840/http:/www.bnr.bg/RadioBulgaria/Emission_English/Theme_History_And_Religion/Material/Gabarevo.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://gatchina3000.ru/literatura/sokolov_n_a/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.royalty.nu/Europe/Russia/Anastasia.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20070107143111/http:/www.curiouschapbooks.com/Catalog_of_Curious_Chapbooks/Victoria_s_Dark_Secrets/body_victoria_s_dark_secrets.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.struggler.org/GlorificationOfTheRoyalFamily.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thedent.com/anastasia.html" />
+    <foaf:name xml:lang="en">Grand Duchess Anastasia Nikolaevna</foaf:name>
+    <foaf:name xml:lang="en">Anastasia Nikolaevna Romanova</foaf:name>
+    <foaf:name xml:lang="en">Grand Duchess Anastasia Nikolaevna of Russia</foaf:name>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg" />
+    <dct:description xml:lang="en">Youngest daughter of Tsar Nicholas II of Russia</dct:description>
+    <foaf:givenName xml:lang="en">Anastasia</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+    <foaf:surname xml:lang="en">Romanova</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia?oldid=741653841" />
+    <dbo:abstract xml:lang="en">Grand Duchess Anastasia Nikolaevna of Russia (Russian: Великая Княжна Анастасия Николаевна Романова, Velikaya Knyazhna Anastasiya Nikolayevna Romanova) (June 18 [O.S. June 5] 1901 – July 17, 1918) was the youngest daughter of Tsar Nicholas II, the last sovereign of Imperial Russia, and his wife, Tsarina Alexandra Fyodorovna. Anastasia was a younger sister of Grand Duchess Olga, Grand Duchess Tatiana, and Grand Duchess Maria, and was an elder sister of Alexei Nikolaevich, Tsarevich of Russia. She was murdered with her family in an extrajudicial killing by members of the Cheka, the Bolshevik secret police, on July 17, 1918. Persistent rumors of her possible escape circulated after her death, fueled by the fact that the location of her burial was unknown during the decades of Communist rule. The mass grave near Yekaterinburg which held the remains of the Tsar, his wife, and three of their daughters was revealed in 1991, and the bodies of Alexei Nikolaevich and the remaining daughter — either Anastasia or her older sister Maria—were discovered in 2007. Her possible survival has been conclusively disproved. Forensic analysis and DNA testing confirmed that the remains are those of the imperial family, showing that all four grand duchesses were killed in 1918. Several women falsely claimed to have been Anastasia; the best known impostor is Anna Anderson. Anderson&#39;s body was cremated upon her death in 1984, but DNA testing in 1994 on available pieces of Anderson&#39;s tissue and hair showed no relation to the DNA of the Romanov family.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">安娜塔西亞·尼古拉耶芙娜·罗曼诺娃女大公（俄语：Великая Княжна Анастасия Николаевна Романова，1901年6月18日－1918年7月17日）是俄羅斯帝國末代皇帝尼古拉二世與妻子亞歷山德拉·費奧多蘿芙娜最小的女兒。 阿纳斯塔西娅是奧麗加、塔季揚娜與瑪麗亞的妹妹，也是阿列克謝皇儲的姊姊。她被認為與沙皇尼古拉二世一家同時被布爾什維克的秘密警察所暗殺，但是有傳聞指出阿纳斯塔西娅逃過了這次暗殺。而且因為葉卡捷琳堡附近的墳墓中所發現的遺體在經過DNA測試之後，並沒有發現俄羅斯皇儲阿列克謝與阿纳斯塔西娅或姊姊瑪麗亞的遺體，造成這種傳聞被快速的傳播開來。俄羅斯科學家在2008年1月22日宣佈：2007年8月於葉卡捷琳堡附近發現的骨骸非常可能是13歲的阿列克謝皇儲與他的一位姊姊。DNA測試的最後結果證實尼古拉二世全家遭滅門。 曾經有幾位女子宣稱自己是阿纳斯塔西娅，其中最著名的是安娜·安德森。安德森於1984年去世後，遺體被火化。即使她曾經宣布自己得到幾位認識阿纳斯塔西娅的人士認同，但是在1994年時以安德森的身體組織與頭髮進行DNA測試後，證實她與阿纳斯塔西娅沒有任何血緣關係。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Anastazja Nikołajewna Romanowa (Wielikaja Kniażna Anastasija Nikołajewna Romanowa, ros. Великая Княжна Анастасия Николаевна Романова), ur. 18 czerwca 1901 w Peterhofie, zm. 17 lipca 1918 w Jekaterynburgu) – wielka księżna Rosji, najmłodsza córka cara Mikołaja II, ostatniego władcy Imperium Rosyjskiego, i jego żony Aleksandry Fiodorowny. Anastazja była młodszą siostrą wielkiej księżnej Olgi, wielkiej księżnej Tatiany i wielkiej księżnej Marii, i starszą siostrą Aleksieja Nikołajewicza, rosyjskiego carewicza. Została zamordowana razem z rodziną 17 lipca 1918 roku przez tajną bolszewicką policję.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Gran Duquesa Anastasia Nikoláyevna Románova (originalmente su nombre en ruso suena como &quot;Anastasía&quot; y con el título completo: Великая княжна Анастасия Николаевна Романова); nacida el 18 de junio de 1901 (5 de junio según el calendario juliano), muerta el 17 de julio de 1918. Fue la hija más joven del emperador Nicolás II, el último zar de la Rusia Imperial, y de su esposa Alejandra Fiódorovna. Anastasia fue la hermana menor de la gran duquesa Olga, la gran duquesa Tatiana y la gran duquesa María, y la hermana mayor de Alekséi Nikoláyevich Románov, zarévich de Rusia. Fue asesinada junto al resto de su familia el 17 de julio de 1918 por fuerzas de la policía secreta bolchevique. La leyenda de que Anastasia había sobrevivido a la Revolución Rusa estuvo vigente durante todo el siglo XX y muchas impostoras afirmaron ser la princesa. La más famosa de ellas fue Anna Anderson, pero a pesar del apoyo que le prestaron muchas personas que habían conocido a Anastasia, las pruebas de ADN de Anderson en su pañuelo y pelo revelaron que no tenía ningún parentesco con la gran duquesa.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Анастаси́я Никола́евна (Романова); (5 (18) июня 1901, Петергоф — в ночь с 16 на 17 июля 1918, Екатеринбург) — великая княжна, четвёртая дочь императора Николая II и Александры Фёдоровны. Расстреляна вместе с семьёй в доме Ипатьева. После её смерти около 30 женщин объявляли себя «чудом спасшейся великой княжной», но все рано или поздно были разоблачены как самозванки. Прославлена вместе с родителями, сёстрами и братом в соборе новомучеников Российских как страстотерпица на юбилейном Архиерейском соборе Русской православной церкви в августе 2000 года. Ранее, в 1981 году, они же были канонизированы Русской православной церковью за рубежом. Память — 4 июля по юлианскому календарю.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Anastasia Nikolajevna Romanova (Russisch: Анастасия Николаевна Романова) (Peterhof, 5 juni 1901 — Jekaterinenburg, 17 juli 1918), grootvorstin van Rusland, was de vierde en jongste dochter van tsaar Nicolaas II van Rusland en tsarina Alexandra Fjodorovna. Anastasia stierf op 17-jarige leeftijd in Jekaterinenburg door het executiecommando van de bolsjewieken. Ze werd vermoord samen met haar ouders, haar zussen (Olga, Tatjana en Maria), haar broer (Aleksej) en enkele kamerhulpen van de familie. Haar oom Michaël werd vlak voor hen vermoord om de reactie van Nicolaas&#39; neef, koning George V te peilen. Deze reageerde echter niet, hetgeen leidde tot de moord op de Romanovs.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) أناستاسيا نيكولايڤنا رومانوڤا (بالروسية Великая Княжна Анастасия Николаевна Романова)؛ (18 يونيو 1901 - 17 يوليو 1918)، صغرى بنات القيصر الروسي نيقولا الثاني، آخر حكام روسيا القيصرية، من زوجته ألكساندرا فيودوروفنا. يعتقد أن قوات الشرطة السرية البلشفية قتلوها أسوة بباقي أسرتها في 17 يوليو 1918. شاعت أخبار تفيد هروبها المحتمل منذ عام 1918 لعدم إيجاد جثمانها في القبر الجماعي في ييكاتيرينبرغ (الذي تم لاحقا التأكيد أنه يعود لعائلة رومانوف بواسطة فحوصات د.ن.أ)في يناير 2007 أعلن علماء روسيون أن جثمانين محروقين لطفل وشابة وجدا قرب ييكاتيرينبرغ يعودان على الغالب لأناستاسيا وأخيها ألكسي نيكولايڤيتش. في 30 أبريل 2008 أكد علماء أدلة جنائية روسيون أن الجثامين تعود لألكسي وإحدى إخواته الأربعة. قامت العديد من النساء بادعاء شخصية أناستاسيا على مر التاريخ، كانت أشهرهن آنا آندرسون التي توفيت عام 1984. عام 1994 أجريت فحوصات د.ن.أ على بعض أنسجة وشعر أنا أندرسون وأظهرت انعدام صلتها بالأميرة الروسية. مشاريع شقيقة في كومنز صور وملفات عن: الدوقة الكبرى أناستاسيا نيكولايفنا من روسيا 
+* 32xبوابة المرأة 
+* 32xبوابة مسيحية 
+* 32xبوابة التاريخ 
+* 32xبوابة الإمبراطورية الروسية 
+* 32xبوابة أعلام 
+* 32xبوابة ملكية 
+* 32xبوابة القرن 2025بك هذه بذرة مقالة عن التاريخ بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Anastasia Nikolaïevna de Russie (en russe : Анастасия Николаевна Романова), née le 18 juin 1901 (5 juin du calendrier julien) à Peterhof est fusillée avec toute sa famille le 17 juillet 1918 à Ekaterinbourg dans la villa Ipatiev. Elle est la quatrième fille du tsar Nicolas II de Russie et de son épouse l&#39;impératrice Alexandra Fiodorovna, née princesse Alix de Hesse-Darmstadt. Membre de la famille impériale de Russie, sa mort « mystérieuse » fut une énigme pendant la première moitié du XXe siècle.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Großfürstin Anastasia von Russland (Anastasia Nikolajewna Romanowa, russisch Великая Княжна Анастасия Николаевна; * 5. Junijul./ 18. Juni 1901greg. in Peterhof; † 17. Juli 1918 in Jekaterinburg) war die jüngste Tochter des letzten russischen Kaiserpaares, Nikolaus II. und Alexandra Fjodorowna, vormals Alix von Hessen-Darmstadt. Trotz späterer Legendenbildung ist seit 2007 erwiesen, dass sie zusammen mit der gesamten Familie von den Bolschewiki ermordet wurde.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Anastásia Nikolaevna da Rússia (em russo Великая Княжна Анастасия Николаевна Романова; São Petersburgo, 18 de junho de 1901 – Ecaterimburgo, 17 de julho de 1918) foi a quarta filha e segunda mais nova do czar Nicolau II da Rússia e da czarina Alexandra Feodorovna, os últimos governantes autocráticos da Rússia Imperial. Era irmã mais nova das grã-duquesas Olga, Tatiana e Maria, e irmã mais velha de Alexei, Czarevich da Rússia, o mais novo. Morreu assassinada por soldados bolcheviques aos 17 anos, junto com os demais membros da família imperial russa. Desde a sua morte, circularam rumores persistentes sobre a sua possível sobrevivência, alimentados pelo facto de a localização da sua sepultura ter permanecido desconhecida durante as décadas do governo comunista. A vala comum que escondia os restos mortais do czar, da sua esposa e de três filhas foi descoberta perto de Ecaterimburgo em 1991, mas os corpos de Alexei Nikolaevich e de uma das irmãs, não se sabia se Maria ou Anastásia, não se encontravam no mesmo local. Contudo, a teoria da sua possível sobrevivência foi completamente desacreditada. Em janeiro de 2008, cientistas russos anunciaram que tinham desenterrado os restos mortais de um rapaz jovem e de uma mulher perto de Ecaterimburgo em agosto de 2007 e que, muito provavelmente, estes pertenciam ao czarevich de treze anos e a uma das quatro grã-duquesas Romanov. Cientistas forenses russos confirmaram esta possibilidade a 30 de abril de 2008. Em março de 2009, foram publicados os resultados finais dos testes de ADN pelo Dr. Michael Coble, do Laboratório de Identificação ADN das Forças Armadas dos Estados Unidos da América. Estes testes provaram de forma conclusiva que os restos mortais de todas as grã-duquesas tinham sido encontrados e, por isso, nenhuma tinha sobrevivido. Várias mulheres reivindicaram falsamente tratar-se de Anastásia, sendo a mais conhecida Anna Anderson. O corpo de Anderson foi cremado aquando da sua morte em 1984, mas, dez anos depois, foi possível realizar testes de ADN em pedaços de tecido e cabelo que mostraram que ela não possuía qualquer parentesco com a família imperial.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Fu uccisa insieme al padre, alla madre, alle sue tre sorelle Ol&#39;ga, Tat&#39;jana, Marija e al fratello Aleksej il 17 luglio 1918 per ordine dei bolscevichi, i quali ne occultarono anche i corpi. Nonostante voci circa una sua presunta sopravvivenza, alimentate anche dalla circostanza che fosse ignota la localizzazione dei resti della famiglia imperiale, dopo la dissoluzione dell&#39;Unione Sovietica nel 1991 i primi scavi permisero di ritrovare alcuni corpi, eccetto quelli di Alessio e di una delle ragazze – la stessa Anastasia o sua sorella maggiore Maria; successivamente, nel gennaio 2008, alcuni scienziati russi annunciarono che i resti di un ragazzo e di una giovane donna, trovati l&#39;anno prima presso Ekaterinburg erano molto probabilmente quelli dello zarevič e di una delle sue sorelle: ciò fu confermato dalle analisi il 30 aprile successivo. Nel 2000, per il contegno e la sopportazione, unitamente al perdono concesso negli ultimi scritti a persecutori e carcerieri, Anastasija e la sua famiglia sono stati canonizzati dalla Chiesa ortodossa.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アナスタシア・ニコラエヴナ・ロマノヴァ（русский: Анастаси́я Никола́евна Рома́нова, ラテン文字転写: Anastasia Nikolaevna Romanova、1901年6月18日 - 1918年7月17日）は、最後のロシア皇帝ニコライ2世とアレクサンドラ皇后の第四皇女。ロシア大公女。1917年の二月革命で成立した臨時政府によって家族とともに監禁された。翌1918年7月17日にエカテリンブルクのイパチェフ館においてヤコフ・ユロフスキーが指揮する銃殺隊によって裁判手続きを踏まない殺人が実行され、家族・従者とともにわずか17歳の若さで銃殺された。2000年にロシア正教会によって新致命者として列聖された。 皇帝一家が埋葬された場所が長年の間、知られていなかったという事実によって後押しされ、殺害後に彼女の生存の伝説が有名となった。1991年にエカテリンブルク近郊で両親と3人の大公女の遺骨が発掘され、さらには2007年に弟のアレクセイと歳の近い姉のマリアもしくはアナスタシア、どちらか1人の大公女の遺骨も発見された結果、皇帝一家が全員殺害されており、一人も生存していないことが明らかになった。数多く出現した偽アナスタシアの中でも最も知られているアンナ・アンダーソンは亡くなってから10年後の1994年に実施されたDNA鑑定でアナスタシアの母方の叔母の孫にあたるエディンバラ公フィリップ王配との遺伝的な繋がりが認められなかった。</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Alexandra_Feodorovna_(Alix_of_Hesse)" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Nicholas_II_of_Russia" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Peter_and_Paul_Cathedral" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg" />
+    <dbp:burialPlace rdf:resource="http://dbpedia.org/resource/Russia" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Grand Duchess Anastasia Nikolaevna, c. 1914</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Holstein-Gottorp-Romanov" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Russian_Orthodox_Church" />
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Anasig-1-.gif</dbp:signature>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_II_of_Russia">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Anderson">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_Nicholaevna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anisassia_Romanov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_Nicolaievna_Romanova">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nicolaievna_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastasia_Nikolaevna">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_Moore_of_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia" />
+  </rdf:Description>
+</rdf:RDF>

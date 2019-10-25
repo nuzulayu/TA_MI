@@ -1,0 +1,25 @@
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Augusta_of_Great_Britain.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Louisa_of_Great_Britain.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Mary,_Princess_Royal_and_Countess_of_Harewood.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Henry_Lascelles,_6th_Earl_of_Harewood.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/George_Lascelles,_7th_Earl_of_Harewood.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Gerald_David_Lascelles.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Henry_Lascelles,_5th_Earl_of_Harewood.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Angela_Lascelles.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Marion_Stein.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Patricia_Lascelles,_Countess_of_Harewood.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/David_Lascelles,_8th_Earl_of_Harewood.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Jeremy_Lascelles.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/James_Lascelles.rdf","RDF/XML",{commitSize: 10});

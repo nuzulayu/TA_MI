@@ -1,0 +1,25 @@
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Frederick_Augustus,_Duke_of_Nassau.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Margaret,_Countess_of_Snowdon.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Antony_Armstrong-Jones,_1st_Earl_of_Snowdon.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/David_Armstrong-Jones,_Viscount_Linley.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Ronald_Armstrong-Jones.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Anne_Parsons,_Countess_of_Rosse.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Daniel_Chatto.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Charles_Armstrong-Jones.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Margarita_Armstrong-Jones.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Serena_Armstrong-Jones,_Viscountess_Linley.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Charles_Stanhope,_12th_Earl_of_Harrington.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_Philip,_Duke_of_Edinburgh.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Amalie_of_Hesse-Darmstadt.rdf","RDF/XML",{commitSize: 10});

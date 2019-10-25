@@ -1,0 +1,102 @@
+MATCH (n)-[r:ns2__founders]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__stateHead]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__commander]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__thumbnail]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__appointer]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__awardedBy]->()
+DELETE r;
+
+MATCH (n)-[r:ns6__depiction]->()
+DELETE r;
+
+MATCH (n)-[r:ns5__depiction]->()
+DELETE r;
+
+MATCH (n)-[r:ns4__depiction]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__thumbnail]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__successor]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__candidate]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__commander]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__keyPerson]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__successor]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__depiction]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__commander]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__thumbnail]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__successor]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__etymology]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__successor]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__stateHead]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__appointer]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__awardedBy]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__depiction]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__keyPeople]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__incumbent]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__incumbent]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__birthPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__commanders]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__deathPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__birthPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__namedAfter]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__birthPlace]->()
+DELETE r;
+

@@ -1,0 +1,77 @@
+MATCH (n)-[r:ns0__deathPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__dedicatedTo]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__predecessor]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__wikiPageDisambiguates]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__wikiPageExternalLink]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__wikiPageRedirects]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__appointed]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__head]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__predecessor]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__wikiPageDisambiguates]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__wikiPageExternalLink]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__wikiPageRedirects]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__before]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__etymology]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__firstHolder]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__president]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__shipNamesake]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__wordnet_type]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__chairperson]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__knownFor]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__president]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__wikiPageDisambiguates]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__wikiPageExternalLink]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__wikiPageRedirects]->()
+DELETE r;
+
+MATCH (n)-[r:ns4__homepage]->()
+DELETE r;
+
+MATCH (n)-[r:ns4__isPrimaryTopicOf]->()
+DELETE r;

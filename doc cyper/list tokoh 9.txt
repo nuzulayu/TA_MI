@@ -1,0 +1,58 @@
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Mark_Phillips.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Sandy_Pflueger.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Timothy_Laurence.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Zara_Phillips.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Mike_Tindall.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Peter_Phillips.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Autumn_Phillips.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Maurice_Roche,_4th_Baron_Fermoy.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Ruth_Roche,_Baroness_Fermoy.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Jane_Fellowes,_Baroness_Fellowes.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Lady_Sarah_McCorquodale.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Charles_Spencer,_9th_Earl_Spencer.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Frances_Shand_Kydd.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Peter_Shand_Kydd.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/John_Spencer,_8th_Earl_Spencer.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Camilla,_Duchess_of_Cornwall.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Diana,_Princess_of_Wales.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_William,_Duke_of_Cambridge.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_Harry.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_Andrew,_Duke_of_York.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Sarah,_Duchess_of_York.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Beatrice_of_York.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Eugenie_of_York.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Sophie,_Countess_of_Wessex.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_Edward,_Earl_of_Wessex.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/James,_Viscount_Severn.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Lady_Louise_Windsor.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_George_of_Cambridge.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Charlotte_of_Cambridge.rdf","RDF/XML",{commitSize: 10});

@@ -1,0 +1,24 @@
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Denys_Rhodes.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Sidney_Buller-Fullerton-Elphinstone,_16th_Lord_Elphinstone.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/William_Elphinstone,_15th_Lord_Elphinstone.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Mary_Adelaide_of_Cambridge.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_Adolphus,_Duke_of_Cambridge.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Augusta_of_Hesse-Kassel.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_Francis_of_Teck.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Adolphus_Cambridge,_1st_Marquess_of_Cambridge.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Princess_Caroline_of_Nassau-Usingen.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Prince_Frederick_of_Hesse-Kassel.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Charles_William,_Prince_of_Nassau-Usingen.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Countess_Caroline_Felizitas_of_Leiningen-Dagsburg.rdf","RDF/XML",{commitSize: 10});

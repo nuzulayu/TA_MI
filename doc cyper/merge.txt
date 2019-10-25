@@ -1,0 +1,44 @@
+MATCH (n)-[rel:ns1__child]->(m)
+MERGE (n)-[:ns0__child]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns2__children]->(m)
+MERGE (n)-[:ns0__child]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns3__child]->(m)
+MERGE (n)-[:ns0__child]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns0__parents]->(m)
+MERGE (n)-[:ns0__parent]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns1__parent]->(m)
+MERGE (n)-[:ns0__parent]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns2__father]->(m)
+MERGE (n)-[:ns0__parent]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns2__mother]->(m)
+MERGE (n)-[:ns0__parent]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns2__parents]->(m)
+MERGE (n)-[:ns0__parent]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns3__parent]->(m)
+MERGE (n)-[:ns0__parent]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns1__spouse]->(m)
+MERGE (n)-[:ns0__spouse]->(m)
+DELETE rel;
+
+MATCH (n)-[rel:ns3__spouse]->(m)
+MERGE (n)-[:ns0__spouse]->(m)
+DELETE rel;
+

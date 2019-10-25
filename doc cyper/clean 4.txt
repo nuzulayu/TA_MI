@@ -1,0 +1,83 @@
+MATCH (n)-[r:ns2__ceremonialChief]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__honorificPrefix]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__ceremonialChief]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__ceremonialChief]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__governorGeneral]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__isPrimaryTopicOf]->()
+DELETE r;
+
+MATCH (n)-[r:ns5__isPrimaryTopicOf]->()
+DELETE r;
+
+MATCH (n)-[r:ns6__isPrimaryTopicOf]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__isPrimaryTopicOf]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__isPrimaryTopicOf]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__notableCommander]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__captainGeneralRaa]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__commanderInChief]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__wikiPageredirects]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__wikiPageredirects]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__wikiPageredirects]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__placeOfChristening]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__highestOfficerName]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__colonelOfTheRegiment]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__officiallyOpenedBy]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__officiallyOpenedBy]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__officiallyClosedBy]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__wikipageExternalLink]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__wikipageExternalLink]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__wikipageExternalLink]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__wikipageDisambiguates]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__wikipageDisambiguates]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__wikipageDisambiguates]->()
+DELETE r;

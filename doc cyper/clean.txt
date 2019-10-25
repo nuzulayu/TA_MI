@@ -1,0 +1,123 @@
+MATCH (n)-[r:ns2__free]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__after]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__head]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__next]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__head]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__heir]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__next]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__last]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__free]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__award]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__owner]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__after]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__after]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__issue]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__issue]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__owner]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__owner]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__issue]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__author]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__battle]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__client]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__before]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__patron]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__guests]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__before]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__patron]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__patron]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__patron]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__madeFor]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__armiger]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__breeder]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__country]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__members]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__patrons]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__partner]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__breeder]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__homepage]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__knownFor]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__namedFor]->()
+DELETE r;
+
+MATCH (n)-[r:ns6__hypernym]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__founders]->()
+DELETE r;
+

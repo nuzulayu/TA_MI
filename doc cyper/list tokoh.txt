@@ -1,0 +1,37 @@
+CREATE INDEX ON :Resource(uri);
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Elizabeth_II.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file//George_VI.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Queen_Elizabeth_The_Queen_Mother.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/George_V.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Mary_of_Teck.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Alexandra_of_Denmark.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Edward_VII.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Thomas_Lyon-Bowes,_Lord_Glamis.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Charlotte_Lyon-Bowes,_Lady_Glamis.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Mary_Elphinstone,_Lady_Elphinstone.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Rose_Leveson-Gower,_Countess_Granville.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/Margaret_Rhodes.rdf","RDF/XML",{commitSize: 10});
+
+CALL semantics.importRDF("file:///C:/Users/MI/Downloads/file/John_Elphinstone,_17th_Lord_Elphinstone.rdf","RDF/XML",{commitSize: 10});

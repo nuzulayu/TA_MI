@@ -1,0 +1,101 @@
+MATCH (n)-[r:ns1__birthPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__occupation]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__birthPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__deathPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns__deathPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__lastHolder]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__deathPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__allegiance]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__chiefscout]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__chancellor]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__occupation]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__predecessor]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__predecessor]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__burialPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__wordnet_Type]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__primaryTopic]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__restingPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__primaryTopic]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__restingPlace]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__militaryRank]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__shipNamesake]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__postIncumbent]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__postIncumbent]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__obverseDesign]->()
+DELETE r;
+
+MATCH (n)-[r:ns2__presentHolder]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__primeMinister]->()
+DELETE r;
+
+MATCH (n)-[r:ns5__wasDerivedFrom]->()
+DELETE r;
+
+MATCH (n)-[r:ns4__wasDerivedFrom]->()
+DELETE r;
+
+MATCH (n)-[r:ns7__wasDerivedFrom]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__personFunction]->()
+DELETE r;
+
+MATCH (n)-[r:ns1__shipChristened]->()
+DELETE r;
+
+MATCH (n)-[r:ns6__wasDerivedFrom]->()
+DELETE r;
+
+MATCH (n)-[r:ns3__militaryBranch]->()
+DELETE r;
+
+MATCH (n)-[r:ns0__thirdCommander]->()
+DELETE r;

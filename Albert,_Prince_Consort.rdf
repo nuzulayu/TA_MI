@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Victoria">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Pelham-Clinton,_5th_Duke_of_Newcastle">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_Prince_Consort_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Consort_of_Great_Britain_and_Ireland_Albert">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Taylor_(British_Army_officer)">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_prince_consort_of_Victoria_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Beatrice_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_River_(South_East_Queensland)">
+    <dbp:etymology rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Helena_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cavendish,_7th_Duke_of_Devonshire">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coomera_River">
+    <dbp:etymology rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Saxe-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Grey_(British_Army_officer)">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Leopold,_Duke_of_Albany">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alice_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_Prince_Consort">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfStPatrick" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrenadierGuardsOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPresidentsOfTheZoologicalSocietyOfLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanEmigrantsToTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBavaria" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheVictorianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat11thHussarsOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FieldMarshal110086821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110296176" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromCoburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consort109958724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/President110467179" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheThistle" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Composer109947232" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Migrant110314952" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Musician110339966" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanEmigrants" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfSaxe-CoburgAndGotha" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatScotsGuardsOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSocietyOfEdinburgh" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRomanticComposers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emigrant110051975" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFieldMarshals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHonoraryFellowsOfTheRoyalSocietyOfEdinburgh" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPresidentsOfTheBritishScienceAssociation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInSaskatchewan" />
+    <rdfs:label xml:lang="ar">ألبرت (الأمير الزوج)</rdfs:label>
+    <rdfs:label xml:lang="es">Alberto de Sajonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="pt">Alberto de Saxe-Coburgo-Gota</rdfs:label>
+    <rdfs:label xml:lang="zh">阿尔伯特亲王</rdfs:label>
+    <rdfs:label xml:lang="ru">Альберт Саксен-Кобург-Готский</rdfs:label>
+    <rdfs:label xml:lang="fr">Albert de Saxe-Cobourg-Gotha</rdfs:label>
+    <rdfs:label xml:lang="nl">Albert van Saksen-Coburg en Gotha</rdfs:label>
+    <rdfs:label xml:lang="pl">Albert (książę Wielkiej Brytanii i Irlandii)</rdfs:label>
+    <rdfs:label xml:lang="it">Alberto di Sassonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="en">Albert, Prince Consort</rdfs:label>
+    <rdfs:label xml:lang="ja">アルバート (ザクセン＝コーブルク＝ゴータ公子)</rdfs:label>
+    <rdfs:label xml:lang="de">Albert von Sachsen-Coburg und Gotha</rdfs:label>
+    <rdfs:comment xml:lang="ar">الأمير البرت (26 أغسطس 1819 - 1861)، زوج الملكة فيكتوريا. تزوج وهو في العشرين من عمره من ابنة عمته الأميرة فيكتوريا ورافقها حين أصبحت الملكة. عاشا سعيدين حتى توفي عن عمر 42 سنة في 14 ديسمبر 1861. عاشت الملكة وهي تندبه بقية عمرها الطويل. خلفا 9 من الأبناء تمت مصاهرتهم جميعا بعائلات ملكية أوروبية أخرى. وأصبح ابنهما إدوارد السابع ملكا على المملكة المتحدة بعد وفاة والدته عام 1901.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ザクセン＝コーブルク＝ゴータ公子アルバート（英語: Albert, Prince of Saxe-Coburg-Gotha, 1819年8月26日 - 1861年12月14日）は、イギリス女王ヴィクトリアの夫。ザクセン＝コーブルク＝ゴータ公子でザクセンの公（Herzog zu Sachsen）。ドイツ語名はアルブレヒト（Albrecht）。 イギリス女王の夫として、議会から唯一公式に「プリンス・コンソート」（The Prince Consort）の称号を認められた人物である。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Nato in Sassonia, membro della famiglia dei duchi di Sassonia-Coburgo-Saalfeld, connessa con la maggior parte dei monarchi europei, all&#39;età di 20 anni sposò la sua prima cugina, la regina Vittoria del Regno Unito, con la quale ebbe nove figli. In un primo momento Alberto si sentiva quasi costretto nella sua posizione di principe consorte che non gli conferiva alcun potere specifico. Col tempo egli seppe invece dare grande risalto alla sua persona e conseguentemente anche al suo ruolo sociale, prendendo posizione in molte cause pubbliche come le riforme sull&#39;educazione e l&#39;abolizione della schiavitù nei territori dell&#39;Impero Britannico, oltre ad accollarsi il non facile compito di gestire la corte inglese.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Frans Albert August Karel Emanuel van Saksen-Coburg en Gotha (Coburg, 26 augustus 1819 - Windsor Castle, 14 december 1861), Prins van Saksen-Coburg-Saalfeld, Hertog van Saksen, was de prins-gemaal van de Britse koningin Victoria van het Verenigd Koninkrijk. Albert stierf jong, hij was 42 jaar, en liet koningin Victoria achter met zeer veel verdriet. Toen zij in 1901 stierf werd hun oudste zoon, Edward, koning van het Verenigd Koninkrijk, en nam toen de achternaam van zijn vader, Saksen-Coburg en Gotha, aan. Het Britse koningshuis dat voorheen Hannover als achternaam had kreeg toen de achternaam Saksen-Coburg en Gotha. Echter werd na 16 jaar de achternaam alweer veranderd in Windsor, vanwege de wandaden die de Duitsers hadden gepleegd in de Eerste Wereldoorlog. Hij stond in het Britse Rijk </rdfs:comment>
+    <rdfs:comment xml:lang="zh">阿尔伯特亲王（Albert, Prince Consort，1819年8月26日－1861年12月14日），全名弗朗西斯·阿尔伯特·奥古斯都·查尔斯·埃曼纽尔，最初被称为萨克森-科堡-哥达的阿尔伯特王子，是英国维多利亚女王的表弟和丈夫。与女王成婚后，长期被称为“阿尔伯特亲王殿下”（HRH Prince Albert），1857年女王钦赐王夫（Prince Consort）称号，也是英國歷史上唯一獲封王夫位號的君主配偶。 阿尔伯特的出生地萨克森-科堡-萨尔费尔德公国与欧洲诸多王室有姻亲关系。在其20岁时，与表姐维多利亚成婚，婚后育有九个孩子。最初，阿尔伯特深受限制，其身份仅是女王的配偶，而没有其他相应的权力或职责。随着时间推移，他吸取了诸多民众诉求，例如实行教育改革、全球范围内推行废奴运动、管理宗室事务和女王办公室等。他积极参与1851年世界博览会的筹办。政治上，尽管他反对帕默斯顿勋爵在外交大臣任内所奉行的政策，但他还是说服了女王在与议会交往时不带有党派倾向性。这一点上，还是促进了英国君主立宪制的发展。 阿尔伯特于1861年去世，得年42岁。他的英年早逝使女王在余生陷入深深的悼念。1901年，他和维多利亚的长子爱德华七世即位，成为首位萨克森-科堡-哥达王朝的君主。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Альбе́рт Франц Август Эммануил, ге́рцог Саксен-Кобург-Готский (нем. Albert Franz August Karl Emmanuel Herzog von Sachsen-Coburg-Gotha; 26 августа 1819 — 14 декабря 1861) — супруг (принц-консорт, англ. HRH the Prince Consort) королевы Великобритании Виктории, второй сын герцога Эрнста Саксен-Кобургского (генерала русской службы, участника наполеоновских войн) и принцессы Луизы Саксен-Готской. Британский фельдмаршал (1840). Родоначальник ныне царствующей в Великобритании Виндзорской династии.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Prince Albert of Saxe-Coburg and Gotha (Francis Albert Augustus Charles Emmanuel; later the Prince Consort; 26 August 1819 – 14 December 1861) was the husband of Queen Victoria. He was born in the Saxon duchy of Saxe-Coburg-Saalfeld to a family connected to many of Europe&#39;s ruling monarchs. At the age of twenty he married his first cousin, Queen Victoria, with whom he would ultimately have nine children. Initially he felt constrained by his position as consort, which did not confer any power or duties upon him, but he soon began to lend his support to many public causes, such as educational reform and the worldwide abolition of slavery, and took on the responsibilities of running the Queen&#39;s household, estates and office. He was heavily involved with the organisation of the Great Exhibitio</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le prince Albert de Saxe-Cobourg-Gotha (Franz August Karl Albert Emanuel von Sachsen Coburg und Gotha), né le 26 août 1819 au château de Rosenau près de Cobourg et décédé le 14 décembre 1861 au château de Windsor, fut un membre de la famille royale britannique, époux de la reine Victoria. Il est titré prince consort par son épouse en 1857, il est le seul consort britannique à avoir porté le titre.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Prinz Franz Albrecht August Karl Emanuel von Sachsen-Coburg und Gotha, Herzog zu Sachsen, genannt Albert, (* 26. August 1819 auf Schloss Rosenau bei Coburg, Deutschland; † 14. Dezember 1861 auf Schloss Windsor, Berkshire, England) war Ehemann Königin Victorias von Großbritannien und Irland und seit 1857 britischer Prinzgemahl (engl. Prince Consort). Sein älterer Bruder war Ernst II., regierender Herzog im deutschen Doppelherzogtum Sachsen-Coburg und Gotha.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El príncipe Alberto de Sajonia-Coburgo-Gotha (en alemán: Franz Albrecht August Karl Emanuel von Sachsen-Coburg und Gotha; 26 de agosto de 1819-14 de diciembre de 1861), conocido como el príncipe consorte, fue el esposo de la reina Victoria del Reino Unido de Gran Bretaña e Irlanda.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Francisco Alberto Augusto Carlos Emanuel (Coburgo, 26 de agosto de 1819 – Windsor, 14 de dezembro de 1861) foi o marido da rainha Vitória e príncipe consorte do Reino Unido da Grã-Bretanha e Irlanda de 1840 até sua morte. Morreu jovem, aos 42 anos de idade, deixando Vitória em estado de profundo luto que durou pelo resto de sua vida. Quando a rainha morreu em janeiro de 1901, seu filho mais velho, Eduardo VII, a sucedeu como o primeiro monarca britânico da Casa de Saxe-Coburgo-Gota, nomeada por causa da casa ducal à qual Alberto pertencia.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Albert Sachsen-Coburg-Gotha, właśc., niem.: Franz August Carl Albert Emmanuel von Sachsen-Coburg und Gotha (ur. 26 sierpnia 1819 w Coburgu, Bawaria, zm. 14 grudnia 1861 w Windsorze, Berkshire, Wielka Brytania) – drugi syn Ernesta I Sachsen-Coburg-Gotha i jego pierwszej żony – Ludwiki Sachsen-Gotha-Altenburg. Książę małżonek Wielkiej Brytanii, jako mąż swojej kuzynki, królowej brytyjskiej, Wiktorii. Miał jednego brata Ernesta.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Grandchildren_of_Victoria" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Albert" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/176157199" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rbE-jw_QGSEm3KAnoP3Do8A" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Albert_von_Sachsen-Coburg_und_Gotha" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Albert_Sasko-Kobursko-Gothajský" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Albert,_Prince_Consort" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Albert_van_Saksen-Coburg_en_Gotha" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/작센코부르크고타의_앨버트" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alberto_di_Sassonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Albert_dari_Saxe-Coburg_dan_Gotha" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Prince_Albert" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0k5z2" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q152245" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alberto_de_Saxe-Coburgo-Gota" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Albert_(książę_Wielkiej_Brytanii_i_Irlandii)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alberto_de_Sajonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アルバート_(ザクセン＝コーブルク＝ゴータ公子)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Albert_de_Saxe-Cobourg-Gotha" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11864758X" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q152245" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Windsor_Castle" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Berkshire" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1861-12-14</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/German_Confederation" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Schloss_Rosenau,_Coburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Coburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saxe-Coburg-Saalfeld" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1819-08-26</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1819-8-26</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_reformers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Coburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_emigrants_to_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Great_Masters_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Thistle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:11th_Hussars_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1861_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_St_Patrick" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Saxe-Coburg_and_Gotha" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Companion_of_the_Order_of_the_Star_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scots_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Bonn_alumni" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Queen_Victoria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Albert,_Prince_Consort" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_St_Michael_and_St_George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Fellows_of_the_Royal_Society_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grenadier_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(United_Kingdom)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_the_Zoological_Society_of_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_the_British_Science_Association" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1819_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76811</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744116120</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://online.wsj.com/article/SB10001424052748704107104574572273134498780.html?mod=WSJ_hpp_MIDDLENexttoWhatsNewsSecond" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=_v8yAAAAMAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nationalpost.com/arts/movies/story.html?id=2353046" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/historic_figures/albert_prince.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.royalcollection.org.uk/collection/the-collectors/prince-albert" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=7mgZAAAAMAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=iy2hYgEACAAJ" />
+    <dbp:reference rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-14</dbp:reference>
+    <dbp:reference rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-07</dbp:reference>
+    <dbp:reference rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-26</dbp:reference>
+    <foaf:name xml:lang="en">Francis Albert Augustus Charles Emmanuel</foaf:name>
+    <foaf:name xml:lang="en">Albert, Prince Consort</foaf:name>
+    <foaf:name xml:lang="en">Prince Albert</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Albert_of_Saxe-Coburg-Gotha_by_Franz_Xaver_Winterhalter.jpg" />
+    <dct:description xml:lang="en">Prince Consort of the United Kingdom</dct:description>
+    <foaf:givenName xml:lang="en">Albert</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Albert,_Prince_Consort" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Prince_Albert_of_Saxe-Coburg-Gotha_by_Franz_Xaver_Winterhalter.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Albert,_Prince_Consort?oldid=744116120" />
+    <dbo:abstract xml:lang="zh">阿尔伯特亲王（Albert, Prince Consort，1819年8月26日－1861年12月14日），全名弗朗西斯·阿尔伯特·奥古斯都·查尔斯·埃曼纽尔，最初被称为萨克森-科堡-哥达的阿尔伯特王子，是英国维多利亚女王的表弟和丈夫。与女王成婚后，长期被称为“阿尔伯特亲王殿下”（HRH Prince Albert），1857年女王钦赐王夫（Prince Consort）称号，也是英國歷史上唯一獲封王夫位號的君主配偶。 阿尔伯特的出生地萨克森-科堡-萨尔费尔德公国与欧洲诸多王室有姻亲关系。在其20岁时，与表姐维多利亚成婚，婚后育有九个孩子。最初，阿尔伯特深受限制，其身份仅是女王的配偶，而没有其他相应的权力或职责。随着时间推移，他吸取了诸多民众诉求，例如实行教育改革、全球范围内推行废奴运动、管理宗室事务和女王办公室等。他积极参与1851年世界博览会的筹办。政治上，尽管他反对帕默斯顿勋爵在外交大臣任内所奉行的政策，但他还是说服了女王在与议会交往时不带有党派倾向性。这一点上，还是促进了英国君主立宪制的发展。 阿尔伯特于1861年去世，得年42岁。他的英年早逝使女王在余生陷入深深的悼念。1901年，他和维多利亚的长子爱德华七世即位，成为首位萨克森-科堡-哥达王朝的君主。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Prinz Franz Albrecht August Karl Emanuel von Sachsen-Coburg und Gotha, Herzog zu Sachsen, genannt Albert, (* 26. August 1819 auf Schloss Rosenau bei Coburg, Deutschland; † 14. Dezember 1861 auf Schloss Windsor, Berkshire, England) war Ehemann Königin Victorias von Großbritannien und Irland und seit 1857 britischer Prinzgemahl (engl. Prince Consort). Sein älterer Bruder war Ernst II., regierender Herzog im deutschen Doppelherzogtum Sachsen-Coburg und Gotha.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Nato in Sassonia, membro della famiglia dei duchi di Sassonia-Coburgo-Saalfeld, connessa con la maggior parte dei monarchi europei, all&#39;età di 20 anni sposò la sua prima cugina, la regina Vittoria del Regno Unito, con la quale ebbe nove figli. In un primo momento Alberto si sentiva quasi costretto nella sua posizione di principe consorte che non gli conferiva alcun potere specifico. Col tempo egli seppe invece dare grande risalto alla sua persona e conseguentemente anche al suo ruolo sociale, prendendo posizione in molte cause pubbliche come le riforme sull&#39;educazione e l&#39;abolizione della schiavitù nei territori dell&#39;Impero Britannico, oltre ad accollarsi il non facile compito di gestire la corte inglese. Molto coinvolto nell&#39;organizzazione della Great Exhibition del 1851, Alberto contribuì fortemente allo sviluppo della monarchia costituzionale inglese nell&#39;Ottocento, persuadendo la moglie a divenire una figura predominante della scena politica nazionale. Morì di cancro allo stomaco alla giovane età di 42 anni, lasciando la regina in un profondo lutto che la accompagnò per tutto il resto della sua lunga vita.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Francisco Alberto Augusto Carlos Emanuel (Coburgo, 26 de agosto de 1819 – Windsor, 14 de dezembro de 1861) foi o marido da rainha Vitória e príncipe consorte do Reino Unido da Grã-Bretanha e Irlanda de 1840 até sua morte. Nasceu no ducado saxão de Saxe-Coburgo-Saalfeld em uma família com relações familiares com vários monarcas europeus e aos vinte anos de idade casou-se com sua prima direta Vitória, com quem teve nove filhos. No início, ele sentia-se restringido em sua posição de consorte, que não lhe dava nenhum poder ou função oficial. Com o passar do tempo o príncipe adotou várias causas, como uma reforma educacional e a abolição mundial da escravatura, também assumindo as responsabilidades administrativas da criadagem, propriedades e escritório da rainha. Alberto envolveu-se ativamente na organização da Grande Exposição de 1851 e ajudou no desenvolvimento da monarquia constitucional britânica ao persuadir sua esposa a mostrar menos partidarismo nos assuntos do parlamento — mesmo discordando ativamente da política internacional intervencionista promovida por Henry Temple, 3.º Visconde Palmerston, o secretário de assuntos estrangeiros. Morreu jovem, aos 42 anos de idade, deixando Vitória em estado de profundo luto que durou pelo resto de sua vida. Quando a rainha morreu em janeiro de 1901, seu filho mais velho, Eduardo VII, a sucedeu como o primeiro monarca britânico da Casa de Saxe-Coburgo-Gota, nomeada por causa da casa ducal à qual Alberto pertencia.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le prince Albert de Saxe-Cobourg-Gotha (Franz August Karl Albert Emanuel von Sachsen Coburg und Gotha), né le 26 août 1819 au château de Rosenau près de Cobourg et décédé le 14 décembre 1861 au château de Windsor, fut un membre de la famille royale britannique, époux de la reine Victoria. Il est titré prince consort par son épouse en 1857, il est le seul consort britannique à avoir porté le titre. Albert est né dans le duché saxon de Saxe-Cobourg-Saalfeld dans une famille apparentée à plusieurs autres monarques européens. À l&#39;âge de 20 ans il épouse sa cousine germaine, la reine Victoria avec laquelle il a neuf enfants. Initialement contraint dans sa fonction de consort qui n&#39;apporte pas de pouvoir particulier, il apporte rapidement son soutien à plusieurs causes telles que la réforme de l&#39;éducation, l&#39;abolition de l&#39;esclavage et prend la responsabilité de la gestion des propriétés de la reine. Il est également très investi dans l&#39;organisation de l&#39;exposition universelle de 1851 qui a lieu au Royaume-Uni. Libéral, il encourage également sont épouse dans le développement de la monarchie constitutionnelle britannique. Il meurt 14 décembre 1861 à l&#39;âge de 42 ans de la fièvre typhoïde laissant son épouse dans un deuil profond pour le reste de sa vie. À la mort de la reine 40 ans plus tard, leur fils accède au trône sous le nom d&#39;Édouard VII. Ce dernier est le premier monarque issu de la Maison de Saxe-Cobourg-Gotha qui règne toujours aujourd&#39;hui sur le royaume.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الأمير البرت (26 أغسطس 1819 - 1861)، زوج الملكة فيكتوريا. تزوج وهو في العشرين من عمره من ابنة عمته الأميرة فيكتوريا ورافقها حين أصبحت الملكة. عاشا سعيدين حتى توفي عن عمر 42 سنة في 14 ديسمبر 1861. عاشت الملكة وهي تندبه بقية عمرها الطويل. خلفا 9 من الأبناء تمت مصاهرتهم جميعا بعائلات ملكية أوروبية أخرى. وأصبح ابنهما إدوارد السابع ملكا على المملكة المتحدة بعد وفاة والدته عام 1901.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ザクセン＝コーブルク＝ゴータ公子アルバート（英語: Albert, Prince of Saxe-Coburg-Gotha, 1819年8月26日 - 1861年12月14日）は、イギリス女王ヴィクトリアの夫。ザクセン＝コーブルク＝ゴータ公子でザクセンの公（Herzog zu Sachsen）。ドイツ語名はアルブレヒト（Albrecht）。 イギリス女王の夫として、議会から唯一公式に「プリンス・コンソート」（The Prince Consort）の称号を認められた人物である。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Prince Albert of Saxe-Coburg and Gotha (Francis Albert Augustus Charles Emmanuel; later the Prince Consort; 26 August 1819 – 14 December 1861) was the husband of Queen Victoria. He was born in the Saxon duchy of Saxe-Coburg-Saalfeld to a family connected to many of Europe&#39;s ruling monarchs. At the age of twenty he married his first cousin, Queen Victoria, with whom he would ultimately have nine children. Initially he felt constrained by his position as consort, which did not confer any power or duties upon him, but he soon began to lend his support to many public causes, such as educational reform and the worldwide abolition of slavery, and took on the responsibilities of running the Queen&#39;s household, estates and office. He was heavily involved with the organisation of the Great Exhibition of 1851, which was a resounding success. As the Queen depended more and more on his help and guidance, Albert aided in the development of Britain&#39;s constitutional monarchy by persuading his wife to show less partisanship in her dealings with Parliament—although he actively disagreed with the interventionist foreign policy pursued during Lord Palmerston&#39;s tenure as Foreign Secretary. He died at the relatively young age of forty-two, plunging the Queen into a deep mourning that lasted for the rest of her life. Upon Queen Victoria&#39;s death in 1901, their eldest son, Edward VII, succeeded as the first British monarch of the House of Saxe-Coburg and Gotha, named after the ducal house to which Albert belonged.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Frans Albert August Karel Emanuel van Saksen-Coburg en Gotha (Coburg, 26 augustus 1819 - Windsor Castle, 14 december 1861), Prins van Saksen-Coburg-Saalfeld, Hertog van Saksen, was de prins-gemaal van de Britse koningin Victoria van het Verenigd Koninkrijk. Albert stierf jong, hij was 42 jaar, en liet koningin Victoria achter met zeer veel verdriet. Toen zij in 1901 stierf werd hun oudste zoon, Edward, koning van het Verenigd Koninkrijk, en nam toen de achternaam van zijn vader, Saksen-Coburg en Gotha, aan. Het Britse koningshuis dat voorheen Hannover als achternaam had kreeg toen de achternaam Saksen-Coburg en Gotha. Echter werd na 16 jaar de achternaam alweer veranderd in Windsor, vanwege de wandaden die de Duitsers hadden gepleegd in de Eerste Wereldoorlog. Hij stond in het Britse Rijk bekend als His Royal Highness The Prince Consort (Nederlands: Zijne Koninklijke Hoogheid de Prins-gemaal).</dbo:abstract>
+    <dbo:abstract xml:lang="es">El príncipe Alberto de Sajonia-Coburgo-Gotha (en alemán: Franz Albrecht August Karl Emanuel von Sachsen-Coburg und Gotha; 26 de agosto de 1819-14 de diciembre de 1861), conocido como el príncipe consorte, fue el esposo de la reina Victoria del Reino Unido de Gran Bretaña e Irlanda. Nació en el ducado sajón de Sajonia-Coburgo-Saalfeld, en el seno de una familia conectada con muchos de los monarcas gobernantes de Europa. A los 20 años se casó con su prima hermana, la reina Victoria, con quien más adelante tendría nueve hijos. Al principio de su matrimonio, Alberto se sintió limitado por su posición como consorte, que no le confería ningún poder o responsabilidad; sin embargo, con el tiempo adoptó muchas causas públicas, como la reforma educativa y la abolición de la esclavitud a nivel mundial, y asumió la administración del personal, las propiedades y la oficina de la reina. Estuvo muy involucrado en la organización de la Gran Exposición de 1851. Alberto ayudó a desarrollar la monarquía constitucional del Reino Unido convenciendo a su esposa para que se mostrara menos partidista en sus relaciones con el Parlamento, aunque estaba profundamente en desacuerdo con la política exterior intervencionista seguida durante la permanencia de lord Palmerston como secretario de Relaciones Exteriores. Murió a la edad de 42 años, lo que sumió a la reina en un profundo duelo que duró el resto de su vida. Después de la muerte de la reina Victoria en 1901, su hijo mayor, Eduardo VII, la sucedió como el primer monarca británico de la Casa de Sajonia-Coburgo y Gotha, nombrada así por la casa ducal a la cual pertenecía Alberto.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Альбе́рт Франц Август Эммануил, ге́рцог Саксен-Кобург-Готский (нем. Albert Franz August Karl Emmanuel Herzog von Sachsen-Coburg-Gotha; 26 августа 1819 — 14 декабря 1861) — супруг (принц-консорт, англ. HRH the Prince Consort) королевы Великобритании Виктории, второй сын герцога Эрнста Саксен-Кобургского (генерала русской службы, участника наполеоновских войн) и принцессы Луизы Саксен-Готской. Британский фельдмаршал (1840). Родоначальник ныне царствующей в Великобритании Виндзорской династии.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Albert Sachsen-Coburg-Gotha, właśc., niem.: Franz August Carl Albert Emmanuel von Sachsen-Coburg und Gotha (ur. 26 sierpnia 1819 w Coburgu, Bawaria, zm. 14 grudnia 1861 w Windsorze, Berkshire, Wielka Brytania) – drugi syn Ernesta I Sachsen-Coburg-Gotha i jego pierwszej żony – Ludwiki Sachsen-Gotha-Altenburg. Książę małżonek Wielkiej Brytanii, jako mąż swojej kuzynki, królowej brytyjskiej, Wiktorii. Miał jednego brata Ernesta.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1861</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1840</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Louise_of_Saxe-Gotha-Altenburg_(1800–1831)" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Frogmore" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Queen_Victoria" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Darby</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Smith</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1p" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1983</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hobhouse</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2pp" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1983</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/3a" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Weintraub</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/3p" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/3y" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997</p:>
+    -->
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Prince_George,_Duke_of_Cambridge" />
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">queen consort</dbp:as>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by Winterhalter, 1859</dbp:caption>
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:colwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbp:colwidth>
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--12-23</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">*</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Louise,_Duchess_of_Argyll" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Leopold,_Duke_of_Albany" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Helena_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Victoria,_Princess_Royal" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Beatrice_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Alice_of_the_United_Kingdom" />
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Adelaide_of_Saxe-Meiningen" />
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Alexandra_of_Denmark" />
+    <dbp:ref rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-14</dbp:ref>
+    <dbp:ref rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-07</dbp:ref>
+    <dbp:ref rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-26</dbp:ref>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_British_consorts" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colonel of the Scots Fusilier Guards</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_British_consorts" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colonel-in-Chief of the Rifle Brigade</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colonel of the 11th (Prince Albert&#39;s Own) Hussars</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colonel of the Grenadier Guards</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Lord_Warden_of_the_Stannaries" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Chancellors_of_the_University_of_Cambridge" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Great_Masters_of_the_Order_of_the_Bath" />
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1852</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1847</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1840</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1842</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1843</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Husband" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_and_Albert">
+    <dbo:basedOn rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Denmark">
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria,_Princess_Royal">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMY_Victoria_and_Albert_(1899)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Saxe-Coburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise,_Duchess_of_Argyll">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electoral_district_of_Albert_(South_Australia)">
+    <dbp:namesake rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prince_Consort">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert,_Prince_Consort">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adelaide_of_Saxe-Meiningen">
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Percy,_3rd_Duke_of_Northumberland">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_of_Saxe-Gotha-Altenburg_(1800–1831)">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Saxe-Coburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Saxe_Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Saxe_Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leicestershire_Yeomanry">
+    <dbo:patron rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labourer&#39;s_Friend_Society">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Saxe-Coburg-Saalfield">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Saxe-Coburg-Saalfield">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Charles_Augustus_Albert">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_of_Saze-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Albert_Augustus_Charles_Emmanuel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Albert,_Prince_Consort">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Consort_Albert">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Charles_Augustus_Emmanuel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+  </rdf:Description>
+</rdf:RDF>

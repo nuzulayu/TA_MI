@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cape_Colony">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom">
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Victoria">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfrid_Laurier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Ceylon">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Mowat">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Walter_Scott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Cadogan,_5th_Earl_Cadogan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Eldon_Gorst">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Lygon,_7th_Earl_Beauchamp">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Milner,_1st_Viscount_Milner">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Peters">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Haszard">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Goschen,_2nd_Viscount_Goschen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Hendrik_Hofmeyr_(Onze_Jan)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_Monument_(Montreal)">
+    <dbp:dedicatedTo rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1906_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Seddon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Grey,_4th_Earl_Grey">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_New_Zealand">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Hunter_McMillan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_H._V._Bulyea">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julian_Pauncefote,_1st_Baron_Pauncefote">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Edward,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Pollock">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pratt,_4th_Marquess_Camden">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Fischer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Clifford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Morley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_X._Merriman">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King&#39;s_South_Africa_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lemuel_John_Tweedie">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rennell_Rodd,_1st_Baron_Rennell">
+    <dbp:momarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Crewe-Milnes,_1st_Marquess_of_Crewe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rufus_Isaacs,_1st_Marquess_of_Reading">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_Nigeria_Protectorate">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jordan_(diplomat)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Farquharson_(politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri-Gustave_Joly_de_Lotbinière">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Northcote,_1st_Baron_Northcote">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Pugsley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duncan_Cameron_Fraser">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Vane-Tempest-Stewart,_6th_Marquess_of_Londonderry">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_West_Ridgeway">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_in_Saskatchewan">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1908_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Deakin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aretas_Akers-Douglas,_1st_Viscount_Chilston">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederic_Thesiger,_1st_Viscount_Chelmsford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Robinson,_1st_Marquess_of_Ripon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whitelaw_Reid">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jenkins_(Australian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Charles_Clarke,_3rd_Baronet">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_Olivier,_1st_Baron_Olivier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Fitzalan-Howard,_15th_Duke_of_Norfolk">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Hely-Hutchinson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifford_William_Robinson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Gawler_Prior">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Murray">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Dunsmuir">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Douglas_Hazen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_McBride">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodmond_Roblin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Yorke,_6th_Earl_of_Hardwicke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Everard_im_Thurn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Moore_Jackson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Wingate">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transvaal_Scottish_Regiment">
+    <dbp:postIncumbent rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barton_Government">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1902_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1903_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Straits_Settlements">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_W._A._G._Haultain">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leander_Starr_Jameson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMY_Britannia_(Royal_Cutter_Yacht)">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osbert_Molyneux,_6th_Earl_of_Sefton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Peake">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Amable_Jetté">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/10th_Jats">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/11th_Rajputs">
+    <dbo:notableCommander rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/13th_Rajputs_(The_Shekhawati_Regiment)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/14th_King_George&#39;s_Own_Ferozepore_Sikhs">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/15th_Ludhiana_Sikhs">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/17th_Infantry_(The_Loyal_Regiment)">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/18th_Infantry">
+    <dbp:ceremonialChief rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Spencer_Berkeley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natal_Native_Rebellion_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Decoration_for_Officers_of_the_Royal_Naval_Volunteer_Reserve">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Elliot-Murray-Kynynmound,_4th_Earl_of_Minto">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hallam_Tennyson,_2nd_Baron_Tennyson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Arthur_Blake">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hope,_1st_Marquess_of_Linlithgow">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Victoria_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_Prince_Consort">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Fisher">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._H._Asquith">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Chamberlain">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Somerset,_3rd_Baron_Raglan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Morison_Gibson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lomer_Gouin">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Humble_Ward,_2nd_Earl_of_Dudley">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mortimer_Clark">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Marcil">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Napoléon_Belcourt">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Franklin_Sutherland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kedah_Sultanate">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Edward_VII">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Distinguished_Conduct_Medal_(Natal)">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fielding_Clarke">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_in_Alberta">
+    <dbp:firstMonarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1909_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Denmark">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caesar_(dog)">
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Barton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Earl110041373" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandMastersOfTheUnitedGrandLodgeOfEngland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfTrinityCollege,Cambridge" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTheRoyalNationalCollegeForTheBlind" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emperor110053004" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAttemptedAssassinationSurvivors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Maestro110280130" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Businessman109882007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110388924" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheThistle" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOwnersOfEpsomDerbyWinners" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfEngland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEarlsOfChester" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FlagOfficer110094584" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Admiral109771204" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfCornwall" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Businessperson109882716" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Capitalist109609232" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfChristChurch,Oxford" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FieldMarshal110086821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110296176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishFieldMarshals" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Survivor110681194" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalNavyAdmiralsOfTheFleet" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfRothesay" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesInThePeerageOfScotland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfStPatrick" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfNewZealand" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfAustralia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEmperorsOfIndia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsWhoWereFreemasons" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchsOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfCanada" />
+    <rdfs:label xml:lang="fr">Édouard VII</rdfs:label>
+    <rdfs:label xml:lang="ar">إدوارد السابع ملك المملكة المتحدة</rdfs:label>
+    <rdfs:label xml:lang="en">Edward VII</rdfs:label>
+    <rdfs:label xml:lang="de">Eduard VII.</rdfs:label>
+    <rdfs:label xml:lang="ru">Эдуард VII</rdfs:label>
+    <rdfs:label xml:lang="es">Eduardo VII del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="ja">エドワード7世 (イギリス王)</rdfs:label>
+    <rdfs:label xml:lang="pt">Eduardo VII do Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="nl">Eduard VII van het Verenigd Koninkrijk</rdfs:label>
+    <rdfs:label xml:lang="zh">爱德华七世</rdfs:label>
+    <rdfs:label xml:lang="pl">Edward VII</rdfs:label>
+    <rdfs:label xml:lang="it">Edoardo VII del Regno Unito</rdfs:label>
+    <rdfs:comment xml:lang="ja">エドワード7世（英語: Edward VII、アルバート・エドワード、英語: Albert Edward、1841年11月9日 - 1910年5月6日）は、サクス＝コバーグ・アンド・ゴータ朝の初代イギリス国王、インド皇帝（在位：1901年1月22日 - 1910年5月6日）。 母であるヴィクトリア女王の在位が長期に渡ったため、史上最も長くプリンス・オブ・ウェールズ（皇太子）の立場にあった。 在位は1901年から1910年までの10年足らずであったが、その治世は「エドワード朝（Edwardian era）」と呼ばれる。在位中は1905年まで保守党（ソールズベリー侯爵とバルフォア）、その後は自由党（キャンベル＝バナマンとアスキス）が政権を担当した。彼の治世下に日英同盟、英仏協商、英露協商が締結され、日本・フランス・ロシアとの関係が強化されたため、「ピースメーカー」と呼ばれた。 王妃はデンマーク国王クリスチャン9世の娘アレクサンドラ（愛称アリックス）。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Édouard VII (né Albert Edward, le 9 novembre 1841 à Londres au palais de Buckingham et mort le 6 mai 1910 au même endroit) fut roi du Royaume-Uni et des dominions (Canada, Australie, Nouvelle-Zélande, Terre-Neuve) ainsi qu&#39;empereur des Indes du 22 janvier 1901 jusqu&#39;à sa mort. Fils de la reine Victoria, Édouard resta l&#39;héritier de la Couronne britannique et porta le titre de prince de Galles pendant près de 60 ans. Durant le long règne de sa mère, il fut largement mis à l&#39;écart des questions politiques et personnifia la riche élite aristocratique britannique.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Edward VII, właśc. Albert Edward (ur. 9 listopada 1841 w Londynie, zm. 6 maja 1910 tamże) – od 22 stycznia 1901 król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii i dominiów brytyjskich oraz cesarz Indii. Syn królowej Wiktorii. Panowanie Edwarda przyniosło pewien powiew świeżości w zakresie obyczajów – konserwatywna królowa Wiktoria stała się symbolem pruderii, jej syn słynął z rozrywkowego trybu życia. W przeciwieństwie do matki raczej nie brał bezpośredniego udziału w rządzeniu państwem, zajmując się pełnieniem funkcji reprezentacyjnych. Swoimi wizytami w Paryżu i ujmującym sposobem bycia podłożył jednak podwaliny pod porozumienie brytyjsko-francuskie (na przełomie XIX i XX wieku Francja i Wielka Brytania traktowały siebie z nieufnością, a często również i z wrogością) oraz powsta</rdfs:comment>
+    <rdfs:comment xml:lang="en">Edward VII (Albert Edward; 9 November 1841 – 6 May 1910) was King of the United Kingdom and the British Dominions and Emperor of India from 22 January 1901 until his death in 1910. The eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward was related to royalty throughout Europe. Before his accession to the throne, he served as heir apparent and held the title of Prince of Wales for longer than any of his predecessors. During the long reign of his mother, he was largely excluded from political power, and came to personify the fashionable, leisured elite. He travelled throughout Britain performing ceremonial public duties, and represented Britain on visits abroad. His tours of North America in 1860 and the Indian subcontinent in 1875 were popular successes, but des</rdfs:comment>
+    <rdfs:comment xml:lang="es">Eduardo VII del Reino Unido (Albert Edward of Saxe-Coburg and Gotha, 9 de noviembre de 1841-6 de mayo de 1910) fue rey del Reino Unido y los dominios de la Mancomunidad Británica y emperador de la India del 22 de enero de 1901 hasta su muerte el 6 de mayo de 1910. Fue el primer monarca británico de la casa de Sajonia-Coburgo-Gotha, que años después fue renombrada como la casa de Windsor por su hijo, Jorge V.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eduard VII. (engl. Edward VII., gebürtig Kronprinz Albert Edward; * 9. November 1841 im Buckingham Palace, London; † 6. Mai 1910 ebenda) war der erste britische Herrscher aus dem Haus Sachsen-Coburg und Gotha (seit 1917 in Großbritannien Haus Windsor genannt) und ältester Sohn Königin Victorias. Eduard war vom 22. Januar 1901 bis zu seinem Tod König des Vereinigten Königreichs von Großbritannien und Irland und Kaiser von Indien.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эдуа́рд VII (англ. Edward VII; 9 ноября 1841, Букингемский дворец, Лондон — 6 мая 1910, там же) — король Великобритании и Ирландии, император Индии c 22 января 1901, австрийский фельдмаршал (1 мая 1904), первый из Саксен-Кобург-Готской (ныне Виндзорской) династии.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Eduard VII (Engels: Albert Edward) (Londen, 9 november 1841 – aldaar, 6 mei 1910) was koning van het Verenigd Koninkrijk van Groot-Brittannië en Ierland en keizer van Indië vanaf 22 januari 1901 tot zijn dood op 6 mei 1910. Hij was de eerste vorst uit het Huis Saksen-Coburg en Gotha die over het Verenigd Koninkrijk regeerde. Ook zijn zoon, koning George V, behoorde tot het Huis Saksen-Coburg en Gotha maar tijdens de Eerste Wereldoorlog werd de naam door George V veranderd in het Brits klinkende Huis Windsor.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">爱德华七世（英语：Edward VII，1841年11月9日－1910年5月6日），全名阿尔伯特·爱德华（英语：Albert Edward），英国国王，印度皇帝。他是维多利亚女王和阿尔伯特亲王的第二个孩子及长子，出生当年即被封为威尔士亲王，一直到60岁登基，是作为威尔士亲王时间最长的国王。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) إدوارد السابع (ألبرت إدوارد؛ 9 نوفمبر 1841 - 6 مايو 1910)، ملك المملكة المتحدة، ملك دول الكومنولث وإمبراطور الهند. هو ابن الملكة فيكتوريا وأول عاهل من بيت ساكس-كوبورغ.الذي تم تغيير إسمه إلى بيت وندسور من قبل إبنه جورج الخامس</rdfs:comment>
+    <rdfs:comment xml:lang="it">Figlio della regina Vittoria si trovò a gestire l&#39;impero coloniale più grande del pianeta, compito che la fine della seconda guerra anglo-boera (1902) gli rese meno gravoso, ma che si complicò con il riarmo navale della Germania. Contribuì a riavvicinare il Regno Unito agli Stati Uniti, alla Russia, all&#39;Italia e alla Spagna. Assunse anche delle iniziative di politica internazionale autonome e, coadiuvato dal ministro degli Esteri Lansdowne, concorse in modo decisivo alla stipula dell&#39;Entente cordiale con la Francia (1904).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Eduardo VII (Londres, 9 de novembro de 1841 – Londres, 6 de maio de 1910) foi Rei do Reino Unido e dos domínios britânicos e Imperador da Índia de 22 de janeiro de 1901 até sua morte, sendo o primeiro monarca britânico da Casa de Saxe-Coburgo-Gota.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q20875" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/에드워드_7세" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Eduardo_VII_do_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エドワード7世_(イギリス王)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Édouard_VII" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eduard_VII." />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Edward_VII" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Edoardo_VII_del_Regno_Unito" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q20875" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118528955" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Εδουάρδος_Ζ΄_του_Ηνωμένου_Βασιλείου" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Eduardo_VII.a_Erresuma_Batukoa" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cm03" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Eduard_VII_van_het_Verenigd_Koninkrijk" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Edward_VII_dari_Britania_Raya" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Eduardo_VII_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Edward_VII_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Edward_VII" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Eduard_VII." />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwUlq25wpEbGdrcN5Y29ycA" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Buckingham_Palace" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-5-6</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-05-06</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Buckingham_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1841-11-9</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1841-11-09</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Star_of_Ethiopia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Star_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Owners_of_Epsom_Derby_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Officiers_of_the_Légion_d&#39;honneur" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1910_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_Royal_National_College_for_the_Blind" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_Ireland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Thistle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Emperors_of_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_bronchitis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1841_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monarchs_of_Australia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_St_Patrick" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_St_Michael_and_St_George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cornwall" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Coburg_and_Gotha_(United_Kingdom)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Great_Masters_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Edward_VII" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:10th_Royal_Hussars_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Edwardian_era" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_state_of_New_Zealand" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Masters_of_the_United_Grand_Lodge_of_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Commander_of_the_Order_of_the_Indian_Empire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Trinity_College,_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Royal_Order_of_Kalākaua" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Tower_and_Sword" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Christ_Church,_Oxford" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46721</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743962247</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://archive.org/details/speechesaddresse00edwaiala" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.oxforddnb.com/view/article/32975" />
+    <foaf:name xml:lang="en">Edward VII</foaf:name>
+    <foaf:name xml:lang="en">Albert Edward</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward VII</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Edward_VII_in_coronation_robes.jpg" />
+    <dct:description xml:lang="en">King of the United Kingdom and the British Dominions and Emperor of India</dct:description>
+    <foaf:givenName xml:lang="en">Eduardo</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Edward_VII" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Edward_VII_in_coronation_robes.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Edward_VII?oldid=743962247" />
+    <dbo:abstract xml:lang="en">Edward VII (Albert Edward; 9 November 1841 – 6 May 1910) was King of the United Kingdom and the British Dominions and Emperor of India from 22 January 1901 until his death in 1910. The eldest son of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha, Edward was related to royalty throughout Europe. Before his accession to the throne, he served as heir apparent and held the title of Prince of Wales for longer than any of his predecessors. During the long reign of his mother, he was largely excluded from political power, and came to personify the fashionable, leisured elite. He travelled throughout Britain performing ceremonial public duties, and represented Britain on visits abroad. His tours of North America in 1860 and the Indian subcontinent in 1875 were popular successes, but despite public approval his reputation as a playboy prince soured his relationship with his mother. As king, Edward played a role in the modernisation of the British Home Fleet and the reorganisation of the British Army after the Second Boer War. He re-instituted traditional ceremonies as public displays and broadened the range of people with whom royalty socialised. He fostered good relations between Britain and other European countries, especially France, for which he was popularly called &quot;Peacemaker&quot;, but his relationship with his nephew, Kaiser Wilhelm II, was poor. The Edwardian era, which covered Edward&#39;s reign and was named after him, coincided with the start of a new century and heralded significant changes in technology and society, including steam turbine propulsion and the rise of socialism. He died in 1910 in the midst of a constitutional crisis that was resolved the following year by the Parliament Act 1911, which restricted the power of the unelected House of Lords.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эдуа́рд VII (англ. Edward VII; 9 ноября 1841, Букингемский дворец, Лондон — 6 мая 1910, там же) — король Великобритании и Ирландии, император Индии c 22 января 1901, австрийский фельдмаршал (1 мая 1904), первый из Саксен-Кобург-Готской (ныне Виндзорской) династии.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Eduard VII (Engels: Albert Edward) (Londen, 9 november 1841 – aldaar, 6 mei 1910) was koning van het Verenigd Koninkrijk van Groot-Brittannië en Ierland en keizer van Indië vanaf 22 januari 1901 tot zijn dood op 6 mei 1910. Hij was de eerste vorst uit het Huis Saksen-Coburg en Gotha die over het Verenigd Koninkrijk regeerde. Ook zijn zoon, koning George V, behoorde tot het Huis Saksen-Coburg en Gotha maar tijdens de Eerste Wereldoorlog werd de naam door George V veranderd in het Brits klinkende Huis Windsor. Voordat hij de troon besteeg hield Eduard de titel Prins van Wales en was hij erfgenaam van de Britse troon. Hij was tot 2007 degene die de titel Prins van Wales het langst hield in de geschiedenis van Groot-Brittannië, namelijk 49 jaar. Pas in 2007 werd hij hierin gepasseerd door prins Charles. Tijdens de lange periode dat zijn moeder, koningin Victoria, weduwe was, werd Eduard buiten de staatszaken gehouden en mocht hij zich niet bemoeien met de politiek. Hij hield zich deze periode veel met zichzelf bezig, met zijn vele minnaressen, de mode en zijn familie. De periode waarin Eduard regeerde stond in het Verenigd Koninkrijk bekend als het Edwardiaans tijdperk (Edwardian period), de opvolger van de beroemde Victoriaanse periode. Het was het begin van een nieuwe eeuw en van vele veranderingen in de technologie, het sociale leven, de opkomst van de luchtvaart en het steeds populairder worden van het socialisme. Ook werd op 27 februari 1900 de Labour Party opgericht. Eduard speelde een rol in de modernisering van de in Groot-Brittannië beroemde home fleet, een onderdeel van de Britse Royal Navy. De home fleet beschermde de Britse territoriale wateren. Hij was ook verantwoordelijk voor de reorganisatie van het Britse leger na de Tweede Boerenoorlog die zich afspeelde in Zuid-Afrika, dat toen onderdeel was van het Britse Rijk. Ook al deed Eduard er alles aan om de relaties tussen landen op het Europese continent te verbeteren, vooral de relatie tussen Groot-Brittannië en Frankrijk, waar hij de bijnaam &quot;peacemaker&quot; voor kreeg, toch kon hij niet voorkomen dat in 1914 de Eerste Wereldoorlog uitbrak. Dit was dan wel tijdens de regering van zijn zoon, maar dat er een grote oorlog aan kwam, dat was tijdens de regering van Eduard VII al wel zichtbaar.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Eduardo VII del Reino Unido (Albert Edward of Saxe-Coburg and Gotha, 9 de noviembre de 1841-6 de mayo de 1910) fue rey del Reino Unido y los dominios de la Mancomunidad Británica y emperador de la India del 22 de enero de 1901 hasta su muerte el 6 de mayo de 1910. Fue el primer monarca británico de la casa de Sajonia-Coburgo-Gotha, que años después fue renombrada como la casa de Windsor por su hijo, Jorge V. Antes de su ascenso al trono, llevó el título de príncipe de Gales y fue heredero aparente durante más tiempo que cualquiera de sus predecesores: 59 años, dos meses y trece días. Durante el largo reinado de su madre, la reina Victoria, fue excluido del poder político y llegó a personificar la tan de moda ociosa aristocracia. La época eduardiana, que abarca el reinado de Eduardo y fue nombrada en su honor, coincidió con la llegada de un nuevo siglo y el inicio de cambios significativos en la tecnología y la sociedad, incluyendo el vuelo con motor y el surgimiento del socialismo. Eduardo desempeñó un papel importante en la modernización de la flota británica, la reforma de los servicios médicos del ejército y la reorganización del ejército británico después de la Segunda Guerra de los Bóeres. Eduardo fomentó las buenas relaciones entre Gran Bretaña y otros países europeos, especialmente Francia, por lo que fue conocido popularmente como «el Pacificador».</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Édouard VII (né Albert Edward, le 9 novembre 1841 à Londres au palais de Buckingham et mort le 6 mai 1910 au même endroit) fut roi du Royaume-Uni et des dominions (Canada, Australie, Nouvelle-Zélande, Terre-Neuve) ainsi qu&#39;empereur des Indes du 22 janvier 1901 jusqu&#39;à sa mort. Fils de la reine Victoria, Édouard resta l&#39;héritier de la Couronne britannique et porta le titre de prince de Galles pendant près de 60 ans. Durant le long règne de sa mère, il fut largement mis à l&#39;écart des questions politiques et personnifia la riche élite aristocratique britannique. L&#39;époque édouardienne coïncida avec le début du XXe siècle et connut d&#39;importants changements technologiques et sociaux. Édouard VII joua un rôle important dans la modernisation de la Home Fleet, la réforme des services médicaux militaires et la réorganisation de l&#39;Armée de terre britannique après la seconde guerre des Boers. Il développa de bonnes relations entre le Royaume-Uni et les autres pays européens, en particulier la France, et reçut pour cela le surnom populaire de Peacemaker (« Pacificateur »).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">エドワード7世（英語: Edward VII、アルバート・エドワード、英語: Albert Edward、1841年11月9日 - 1910年5月6日）は、サクス＝コバーグ・アンド・ゴータ朝の初代イギリス国王、インド皇帝（在位：1901年1月22日 - 1910年5月6日）。 母であるヴィクトリア女王の在位が長期に渡ったため、史上最も長くプリンス・オブ・ウェールズ（皇太子）の立場にあった。 在位は1901年から1910年までの10年足らずであったが、その治世は「エドワード朝（Edwardian era）」と呼ばれる。在位中は1905年まで保守党（ソールズベリー侯爵とバルフォア）、その後は自由党（キャンベル＝バナマンとアスキス）が政権を担当した。彼の治世下に日英同盟、英仏協商、英露協商が締結され、日本・フランス・ロシアとの関係が強化されたため、「ピースメーカー」と呼ばれた。 王妃はデンマーク国王クリスチャン9世の娘アレクサンドラ（愛称アリックス）。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eduard VII. (engl. Edward VII., gebürtig Kronprinz Albert Edward; * 9. November 1841 im Buckingham Palace, London; † 6. Mai 1910 ebenda) war der erste britische Herrscher aus dem Haus Sachsen-Coburg und Gotha (seit 1917 in Großbritannien Haus Windsor genannt) und ältester Sohn Königin Victorias. Eduard war vom 22. Januar 1901 bis zu seinem Tod König des Vereinigten Königreichs von Großbritannien und Irland und Kaiser von Indien.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">爱德华七世（英语：Edward VII，1841年11月9日－1910年5月6日），全名阿尔伯特·爱德华（英语：Albert Edward），英国国王，印度皇帝。他是维多利亚女王和阿尔伯特亲王的第二个孩子及长子，出生当年即被封为威尔士亲王，一直到60岁登基，是作为威尔士亲王时间最长的国王。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Figlio della regina Vittoria si trovò a gestire l&#39;impero coloniale più grande del pianeta, compito che la fine della seconda guerra anglo-boera (1902) gli rese meno gravoso, ma che si complicò con il riarmo navale della Germania. Contribuì a riavvicinare il Regno Unito agli Stati Uniti, alla Russia, all&#39;Italia e alla Spagna. Assunse anche delle iniziative di politica internazionale autonome e, coadiuvato dal ministro degli Esteri Lansdowne, concorse in modo decisivo alla stipula dell&#39;Entente cordiale con la Francia (1904). Mantenne più che buoni i rapporti con gli Asburgo, ma nel 1908 contestò apertamente la decisione austriaca di annettersi la Bosnia ed Erzegovina (Crisi bosniaca). Fece di tutto per conciliare le misure politiche contro il riarmo tedesco e conservare buoni i rapporti con il nipote l&#39;imperatore di Germania Guglielmo II. Per le sue capacità diplomatiche fu soprannominato Peacemaker (in italiano: il “Pacificatore”). Per le sue parentele con diversi monarchi d&#39;Europa, per cui risultava zio (naturale o acquisito) dello zar Nicola II di Russia, del kaiser Guglielmo II di Germania e di re Alfonso XIII di Spagna, fu soprannominato Uncle of Europe (in italiano: lo “zio d&#39;Europa”).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Eduardo VII (Londres, 9 de novembro de 1841 – Londres, 6 de maio de 1910) foi Rei do Reino Unido e dos domínios britânicos e Imperador da Índia de 22 de janeiro de 1901 até sua morte, sendo o primeiro monarca britânico da Casa de Saxe-Coburgo-Gota. Filho da rainha Vitória e do príncipe Alberto de Saxe-Coburgo-Gota, ele foi o herdeiro aparente que por mais tempo sustentou o título de Príncipe de Gales em toda a história. Durante o longo reinado de sua mãe, ele foi afastado dos assuntos de Estado e personificou a elite ociosa, tão em voga na época. Eduardo viajou pelo reino realizando vários deveres cerimoniais e representou o Reino Unido no exterior. Suas viagens pela América do Norte em 1860 e pela Índia em 1875 foram grandes sucessos, porém sua reputação de príncipe libertino corroeu a relação com sua mãe. Ele ascendeu ao trono em 1901 e o período de seu reinado ficou conhecido como era eduardiana. Eduardo desempenhou um importante papel na modernização da marinha e na reorganização do exército após a Segunda Guerra dos Bôeres. Ele reinstituiu cerimônias tradicionais e ampliou a gama de pessoas com quem socializava. Eduardo promoveu boas relações entre a Grã-Bretanha e os outros países europeus, especialmente com a França, onde ficou popularmente conhecido como &quot;o Pacificador&quot;, porém tinha uma relação ruim com seu sobrinho o imperador Guilherme II da Alemanha. Eduardo morreu em 1910 no meio de uma crise constitucional que foi resolvida no ano seguinte com o Decreto Parlamentar de 1911.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) إدوارد السابع (ألبرت إدوارد؛ 9 نوفمبر 1841 - 6 مايو 1910)، ملك المملكة المتحدة، ملك دول الكومنولث وإمبراطور الهند. هو ابن الملكة فيكتوريا وأول عاهل من بيت ساكس-كوبورغ.الذي تم تغيير إسمه إلى بيت وندسور من قبل إبنه جورج الخامس قبل إعلائه العرش شغل منصب ولي العهد وأمير ويلز لمدة أطول من أسلافهالعهد الإدواردي (والذي سمي بإسمه) تزامن مع طفرة تكنولوجية واجتماعية هامة تمثلت أساسا بظهور الطيران وصعود الاشتراكية . ولعب إدواد السابع دورا هاما في تحديث الأسطول البريطاني الداخلي وإصلاح الخدمات الطبية للجيش البريطاني وإعادة التنظيم للجيش أثر حرب البوير الثانية كما عمل على تعزيز العلاقات بين بريطانيا العظمى والبلدان الأوروبية الأخرى وخاصة فرنسا حتى أصبح يسمى &quot;صانع السلام&quot;</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Edward VII, właśc. Albert Edward (ur. 9 listopada 1841 w Londynie, zm. 6 maja 1910 tamże) – od 22 stycznia 1901 król Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii i dominiów brytyjskich oraz cesarz Indii. Syn królowej Wiktorii. Panowanie Edwarda przyniosło pewien powiew świeżości w zakresie obyczajów – konserwatywna królowa Wiktoria stała się symbolem pruderii, jej syn słynął z rozrywkowego trybu życia. W przeciwieństwie do matki raczej nie brał bezpośredniego udziału w rządzeniu państwem, zajmując się pełnieniem funkcji reprezentacyjnych. Swoimi wizytami w Paryżu i ujmującym sposobem bycia podłożył jednak podwaliny pod porozumienie brytyjsko-francuskie (na przełomie XIX i XX wieku Francja i Wielka Brytania traktowały siebie z nieufnością, a często również i z wrogością) oraz powstanie Trójporozumienia, do którego dołączyła Rosja.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1910</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1901</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Albert,_Prince_Consort" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Queen_Victoria" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Alexandra_of_Denmark" />
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Coronation portrait by Sir Luke Fildes</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Statue outside Holyrood Palace, Edinburgh</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Statue of King Edward VII, Bangalore, India</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Statue in Queen Victoria Gardens, Melbourne</dbp:caption>
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward VII of the United Kingdom</dbp:commons>
+    <dbp:corType rdf:resource="http://dbpedia.org/resource/Coronation_of_King_Edward_VII_and_Queen_Alexandra" />
+    <dbp:corType rdf:resource="http://dbpedia.org/resource/Delhi_Durbar" />
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1903-01-01</dbp:coronation>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-08-09</dbp:coronation>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">q20875</dbp:d>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-05-20</dbp:dateOfBurial>
+    <dbp:footer rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Statues of Edward can be found throughout the former empire.</dbp:footer>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha" />
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward+VII,+King+of+Great+Britain</dbp:id>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward VII Front Full, Bangalore.JPG</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Edward Edinburgh.jpg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King Edward VII 0918.jpg</dbp:image>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Maud_of_Wales" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Victoria_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louise,_Princess_Royal" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Alexander John of Wales</dbp:issue>
+    <dbp:issueLink rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#Issue</dbp:issueLink>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Queen_Victoria" />
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:q>
+    <dbp:regType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prime Ministers</dbp:regType>
+    <dbp:regent rdf:resource="http://dbpedia.org/resource/List_of_Prime_Ministers_of_King_Edward_VII" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Church_of_England" />
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Author:Edward VII</dbp:s>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">EdwardVII Signature.svg</dbp:signature>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of the United Kingdom and the British Dominions, Emperor of India</dbp:succession>
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/George_V" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Great_Masters_of_the_Order_of_the_Bath" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colonel of the 10th (Prince of Wales&#39;s Own Royal) Hussars</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/United_Grand_Lodge_of_England" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Cornwall" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prince_of_Wales" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Rothesay" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">and the British Dominions,</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_British_monarchs" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Emperor_of_India" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:voy>
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">177</dbp:width>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1897</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1874</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1863</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1841</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-22</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Reid_(Australian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Gascoyne-Cecil,_4th_Marquess_of_Salisbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Butler_(Australian_politician)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Territorial_Decoration">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1908_Summer_Olympics">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominion_of_New_Zealand">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Petty-Fitzmaurice,_5th_Marquess_of_Lansdowne">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_MacGregor">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Plunket,_5th_Baron_Plunket">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_edward_vii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1907_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_of_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jabez_Bunting_Snowball">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Watson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Central_Africa_Protectorate">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Rawson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise,_Princess_Royal">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Bond">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/League_of_Mercy">
+    <dbp:author rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+    <dbp:founder rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Cochrane-Baillie,_2nd_Baron_Lamington">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Alphonse_Pantaléon_Pelletier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ailwyn_Fellowes,_1st_Baron_Ailwyn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Gilpin_Jones">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_McCallum">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Champneys_Williams">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_rule_in_Burma">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Jeune,_1st_Baron_St_Helier">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wilson_Paterson">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/11th_Canadian_Parliament">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Karney_Young">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Ehrhardt">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Henry_Major">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Balfour">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_George_Hamilton">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Bruce,_6th_Lord_Balfour_of_Burleigh">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_North_America">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Palmer,_2nd_Earl_of_Selborne">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hamilton-Gordon,_1st_Marquess_of_Aberdeen_and_Temair">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_public_art_in_Bristol">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_public_art_in_Somerset">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abner_Reid_McClelan">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1904_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1905_in_Australia">
+    <dbp:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deakin_Government_(1903-1904)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watson_Government">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naval_Good_Shooting_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Strickland,_1st_Baron_Strickland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Rothschild,_1st_Baron_Rothschild">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Tennant_Molteno">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduard_VII">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reserve_Long_Service_and_Good_Conduct_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Cameron_Rutherford">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Campbell-Bannerman">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer,_6th_Earl_Spencer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Campbell,_3rd_Earl_Cawdor">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Grosvenor,_2nd_Duke_of_Westminster">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Lowther,_1st_Viscount_Ullswater">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Whitney">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Gibson-Carmichael,_1st_Baron_Carmichael">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Price">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Thynne,_5th_Marquess_of_Bath">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Onslow,_4th_Earl_of_Onslow">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amédée_E._Forget">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Morris,_1st_Baron_Morris">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Balfour,_1st_Baron_Kinross">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Philippe_Brodeur">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Windsor-Clive,_1st_Earl_of_Plymouth">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Raj">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Whiteside_McCay">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Allardyce">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coronation_of_King_Edward_VII_and_Queen_Alexandra">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wynn-Carington,_1st_Marquess_of_Lincolnshire">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Holder">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hall-Jones">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Forbes,_8th_Earl_of_Granard">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Adolphus_McIntyre">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Edward_VII_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bromley-Davenport_(British_Army_officer)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Henry_May">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Clarke,_1st_Baron_Sydenham_of_Combe">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Ward">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Botha">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Reid,_1st_Earl_Loreburn">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uchter_Knox,_5th_Earl_of_Ranfurly">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Cavendish-Bentinck,_6th_Duke_of_Portland">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Emmott,_1st_Baron_Emmott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Annesley,_11th_Viscount_Valentia">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Hodges_Choate">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_William_Ross">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon-Napoléon_Parent">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Henniker-Major,_5th_Baron_Henniker">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Alexander_MacKinnon">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Henry_Herbert">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bisset_Berry">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blake_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McCallum_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ridgeway_executive_council_of_Ceylon">
+    <dbp:stateHead rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Permanent_Forces_of_the_Empire_Beyond_the_Seas_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Edward,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Edward,_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Edward_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Edward">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Edward,_Duke_of_Cornwall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Edward,_Duke_of_Rothesay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Edward,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Albert_Edward_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_of_Scotland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_vii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_vii_of_the_united_kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Naval_Volunteer_Reserve_Long_Service_and_Good_Conduct_Medal">
+    <dbp:awardedBy rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Vii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_VII_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_7">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Edward_VII">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_Prince_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edw._7">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edward_VII" />
+  </rdf:Description>
+</rdf:RDF>

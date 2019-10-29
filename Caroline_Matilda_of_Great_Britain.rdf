@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_matilda_of_great_britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Augusta_of_Saxe-Gotha">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Caroline_Matilda_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Prince_of_Wales">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_VI_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VII_of_Denmark">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_Auguste_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Matilda_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishRoyalConsorts" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Absentee109757653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat18th-centuryNorwegianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNorwegianRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Exile110071332" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExiles" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consort109958724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdfs:label xml:lang="ar">كارولين ماتيلدا من بريطانيا العظمى</rdfs:label>
+    <rdfs:label xml:lang="es">Carolina Matilde de Gran Bretaña</rdfs:label>
+    <rdfs:label xml:lang="it">Carolina Matilde di Hannover</rdfs:label>
+    <rdfs:label xml:lang="de">Caroline Mathilde</rdfs:label>
+    <rdfs:label xml:lang="nl">Caroline Mathilde van Wales</rdfs:label>
+    <rdfs:label xml:lang="en">Caroline Matilda of Great Britain</rdfs:label>
+    <rdfs:label xml:lang="ja">キャロライン・マティルダ・オブ・ウェールズ</rdfs:label>
+    <rdfs:label xml:lang="pt">Carolina Matilde da Grã-Bretanha</rdfs:label>
+    <rdfs:label xml:lang="fr">Caroline-Mathilde de Hanovre</rdfs:label>
+    <rdfs:label xml:lang="pl">Karolina Matylda Hanowerska</rdfs:label>
+    <rdfs:label xml:lang="ru">Каролина Матильда Великобританская</rdfs:label>
+    <rdfs:comment xml:lang="de">Caroline Mathilde von Hannover (engl. Caroline Matilda, deutsch Karoline Mathilde) (* 11. Julijul./ 22. Juli 1751greg. im Leicester House, London; † 10. Mai 1775 in Celle), war eine englische Prinzessin und von 1766 bis 1772 als Ehefrau von Christian VII. Königin von Dänemark und Norwegen. Anfang 1772 wurde sie wegen ihrer Affäre mit dem Leibarzt Johann Friedrich Struensee geschieden und nach Celle verbannt, wo sie von ihren Kindern getrennt bis zu ihrem frühen Tod lebte.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Karolina Matylda duń. Caroline Mathilde (ur. 22 lipca 1751 w Londynie, zm. 10 maja 1775 w Celle) – królowa Danii i Norwegii. Była siostrą króla Wielkiej Brytanii, Jerzego III, i córką księcia Walii Fryderyka Ludwika (1707-1751) i księżnej Walii Augusty (1719-1772). 8 listopada 1766 poślubiła w Kopenhadze króla Danii Chrystiana VII. W 1767 r. została wraz z mężem koronowana w kościele zamku Christiansborg w Kopenhadze. Małżeństwo Karoliny Matyldy ze swoim duńskim kuzynem spowodowane było rachubami politycznymi mającymi na celu wzmocnienie pozycji Danii poprzez bliskie związki rodzinne obu dworów. Jako że Chrystian VII cierpiał na chorobę umysłową, nie był w stanie prowadzić normalnego pożycia z Karoliną Matyldą. Parze urodził się jednak syn, przyszły król Danii, Fryderyk VI (1768-1839).</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Каролина Матильда (англ. Caroline Matilda of Great Britain, дат. Caroline Mathilde; 11 июля 1751, Лондон — 10 мая 1775, Целле) — супруга короля Дании Кристиана VII, сестра короля Великобритании Георга III.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">كارولين ماتيلدا من بريطانيا العظمى (بالدنماركية:Caroline Mathilde؛ 11 يوليو 1751 – 10 مايو 1775) كانت ملكة الدنمارك والنرويج من 1766 إلى 1775 بزواجها من كريستيان السابع.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Caroline Mathilde van Wales (Londen, 11 juni 1751 - Celle, 10 mei 1775) was een Britse prinses. Zij was de jongste dochter van kroonprins Frederik, prins van Wales en prinses Augusta van Saksen-Gotha. Haar vader overleed plotseling, drie maanden voor haar geboorte. Daarop werd haar broer, George, de nieuwe prins van Wales. Zijzelf zou steeds worden aangeduid als Caroline Mathilde van Wales. Op vijftienjarige leeftijd - op 8 november 1766 - trouwde ze met haar neef, de Deense koning Christiaan VII. Het paar kreeg twee kinderen:</rdfs:comment>
+    <rdfs:comment xml:lang="en">Caroline Matilda of Great Britain (Danish: Caroline Mathilde; 22 July 1751 – 10 May 1775) was queen consort of Denmark and Norway by marriage to King Christian VII.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Carolina Matilde (Londres, 11 de julho de 1751 – Celle, 10 de maio de 1775) foi a esposa do rei Cristiano VII e rainha consorte do Reino da Dinamarca e Noruega de 1766 até sua morte, apesar de os dois terem oficialmente se separado em abril de 1772.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Caroline-Mathilde de Hanovre (en anglais : Caroline Matilda of Great Britain), née le 11 juillet 1751 à Londres (Grande-Bretagne), morte le 10 mai 1775 à Celle (Brunswick-Lunebourg), fut reine consort de Danemark et de Norvège par son mariage avec Christian VII de Danemark. Sœur du roi George III du Royaume-Uni, elle est mariée à quinze ans au roi de Danemark, qui se révèle rapidement atteint d&#39;une maladie mentale, et la néglige pour fréquenter les bas-fonds de Copenhague.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">キャロライン・マティルダ（Caroline Matilda of Wales, 1751年7月11日 - 1775年5月10日）は、デンマーク＝ノルウェーの王クリスチャン7世の妃。イギリス王及びハノーファー選帝侯ジョージ2世の長男フレデリック・ルイス王太子の末娘で、ジョージ3世の妹。デンマーク語名はカロリーネ・マティルデ・ア・ストアブリタニエン（Caroline Mathilde af Storbritannien）。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carolina Matilde de Hanóver (Leicester House, Londres, 11 de julio de 1751 - Celle, 10 de mayo de 1775) fue la última de los nueve hijos de Federico Luis de Hannover, príncipe de Gales, y de Augusta de Sajonia-Gotha. Su nacimiento ocurrió casi 4 meses después de la muerte de su padre, acaecida el 20 de marzo de 1751.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Caroline-Mathilde_de_Hanovre" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Καρολίνα_Ματθίλδη_της_Μεγάλης_Βρετανίας" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q57668" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carolina_Matilde_de_Gran_Bretaña" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carolina_Matilde_di_Hannover" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Karolina_Matylda_Hannoverská" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Caroline_Mathilde" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11866722X" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carolina_Matilde_da_Grã-Bretanha" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karolina_Matylda_Hanowerska" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Caroline_Mathilde_van_Wales" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/キャロライン・マティルダ・オブ・ウェールズ" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06cwtx" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Caroline_Matilda_of_Great_Britain" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q57668" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Celle" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Holy_Roman_Empire" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-5-10</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-05-10</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Great_Britain" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Essex_House_(London)" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1751-7-11</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1751-07-22</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_streptococcus_infection" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_emigrants_to_Denmark" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Norwegian_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1751_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1775_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Oldenburg" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997961</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743436322</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongernessamling.dk/en/rosenborg/person/caroline-mathilde/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ftp.cac.psu.edu/~saw/royal/r10.html#I340" />
+    <foaf:name xml:lang="en">Caroline Matilda of Great Britain</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Caroline-Mathildeofwales_denmark.jpg" />
+    <dct:description xml:lang="en">Queen consort of Denmark and Norway, 1766–1772</dct:description>
+    <foaf:givenName xml:lang="en">Carolina</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Caroline_Matilda_of_Great_Britain" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Caroline-Mathildeofwales_denmark.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Caroline_Matilda_of_Great_Britain?oldid=743436322" />
+    <dbo:abstract xml:lang="ja">キャロライン・マティルダ（Caroline Matilda of Wales, 1751年7月11日 - 1775年5月10日）は、デンマーク＝ノルウェーの王クリスチャン7世の妃。イギリス王及びハノーファー選帝侯ジョージ2世の長男フレデリック・ルイス王太子の末娘で、ジョージ3世の妹。デンマーク語名はカロリーネ・マティルデ・ア・ストアブリタニエン（Caroline Mathilde af Storbritannien）。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Caroline Mathilde von Hannover (engl. Caroline Matilda, deutsch Karoline Mathilde) (* 11. Julijul./ 22. Juli 1751greg. im Leicester House, London; † 10. Mai 1775 in Celle), war eine englische Prinzessin und von 1766 bis 1772 als Ehefrau von Christian VII. Königin von Dänemark und Norwegen. Anfang 1772 wurde sie wegen ihrer Affäre mit dem Leibarzt Johann Friedrich Struensee geschieden und nach Celle verbannt, wo sie von ihren Kindern getrennt bis zu ihrem frühen Tod lebte.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Caroline Matilda of Great Britain (Danish: Caroline Mathilde; 22 July 1751 – 10 May 1775) was queen consort of Denmark and Norway by marriage to King Christian VII.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Karolina Matylda duń. Caroline Mathilde (ur. 22 lipca 1751 w Londynie, zm. 10 maja 1775 w Celle) – królowa Danii i Norwegii. Była siostrą króla Wielkiej Brytanii, Jerzego III, i córką księcia Walii Fryderyka Ludwika (1707-1751) i księżnej Walii Augusty (1719-1772). 8 listopada 1766 poślubiła w Kopenhadze króla Danii Chrystiana VII. W 1767 r. została wraz z mężem koronowana w kościele zamku Christiansborg w Kopenhadze. Małżeństwo Karoliny Matyldy ze swoim duńskim kuzynem spowodowane było rachubami politycznymi mającymi na celu wzmocnienie pozycji Danii poprzez bliskie związki rodzinne obu dworów. Jako że Chrystian VII cierpiał na chorobę umysłową, nie był w stanie prowadzić normalnego pożycia z Karoliną Matyldą. Parze urodził się jednak syn, przyszły król Danii, Fryderyk VI (1768-1839). Królowa prowadziła samotny żywot na dworze kopenhaskim, podczas gdy król bawił się w mieście lub podróżował. W 1770 r. królowa weszła w intymne związki z pełniącym na dworze królewskim obowiązki m.in. lekarza, wpływowym politykiem Johannem Friedrichem Struensee, z którym miała córkę Luizę Augustę (ur. 7 lipca 1771). Romans królowej ze Struensee trwał do stycznia 1772 r., kiedy w wyniku przewrotu pałacowego oboje zostali aresztowani po balu maskowym w teatrze dworskim. Królowa została uwięziona w zamku Kronborg w Elzynorze. Struensee został skazany na karę śmierci i stracony 28 kwietnia 1772 r. Przed jego śmiercią, 6 kwietnia, doszło do rozwodu pary królewskiej. Naciski dworu brytyjskiego doprowadziły do uwolnienia królowej i skazania ją na wygnanie. Karolina Matylda opuściła Danię na angielskiej fregacie, którą dopłynęła do Niemiec. Już nigdy nie zobaczyła swoich dzieci. Zamieszkała w zamku w Celle k. Hanoweru, gdzie wkrótce zmarła na płonicę i gdzie też została pochowana. Trumna ze zwłokami królowej jest złożona w krypcie kościoła NMP (Stadtkirche St. Marien) w Celle. Karolina Matylda jest jedyną duńską królową od czasów Chrystiana III, której odmówiono prawa do pochówku w katedrze w Roskilde. Kilka miesięcy przed śmiercią Karolina Matylda porozumiała się ze swoim starszym bratem - królem Jerzym III. Razem postanowili wygnać znienawidzoną królową-wdowę Julianę Marię, a Karolina miała objąć funkcję regentki państwa, w imieniu niepełnoletniego syna Fryderyka VI. Rozpoczęto przygotowanie do usunięcia Juliany Marii i przywrócenia Karoliny Matyldy na duński i norweski tron. Plany te pokrzyżowały choroba i śmierć Karoliny Matyldy.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Каролина Матильда (англ. Caroline Matilda of Great Britain, дат. Caroline Mathilde; 11 июля 1751, Лондон — 10 мая 1775, Целле) — супруга короля Дании Кристиана VII, сестра короля Великобритании Георга III.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carolina Matilde de Hanóver (Leicester House, Londres, 11 de julio de 1751 - Celle, 10 de mayo de 1775) fue la última de los nueve hijos de Federico Luis de Hannover, príncipe de Gales, y de Augusta de Sajonia-Gotha. Su nacimiento ocurrió casi 4 meses después de la muerte de su padre, acaecida el 20 de marzo de 1751.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">كارولين ماتيلدا من بريطانيا العظمى (بالدنماركية:Caroline Mathilde؛ 11 يوليو 1751 – 10 مايو 1775) كانت ملكة الدنمارك والنرويج من 1766 إلى 1775 بزواجها من كريستيان السابع.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Caroline Mathilde van Wales (Londen, 11 juni 1751 - Celle, 10 mei 1775) was een Britse prinses. Zij was de jongste dochter van kroonprins Frederik, prins van Wales en prinses Augusta van Saksen-Gotha. Haar vader overleed plotseling, drie maanden voor haar geboorte. Daarop werd haar broer, George, de nieuwe prins van Wales. Zijzelf zou steeds worden aangeduid als Caroline Mathilde van Wales. Op vijftienjarige leeftijd - op 8 november 1766 - trouwde ze met haar neef, de Deense koning Christiaan VII. Het paar kreeg twee kinderen: 
+*  Frederik (28 januari 1768 - 3 december 1839), hij werd na de dood van zijn vader in 1808 koning van Denemarken 
+*  Louise Augusta (7 juli 1771 - 13 januari 1843), zij trad in het huwelijk met Frederik Christiaan II van Sleeswijk-Holstein-Sonderburg-Augustenburg Christiaan VII leed onderwijl aan sterk verzwakte mentale vermogens en de regering van het land was feitelijk in haar handen, tezamen met konings lijfarts, Johann Friedrich Struensee, met wie ze een geheime verhouding had. Deze lijfarts trachtte de ideeën van de verlichting in Denemarken ingang te doen vinden. Dit stuitte op weerstand binnen het hof. In het bijzonder de stiefmoeder van de koning, koningin-weduwe Juliana Maria, had duidelijk andere plannen voor haar eigen zoon, erfprins Frederik. Zij zorgde ervoor dat de verhouding van Struensee met Caroline Mathilde bekend werd. Struensee werd op beschuldiging van majesteitsschennis onthoofd. Het huwelijk tussen Caroline Mathilde en Christiaan VII werd vervolgens ontbonden. Caroline Mathilde werd van het hof verbannen. Over haar lot werd langdurig onderhandeld tussen Engeland en Denemarken. Zij werd ten slotte naar Celle bij Hannover gebracht waar ze tot haar dood in het kasteel woonde. Op 10 mei 1775 overleed ze onverwacht aan een besmettelijke koortsziekte. Ze was toen drieëntwintig jaar oud. Ze heeft haar kinderen nooit teruggezien. Deze periode wordt beschreven in de roman Het bezoek van de lijfarts, van de Zweedse schrijver Per Olov Enquist. Ook is er een film over gemaakt, genaamd En kongelig affære.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Carolina Matilde (Londres, 11 de julho de 1751 – Celle, 10 de maio de 1775) foi a esposa do rei Cristiano VII e rainha consorte do Reino da Dinamarca e Noruega de 1766 até sua morte, apesar de os dois terem oficialmente se separado em abril de 1772.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Caroline-Mathilde de Hanovre (en anglais : Caroline Matilda of Great Britain), née le 11 juillet 1751 à Londres (Grande-Bretagne), morte le 10 mai 1775 à Celle (Brunswick-Lunebourg), fut reine consort de Danemark et de Norvège par son mariage avec Christian VII de Danemark. Sœur du roi George III du Royaume-Uni, elle est mariée à quinze ans au roi de Danemark, qui se révèle rapidement atteint d&#39;une maladie mentale, et la néglige pour fréquenter les bas-fonds de Copenhague.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1775</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1766</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Augusta_of_Saxe-Gotha" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Celle" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Holy_Roman_Empire" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <dbp:dateOfChristening rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1751-07-22</dbp:dateOfChristening>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Pastel by Francis Cotes, 1766</dbp:caption>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1775-05-13</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Louise_Augusta_of_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick_VI_of_Denmark" />
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen consort of Denmark and Norway</dbp:succession>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen consort of Denmark and Norway</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1766</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Queen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_of_Hesse-Kassel">
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Mathilda">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Caroline_Mathilde">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Caroline_Mathilde_of_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Matilda_of_Wales">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Caroline_Matilda_of_Great_Britain">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matilda_Caroline">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+  </rdf:Description>
+</rdf:RDF>

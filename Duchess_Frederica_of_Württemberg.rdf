@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromTrzebiatów" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfWürttemberg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWürttemberg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdfs:label xml:lang="de">Friederike von Württemberg</rdfs:label>
+    <rdfs:label xml:lang="es">Federica de Wurtemberg</rdfs:label>
+    <rdfs:label xml:lang="ja">フリーデリケ・フォン・ヴュルテンベルク</rdfs:label>
+    <rdfs:label xml:lang="it">Federica Elisabetta di Württemberg</rdfs:label>
+    <rdfs:label xml:lang="ru">Фридерика Вюртембергская</rdfs:label>
+    <rdfs:label xml:lang="pt">Frederica de Württemberg</rdfs:label>
+    <rdfs:label xml:lang="en">Duchess Frederica of Württemberg</rdfs:label>
+    <rdfs:comment xml:lang="en">Duchess Frederica of Württemberg (German: Friederike Elisabeth Amalie Auguste von Württemberg; 27 July 1765 – 24 November 1785) was a daughter of Frederick II Eugene, Duke of Württemberg and Friederike Dorothea of Brandenburg-Schwedt.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Фридерика Елизавета Амалия Августа Вюртембергская (нем. Friederike Elisabeth Amalie Auguste von Württemberg; 27 июля 1765, Трептов-на-Реге — 24 ноября 1785, Ойтин) — принцесса Вюртемберга, супруга принца Гольштейн-Готторпского Петра I.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Frederica Isabel Amália Augusta de Württemberg (Trzebiatów, 27 de julho de 1765 - Viena, 24 de novembro de 1785) foi a esposa do príncipe Pedro Frederico de Holstein-Gottorp, futuro grão-duque Pedro I de Oldemburgo.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Friederike Elisabeth Amalie Auguste von Württemberg (* 27. Juli 1765 in Treptow an der Rega; † 24. November 1785 in Eutin) war eine württembergische Prinzessin und später die Gemahlin von Peter Friedrich Ludwig, Prinz von Holstein-Gottorp.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フリーデリケ・エリーザベト・アマーリエ・アウグステ・フォン・ヴュルテンベルク（Friederike Elisabeth Amalie Auguste von Württemberg, 1765年7月27日 - 1785年11月24日）は、ヴュルテンベルク公フリードリヒ2世オイゲンとその妃でブランデンブルク＝シュヴェート辺境伯フリードリヒ・ヴィルヘルムの娘であるフリーデリケ・ドロテア・ゾフィアの間の次女。初代ヴュルテンベルク王フリードリヒ1世、ロシア皇后マリヤ・フョードロヴナの妹。 1781年、フリーデリケはホルシュタイン＝ゴットルプ家の公子ペーターと結婚した。フリーデリケの姉がホルシュタイン＝ゴットルプ家出身のロシア皇太子パーヴェル（後のパーヴェル1世）に嫁いでおり、ロシア帝室とヴュルテンベルク公家との絆をさらに強くするために、ロシア皇太子の同族の公子とロシア皇太子妃の妹の結婚が執り行われたのだった。夫妻は2人の息子をもうけたが、フリーデリケは1785年に出産中に力尽き、20歳で早世した。 
+* アウグスト（1783年 - 1853年） 
+* ゲオルク（1784年 - 1812年） フリーデリケの死の直前にペーターはオルデンブルク公国の摂政となり、1823年にはオルデンブルク大公となった。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Federica Isabel Amalia Augusta de Wurtemberg (27 de julio de 1765 en Treptow an der Rega - 24 de noviembre de 1785 en Viena) fue una princesa de Wurtemberg y posteriormente la esposa de Pedro Federico Luis, príncipe de Holstein-Gottorp, futuro gran duque Pedro I de Oldenburgo.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Federica_Elisabetta_di_Württemberg" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Duchess_Frederica_of_Württemberg" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Bedřiška_Alžběta_Württemberská" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Friederike_von_Württemberg" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q289520" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09k6ppf" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Frederica_de_Württemberg" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/138619107" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q289520" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Federica_de_Wurtemberg" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フリーデリケ・フォン・ヴュルテンベルク" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Austria" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Eutin" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1785-11-24</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Prussia" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Province_of_Pomerania_(1653-1815)" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Trzebiatów" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1765-07-27</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1765-7-27</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1765_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Holstein-Gottorp" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_in_childbirth" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Province_of_Pomerania" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Oldenburg_in_Oldenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1785_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Württemberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Trzebiatów" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25457972</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">717631489</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Duchess Frederica of Württemberg</foaf:name>
+    <foaf:name xml:lang="en">Duchess Frederica</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Friedericke_Elisabeth_of_Württemberg,_princess_of_Holstein-Gottorp-Oldenburg.jpg" />
+    <dct:description xml:lang="en">German noble</dct:description>
+    <foaf:givenName xml:lang="en">Federica</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duchess_Frederica_of_Württemberg" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Friedericke_Elisabeth_of_Württemberg,_princess_of_Holstein-Gottorp-Oldenburg.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duchess_Frederica_of_Württemberg?oldid=717631489" />
+    <dbo:abstract xml:lang="en">Duchess Frederica of Württemberg (German: Friederike Elisabeth Amalie Auguste von Württemberg; 27 July 1765 – 24 November 1785) was a daughter of Frederick II Eugene, Duke of Württemberg and Friederike Dorothea of Brandenburg-Schwedt.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Frederica Isabel Amália Augusta de Württemberg (Trzebiatów, 27 de julho de 1765 - Viena, 24 de novembro de 1785) foi a esposa do príncipe Pedro Frederico de Holstein-Gottorp, futuro grão-duque Pedro I de Oldemburgo.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">フリーデリケ・エリーザベト・アマーリエ・アウグステ・フォン・ヴュルテンベルク（Friederike Elisabeth Amalie Auguste von Württemberg, 1765年7月27日 - 1785年11月24日）は、ヴュルテンベルク公フリードリヒ2世オイゲンとその妃でブランデンブルク＝シュヴェート辺境伯フリードリヒ・ヴィルヘルムの娘であるフリーデリケ・ドロテア・ゾフィアの間の次女。初代ヴュルテンベルク王フリードリヒ1世、ロシア皇后マリヤ・フョードロヴナの妹。 1781年、フリーデリケはホルシュタイン＝ゴットルプ家の公子ペーターと結婚した。フリーデリケの姉がホルシュタイン＝ゴットルプ家出身のロシア皇太子パーヴェル（後のパーヴェル1世）に嫁いでおり、ロシア帝室とヴュルテンベルク公家との絆をさらに強くするために、ロシア皇太子の同族の公子とロシア皇太子妃の妹の結婚が執り行われたのだった。夫妻は2人の息子をもうけたが、フリーデリケは1785年に出産中に力尽き、20歳で早世した。 
+* アウグスト（1783年 - 1853年） 
+* ゲオルク（1784年 - 1812年） フリーデリケの死の直前にペーターはオルデンブルク公国の摂政となり、1823年にはオルデンブルク大公となった。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фридерика Елизавета Амалия Августа Вюртембергская (нем. Friederike Elisabeth Amalie Auguste von Württemberg; 27 июля 1765, Трептов-на-Реге — 24 ноября 1785, Ойтин) — принцесса Вюртемберга, супруга принца Гольштейн-Готторпского Петра I.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Friederike Elisabeth Amalie Auguste von Württemberg (* 27. Juli 1765 in Treptow an der Rega; † 24. November 1785 in Eutin) war eine württembergische Prinzessin und später die Gemahlin von Peter Friedrich Ludwig, Prinz von Holstein-Gottorp.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Federica Isabel Amalia Augusta de Wurtemberg (27 de julio de 1765 en Treptow an der Rega - 24 de noviembre de 1785 en Viena) fue una princesa de Wurtemberg y posteriormente la esposa de Pedro Federico Luis, príncipe de Holstein-Gottorp, futuro gran duque Pedro I de Oldenburgo.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_II_Eugene,_Duke_of_Württemberg" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Friederike_Dorothea_of_Brandenburg-Schwedt" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Peter_I,_Grand_Duke_of_Oldenburg" />
+    <dbo:title xml:lang="en">Princess Peter Frederick Louis of Holstein-Gottorp</dbo:title>
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">House of Holstein-Gottorp</dbp:house>
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">House of Württemberg</dbp:house>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Augustus,_Grand_Duke_of_Oldenburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duke_George_of_Oldenburg" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Daughter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_George_of_Oldenburg">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_I,_Grand_Duke_of_Oldenburg">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margravine_Friederike_of_Brandenburg-Schwedt">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Friederike_of_Württemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederica_of_Württemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Frederica_of_Wurttemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Duchess_Frederica_of_Württemberg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Duchess_Frederica_of_Württemberg" />
+  </rdf:Description>
+</rdf:RDF>

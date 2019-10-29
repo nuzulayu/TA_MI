@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klaudia_Rhédey">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAustrianCountesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHungarianPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCounts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromMureșCounty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Countess109970402" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdfs:label xml:lang="pt">Claudine Rhédey von Kis-Rhéde</rdfs:label>
+    <rdfs:label xml:lang="en">Countess Claudine Rhédey von Kis-Rhéde</rdfs:label>
+    <rdfs:label xml:lang="it">Claudine Rhédey von Kis-Rhéde</rdfs:label>
+    <rdfs:label xml:lang="es">Claudia Rhédey</rdfs:label>
+    <rdfs:label xml:lang="ja">レーデイ・クラウディア</rdfs:label>
+    <rdfs:label xml:lang="de">Claudine Rhédey von Kis-Rhéde</rdfs:label>
+    <rdfs:comment xml:lang="pt">Claudine Rhédey von Kis-Rhéde (Erdőszentgyörgy, 21 de setembro de 1812  — Pettau, 1 de outubro de 1841) era a esposa do duque Alexandre de Württemberg. O seu filho, Francisco, duque de Teck, era pai da princesa Maria de Teck, consorte do rei Jorge V do Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">レーデイ・デ・キス＝レーデ・クラウディア（ハンガリー語:Rhédey de Kis-Rhéde Klaudia, 1812年9月21日 - 1841年10月1日）は、ハンガリーの貴族女性。ヴュルテンベルク公子アレクサンダーの身分違いの妻。ドイツ語名クラウディーネ（Claudine Rhédey von Kis-Rhéde）。 ハンガリー東部トランシルヴァニア地方の小都市エルデセントジェルジに、レーデイ・ラースロー伯爵とその妻アグネスの娘として生まれた。17世紀に短期間ながらトランシルヴァニア公となったレーデイ・フェレンツを先祖に持つ。 1835年、クラウディアはヴュルテンベルク王フリードリヒ1世の弟ルートヴィヒの次男であるアレクサンダー公子と結婚した。アレクサンダーと独立した支配者家系の出身でないクラウディアとの結婚は貴賤結婚とされ、彼女はヴュルテンベルク公爵夫人の称号を与えられず、彼女と生まれてくる子供たちはホーエンシュタイン伯爵夫人（または伯爵）の称号を与えられることになった。 クラウディーネは夫とのあいだに3人の子女をもうけた。 
+* クラウディーネ（1836年 - 1894年） 
+* フランツ（1837年 - 1894年） 
+* アマーリア（1838年 - 1898年）…パウル・フォン・ヒューゲル伯爵と結婚</rdfs:comment>
+    <rdfs:comment xml:lang="en">Countess Claudine Rhédey de Kis-Rhéde (Hungarian: Rhédey Klaudia Zsuzsanna; 21 September 1812 – 1 October 1841) was the wife of Duke Alexander of Württemberg. Her son, Francis, Duke of Teck, was the father of Mary of Teck, queen consort to George V of the United Kingdom. Claudine died in Austria in 1841 after being thrown from her horse and trampled to death in front of a cavalry charge at a military review; other sources say she died in a carriage accident.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La condesa Claudia Rhédey de Kis-Rhéde (21 de septiembre de 1812 - 1 de octubre de 1841) fue una noble húngara, esposa del duque Alejandro de Wurtemberg. Su hijo Francisco, duque de Teck fue padre de María de Teck, reina consorte de Jorge V del Reino Unido. Nació en Sângeorgiu de Pădure, Transilvania (entonces parte de Hungría) hija del conde Ladislao Rhédey de Kis-Rhéde y su esposa, la baronesa Inés Inczédy de Nagy-Várad. Desde su nacimiento obtuvo el título de condesa.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Claudine Gräfin Rhédey von Kis-Rhéde (* 21. September 1812 in Erdőszentgyörgy; † 1. Oktober 1841 in Pettau) war eine ungarische Adlige und die Großmutter der britischen Königin und Kaiserin von Indien, Queen Mary.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Claudine_Rhédey_von_Kis-Rhéde" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q265865" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Claudia_Rhédey" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q265865" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02650lj" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Claudine_Rhédey_von_Kis-Rhéde" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Claudine_Rhédey_von_Kis-Rhéde" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/レーデイ・クラウディア" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Austrian_Empire" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1841-10-01</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1841-10-1</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hungarian_Kingdom" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Transylvania" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1812-9-21</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1812-09-21</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Mureș_County" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hungarian_nobility" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rhédey_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1841_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1812_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Austrian_countesses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Morganatic_spouses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Württemberg" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7545383</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743146049</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thepeerage.com/p10096.htm#i100951" />
+    <dbo:wikiPageExternalLink rdf:resource="http://genealogy.euweb.cz/hung/rhedey1.html" />
+    <foaf:name xml:lang="en">Countess Claudine Rhédey von Kis-Rhéde</foaf:name>
+    <foaf:name xml:lang="en">Claudine Rhédey von Kis-Rhéde</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rhédey_Klaudia_Hohenstein_1812_1841.jpg" />
+    <dct:description xml:lang="en">Austrian countess</dct:description>
+    <foaf:givenName xml:lang="en">Claudine</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rhédey_Klaudia_Hohenstein_1812_1841.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Countess_Claudine_Rhédey_von_Kis-Rhéde?oldid=743146049" />
+    <dbo:abstract xml:lang="de">Claudine Gräfin Rhédey von Kis-Rhéde (* 21. September 1812 in Erdőszentgyörgy; † 1. Oktober 1841 in Pettau) war eine ungarische Adlige und die Großmutter der britischen Königin und Kaiserin von Indien, Queen Mary.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Countess Claudine Rhédey de Kis-Rhéde (Hungarian: Rhédey Klaudia Zsuzsanna; 21 September 1812 – 1 October 1841) was the wife of Duke Alexander of Württemberg. Her son, Francis, Duke of Teck, was the father of Mary of Teck, queen consort to George V of the United Kingdom. She was born as a Hungarian Countess in Erdőszentgyörgy, Transylvania (then part of the Austrian Empire, today Sângeorgiu de Pădure, Romania) to Count László Rhédey de Kis-Rhéde and his wife, Baroness Ágnes Inczédy de Nagy-Várad, as a direct descendant of Ferenc Rhédey, the Hungarian prince of Transylvania between 1657 and 1658. At birth, she was styled as Countess Klaudina (Claudine) Rhédey de Kis-Rhéde. In 1835, she married Duke Alexander of Württemberg, the son of Duke Louis of Württemberg, younger brother of King Frederick I of Württemberg. Due to the German laws relating to the line of succession, she was viewed as being of non-royal rank and the marriage was declared morganatic. She was denied the title of Duchess, but was created Countess von Hohenstein on 16 May 1835, shortly after her marriage. Claudine died in Austria in 1841 after being thrown from her horse and trampled to death in front of a cavalry charge at a military review; other sources say she died in a carriage accident.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La condesa Claudia Rhédey de Kis-Rhéde (21 de septiembre de 1812 - 1 de octubre de 1841) fue una noble húngara, esposa del duque Alejandro de Wurtemberg. Su hijo Francisco, duque de Teck fue padre de María de Teck, reina consorte de Jorge V del Reino Unido. Nació en Sângeorgiu de Pădure, Transilvania (entonces parte de Hungría) hija del conde Ladislao Rhédey de Kis-Rhéde y su esposa, la baronesa Inés Inczédy de Nagy-Várad. Desde su nacimiento obtuvo el título de condesa.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">レーデイ・デ・キス＝レーデ・クラウディア（ハンガリー語:Rhédey de Kis-Rhéde Klaudia, 1812年9月21日 - 1841年10月1日）は、ハンガリーの貴族女性。ヴュルテンベルク公子アレクサンダーの身分違いの妻。ドイツ語名クラウディーネ（Claudine Rhédey von Kis-Rhéde）。 ハンガリー東部トランシルヴァニア地方の小都市エルデセントジェルジに、レーデイ・ラースロー伯爵とその妻アグネスの娘として生まれた。17世紀に短期間ながらトランシルヴァニア公となったレーデイ・フェレンツを先祖に持つ。 1835年、クラウディアはヴュルテンベルク王フリードリヒ1世の弟ルートヴィヒの次男であるアレクサンダー公子と結婚した。アレクサンダーと独立した支配者家系の出身でないクラウディアとの結婚は貴賤結婚とされ、彼女はヴュルテンベルク公爵夫人の称号を与えられず、彼女と生まれてくる子供たちはホーエンシュタイン伯爵夫人（または伯爵）の称号を与えられることになった。 クラウディーネは夫とのあいだに3人の子女をもうけた。 
+* クラウディーネ（1836年 - 1894年） 
+* フランツ（1837年 - 1894年） 
+* アマーリア（1838年 - 1898年）…パウル・フォン・ヒューゲル伯爵と結婚 クラウディアは1841年、オーストリアで軍事演習を観覧していた際、乗っていた馬から落ちて、運悪く突撃の実演を行っていた場所に倒れ、そのまま軍馬に踏み殺された。彼女の死後の1863年、3人の子供たちはテック侯に叙せられて「Serene Highness」の敬称を与えられた。長男のフランツは1866年にイギリスのヴィクトリア女王の従妹メアリー・アデレード・オブ・ケンブリッジと結婚し、このこともあって1871年にヴュルテンベルク王カール1世はフランツをテック公に昇叙した。フランツの娘ヴィクトリア・メアリーはイギリス王ジョージ5世の妃となった。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Claudine Rhédey von Kis-Rhéde (Erdőszentgyörgy, 21 de setembro de 1812  — Pettau, 1 de outubro de 1841) era a esposa do duque Alexandre de Württemberg. O seu filho, Francisco, duque de Teck, era pai da princesa Maria de Teck, consorte do rei Jorge V do Reino Unido.</dbo:abstract>
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+    <dbo:title xml:lang="en">Countess von Hohenstein</dbo:title>
+    <dbp:father rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Count László Rhédy de Kis-Rhéde</dbp:father>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">* Princess Claudine
+* Prince Francis, Duke of Teck
+* Princess Amelie</dbp:issue>
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Baroness Ágnes Inczédy de Nagy-Várad</dbp:mother>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klaudia_Rhedey">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis,_Duke_of_Teck">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claudine_Rhédey_de_Kis-Rhéde">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klaudia_Rhédey_de_Kis-Rhéde">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claudine_Rhédey_von_Kis-Rhéde">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Claudine_Rhedey_von_Kis-Rhede">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Countess_Claudine_Rhédey_von_Kis-Rhéde">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+  </rdf:Description>
+</rdf:RDF>

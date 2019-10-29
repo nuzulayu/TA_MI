@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Lyon-Bowes,_12th_Earl_of_Strathmore_and_Kinghorne">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdfs:label xml:lang="es">Claude Bowes-Lyon (1824-1904)</rdfs:label>
+    <rdfs:label xml:lang="nl">Claude Bowes-Lyon (1824-1904)</rdfs:label>
+    <rdfs:label xml:lang="it">Claude Bowes-Lyon, XIII conte di Strathmore e Kinghorne</rdfs:label>
+    <rdfs:label xml:lang="en">Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne</rdfs:label>
+    <rdfs:label xml:lang="ja">クロード・ボーズ＝ライアン (第13代ストラスモア伯爵)</rdfs:label>
+    <rdfs:comment xml:lang="nl">Claude Bowes-Lyon, de 13e graaf van Strathmore en Kinghorne (Redbourn, 21 juli 1824 – Glamis Castle, 16 februari 1904) was een Schots edelman en de overgrootvader van de Britse koningin Elizabeth II. Claude Bowes-Lyon werd geboren als tweede zoon van Thomas George Bowes-Lyon en zijn echtgenote Charlotte Grimstead. In 1865 volgde hij zijn oudere broer Thomas Bowes-Lyon op als graaf van Strathmore en Kinghorne. Op 28 september 1853 trouwde hij met Frances Dora Smith. Het echtpaar kreeg elf kinderen.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">第13代ストラスモア・アンド・キングホーン伯爵クロード・ボーズ＝ライアン（英: Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne、1824年7月21日 - 1904年2月16日）は、グレートブリテンおよびアイルランド連合王国の貴族。第14代ストラスモア伯爵クロードの父。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne (Redbourn, England 21 July 1824 – Bordighera, Italy 16 February 1904), styled The Honourable Claude Bowes-Lyon from 1847 to 1865, was a British peer. He was the 13th holder of the Earldom of Strathmore and Kinghorne. Bowes-Lyon also played cricket to a high level, making four appearances in first-class cricket, appearing three times for the Marylebone Cricket Club from 1843–46, and once for the Gentlemen of England in 1846.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Claudio Bowes-Lyon, 13vo Conde de Strathmore y Kinghorne (21 de julio de 1824 - 16 de febrero de 1904) fue un noble británico. Fue el 13vo titular del Condado de Strathmore y Kinghorne. Nació en Redburn, Hertfordshire. Era el segundo hijo sobreviviente de Tomás Lyon-Bowes, Lord Glamis y su esposa Carlota Grimstead. Sus abuelos eran Tomás Lyon-Bowes, 11vo Conde de Strathmore y Kinghorne y su primera esposa María Carpenter. Sus abuelos maternos fueron José Grimstead y Carlota Walsh.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/クロード・ボーズ＝ライアン_(第13代ストラスモア伯爵)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Claude_Bowes-Lyon_(1824-1904)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q741870" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026nk2y" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Claude_Bowes-Lyon_(1824-1904)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Claude_Bowes-Lyon,_XIII_conte_di_Strathmore_e_Kinghorne" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q741870" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Bordighera" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Italy" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-2-16</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-02-16</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Redbourn" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1824-07-21</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1824-7-21</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Place_of_death_missing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_cricketers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bowes-Lyon_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lord-Lieutenants_of_Angus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1904_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1824_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gentlemen_of_England_cricketers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marylebone_Cricket_Club_cricketers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_of_Strathmore_and_Kinghorne" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8013883</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745219107</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.thepeerage.com/p10083.htm#i100829" />
+    <dbo:wikiPageExternalLink rdf:resource="http://46.32.255.219/pdf/1897/April-28/April-28-1897-05.pdf" />
+    <foaf:name xml:lang="en">The Earl of Strathmore and Kinghorne</foaf:name>
+    <foaf:name xml:lang="en">Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Claud_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne.jpg" />
+    <dct:description xml:lang="en">Earl in the Peerage of Scotland</dct:description>
+    <foaf:givenName xml:lang="en">Claude</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Claud_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne?oldid=745219107" />
+    <dbo:abstract xml:lang="es">Claudio Bowes-Lyon, 13vo Conde de Strathmore y Kinghorne (21 de julio de 1824 - 16 de febrero de 1904) fue un noble británico. Fue el 13vo titular del Condado de Strathmore y Kinghorne. Nació en Redburn, Hertfordshire. Era el segundo hijo sobreviviente de Tomás Lyon-Bowes, Lord Glamis y su esposa Carlota Grimstead. Sus abuelos eran Tomás Lyon-Bowes, 11vo Conde de Strathmore y Kinghorne y su primera esposa María Carpenter. Sus abuelos maternos fueron José Grimstead y Carlota Walsh.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Claude Bowes-Lyon, de 13e graaf van Strathmore en Kinghorne (Redbourn, 21 juli 1824 – Glamis Castle, 16 februari 1904) was een Schots edelman en de overgrootvader van de Britse koningin Elizabeth II. Claude Bowes-Lyon werd geboren als tweede zoon van Thomas George Bowes-Lyon en zijn echtgenote Charlotte Grimstead. In 1865 volgde hij zijn oudere broer Thomas Bowes-Lyon op als graaf van Strathmore en Kinghorne. Op 28 september 1853 trouwde hij met Frances Dora Smith. Het echtpaar kreeg elf kinderen. 
+* Claude (1855-1944), de veertiende graaf van Strathmore en Kinghorne, 
+* Francis (1856-1948) 
+* Ernest (1858-1891) 
+* Herbert (1860-1897) 
+* Patrick (1863-1946) 
+* Constance Frances (1865-1951) 
+* Kenneth (1867-1911) 
+* Mildred Marion (1868-1897) 
+* Maud Agness (1870-1941) 
+* Evelyn Mary (1872-1876) 
+* Malcolm (1874-1957)</dbo:abstract>
+    <dbo:abstract xml:lang="en">Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne (Redbourn, England 21 July 1824 – Bordighera, Italy 16 February 1904), styled The Honourable Claude Bowes-Lyon from 1847 to 1865, was a British peer. He was the 13th holder of the Earldom of Strathmore and Kinghorne. He was born in Redbourn, Hertfordshire. He was the second surviving son of Thomas George Lyon-Bowes, Lord Glamis (son of the 11th Earl), and his wife Charlotte Grimstead. His paternal grandparents were Thomas Lyon-Bowes, 11th Earl of Strathmore and Kinghorne, and his first wife Mary Elizabeth Louisa Rodney Carpenter. His maternal grandparents were Joseph Valentine Grimstead and Charlotte Jane Sarah Walsh. Born Claude Lyon-Bowes, he altered the family name to Bowes-Lyon. Bowes-Lyon also played cricket to a high level, making four appearances in first-class cricket, appearing three times for the Marylebone Cricket Club from 1843–46, and once for the Gentlemen of England in 1846.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">第13代ストラスモア・アンド・キングホーン伯爵クロード・ボーズ＝ライアン（英: Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne、1824年7月21日 - 1904年2月16日）は、グレートブリテンおよびアイルランド連合王国の貴族。第14代ストラスモア伯爵クロードの父。</dbo:abstract>
+    <dbo:birthName xml:lang="en">Claude George Bowes-Lyon</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824</dbo:birthYear>
+    <dbo:deathYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1904</dbo:deathYear>
+    <dbo:personFunction rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne__1" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Thomas_Lyon-Bowes,_12th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbo:title xml:lang="en">13th Earl of Strathmore and Kinghorne</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Thomas_Lyon-Bowes,_12th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Fox_Maule-Ramsay,_11th_Earl_of_Dalhousie" />
+    <dbp:father rdf:resource="http://dbpedia.org/resource/Thomas_Lyon-Bowes,_Lord_Glamis" />
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Right_Honourable" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:imageSize>
+    <dbp:mother rdf:resource="http://dbpedia.org/resource/Charlotte_Lyon-Bowes,_Lady_Glamis" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Lord_Lieutenant_of_Angus" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Baron_Bowes" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1874</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1887</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1865</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_KinghorneI_of_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+</rdf:RDF>

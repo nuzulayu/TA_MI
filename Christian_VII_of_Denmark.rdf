@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Friedrich_Struensee">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_of_Great_Britain">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_vii_of_denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/English_Wars_(Scandinavia)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christiansborg_Palace_(2nd)">
+    <dbp:client rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Revolutionary_Wars">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_of_the_Second_Coalition">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danish_Gold_Coast">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_VI_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_V_of_Denmark">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VII_of_Denmark">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSchleswig" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSchleswig-Holstein-Sonderburg-Augustenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfHolstein" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNorwegianMonarchs" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountsOfHolstein" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromCopenhagen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat18th-centuryMonarchsInEurope" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryMonarchsInEurope" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdfs:label xml:lang="it">Cristiano VII di Danimarca</rdfs:label>
+    <rdfs:label xml:lang="de">Christian VII. (Dänemark und Norwegen)</rdfs:label>
+    <rdfs:label xml:lang="pt">Cristiano VII da Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="ru">Кристиан VII</rdfs:label>
+    <rdfs:label xml:lang="nl">Christiaan VII van Denemarken</rdfs:label>
+    <rdfs:label xml:lang="fr">Christian VII de Danemark</rdfs:label>
+    <rdfs:label xml:lang="pl">Chrystian VII Oldenburg</rdfs:label>
+    <rdfs:label xml:lang="zh">克里斯蒂安七世</rdfs:label>
+    <rdfs:label xml:lang="en">Christian VII of Denmark</rdfs:label>
+    <rdfs:label xml:lang="ar">كريستيان السابع ملك الدنمارك</rdfs:label>
+    <rdfs:label xml:lang="ja">クリスチャン7世 (デンマーク王)</rdfs:label>
+    <rdfs:label xml:lang="es">Cristián VII de Dinamarca</rdfs:label>
+    <rdfs:comment xml:lang="zh">克里斯蒂安七世（Christian 7.，1749年1月29日－1808年3月12日/13日）是丹麥及挪威國王，石勒苏益格-荷尔斯泰因公爵， 即位時只有17歲。他是弗雷德里克五世和英国国王乔治二世的女儿路易莎的儿子。 他没有受过良好的教育，即位后即和他的表妹，英国国王乔治三世的妹妹卡罗琳结婚，婚后生了一个儿子弗雷德里克六世，第二年，和一位艺妓发生关系，并公开宣称他不爱自己的妻子，因为“爱自己妻子不时髦”，这一段时间开始神志恍惚，有偏执狂，产生幻觉并自残，一切唯首相施特林澤是从，他的妻子也和首相发生关系并生了一个女儿。 1772年，在他继母的操纵下，将首相逮捕处决，和妻子离婚，皇后被流放到策勒，23岁即去世。此后大权完全由他的继母掌握，他已经患有精神分裂，1784年以后他的儿子弗雷德里克六世开始掌权。 1808年他在伦茨堡因脑动脉瘤去世，终年59岁。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Christian VII. (* 29. Januar 1749 in Kopenhagen; † 13. März 1808 in Rendsburg) war König von Dänemark und Norwegen von 1766 bis 1808 und Herzog von Schleswig und Holstein. Er stammte aus dem Haus Oldenburg. Christian VII. galt als geistesgestört. Der Nachwelt bekannt ist er vor allem wegen der Affäre um seinen Leibarzt Johann Friedrich Struensee.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Christian VII (29 January 1749 – 13 March 1808) was a monarch of the House of Oldenburg who was King of Denmark-Norway and Duke of Schleswig and Holstein from 1766 until his death. For his motto he chose: &quot;Gloria ex amore patriae&quot; (&quot;glory through love of the fatherland&quot;). Christian VII&#39;s reign was marked by mental illness and for most of his reign Christian was only nominally king. His half-brother Frederick was designated as regent of Denmark in 1772. From 1784 until Christian VII&#39;s death in 1808, Christian&#39;s son, later Frederick VI, acted as unofficial regent.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Chrystian VII (Christian VII), (ur. 29 stycznia 1749 w Kopenhadze, zm. 13 marca 1808 w Rendsburgu) – król Danii i Norwegii w latach 1766-1808 oraz książę Szlezwik-Holsztyn.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Cristián VII (Copenhague, 29 de enero de 1749 – Rendsburg, 13 de marzo de 1808), Rey de Dinamarca y de Noruega de 1766 a 1808. Era hijo del rey Federico V y de Luisa de Gran Bretaña. Por motivos de su precaria salud mental -posiblemente padecía esquizofrenia-, fue un rey demasiado débil. Aunque oficialmente era un monarca absoluto, en realidad nunca se ocupó del gobierno; éste había sido delegado al Consejo de Estado. Durante su reinado, se produjo el nacimiento de la ilustración, se instauraron ciertas reformas liberales y se inició una confrontación con el Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Cristiano VII (Copenhague, 29 de janeiro de 1749 – Rendsburg, 13 de março de 1808) foi o Rei da Dinamarca e Noruega de 1766 até sua morte. Era filho de Frederico V e sua primeira esposa Luísa da Grã-Bretanha. De 14 de abril de 1784 até sua morte em 1808, seu filho Frederico atuou extraoficialmente como regente. A regência foi marcada por reformas agrícolas e liberais, porém também viu o começo dos desastres das Guerras Napoleônicas</rdfs:comment>
+    <rdfs:comment xml:lang="ja">クリスチャン7世（Christian VII, 1749年1月29日 - 1808年3月13日）は、デンマーク＝ノルウェーの王（在位：1766年 - 1808年）。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Кристиан VII (дат. Christian 7.; 29 января 1749 — 13 марта 1808) — король Дании и Норвегии с 14 января 1766 года, официально до смерти, а фактически по 1769. Из-за душевного заболевания Кристиана все правительственные решения принимались его советниками. Они менялись по мере того, кто выигрывал борьбу за близость к престолу, но с 14 апреля 1784 г. и до смерти короля в 1808 г. неофициальным главой государства был его сын, впоследствии Фредерик VI.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Christian VII de Danemark (29 janvier 1749 – 13 mars 1808) fut roi de Danemark et de Norvège de 1766 jusqu&#39;à sa mort. Mentalement instable, il n&#39;exerça que rarement la réalité du pouvoir.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Christiaan VII (Kopenhagen, 29 januari 1749 – Rendsburg, 13 maart 1808) werd in 1766, op zeventienjarige leeftijd, koning van Denemarken en Noorwegen als opvolger van zijn vader, Frederik V.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">كريستيان السابع (29 يناير 1749 – 13 مارس 1808) كان ملك أولدنبورغ الذين حكموا ملك الدانمارك و النرويج و دوق شليسفيغ هولشتاين من 1766 حتى وفاته. وكان نجل الملك فريدريك الخامس وزوجته الأولى لويز من بريطانيا العظمى. من 14 أبريل 1784 حتى وفاة كريستيان السابع في 1808، اصبح ابنه لاحقاً فريدريك السادس، الذين تصرفوا في شكل غير رسمي كوصي العرش. واتسم هذا الوصي بالإصلاحات الليبرالية والزراعية، ولكن أيضا بالكوارث أدت إلى بداية الحروب النابليونية.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q156572" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/크리스티안_7세" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Christian_VII_dari_Denmark" />
+    <owl:sameAs rdf:resource="http://purl.org/collections/nl/am/p-44013" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Christian_VII_de_Danemark" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Christian_VII._(Dänemark_und_Norwegen)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.013jj2" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Χριστιανός_Ζ΄_της_Δανίας" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cristiano_VII_di_Danimarca" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cristiano_VII_da_Dinamarca" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Christiaan_VII_van_Denemarken" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/クリスチャン7世_(デンマーク王)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Christian_VII_of_Denmark" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Cristián_VII_de_Dinamarca" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Kristián_VII." />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118930915" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q156572" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Chrystian_VII_Oldenburg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rendsburg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1808-03-13</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1808-3-13</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Christiansborg_Palace" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1749-01-29</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1749-1-29</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Denmark–Norway" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Holstein" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_monarchs_in_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1808_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Schleswig" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Norwegian_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_monarchs_in_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nobility_from_Copenhagen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Roskilde_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Oldenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1749_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150888</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742100852</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/550699" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongernessamling.dk/en/rosenborg/person/christian-vii/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://kongehuset.dk/english/the-monarchy-in-denmark/The-Royal-Lineage" />
+    <foaf:name xml:lang="en">Christian VII of Denmark</foaf:name>
+    <foaf:name xml:lang="en">Christian VII</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Christian_VII_1772_by_Roslin.jpg" />
+    <dct:description xml:lang="en">King of Denmark and Norway</dct:description>
+    <foaf:givenName xml:lang="en">Christian</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Christian_VII_of_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Christian_VII_1772_by_Roslin.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Christian_VII_of_Denmark?oldid=742100852" />
+    <dbo:abstract xml:lang="pl">Chrystian VII (Christian VII), (ur. 29 stycznia 1749 w Kopenhadze, zm. 13 marca 1808 w Rendsburgu) – król Danii i Norwegii w latach 1766-1808 oraz książę Szlezwik-Holsztyn.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Christian VII de Danemark (29 janvier 1749 – 13 mars 1808) fut roi de Danemark et de Norvège de 1766 jusqu&#39;à sa mort. Mentalement instable, il n&#39;exerça que rarement la réalité du pouvoir.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">克里斯蒂安七世（Christian 7.，1749年1月29日－1808年3月12日/13日）是丹麥及挪威國王，石勒苏益格-荷尔斯泰因公爵， 即位時只有17歲。他是弗雷德里克五世和英国国王乔治二世的女儿路易莎的儿子。 他没有受过良好的教育，即位后即和他的表妹，英国国王乔治三世的妹妹卡罗琳结婚，婚后生了一个儿子弗雷德里克六世，第二年，和一位艺妓发生关系，并公开宣称他不爱自己的妻子，因为“爱自己妻子不时髦”，这一段时间开始神志恍惚，有偏执狂，产生幻觉并自残，一切唯首相施特林澤是从，他的妻子也和首相发生关系并生了一个女儿。 1772年，在他继母的操纵下，将首相逮捕处决，和妻子离婚，皇后被流放到策勒，23岁即去世。此后大权完全由他的继母掌握，他已经患有精神分裂，1784年以后他的儿子弗雷德里克六世开始掌权。 1808年他在伦茨堡因脑动脉瘤去世，终年59岁。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Christian VII. (* 29. Januar 1749 in Kopenhagen; † 13. März 1808 in Rendsburg) war König von Dänemark und Norwegen von 1766 bis 1808 und Herzog von Schleswig und Holstein. Er stammte aus dem Haus Oldenburg. Christian VII. galt als geistesgestört. Der Nachwelt bekannt ist er vor allem wegen der Affäre um seinen Leibarzt Johann Friedrich Struensee.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Cristián VII (Copenhague, 29 de enero de 1749 – Rendsburg, 13 de marzo de 1808), Rey de Dinamarca y de Noruega de 1766 a 1808. Era hijo del rey Federico V y de Luisa de Gran Bretaña. Por motivos de su precaria salud mental -posiblemente padecía esquizofrenia-, fue un rey demasiado débil. Aunque oficialmente era un monarca absoluto, en realidad nunca se ocupó del gobierno; éste había sido delegado al Consejo de Estado. Durante su reinado, se produjo el nacimiento de la ilustración, se instauraron ciertas reformas liberales y se inició una confrontación con el Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Christiaan VII (Kopenhagen, 29 januari 1749 – Rendsburg, 13 maart 1808) werd in 1766, op zeventienjarige leeftijd, koning van Denemarken en Noorwegen als opvolger van zijn vader, Frederik V.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Cristiano VII (Copenhague, 29 de janeiro de 1749 – Rendsburg, 13 de março de 1808) foi o Rei da Dinamarca e Noruega de 1766 até sua morte. Era filho de Frederico V e sua primeira esposa Luísa da Grã-Bretanha. O reinado de Cristiano foi marcado por um transtorno mental que afetava suas decisões, e durante a maior parte de seu reinado ele foi rei apenas nominalmente. Seus conselheiros divergiam em quem vencia as lutas pelo poder. Ele ficou sob a influência de seu médico particular Johann Friedrich Struensee no final da década de 1760. Struensee foi regente entre 1770 e 1772, apresentando reformas progressistas transformadas em lei por Cristiano. O médico foi deposto e o reino passou a ser governado pela madrasta do rei, Juliana Maria de Brunsvique-Volfembutel, seu meio-irmão Frederico e o político Ove Høegh-Guldberg. De 14 de abril de 1784 até sua morte em 1808, seu filho Frederico atuou extraoficialmente como regente. A regência foi marcada por reformas agrícolas e liberais, porém também viu o começo dos desastres das Guerras Napoleônicas</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Кристиан VII (дат. Christian 7.; 29 января 1749 — 13 марта 1808) — король Дании и Норвегии с 14 января 1766 года, официально до смерти, а фактически по 1769. Из-за душевного заболевания Кристиана все правительственные решения принимались его советниками. Они менялись по мере того, кто выигрывал борьбу за близость к престолу, но с 14 апреля 1784 г. и до смерти короля в 1808 г. неофициальным главой государства был его сын, впоследствии Фредерик VI.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">كريستيان السابع (29 يناير 1749 – 13 مارس 1808) كان ملك أولدنبورغ الذين حكموا ملك الدانمارك و النرويج و دوق شليسفيغ هولشتاين من 1766 حتى وفاته. وكان نجل الملك فريدريك الخامس وزوجته الأولى لويز من بريطانيا العظمى. عاني كريستيان السابع طوال عهده بـمرض عقلي التي أثرت على قرارات الحكومة، ومعظم فترة حكمه لم يكن إلا اسمياً كملك، مستشاريه الملكيين اعتمدوا بالصراعات على السلطة حول العرش، و في أواخر ستينات جاء الطبيب الملكي يوهان فريدريش ستروينسي الذي ارتقى إلى السلطة من 1770 إلى 1772 بحكم الواقع وصي العرش، وادخل إصلاحات تقدمية وقعها عليها كريستيان السابع، ستروينسي أطيح به في انقلاب عام 1772 وبعد ذلك اصبحوا أوصياء هم زوجة الأب، جوليانا ماريا من براونشفايغ-فولفنبوتل، وأخيه غير الشقيق فريدريك والسياسي الدنماركي أوفه هويغ-غولدبرغ. من 14 أبريل 1784 حتى وفاة كريستيان السابع في 1808، اصبح ابنه لاحقاً فريدريك السادس، الذين تصرفوا في شكل غير رسمي كوصي العرش. واتسم هذا الوصي بالإصلاحات الليبرالية والزراعية، ولكن أيضا بالكوارث أدت إلى بداية الحروب النابليونية.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Christian VII (29 January 1749 – 13 March 1808) was a monarch of the House of Oldenburg who was King of Denmark-Norway and Duke of Schleswig and Holstein from 1766 until his death. For his motto he chose: &quot;Gloria ex amore patriae&quot; (&quot;glory through love of the fatherland&quot;). Christian VII&#39;s reign was marked by mental illness and for most of his reign Christian was only nominally king. His half-brother Frederick was designated as regent of Denmark in 1772. From 1784 until Christian VII&#39;s death in 1808, Christian&#39;s son, later Frederick VI, acted as unofficial regent.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">クリスチャン7世（Christian VII, 1749年1月29日 - 1808年3月13日）は、デンマーク＝ノルウェーの王（在位：1766年 - 1808年）。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1766</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1766</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_V_of_Denmark" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Frederick_V_of_Denmark" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Roskilde_Cathedral" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Frederick_VI_of_Denmark" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Frederick_VI_of_Denmark" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Paul_I_of_Russia" />
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">and Paul</dbp:before>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Frederick_V_of_Denmark" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by Alexander Roslin, c. 1772</dbp:caption>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1767-05-01</dbp:coronation>
+    <dbp:coronation rdf:resource="http://dbpedia.org/resource/Christiansborg_Palace_Chapel" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Oldenburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick_VI_of_Denmark" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Louise_Auguste_of_Denmark" />
+    <dbp:realm rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">denmark</dbp:realm>
+    <dbp:regent rdf:resource="http://dbpedia.org/resource/Paul_I_of_Russia" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheran" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:rows>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of Denmark and Norway</dbp:succession>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Count_of_Oldenburg" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_rulers_of_Schleswig-Holstein" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">King of Denmark and Norway</dbp:title>
+    <dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">monarch</dbp:type>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1766</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Monarch" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VII">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_Auguste_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VII_of_Norway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_Matilda_of_Great_Britain">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VII_Of_Denmark-Norway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VII_of_Denmark_and_Norway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Christian_VII">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Christian_VII_of_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Christian_VII_of_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby_(1799-1867)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdfs:label xml:lang="es">Edwyn Burnaby</rdfs:label>
+    <rdfs:label xml:lang="en">Edwyn Burnaby (courtier)</rdfs:label>
+    <rdfs:comment xml:lang="es">Edwyn Burnaby (29 de septiembre de 1799 - 18 de julio de 1867) fue un terrateniente inglés, de Baggrave Hall, Leicestershire, Juez de Paz, Teniente Adjunto y Alto Sheriff del Condado de Leicestershire en 1864. También sucedió a su padre en la Corte como Caballero Privado de Cámara. Es tatarabuelo de la reina Isabel II del Reino Unido. El 28 de agosto de 1829, se casó con Ana Carolina Salisbury, hija de Thomas Salisbury, escudero y de Mary Lister, hija de Thomas Lister, escudero. Tuvieron varios hijos, incluyendo.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Edwyn Burnaby (29 September 1798 – 18 July 1867) of Baggrave Hall, Leicestershire, was an English landowner, courtier, a Justice of the Peace, Deputy Lieutenant, and High Sheriff of Leicestershire in 1864. He succeeded his father in the Court post of Gentleman of the Privy chamber. On 29 August 1829, he married Anne Caroline Salisbury, daughter of Thomas Salisbury (solicitor), by Frances, daughter of Francis Webb. They had several children, including:</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5346963" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5346963" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Edwyn_Burnaby" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-7-18</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-07-18</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-9-29</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1798-09-29</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1867_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gentlemen_of_the_Privy_Chamber" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_landowners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:High_Sheriffs_of_Leicestershire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Christ_Church,_Oxford" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deputy_Lieutenants_of_Leicestershire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1798_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:3rd_Dragoon_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Worcester_College,_Oxford" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11680380</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736770924</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Edwyn Burnaby</foaf:name>
+    <foaf:name xml:lang="en">Edwyn Burnaby, High Sheriff of Leicestershire</foaf:name>
+    <dct:description xml:lang="en">Great-great-grandfather of Queen Elizabeth II</dct:description>
+    <foaf:givenName xml:lang="en">Edwyn</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Edwyn_Burnaby_(courtier)" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Edwyn_Burnaby_(courtier)?oldid=736770924" />
+    <dbo:abstract xml:lang="es">Edwyn Burnaby (29 de septiembre de 1799 - 18 de julio de 1867) fue un terrateniente inglés, de Baggrave Hall, Leicestershire, Juez de Paz, Teniente Adjunto y Alto Sheriff del Condado de Leicestershire en 1864. También sucedió a su padre en la Corte como Caballero Privado de Cámara. Es tatarabuelo de la reina Isabel II del Reino Unido. Edwyn fue el hijo mayor de Edwyn Andrew Burnaby, Senior, (fallecido en 1825), y de su esposa Mary Browne, hija y heredera del Reverendo William Browne. Se formó en Christ Church, Oxford, y sirvió como capitán en el la Guardia del Dragón del Príncipe de Gales y en el Regimiento de Caballería Leicestershire. El 28 de agosto de 1829, se casó con Ana Carolina Salisbury, hija de Thomas Salisbury, escudero y de Mary Lister, hija de Thomas Lister, escudero. Tuvieron varios hijos, incluyendo. 
+*  Edwyn Sherard Burnaby (1830–1883). 
+*  Carolina Luisa Burnaby (1832–1918). 
+*  Cecilia Florence Burnaby (m. 1869). 
+*  Gertrude Laura Burnaby (m. 1865).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Edwyn Burnaby (29 September 1798 – 18 July 1867) of Baggrave Hall, Leicestershire, was an English landowner, courtier, a Justice of the Peace, Deputy Lieutenant, and High Sheriff of Leicestershire in 1864. He succeeded his father in the Court post of Gentleman of the Privy chamber. Edwyn was the eldest son of Edwyn Andrew Burnaby, (died 1 October 1825), and his wife Mary, daughter and heiress of the Reverend William Browne and his wife Mary Adcock. He was baptised on 30 September 1798 at Rotherby, Leicestershire, and was probably born the day before as various editions of Burke&#39;s Landed Gentry and other published sources give his date of birth as 29 September 1799. His age is given as 19 on matriculation at Worcester College, Oxford on 20 October 1817. He was educated at Christ Church, Oxford, and served as a captain in the Prince of Wales&#39;s Dragoon Guards On 29 August 1829, he married Anne Caroline Salisbury, daughter of Thomas Salisbury (solicitor), by Frances, daughter of Francis Webb. They had several children, including: 
+* Edwyn Sherard Burnaby (1830–1883), major-general and Member of Parliament 
+* Caroline Louisa Burnaby (1832–1918), by whom Burnaby became great-great-grandfather of Queen Elizabeth II 
+* Cecilia Florence Burnaby (d. 1869), married George Onslow Newton. 
+* Gertrude Laura Burnaby (d. 1865), married Ernest Vaughan, 5th Earl of Lisburne</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Edwyn_Andrew_Burnaby" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Anne_Caroline_Salisbury" />
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mary Browne</dbp:mother>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby_(1798–1867)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby_(1798-1867)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Salisbury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby,_High_Sheriff_of_Leicestershire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby_(High_Sheriff_of_Leicestershire)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Edwyn_Burnaby_(courtier)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)" />
+  </rdf:Description>
+</rdf:RDF>

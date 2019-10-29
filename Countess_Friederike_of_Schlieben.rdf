@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Count_Karl_Leopold_von_Schlieben">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_Caroline_of_Hesse-Kassel">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Wilhelm,_Duke_of_Schleswig-Holstein-Sonderburg-Glücksburg">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Frederica_of_Schlieben">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Friederike_von_Schlieben">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromKönigsberg" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdfs:label xml:lang="en">Countess Friederike of Schlieben</rdfs:label>
+    <rdfs:label xml:lang="it">Federica di Schlieben</rdfs:label>
+    <rdfs:label xml:lang="ru">Шлибен, Фридерика фон</rdfs:label>
+    <rdfs:comment xml:lang="ru">Фридерика Амалия, графиня фон Шлибен (нем. Friederike Amalie Gräfin von Schlieben; 28 февраля 1757 — 17 декабря 1827) — член аристократического Шлибенского дома и графиня Шлибена. Посредством брака с Фридериком Карлом Людвигом, Фридерика также стала членом Шлезвиг-Гольштейнского дома.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Countess Friederike Amalie of Schlieben (German: Friederike Amalie Gräfin von Schlieben; 28 February 1757 – 17 December 1827) was the consort of Friedrich Karl Ludwig, Duke of Schleswig-Holstein-Sonderburg-Beck.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3822926" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cnxlrd" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Federica_di_Schlieben" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3822926" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Countess_Friederike_of_Schlieben" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Schleswig" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schleswig,_Schleswig-Holstein" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1827-12-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Königsberg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Prussia" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1757-2-28</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1757-02-28</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Schleswig-Holstein-Sonderburg-Beck" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1757_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Königsberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1827_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28214507</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719938663</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Countess Friederike von Schlieben</foaf:name>
+    <foaf:name xml:lang="en">Countess Friederike of Schlieben</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Friederike_Amalie_zu_Schleswig-Holstein-Sonderburg-Beck.jpg" />
+    <dct:description xml:lang="en">German countess</dct:description>
+    <foaf:givenName xml:lang="en">Federica</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Countess_Friederike_of_Schlieben" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Friederike_Amalie_zu_Schleswig-Holstein-Sonderburg-Beck.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Countess_Friederike_of_Schlieben?oldid=719938663" />
+    <dbo:abstract xml:lang="en">Countess Friederike Amalie of Schlieben (German: Friederike Amalie Gräfin von Schlieben; 28 February 1757 – 17 December 1827) was the consort of Friedrich Karl Ludwig, Duke of Schleswig-Holstein-Sonderburg-Beck.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фридерика Амалия, графиня фон Шлибен (нем. Friederike Amalie Gräfin von Schlieben; 28 февраля 1757 — 17 декабря 1827) — член аристократического Шлибенского дома и графиня Шлибена. Посредством брака с Фридериком Карлом Людвигом, Фридерика также стала членом Шлезвиг-Гольштейнского дома.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Count_Charles_Leopold_von_Schlieben" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Friedrich_Karl_Ludwig,_Duke_of_Schleswig-Holstein-Sonderburg-Beck" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Princess_Louise_Caroline_of_Hesse-Cassel" />
+    <dbo:title xml:lang="en">Duchess of Schleswig-Holstein-Sonderburg-Beck</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Princess_Louise_Caroline_of_Hesse-Cassel" />
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ursula Anna of Dohna-Schlobitten</dbp:before>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Schleswig-Holstein-Sonderburg-Beck" />
+    <dbp:house rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">House of Schlieben</dbp:house>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Friedrich_Wilhelm,_Duke_of_Schleswig-Holstein-Sonderburg-Glücksburg" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Luise</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Friederike</dbp:issue>
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Countess Marie Eleanore von Lehndorff</dbp:mother>
+    <dbp:predecessor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ursula Anna of Dohna-Schlobitten</dbp:predecessor>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_consorts_of_Holstein-Sonderburg" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-09</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Consort" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friederike">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Karl_Ludwig,_Duke_of_Schleswig-Holstein-Sonderburg-Beck">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Countess_Friederike_of_Schlieben">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Countess_Friederike_of_Schlieben" />
+  </rdf:Description>
+</rdf:RDF>

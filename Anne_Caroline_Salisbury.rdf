@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwyn_Burnaby_(courtier)">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Anne_Caroline_Salisbury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louisa_Cavendish-Bentinck">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Anne_Caroline_Salisbury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Caroline_Salisbury">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Elite108386555" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/People107942152" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Nobility108388207" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UpperClass108386365" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Class107974025" />
+    <rdfs:label xml:lang="en">Anne Caroline Salisbury</rdfs:label>
+    <rdfs:comment xml:lang="en">Anne Caroline Salisbury (1805 – 3 May 1881) was the wife of Edwyn Burnaby, and mother of Edwyn Sherard Burnaby and Caroline Louisa Burnaby. She is the maternal great-grandmother of Queen Elizabeth The Queen Mother and great-great-grandmother of Queen Elizabeth II. Anne&#39;s father was Thomas Salisbury (a solicitor) of Fordington, Dorset, and her mother was Frances Webb. Frances Webb&#39;s parents were Francis Webb and Mary Garritt. They had several children, including: She was recorded as living at her house at 50 Eaton Place, London, just a month before her death on 3 May 1881.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02x2njv" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1102293" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Anne_Caroline_Salisbury" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1102293" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Anne_Caroline_Salisbury" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-05-03</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-5-3</dbo:deathDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1805-0-0</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1881_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Elizabeth_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1805_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12736178</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745325223</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Anne Caroline Salisbury</foaf:name>
+    <dct:description xml:lang="en">Great great grandmother of Elizabeth II</dct:description>
+    <foaf:givenName xml:lang="en">Anne</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anne_Caroline_Salisbury" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Anne_Caroline_Salisbury?oldid=745325223" />
+    <dbo:abstract xml:lang="en">Anne Caroline Salisbury (1805 – 3 May 1881) was the wife of Edwyn Burnaby, and mother of Edwyn Sherard Burnaby and Caroline Louisa Burnaby. She is the maternal great-grandmother of Queen Elizabeth The Queen Mother and great-great-grandmother of Queen Elizabeth II. Anne&#39;s father was Thomas Salisbury (a solicitor) of Fordington, Dorset, and her mother was Frances Webb. Frances Webb&#39;s parents were Francis Webb and Mary Garritt. On 29 August 1829, she married Edwyn Burnaby, an English landowner, of Baggrave Hall, Leicestershire, a Justice of the Peace, Deputy Lieutenant, and High Sheriff of Leicestershire in 1864. He also succeeded his father in the Court post of Gentleman of the Privy chamber. They had several children, including: 
+* Edwyn Sherard Burnaby (1830–1883), general and Member of Parliament 
+* Caroline Louisa Burnaby (1832–1918), by whom she became great-great-grandmother of Queen Elizabeth II in an all-female line. 
+* Cecilia Florence Burnaby (d. 1869), married George Onslow Newton. 
+* Gertrude Laura Burnaby (d. 1865), married Ernest Augustus Mallet Vaughan, 5th Earl of Lisburne 
+*  Ida Charlotte Burnaby (1839–1886) m. John Augustus Conolly She was recorded as living at her house at 50 Eaton Place, London, just a month before her death on 3 May 1881.</dbo:abstract>
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Edwyn_Burnaby_(1798-1867)" />
+    <dbp:father rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Thomas Salisbury</dbp:father>
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Frances Webb</dbp:mother>
+    <dbp:christeningDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1805-12-15</dbp:christeningDate>
+    <dbp:christeningPlace rdf:resource="http://dbpedia.org/resource/Fordington,_Dorset" />
+    <dbp:maternalGrandmother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mary Garritt</dbp:maternalGrandmother>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Anne_Caroline_Salisbury">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Anne_Caroline_Salisbury" />
+  </rdf:Description>
+</rdf:RDF>

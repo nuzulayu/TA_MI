@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdfs:label xml:lang="nl">Karel Willem van Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="en">Charles William, Prince of Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="de">Karl Wilhelm (Nassau-Usingen)</rdfs:label>
+    <rdfs:label xml:lang="it">Carlo Guglielmo di Nassau-Usingen</rdfs:label>
+    <rdfs:label xml:lang="es">Carlos Guillermo de Nassau-Usingen</rdfs:label>
+    <rdfs:comment xml:lang="de">Karl Wilhelm (* 9. November 1735 in Usingen; † 17. Mai 1803 in Biebrich) war von 1775 bis 1803 Fürst von Nassau-Usingen und von 1797 bis 1803 formell auch von Nassau-Saarbrücken.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Charles William (9 November 1735 in Usingen – 17 May 1803) was Prince of Nassau-Usingen from 1775 until his death. From 1797 until his death, he was also titular Prince of Nassau-Saarbrücken, however, Nassau-Saarbrücken was occupied by France during that period. He was the eldest son of Prince Charles of Nassau-Usingen and his wife, Christina Wilhelmina, the daughter of Duke John William III of Saxe-Eisenach. In 1770, Charles William became Lieutenant-General in the Dutch army. In 1789, he was promoted to general and in 1790 to colonel of the Walloon regiment and captain of the grenadiers.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Era il maggiore dei figli del Principe Carlo di Nassau-Usingen e di sua moglie, Cristiana Guglielmina, figlia del Duca Giovanni Guglielmo III di Sassonia-Eisenach. Nel 1770, Carlo Guglielmo diventò luogotenente generale nell&#39;esercito olandese. Nel 1789, egli fu promosso a generale e nel 1790 a colonnello del reggimento Vallone e capitano dei granatieri. Carlo Guglielmo morì in quello stesso anno. Dato che non aveva eredi maschi, gli succedette suo fratello minore Federico Augusto.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carlos Guillermo (9 de noviembre de 1735 en Usingen - 17 de mayo de 1803) fue Príncipe de Nassau-Usingen desde 1775 hasta su muerte. Desde 1797 hasta su muerte, también fue Príncipe titular de Nassau-Saarbrücken, aunque Nassau-Saarbrücken estuvo ocupado por Francia durante este periodo. Era el hijo mayor del Príncipe Carlos de Nassau-Usingen y su esposa Cristina Guillermina, la hija del Duque Juan Guillermo III de Sajonia-Eisenach. Carlos Guillermo murió más tarde ese mismo año. Debido a que no tenía heredero varón, fue sucedido por su hermano menor Federico Augusto.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Karel Willem (Usingen, 9 november 1735 – Biebrich, 17 mei 1803) was van 1775 tot 1803 vorst van Nassau-Usingen en van 1797 tot 1803 formeel ook van Nassau-Saarbrücken. Karel Willem was de oudste zoon van vorst Karel en Christina Wilhelmina van Saksen-Eisenach, dochter van Johan Willem van Saksen-Eisenach. Hij werd in 1770 luitenant-generaal in de Staatse infanterie en volgde in 1775 zijn vader op. In 1783 sloot hij een erfovereenkomst met Nassau-Saarbrücken, Nassau-Weilburg en Nassau-Dietz (Oranje-Nassau) die de eenheid en onvervreemdbaarheid van Nassau en het eerstgeboorterecht erkende. Hij werd in 1789 bevorderd tot generaal en werd in 1790 kolonel van het regiment Walen en kapitein der grenadiers.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/137845022" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/241648257" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carlo_Guglielmo_di_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j63nwk" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q181553" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q181553" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_Guillermo_de_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Karel_Willem_van_Nassau-Usingen" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Karl_Wilhelm_(Nassau-Usingen)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Biebrich_(Wiesbaden)" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1803-05-17</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1803-5-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Usingen" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1735-11-09</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1735-11-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Nassau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1735_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_German_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1803_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35179940</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">721431702</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Charles William, Prince of Nassau-Usingen</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Carl_Wilhelm_von_Usingen_Nassau.jpg" />
+    <dct:description xml:lang="en">Prince of Nassau</dct:description>
+    <foaf:givenName xml:lang="en">Charles</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles_William,_Prince_of_Nassau-Usingen" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Carl_Wilhelm_von_Usingen_Nassau.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles_William,_Prince_of_Nassau-Usingen?oldid=721431702" />
+    <dbo:abstract xml:lang="nl">Karel Willem (Usingen, 9 november 1735 – Biebrich, 17 mei 1803) was van 1775 tot 1803 vorst van Nassau-Usingen en van 1797 tot 1803 formeel ook van Nassau-Saarbrücken. Karel Willem was de oudste zoon van vorst Karel en Christina Wilhelmina van Saksen-Eisenach, dochter van Johan Willem van Saksen-Eisenach. Hij werd in 1770 luitenant-generaal in de Staatse infanterie en volgde in 1775 zijn vader op. In 1783 sloot hij een erfovereenkomst met Nassau-Saarbrücken, Nassau-Weilburg en Nassau-Dietz (Oranje-Nassau) die de eenheid en onvervreemdbaarheid van Nassau en het eerstgeboorterecht erkende. Hij werd in 1789 bevorderd tot generaal en werd in 1790 kolonel van het regiment Walen en kapitein der grenadiers. Na de dood van vorst Hendrik in 1797 erfde hij ook de rechten op Nassau-Saarbrücken, dat hij door de Vrede van Lunéville in 1801 echter definitief verloor aan Frankrijk. De Reichsdeputationshauptschluss van 1803 compenseerde hem ruimschoots met onder andere delen van Keur-Mainz, Keur-Keulen, de de Palts en Hessen. Hij stierf in datzelfde jaar.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carlos Guillermo (9 de noviembre de 1735 en Usingen - 17 de mayo de 1803) fue Príncipe de Nassau-Usingen desde 1775 hasta su muerte. Desde 1797 hasta su muerte, también fue Príncipe titular de Nassau-Saarbrücken, aunque Nassau-Saarbrücken estuvo ocupado por Francia durante este periodo. Era el hijo mayor del Príncipe Carlos de Nassau-Usingen y su esposa Cristina Guillermina, la hija del Duque Juan Guillermo III de Sajonia-Eisenach. En 1770, Carlos Guillermo se convirtió en Teniente General del ejército de los Países Bajos. En 1789, fue promovido a general y en 1790 a coronel del regimiento valón y capitán de los granaderos. En 1775, sucedió a su padre como Príncipe de Nassau-Usingen. En 1783, concluyó un tratado de herencia con los príncipes de Nassau-Saarbrücken, Nassau-Weilburg y Nassau-Dietz (es decir, Orange-Nassau), en el que se acordó que el territorio de Nassau sería indivisible y que obedecería al principio de primogenitura. En 1797, el Príncipe Enrique Luis de Nassau-Saarbrücken murió sin descendencia y Carlos Guillermo heredó su principado. Sin embargo, por el Tratado de Lunéville, los territorios en la margen izquierda del río Rin fueron perdidos en favor de Francia. El proceso de mediatización (Reichsdeputationshauptschluss) de 1803 compensó a Carlos Guillermo con territorios arrebatados del Electorado de Maguncia, el Electorado de Colonia, el Electorado del Palatinado y Hesse. Carlos Guillermo murió más tarde ese mismo año. Debido a que no tenía heredero varón, fue sucedido por su hermano menor Federico Augusto.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Charles William (9 November 1735 in Usingen – 17 May 1803) was Prince of Nassau-Usingen from 1775 until his death. From 1797 until his death, he was also titular Prince of Nassau-Saarbrücken, however, Nassau-Saarbrücken was occupied by France during that period. He was the eldest son of Prince Charles of Nassau-Usingen and his wife, Christina Wilhelmina, the daughter of Duke John William III of Saxe-Eisenach. In 1770, Charles William became Lieutenant-General in the Dutch army. In 1789, he was promoted to general and in 1790 to colonel of the Walloon regiment and captain of the grenadiers. In 1775, he succeeded his father as Prince of Nassau-Usingen. In 1783, he concluded a treaty of inheritance with the princes of Nassau-Saarbrücken, Nassau-Weilburg and Nassau-Dietz (i.e., Orange-Nassau), in which it was agreed that the Nassau lands were inidivisible and that mutual succession among the various branches based on primogeniture would be observed. In 1797, Prince Henry Louis of Nassau-Saarbrücken died childless and Charles William inherited his principality. However, under the Treaty of Lunéville, the territories on the left bank of the Rhine were lost to France. The Reichsdeputationshauptschluss of 1803 compensated Charles William with territories taken from the Electorate of Mainz, the Electorate of Cologne, Electorate of the Palatinate and Hesse. Charles William died later that year. Since he had no male heir, he was succeeded by his younger brother Frederick Augustus.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Karl Wilhelm (* 9. November 1735 in Usingen; † 17. Mai 1803 in Biebrich) war von 1775 bis 1803 Fürst von Nassau-Usingen und von 1797 bis 1803 formell auch von Nassau-Saarbrücken.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Era il maggiore dei figli del Principe Carlo di Nassau-Usingen e di sua moglie, Cristiana Guglielmina, figlia del Duca Giovanni Guglielmo III di Sassonia-Eisenach. Nel 1770, Carlo Guglielmo diventò luogotenente generale nell&#39;esercito olandese. Nel 1789, egli fu promosso a generale e nel 1790 a colonnello del reggimento Vallone e capitano dei granatieri. Nel 1775, succedette a suo padre come Principe di Nassau-Usingen. Nel 1783, concluse un trattato di eredità con i principi di Nassau-Saarbrücken, Nassau-Weilburg e Nassau-Dietz (cioè Orange-Nassau), in cui acconsentiva che le terre di Nassau erano indivisibili e che sarebbe stata osservata la primogenitura. Nel 1797, il Principe Enrico Luigi di Nassau-Saarbrücken morì senza figli e Carlo Guglielmo ereditò il suo principato.Tuttavia, in base al Trattato di Lunéville, i territori sulla riva sinistra del Reno andarono persi in favore della Francia. Il Reichsdeputationshauptschluss del 1803 compensò Carlo Guglielmo con territori presi dall&#39;Elettorato di Magonza, l&#39;Elettorato di Colonia, l&#39;Elettorato del Palatinato e all&#39;Assia. Carlo Guglielmo morì in quello stesso anno. Dato che non aveva eredi maschi, gli succedette suo fratello minore Federico Augusto.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles,_Prince_of_Nassau-Usingen" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Countess_Caroline_Felizitas_of_Leiningen-Dagsburg" />
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Christina Wilhelmina of Saxe-Eisenach</dbp:mother>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/House_of_Nassau" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1797</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1775</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Prince" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Caroline_Felizitas_of_Leiningen-Dagsburg">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Caroline_of_Nassau-Usingen">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Augustus,_Duke_of_Nassau">
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Karl_Wilhelm_of_Nassau-Usingen">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles_William,_Prince_of_Nassau-Usingen">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles_William,_Prince_of_Nassau-Usingen" />
+  </rdf:Description>
+</rdf:RDF>

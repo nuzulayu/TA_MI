@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis,_Duke_of_Teck">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfWürttemberg" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Noble" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSaintPetersburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdfs:label xml:lang="pt">Alexandre de Württemberg (1804–1885)</rdfs:label>
+    <rdfs:label xml:lang="ja">アレクサンダー・フォン・ヴュルテンベルク (1804-1885)</rdfs:label>
+    <rdfs:label xml:lang="nl">Alexander van Württemberg</rdfs:label>
+    <rdfs:label xml:lang="de">Alexander Paul Ludwig Konstantin von Württemberg</rdfs:label>
+    <rdfs:label xml:lang="en">Duke Alexander of Württemberg (1804–1885)</rdfs:label>
+    <rdfs:label xml:lang="pl">Aleksander Paweł Wirtemberski</rdfs:label>
+    <rdfs:label xml:lang="it">Alessandro di Württemberg</rdfs:label>
+    <rdfs:label xml:lang="fr">Alexandre de Wurtemberg (1804-1885)</rdfs:label>
+    <rdfs:label xml:lang="ru">Александр Вюртембергский (1804—1885)</rdfs:label>
+    <rdfs:label xml:lang="es">Alejandro de Wurtemberg</rdfs:label>
+    <rdfs:comment xml:lang="es">El duque Alejandro de Wurtemberg (9 de septiembre de 1804 – 4 de julio de 1885) fue el padre de Francisco, duque de Teck y abuelo de Adolfo de Cambridge, I marqués de Cambridge y de la reina María, consorte del rey Jorge V. Su padre fue el duque Luis de Wurtemberg, hermano del rey Federico I de Wurtemberg y de la emperatriz María Feodorovna de Rusia. Su madre fue la princesa Enriqueta de Nassau-Weilburg, una bisnieta del rey Jorge II de Gran Bretaña a través de su hija mayor Ana, princesa real.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Alexander Paul Lodewijk Constantijn (9 september 1804 – 4 juli 1885), hertog van Württemberg, was de zoon van hertog Lodewijk van Württemberg en prinses Henriëtte van Nassau-Weilburg. Hij trouwde op 2 mei 1835 morganatisch met gravin Claudine Rhédey van Kis-Rhéde (1812-1841). Alexander en Claudine kregen drie kinderen: 
+*  Claudine (1836-1894) 
+*  Frans (1837-1900) 
+*  Amalie (1838-1893) Hij stierf op 4 juli 1885 op 80-jarige leeftijd.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Alexander Paul Ludwig Konstantin von Württemberg (* 9. September 1804 in St. Petersburg; † 4. Juli 1885 in Tüffer) war ein Prinz von Württemberg.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Aleksander Paweł Ludwik Konstanty Wirtemberski (ur. 9 października 1804 Sankt Petersburg – zm. 4 lipca 1885 Laško, Austro-Węgry) - książę wirtemberski, generał austriacki. Syn księcia Ludwika i księżniczki Henrietty z Nassau-Weilburg. 2 maja 1835 roku ożenił się z węgierską hrabiną Claudine Rhédey von Kis-Rhéde, małżeństwo to zostało uznane za związek morganatyczny. Hrabina otrzymała dziedziczny tytuł hrabiny Hohenstein; zmarła w 1841 roku w wyniku stratowania przez konie w czasie parady kawalerii w garnizonie Ptuj na Słowenii, prowadzonej przez księcia Aleksandra. Para miała 3 dzieci:</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アレクサンダー・パウル・ルートヴィヒ・コンスタンティン・フォン・ヴュルテンベルク（ドイツ語:Alexander Paul Ludwig Konstantin von Württemberg, 1804年9月9日 - 1885年7月4日）は、ドイツのヴュルテンベルク王国の王族。テック公爵家の始祖。ヴュルテンベルク王フリードリヒ1世の弟ルートヴィヒと、その2番目の妻でナッサウ＝ヴァイルブルク侯カール・クリスティアンの娘であるヘンリエッテとの間の息子として、サンクトペテルブルクで生まれた。 アレクサンダーは1835年、ハンガリーの伯爵令嬢レーデイ・クラウディアと貴賤結婚をし、間に3人の子女をもうけた。クラウディアはホーエンシュタイン伯爵夫人の称号を与えられ、子供たちも同様の称号を許されたが、王族として扱われることはなかった。 
+* クラウディーネ（1836年 - 1894年） 
+* フランツ（1837年 - 1894年） 
+* アマーリア（1838年 - 1898年）…パウル・フォン・ヒューゲル伯爵と結婚</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Александр Пауль Людвиг Константин Вюртембергский (нем. Alexander Paul Ludwig Konstantin von Württemberg; 9 октября 1804, Санкт-Петербург, Российская империя — 4 июля 1885, Лашко (ныне Словения)) — князь Вюртембергский, генерал австрийской имперской армии. Основатель линии герцогов Текских.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Alexandre de Wurtemberg, né à Kirchheim (Bas-Rhin) le 9 septembre 1804, décédé à Tüffer, aujourd&#39;hui Laško, en Slovénie le 4 juillet 1885, fut duc de Wurtemberg.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Alexandre de Württemberg (9 de setembro de 1804 - 4 de julho de 1885) foi o pai do Duque Francisco de Teck e avô de Adolfo de Cambridge, 1.º Marquês de Cambridge e da rainha Maria do Reino Unido, esposa do rei Jorge V.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Duke Alexander of Württemberg (9 September 1804, Saint Petersburg – 4 July 1885 Tüffer) was the father of Francis, Duke of Teck and the grandfather of Mary of Teck, wife of King George V. His father was Duke Louis of Württemberg, brother of King Frederick I of Württemberg and Empress Maria Feodorovna of Russia. His mother was Henrietta of Nassau-Weilburg, a great-granddaughter of King George II of Great Britain through his eldest daughter Anne, Princess Royal and Princess of Orange.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレクサンダー・フォン・ヴュルテンベルク_(1804-1885)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexandre_de_Württemberg_(1804–1885)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/136913490" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Alejandro_de_Wurtemberg" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alexander_Paul_Ludwig_Konstantin_von_Württemberg" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alessandro_di_Württemberg" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Aleksander_Paweł_Wirtemberski" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q61155" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06dr95" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q61155" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alexandre_de_Wurtemberg_(1804-1885)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alexander_van_Württemberg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Municipality_of_Laško" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Laško" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-07-04</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-7-4</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1804-09-09</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1804-9-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Württemberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1885_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1804_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saint_Petersburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Württembergian_Chamber_of_Lords" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Crown_(Württemberg)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009307</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743146036</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Duke Alexander of Württemberg</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander_von_Wuerttemberg.jpg" />
+    <dct:description xml:lang="en">Great-great-grandfather of Elizabeth II of the United Kingdom</dct:description>
+    <foaf:givenName xml:lang="en">Alexander</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duke_Alexander_of_Württemberg_(1804–1885)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alexander_von_Wuerttemberg.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duke_Alexander_of_Württemberg_(1804–1885)?oldid=743146036" />
+    <dbo:abstract xml:lang="de">Alexander Paul Ludwig Konstantin von Württemberg (* 9. September 1804 in St. Petersburg; † 4. Juli 1885 in Tüffer) war ein Prinz von Württemberg.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Александр Пауль Людвиг Константин Вюртембергский (нем. Alexander Paul Ludwig Konstantin von Württemberg; 9 октября 1804, Санкт-Петербург, Российская империя — 4 июля 1885, Лашко (ныне Словения)) — князь Вюртембергский, генерал австрийской имперской армии. Основатель линии герцогов Текских.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Aleksander Paweł Ludwik Konstanty Wirtemberski (ur. 9 października 1804 Sankt Petersburg – zm. 4 lipca 1885 Laško, Austro-Węgry) - książę wirtemberski, generał austriacki. Syn księcia Ludwika i księżniczki Henrietty z Nassau-Weilburg. 2 maja 1835 roku ożenił się z węgierską hrabiną Claudine Rhédey von Kis-Rhéde, małżeństwo to zostało uznane za związek morganatyczny. Hrabina otrzymała dziedziczny tytuł hrabiny Hohenstein; zmarła w 1841 roku w wyniku stratowania przez konie w czasie parady kawalerii w garnizonie Ptuj na Słowenii, prowadzonej przez księcia Aleksandra. Para miała 3 dzieci: 
+*  Klaudię (1836-1894), 
+*  Franciszka (1837-1900), ojca królowej Marii, 
+*  Amelię (1838-1893). W 1863 roku król Wilhelm I Wirtemberski postanowił nadać dzieciom Aleksandra tytuły książąt von Teck. 
+*  Teck (ród)</dbo:abstract>
+    <dbo:abstract xml:lang="en">Duke Alexander of Württemberg (9 September 1804, Saint Petersburg – 4 July 1885 Tüffer) was the father of Francis, Duke of Teck and the grandfather of Mary of Teck, wife of King George V. His father was Duke Louis of Württemberg, brother of King Frederick I of Württemberg and Empress Maria Feodorovna of Russia. His mother was Henrietta of Nassau-Weilburg, a great-granddaughter of King George II of Great Britain through his eldest daughter Anne, Princess Royal and Princess of Orange. In 1835, he married, morganatically, Claudine Rhédey von Kis-Rhéde (1812-1841), by whom he fathered three children: Claudine, Francis and Amalie. His wife was created Countess of Hohenstein in her own right and, following the rules of morganatic marriages, the children inherited their mother&#39;s title as Count or Countess of Hohenstein from birth. They had no rights through their father to any royal status or inheritance. In 1841, his wife was killed—run over by horses—and he became mentally unstable, a condition which lasted for the rest of his life. In 1863, his three children were elevated to the rank of Prince and Princesses of Teck by King William I of Württemberg. In 1871, his son Francis was created Duke of Teck by King Charles I of Württemberg, five years after his marriage with Alexander&#39;s third cousin (in descent from King George II of Great Britain), Princess Mary Adelaide of Cambridge. The Duchy of Teck was a peerage title in the former Kingdom of Württemberg. Alexander&#39;s daughters were not given any new status, and remained Princesses of Teck.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Alexandre de Württemberg (9 de setembro de 1804 - 4 de julho de 1885) foi o pai do Duque Francisco de Teck e avô de Adolfo de Cambridge, 1.º Marquês de Cambridge e da rainha Maria do Reino Unido, esposa do rei Jorge V.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アレクサンダー・パウル・ルートヴィヒ・コンスタンティン・フォン・ヴュルテンベルク（ドイツ語:Alexander Paul Ludwig Konstantin von Württemberg, 1804年9月9日 - 1885年7月4日）は、ドイツのヴュルテンベルク王国の王族。テック公爵家の始祖。ヴュルテンベルク王フリードリヒ1世の弟ルートヴィヒと、その2番目の妻でナッサウ＝ヴァイルブルク侯カール・クリスティアンの娘であるヘンリエッテとの間の息子として、サンクトペテルブルクで生まれた。 アレクサンダーは1835年、ハンガリーの伯爵令嬢レーデイ・クラウディアと貴賤結婚をし、間に3人の子女をもうけた。クラウディアはホーエンシュタイン伯爵夫人の称号を与えられ、子供たちも同様の称号を許されたが、王族として扱われることはなかった。 
+* クラウディーネ（1836年 - 1894年） 
+* フランツ（1837年 - 1894年） 
+* アマーリア（1838年 - 1898年）…パウル・フォン・ヒューゲル伯爵と結婚 1841年に妻クラウディアが馬に踏み殺される悲劇が起きると、アレクサンダーは心を病み、精神的不安定は死ぬまで続くことになった。1863年、3人の子供たちはヴュルテンベルク王ヴィルヘルム1世からテック侯爵（または侯爵夫人）の地位を与えられた。長男のフランツは1866年にイギリスのヴィクトリア女王の従妹メアリー・アデレード・オブ・ケンブリッジと結婚し、これによって1871年にテック公爵に昇爵した。フランツとその子供たちはイギリスに帰化し、フランツの娘ヴィクトリア・メアリーはイギリス王ジョージ5世の妃となった。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Alexander Paul Lodewijk Constantijn (9 september 1804 – 4 juli 1885), hertog van Württemberg, was de zoon van hertog Lodewijk van Württemberg en prinses Henriëtte van Nassau-Weilburg. Hij trouwde op 2 mei 1835 morganatisch met gravin Claudine Rhédey van Kis-Rhéde (1812-1841). Alexander en Claudine kregen drie kinderen: 
+*  Claudine (1836-1894) 
+*  Frans (1837-1900) 
+*  Amalie (1838-1893) Omdat het huwelijk morganatisch was, hadden hun kinderen geen rechten op de troon van het koninkrijk Württemberg en droegen ze niet de titel van hun vader. Toen Claudine van Ferdinand I van Oostenrijk de titel “Gravin van Hohenstein” kreeg, namen ze die titel over. In 1863 kreeg hun zoon Frans de titel “Eerste Prins van Teck”, in 1871 de titel “Eerste Hertog van Teck” en in 1887 de titel “Prins van Württemberg”. In 1871 kregen Claudine en Amalie de titel “Prinses van Teck”. Hij stierf op 4 juli 1885 op 80-jarige leeftijd.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Alexandre de Wurtemberg, né à Kirchheim (Bas-Rhin) le 9 septembre 1804, décédé à Tüffer, aujourd&#39;hui Laško, en Slovénie le 4 juillet 1885, fut duc de Wurtemberg.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El duque Alejandro de Wurtemberg (9 de septiembre de 1804 – 4 de julio de 1885) fue el padre de Francisco, duque de Teck y abuelo de Adolfo de Cambridge, I marqués de Cambridge y de la reina María, consorte del rey Jorge V. Su padre fue el duque Luis de Wurtemberg, hermano del rey Federico I de Wurtemberg y de la emperatriz María Feodorovna de Rusia. Su madre fue la princesa Enriqueta de Nassau-Weilburg, una bisnieta del rey Jorge II de Gran Bretaña a través de su hija mayor Ana, princesa real. En 1835, se casó morganáticamente con la condesa húngara Klaudia Rhédey de Kis-Rhéde (1812-1841), con la cual tuvo tres hijos: Claudine, Francisco y Amalie. Su esposa fue nombrada condesa de Hohenstein y siguiendo las reglas del matrimonio morgánatico, los hijos obtuvieron el título de su madre, condes de Hohenstein, desde el nacimiento y no tuvieron derecho a los títulos de su padre ni a ningún estatus real por herencia. En 1841, su esposa fue arrollada fatalmente por unos caballos y quedó mentalmente inestable, situación en la que permanecería hasta su muerte ese mismo año. En 1863, sus hijos fueron elevados al rango de príncipes de Teck por el rey Guillermo I de Wurtemberg. En 1871, su hijo Francisco fue nombrado duque de Teck por el rey Carlos I de Wurtemberg, cinco años después de su boda con la prima tercera de Alejandro (en descendencia del rey Jorge II de Gran Bretaña) princesa María Adelaida de Cambridge. Las hijas de Alejandro no recibieron ningún estatus y permanecieron princesas de Teck. El ducado de Teck fue un título perteneciente al Reino de Wurtemberg.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Henriette_of_Nassau-Weilburg_(1780-1857)" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Württemberg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Countess_Claudine_Rhédey_von_Kis-Rhéde" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke Alexander of Württemberg</dbp:caption>
+    <dbp:nobleFamily rdf:resource="http://dbpedia.org/resource/House_of_Württemberg" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Father" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Henriette_of_Nassau-Weilburg">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alexander_of_Wurttemburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claudine_Rhedey_von_Kis-Rhede">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Duke_Alexander_of_Württemberg_(1804–1885)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alexander_of_Wurttemberg_(1804–1885)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alexander_of_Wurttemberg_(1804-1885)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804-1885)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Alexander_of_Württemberg_(1804–1885)" />
+  </rdf:Description>
+</rdf:RDF>

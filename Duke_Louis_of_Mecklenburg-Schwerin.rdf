@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Francis_I,_Grand_Duke_of_Mecklenburg-Schwerin">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Sophia_Frederica_of_Mecklenburg-Schwerin">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Charlotte_Sophie_of_Saxe-Coburg-Saalfeld">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfMecklenburg-Schwerin" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromGrabow" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdfs:label xml:lang="pt">Luís de Mecklemburgo-Schwerin</rdfs:label>
+    <rdfs:label xml:lang="en">Duke Louis of Mecklenburg-Schwerin</rdfs:label>
+    <rdfs:label xml:lang="it">Luigi di Meclemburgo-Schwerin</rdfs:label>
+    <rdfs:label xml:lang="ru">Людвиг Мекленбургский</rdfs:label>
+    <rdfs:label xml:lang="fr">Louis de Mecklembourg-Schwerin</rdfs:label>
+    <rdfs:label xml:lang="es">Luis de Mecklemburgo-Schwerin</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig zu Mecklenburg</rdfs:label>
+    <rdfs:comment xml:lang="es">Luis de Mecklemburgo-Schwerin (en alemán: Herzog Ludwig von Mecklenburg-Schwerin, 6 de agosto de 1725 - 12 de septiembre de 1778), fue el heredero del ducado de Mecklemburgo-Schwerin desde 1756 hasta su muerte. También fue el padre del primer Gran Duque Federico Francisco I de Mecklemburgo-Schwerin.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luís de Mecklemburgo-Schwerin (6 de agosto de 1725 - 12 de setembro de 1778) foi herdeiro do ducado de Mecklemburgo-Schwerin de 1756 até à sua morte. Era também pai de Frederico Francisco I, primeiro grão-duque de Mecklemburgo-Schwerin.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Duke Louis of Mecklenburg-Schwerin (German: Herzog Ludwig von Mecklenburg-Schwerin; 6 August 1725 – 12 September 1778) was heir to the Dukedom of Mecklenburg-Schwerin from 1756 to his death. He was also the father of the first Grand Duke of Mecklenburg-Schwerin Frederick Francis I</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Людвиг Мекленбургский (нем. Ludwig, Herzog zu Mecklenburg-Schwerin; 6 августа 1725, Грабов — 12 сентября 1778, Шверин) — с 1756 года наследный принц Мекленбург-Шверина.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ludwig, Herzog zu Mecklenburg [-Schwerin] (* 6. August 1725 in Grabow; † 12. September 1778 in Schwerin) war seit 1756 Erbprinz von Mecklenburg-Schwerin.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Louis de Mecklembourg-Schwerin (en allemand : Ludwig zu Mecklenburg), né le 6 août 1725 à Grabow et mort le 12 septembre 1778 à Schwerin, est un prince de la Maison de Mecklembourg. Il est l&#39;héritier du duché de Mecklembourg-Schwerin de 1756 à sa mort et le père de Frédéric-François Ier de Mecklembourg-Schwerin.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luis_de_Mecklemburgo-Schwerin" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Luigi_di_Meclemburgo-Schwerin" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q69910" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dscd1y" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luís_de_Mecklemburgo-Schwerin" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ludwig_zu_Mecklenburg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q69910" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Louis_de_Mecklembourg-Schwerin" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/117670170" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Mecklenburg-Schwerin" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Schwerin" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1778-9-12</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1778-09-12</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Grabow" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Mecklenburg-Schwerin" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-08-06</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-8-6</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1778_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1725_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Grabow" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Mecklenburg-Schwerin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Mecklenburg-Schwerin" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29257869</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">718968157</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://thepeerage.com/p11197.htm#i111965" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.genealogics.org/getperson.php?personID=I00022296&amp;tree=LEO" />
+    <foaf:name xml:lang="en">Duke Louis of Mecklenburg-Schwerin</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/1725_Ludwig.jpg" />
+    <dct:description xml:lang="en">German duke</dct:description>
+    <foaf:givenName xml:lang="en">Lodewijk</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duke_Louis_of_Mecklenburg-Schwerin" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/1725_Ludwig.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duke_Louis_of_Mecklenburg-Schwerin?oldid=718968157" />
+    <dbo:abstract xml:lang="es">Luis de Mecklemburgo-Schwerin (en alemán: Herzog Ludwig von Mecklenburg-Schwerin, 6 de agosto de 1725 - 12 de septiembre de 1778), fue el heredero del ducado de Mecklemburgo-Schwerin desde 1756 hasta su muerte. También fue el padre del primer Gran Duque Federico Francisco I de Mecklemburgo-Schwerin.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ludwig, Herzog zu Mecklenburg [-Schwerin] (* 6. August 1725 in Grabow; † 12. September 1778 in Schwerin) war seit 1756 Erbprinz von Mecklenburg-Schwerin.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luís de Mecklemburgo-Schwerin (6 de agosto de 1725 - 12 de setembro de 1778) foi herdeiro do ducado de Mecklemburgo-Schwerin de 1756 até à sua morte. Era também pai de Frederico Francisco I, primeiro grão-duque de Mecklemburgo-Schwerin.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Duke Louis of Mecklenburg-Schwerin (German: Herzog Ludwig von Mecklenburg-Schwerin; 6 August 1725 – 12 September 1778) was heir to the Dukedom of Mecklenburg-Schwerin from 1756 to his death. He was also the father of the first Grand Duke of Mecklenburg-Schwerin Frederick Francis I</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Louis de Mecklembourg-Schwerin (en allemand : Ludwig zu Mecklenburg), né le 6 août 1725 à Grabow et mort le 12 septembre 1778 à Schwerin, est un prince de la Maison de Mecklembourg. Il est l&#39;héritier du duché de Mecklembourg-Schwerin de 1756 à sa mort et le père de Frédéric-François Ier de Mecklembourg-Schwerin.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Людвиг Мекленбургский (нем. Ludwig, Herzog zu Mecklenburg-Schwerin; 6 августа 1725, Грабов — 12 сентября 1778, Шверин) — с 1756 года наследный принц Мекленбург-Шверина.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_Ludwig_II,_Duke_of_Mecklenburg-Schwerin" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duchess_Gustave_Caroline_of_Mecklenburg-Strelitz" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Charlotte_Sophie_of_Saxe-Coburg-Saalfeld" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Georg David Matthieu</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">of Prince Louis of Mecklenburg</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by the court artist</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Duchy_of_Mecklenburg-Schwerin" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick_Francis_I,_Grand_Duke_of_Mecklenburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duchess_Sophia_Frederica_of_Mecklenburg-Schwerin" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Heir" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Gustave_Caroline_of_Mecklenburg-Strelitz">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig,_Duke_of_Mecklenburg-Schwerin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Duke_Louis_of_Mecklenburg-Schwerin">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Duke_Louis_of_Mecklenburg-Schwerin" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Violet_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rose_Leveson-Gower,_Countess_Granville">
+    <dbp:father rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_George_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bowes-Lyon">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="es">Claude Bowes-Lyon</rdfs:label>
+    <rdfs:label xml:lang="nl">Claude Bowes-Lyon (1855-1944)</rdfs:label>
+    <rdfs:label xml:lang="ja">クロード・ボーズ＝ライアン (第14代ストラスモア伯爵)</rdfs:label>
+    <rdfs:label xml:lang="de">Claude Bowes-Lyon, 14. Earl of Strathmore and Kinghorne</rdfs:label>
+    <rdfs:label xml:lang="pt">Claude Bowes-Lyon</rdfs:label>
+    <rdfs:label xml:lang="fr">Claude Bowes-Lyon</rdfs:label>
+    <rdfs:label xml:lang="ru">Боуз-Лайон, Клод Джордж</rdfs:label>
+    <rdfs:label xml:lang="en">Claude Bowes-Lyon, 14th Earl of Strathmore and Kinghorne</rdfs:label>
+    <rdfs:label xml:lang="it">Claude Bowes-Lyon, XIV conte di Strathmore e Kinghorne</rdfs:label>
+    <rdfs:comment xml:lang="es">Claude George Bowes-Lyon, 14º conde de Strathmore y Kinghorne (14 de marzo de 1855 – 7 de noviembre de 1944) fue un terrateniente, aristócrata y noble escocés; padre de la reina Isabel del Reino Unido y abuelo de la Reina Isabel II. Desde 1937 fue conocido como el 14º y 1.er Conde de Strathmore y Kinghorne, por que fue el 14.º Conde en el sistema de títulos nobiliarios de Escocia pero 1.er Conde en el sistema de títulos nobiliarios del Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">第14代ストラスモア・アンド・キングホーン伯爵クロード・ジョージ・ボーズ＝ライアン（英: Claude George Bowes-Lyon, 14th Earl of Strathmore and Kinghorne、1855年3月14日 - 1944年11月7日）は、イギリスの貴族。イギリス王ジョージ6世妃エリザベスの父。イギリス女王エリザベス2世 、マーガレット王女の外祖父。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Claude George Bowes-Lyon, 14th and 1st Earl of Strathmore and Kinghorne KG KT GCVO TD (14 March 1855 – 7 November 1944), styled as Lord Glamis from 1865 to 1904, was a British peer and landowner who was the father of Queen Elizabeth the Queen Mother and the maternal grandfather of Queen Elizabeth II. From 1937 he was known as 14th and 1st Earl of Strathmore and Kinghorne, as he was the 14th Earl in the peerage of Scotland but the 1st Earl in the peerage of the United Kingdom.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Claude George Bowes-Lyon, 14. Earl of Strathmore and Kinghorne KG, KT, GCVO (* 14. März 1855 in Chelsea; † 7. November 1944 auf Glamis Castle) war ein schottischer Adliger und Großvater der Königin Elisabeth II.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Claude George Bowes-Lyon, de 14e graaf van Strathmore en Kinghorne (Chelsea, 14 maart 1855 – Glamis Castle, 7 november 1944) was een Schots edelman en grootvader van de Britse koningin Elizabeth II. Claude George Bowes-Lyon was een zoon van Claude Bowes-Lyon, de dertiende graaf van Strathmore en Kinghorne, en diens echtgenote Frances Dora Smith. Sinds 1865 droeg hij titel Lord Glamis. In 1904 volgde hij zijn vader op als graaf van Strathmore en Kinghorne, een titel in de Schotse adel. Van 1869 tot 1872 ging hij op school te Eton College. Vervolgens werd hij officier bij de Britse Life Guards.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Клод Джордж Бо́уз-Ла́йон, 14-й граф Стра́тмор и Ки́нгхорн (англ. Claude George Bowes-Lyon, 14th Earl of Strathmore and Kinghorne; 14 марта 1855 года, Лаундс-сквер, Белгравия, Лондон — 7 ноября 1944 года, Замок Глэмис) — британский аристократ, отец Елизаветы Боуз-Лайон, королевы-матери, дед королевы Елизаветы II.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Claude George Bowes-Lyon, 14.º Conde de Strathmore e Kinghorne, KT (14 de março de 1855 - 7 de novembro de 1944) foi um nobre britânico, melhor conhecido por ter sido o avô materno da rainha Elizabeth II. Em 1937, Claude Bowes-Lyon ficou conhecido como o &quot;14.º e 1.º Conde de Strathmore e Kinghorne&quot;, porque ele era o 14.º Conde no Pariato da Escócia e o 1.º Conde no Pariato do Reino Unido. Nascido em Lowndes Square, em Londres, era o filho mais velho de Claude Bowes-Lyon, 13.º Conde de Strathmore e Kinghorne e de sua esposa, Frances Dora Smith.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Claude George Bowes-Lyon, né le 14 mars 1855 à Londres et mort le 7 novembre 1944 au Château de Glamis, est le 14e comte de Strathmore et Kinghorne. Il est un propriétaire terrien plus connu pour être le père d&#39;Elizabeth Bowes-Lyon et donc le grand-père maternel de la reine Élisabeth II du Royaume-Uni.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Claude_Bowes-Lyon" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/クロード・ボーズ＝ライアン_(第14代ストラスモア伯爵)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q335159" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Claude_Bowes-Lyon_(1855-1944)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Claude_Bowes-Lyon" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02wzkl" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Claude_Bowes-Lyon,_XIV_conte_di_Strathmore_e_Kinghorne" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Claude_Bowes-Lyon" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q335159" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Claude_Bowes-Lyon,_14._Earl_of_Strathmore_and_Kinghorne" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Glamis_Castle" />
+    <dbp:deathPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Glamis, Scotland, UK</dbp:deathPlace>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-11-7</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Chelsea,_London" />
+    <dbp:birthPlace rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">London, England, UK</dbp:birthPlace>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1855-3-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_in_the_Peerage_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Earls_of_Strathmore_and_Kinghorne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_bronchitis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Eton_College" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lord-Lieutenants_of_Angus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Life_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_St_John" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Thistle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1855_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bowes-Lyon_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1944_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deputy_Lieutenants_of_Dundee" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">616331</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741809052</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Claude Bowes-Lyon, 14th Earl of Strathmore and Kinghorne</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Earl of Strathmore and Kinghorne</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Claude_George_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne.jpg" />
+    <dct:description xml:lang="en">British Earl</dct:description>
+    <foaf:givenName xml:lang="en">Claude</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Claude_George_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne?oldid=741809052" />
+    <dbo:abstract xml:lang="nl">Claude George Bowes-Lyon, de 14e graaf van Strathmore en Kinghorne (Chelsea, 14 maart 1855 – Glamis Castle, 7 november 1944) was een Schots edelman en grootvader van de Britse koningin Elizabeth II. Claude George Bowes-Lyon was een zoon van Claude Bowes-Lyon, de dertiende graaf van Strathmore en Kinghorne, en diens echtgenote Frances Dora Smith. Sinds 1865 droeg hij titel Lord Glamis. In 1904 volgde hij zijn vader op als graaf van Strathmore en Kinghorne, een titel in de Schotse adel. Van 1869 tot 1872 ging hij op school te Eton College. Vervolgens werd hij officier bij de Britse Life Guards. In 1904 werd Bowes-Lyon Lord-Lieutenant van Angus, maar hij legde dat ambt neer toen zijn jongste dochter Elizabeth in 1936 koningin van het Verenigd Koninkrijk werd. Tijdens de Tweede Wereldoorlog stelde hij zijn voorvaderlijk slot Glamis ter beschikking als militair hospitaal. De graaf stond bekend als filantroop en was begaan met de welstand van zijn pachters. Tevens was hij lid van de Territorial Army en erekolonel van een bataljon van de Black Watch. In 1937 werd hem nogmaals de titel Graaf van Strathmore en Kinghorne verleend, toen evenwel in de Britse adel. Hij voerde derhalve de titel van veertiende en eerste graaf van Strathmore en Kinghorne. In 1881 huwde hij Cecilia Nina Cavendish-Bentinck. Het echtpaar kreeg tien kinderen. 
+*  Violet Hyacinth (1882-1893); 
+*  Mary Frances (1883-1961); 
+*  Patrick (1884-1949); 
+*  John Herbert (1886-1930); 
+*  Alexander Francis (1887-1911); 
+*  Fergus (1889-1915); 
+*  Rose Constance (1890-1967); 
+*  Michael Claude Hamilton (1893-1953); 
+*  Elizabeth (1900-2002); 
+*  David (1902-1961).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">第14代ストラスモア・アンド・キングホーン伯爵クロード・ジョージ・ボーズ＝ライアン（英: Claude George Bowes-Lyon, 14th Earl of Strathmore and Kinghorne、1855年3月14日 - 1944年11月7日）は、イギリスの貴族。イギリス王ジョージ6世妃エリザベスの父。イギリス女王エリザベス2世 、マーガレット王女の外祖父。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Claude George Bowes-Lyon, 14. Earl of Strathmore and Kinghorne KG, KT, GCVO (* 14. März 1855 in Chelsea; † 7. November 1944 auf Glamis Castle) war ein schottischer Adliger und Großvater der Königin Elisabeth II.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Claude George Bowes-Lyon, 14th and 1st Earl of Strathmore and Kinghorne KG KT GCVO TD (14 March 1855 – 7 November 1944), styled as Lord Glamis from 1865 to 1904, was a British peer and landowner who was the father of Queen Elizabeth the Queen Mother and the maternal grandfather of Queen Elizabeth II. From 1937 he was known as 14th and 1st Earl of Strathmore and Kinghorne, as he was the 14th Earl in the peerage of Scotland but the 1st Earl in the peerage of the United Kingdom.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Claude George Bowes-Lyon, né le 14 mars 1855 à Londres et mort le 7 novembre 1944 au Château de Glamis, est le 14e comte de Strathmore et Kinghorne. Il est un propriétaire terrien plus connu pour être le père d&#39;Elizabeth Bowes-Lyon et donc le grand-père maternel de la reine Élisabeth II du Royaume-Uni.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Клод Джордж Бо́уз-Ла́йон, 14-й граф Стра́тмор и Ки́нгхорн (англ. Claude George Bowes-Lyon, 14th Earl of Strathmore and Kinghorne; 14 марта 1855 года, Лаундс-сквер, Белгравия, Лондон — 7 ноября 1944 года, Замок Глэмис) — британский аристократ, отец Елизаветы Боуз-Лайон, королевы-матери, дед королевы Елизаветы II.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Claude George Bowes-Lyon, 14º conde de Strathmore y Kinghorne (14 de marzo de 1855 – 7 de noviembre de 1944) fue un terrateniente, aristócrata y noble escocés; padre de la reina Isabel del Reino Unido y abuelo de la Reina Isabel II. Desde 1937 fue conocido como el 14º y 1.er Conde de Strathmore y Kinghorne, por que fue el 14.º Conde en el sistema de títulos nobiliarios de Escocia pero 1.er Conde en el sistema de títulos nobiliarios del Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Claude George Bowes-Lyon, 14.º Conde de Strathmore e Kinghorne, KT (14 de março de 1855 - 7 de novembro de 1944) foi um nobre britânico, melhor conhecido por ter sido o avô materno da rainha Elizabeth II. Em 1937, Claude Bowes-Lyon ficou conhecido como o &quot;14.º e 1.º Conde de Strathmore e Kinghorne&quot;, porque ele era o 14.º Conde no Pariato da Escócia e o 1.º Conde no Pariato do Reino Unido. Nascido em Lowndes Square, em Londres, era o filho mais velho de Claude Bowes-Lyon, 13.º Conde de Strathmore e Kinghorne e de sua esposa, Frances Dora Smith. Depois de ser educado em Eton College, ele recebeu uma comissão no regimento de cavalaria Life Guards, do exército britânico. Claude serviu por seis anos até seu casamento, com Cecilia Cavendish-Bentinck, no dia 16 de julho de 1881, em Petersham, Surrey. Eles tiveram dez filhos juntos.</dbo:abstract>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/David_Ogilvy,_12th_Earl_of_Airlie" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1855-03-14</dbp:birthDate>
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Claude George Bowes-Lyon</dbp:birthName>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lord Strathmore and Kinghorne in 1923</dbp:caption>
+    <dbp:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-11-07</dbp:deathDate>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:imageSize>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Violet Bowes-Lyon</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Rose_Leveson-Gower,_Countess_Granville" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Alexander Bowes-Lyon</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/David_Bowes-Lyon" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Fergus_Bowes-Lyon" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Michael Bowes-Lyon</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Mary_Elphinstone,_Lady_Elphinstone" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/John_Bowes-Lyon" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:parents rdf:resource="http://dbpedia.org/resource/Frances_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:spouse rdf:resource="http://dbpedia.org/resource/Cecilia_Bowes-Lyon,_Countess_of_Strathmore_and_Kinghorne" />
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1938</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1881</dbp:spouse>
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Patrick_Bowes-Lyon,_15th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:tenure rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-16</dbp:tenure>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Lord_Lieutenant_of_Angus" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1904</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1937</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Landowner" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bowes-Lyon,_13th_Earl_of_Strathmore_and_Kinghorne">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Hyacinth_Bowes-Lyon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_George_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne,_KG,_KT,_GCVO,_TD">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude,_14th_Earl_of_Strathmore_and_Kinghorne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Claude_Bowes-Lyon,_14th_Earl_of_Strathmore_and_Kinghorne" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_III,_Duke_of_Saxe-Coburg-Saalfeld">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_I,_Duke_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Principality_of_Lichtenberg">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_I_von_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saxe-Coburg_and_Gotha">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert,_Prince_Consort">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdfs:label xml:lang="en">Ernest I, Duke of Saxe-Coburg and Gotha</rdfs:label>
+    <rdfs:label xml:lang="pt">Ernesto I, Duque de Saxe-Coburgo-Gota</rdfs:label>
+    <rdfs:label xml:lang="ru">Эрнст I (герцог Саксен-Кобург-Готский)</rdfs:label>
+    <rdfs:label xml:lang="ja">エルンスト1世 (ザクセン＝コーブルク＝ゴータ公)</rdfs:label>
+    <rdfs:label xml:lang="fr">Ernest Ier de Saxe-Cobourg et Gotha</rdfs:label>
+    <rdfs:label xml:lang="zh">恩斯特一世 (萨克森-科堡-哥达)</rdfs:label>
+    <rdfs:label xml:lang="es">Ernesto I de Sajonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="pl">Ernest I Sachsen-Coburg-Gotha</rdfs:label>
+    <rdfs:label xml:lang="nl">Ernst I van Saksen-Coburg en Gotha</rdfs:label>
+    <rdfs:label xml:lang="it">Ernesto I di Sassonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="de">Ernst I. (Sachsen-Coburg und Gotha)</rdfs:label>
+    <rdfs:comment xml:lang="de">Ernst I. Anton Carl Ludwig von Sachsen-Coburg-Gotha (* 2. Januar 1784 in Coburg; † 29. Januar 1844 in Gotha) war ab 1806 Herzog von Sachsen-Coburg-Saalfeld. Als erster Herzog des neu geschaffenen Doppelherzogtums Sachsen-Coburg und Gotha war er 1826 Begründer des gleichnamigen Fürstenhauses. Ernst I. war preußischer General und der Vater des britischen Prinzgemahls Albert.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">エルンスト1世（Ernst I., 1784年1月2日 - 1844年1月29日）は、ザクセン＝コーブルク＝ザールフェルト公（在位：1806年 – 1826年）、後に初代ザクセン＝コーブルク＝ゴータ公（在位：1826年 – 1844年）。全名はエルンスト・アントン・カール・ルートヴィヒ（Ernst Anton Karl Ludwig）。 エルンストはザクセン＝コーブルク＝ザールフェルト公フランツ・フリードリヒとロイス・エーベルスドルフ伯ハインリヒ24世の娘アウグステの間に長男（第4子）として生まれた。弟に初代ベルギー国王レオポルド1世、妹にイギリス女王ヴィクトリアの母ヴィクトリアがいる。1806年、父の死去によりエルンストはザクセン＝コーブルク＝ザールフェルト公を継承した。 1817年、ザクセン＝ゴータ＝アルテンブルク公アウグストの娘ルイーゼとゴータで結婚した。ルイーゼとの間にはエルンスト2世、姪のヴィクトリア女王の王配となるアルブレヒト（英語名アルバート）の2人の男子が生まれたが、エルンストの女好きが原因で夫婦仲は良くなかった。 1832年、エルンストは姉アントイネッテとヴュルテンベルク公子アレクサンダーの娘で、自身の姪に当たるマリーとコーブルクで結婚した。2人の間に子は生まれなかった。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Ernesto I de Sajonia-Coburgo-Gotha (en alemán: Ernst I von Sachsen-Coburg und Gotha; Coburgo, 2 de enero de 1784 - 29 de enero de 1844) fue uno de los príncipes soberanos que gobernaron los Ducados Ernestinos en el siglo XIX. Duque de Sajonia-Coburgo-Gotha entre 1826 y 1844, había reinado previamente como Ernesto III en Sajonia-Coburgo-Saalfeld entre 1806 y 1826. Además, desempeñó un importante papel como oficial del ejército prusiano durante las Guerras Napoleónicas.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ernest Anton Karol Ludwik Sachsen-Coburg-Gotha (ur. 2 stycznia 1784 – 29 stycznia 1844) – książę Sachsen-Coburg-Saalfeld, książę Sachsen-Coburg-Gotha, z dynastii Wettynów. Syn księcia Franciszka i Augusty. Był bratem wielkiej księżnej Julii, króla Belgów Leopolda i Wiktorii księżnej Kentu, matki królowej Wiktorii oraz wujem króla Portugalii Ferdynanda.Był regentem od 1803 roku, gdy zachorował jego ojciec. Po jego śmierci w 1806 roku został księciem Sachsen-Coburg-Saalfeld. Jego rządy rozpoczęły się w czasie przetaczania się przez kraj wojsk napoleońskich. Od 12 listopada 1826 roku został księciem nowo powstałego księstwa Sachsen-Coburg und Gotha.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Ernest I, Duke of Saxe-Coburg and Gotha (German: Ernst Anton Karl Ludwig Herzog von Sachsen-Coburg und Gotha; 2 January 1784 – 29 January 1844) was the last sovereign duke of Saxe-Coburg-Saalfeld (as Ernest III) and, from 1826, the first sovereign duke of Saxe-Coburg and Gotha (as Ernest I). He was the father of Albert, Prince Consort of Queen Victoria and is thus a patrilineal ancestor and great-great-great-grandfather of Queen Elizabeth II. Ernest fought against Napoleon Bonaparte and through construction projects and the establishment of a court theatre left a strong imprint on his residence town, Coburg.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эрнст I (нем. Ernst) полное имя: Эрнст Антон Карл Людвиг (нем. Ernst Anton Karl Ludwig; 2 января 1784, Кобург — 29 января 1844, Гота) — герцог Саксен-Кобург-Заальфельдский c 9 декабря 1806 по 27 января 1807 (номинально) и с 28 июля 1807 по 12 ноября 1826 под именем Эрнст III, первый герцог Саксен-Кобург-Готский с 12 ноября 1826 под именем Эрнст I. Из эрнестинской линии династии Веттинов. Военачальник времен наполеоновских войн. Также служил в русской армии, где получил звание генерала от кавалерии (1832). В России более известен под именем Фердинанд Эрнст Август Саксен-Кобургский.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ernesto Antônio Carlos Luís (Coburgo, 2 de janeiro de 1784 — Gota, 29 de janeiro de 1844), feito duque de Saxe-Coburgo-Saalfeld e posteriormente nomeado Ernesto I, duque de Saxe-Coburgo-Gota, foi o filho mais velho de Francisco de Saxe-Coburgo-Saalfeld e de sua esposa, a condessa Augusta Reuss de Ebersdorf e Lobestein.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Ernest III de Saxe-Cobourg-Saalfeld, devenu le duc Ernest Ier de Saxe-Cobourg et Gotha, né le 2 janvier 1784 à Cobourg, en Saxe-Cobourg-Saalfeld et mort le 29 janvier 1844 à Gotha, en Saxe-Cobourg et Gotha, est le dernier duc de Saxe-Cobourg-Saalfeld, de 1806 à 1826, et le premier duc de Saxe-Cobourg et Gotha, de 1826 à sa mort.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Ernst Anton Karel Lodewijk (Coburg, 2 januari 1784 - Gotha, 29 januari 1844) was van 1806 tot 1826 hertog van Saksen-Coburg-Saalfeld en daarna tot zijn dood hertog van het nieuwe dubbelhertogdom Saksen-Coburg en Gotha. Hij was de zoon van hertog Frans van Saksen-Coburg-Saalfeld en diens echtgenote Augusta van Reuss-Ebersdorf en Lobenstein. De Belgische koning Leopold I was zijn jongere broer. 
+*  Ernst (1818-1893) 
+*  Albert (1819-1861), gehuwd met koningin Victoria (1819-1901). Ernst was een van de drie stichters van de Saksisch-Ernestijnse Huisorde.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">恩斯特一世（英语：Ernest I, Duke of Saxe-Coburg and Gotha，德语：Ernst Anton Karl Ludwig Herzog von Sachsen-Coburg und Gotha；1784年1月2日－1844年1月29日）是最後一任萨克森-科堡-萨尔费尔德公爵，亦是首任萨克森-科堡-哥达公爵。他是萨克森-科堡-萨尔费尔德公爵弗朗茨的长子，其弟利奥波德一世是比利时首任国王。1806年继承父亲弗朗茨为萨克森-科堡-萨尔费尔德公爵，但该公国被拿破仑占领。但恩斯特也是普鲁士将军。1807年签订提尔西特和约后，恩斯特才得以统治该公国。1813-1814年他指挥萨克森第5军，攻克美因兹，又参加1815年的战役，在维也纳会议上，他得到利希滕贝格公国的领地。1834年他将这一领地售予普鲁士王国。他是阿尔伯特亲王英國維多利亞女王夫婿）和恩斯特二世的父亲，死后爵位由恩斯特二世继承。他也是维多利亚公主（英國維多利亞女王之母）的兄长。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Ernest_I,_Adipati_Saxe-Coburg_dan_Gotha" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ernesto_I_di_Sassonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ernest_Ier_de_Saxe-Cobourg_et_Gotha" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ernesto_I,_Duque_de_Saxe-Coburgo-Gota" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118983334" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q58770" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エルンスト1世_(ザクセン＝コーブルク＝ゴータ公)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ernst_I._(Sachsen-Coburg_und_Gotha)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ernest_I_Sachsen-Coburg-Gotha" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ernst_I_van_Saksen-Coburg_en_Gotha" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ernesto_I_de_Sajonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.024ggb" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q58770" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Saxe-Coburg_and_Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/German_Confederation" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Gotha_(town)" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1844-1-29</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1844-01-29</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saxe-Coburg-Saalfeld" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Coburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Holy_Roman_Empire" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1784-01-02</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1784-1-2</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Coburg_and_Gotha" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_St._Andrew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1844_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Coburg-Saalfeld" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Saxe-Coburg_and_Gotha" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Ducal_Family_Mausoleum,_Glockenburg_Cemetery,_Coburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prussian_commanders_of_the_Napoleonic_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Coburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1784_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406241</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744281724</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.deutsche-biographie.de/pnd118983334.html" />
+    <foaf:name xml:lang="en">Ernest I</foaf:name>
+    <foaf:name xml:lang="en">Ernest I, Duke of Saxe-Coburg and Gotha</foaf:name>
+    <foaf:name xml:lang="en">()</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ernst_I,_Duke_of_Saxe-Coburg_and_Gotha_-_Dawe_1818-19.jpg" />
+    <dct:description xml:lang="en">sovereign duke of Saxe-Coburg-Saalfeld</dct:description>
+    <foaf:givenName xml:lang="en">Ernest</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ernst_I,_Duke_of_Saxe-Coburg_and_Gotha_-_Dawe_1818-19.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha?oldid=744281724" />
+    <dbo:abstract xml:lang="es">Ernesto I de Sajonia-Coburgo-Gotha (en alemán: Ernst I von Sachsen-Coburg und Gotha; Coburgo, 2 de enero de 1784 - 29 de enero de 1844) fue uno de los príncipes soberanos que gobernaron los Ducados Ernestinos en el siglo XIX. Duque de Sajonia-Coburgo-Gotha entre 1826 y 1844, había reinado previamente como Ernesto III en Sajonia-Coburgo-Saalfeld entre 1806 y 1826. Además, desempeñó un importante papel como oficial del ejército prusiano durante las Guerras Napoleónicas.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ernest Anton Karol Ludwik Sachsen-Coburg-Gotha (ur. 2 stycznia 1784 – 29 stycznia 1844) – książę Sachsen-Coburg-Saalfeld, książę Sachsen-Coburg-Gotha, z dynastii Wettynów. Syn księcia Franciszka i Augusty. Był bratem wielkiej księżnej Julii, króla Belgów Leopolda i Wiktorii księżnej Kentu, matki królowej Wiktorii oraz wujem króla Portugalii Ferdynanda.Był regentem od 1803 roku, gdy zachorował jego ojciec. Po jego śmierci w 1806 roku został księciem Sachsen-Coburg-Saalfeld. Jego rządy rozpoczęły się w czasie przetaczania się przez kraj wojsk napoleońskich. Od 12 listopada 1826 roku został księciem nowo powstałego księstwa Sachsen-Coburg und Gotha. 31 lipca 1817 roku ożenił się z Ludwiką Sachsen-Gotha-Altenburg. Choć małżeństwo nie było szczęśliwe, para doczekała się dwóch synów: 
+*  księcia Ernesta II Sachsen-Coburg-Gotha (ur. 21 czerwca 1818; zm. 22 sierpnia 1893), książę Sachsen-Coburg-Gotha; 
+*  księcia Alberta (ur. 26 sierpnia 1819; zm. 14 grudnia 1861), mąż Wiktorii, królowej Wielkiej Brytanii. W 1826 roku ogłoszono rozwód księcia Ernesta i Ludwiki, ograniczono również możliwość odwiedzania przez księżną synów. 23 grudnia 1832 roku odbył się drugi ślub Ernesta. Jego żoną została Maria Anna Wirtemberska, córka księcia Aleksandra i Antoniny, siostry Ernesta. Para nie miała dzieci. Ernest miał trójkę nieślubnych dzieci: z Zofią de Marteaux: Berta Ernestyna von Schauenstein (1817-1896) – żona Eduarda Edgara Schmidt-Löwe, nieślubnego syna siostry Ernesta Julii oraz z Małgorzatą Braun: Ernest Albert i Robert Ferdynand. Współfundator Orderu Ernestyńskiego (1833), odznaczony też m.in. bawarskimi orderami Korony Rucianej (1810) i Krzyżem Wielkim św. Henryka (1815).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ernesto Antônio Carlos Luís (Coburgo, 2 de janeiro de 1784 — Gota, 29 de janeiro de 1844), feito duque de Saxe-Coburgo-Saalfeld e posteriormente nomeado Ernesto I, duque de Saxe-Coburgo-Gota, foi o filho mais velho de Francisco de Saxe-Coburgo-Saalfeld e de sua esposa, a condessa Augusta Reuss de Ebersdorf e Lobestein.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Ernest I, Duke of Saxe-Coburg and Gotha (German: Ernst Anton Karl Ludwig Herzog von Sachsen-Coburg und Gotha; 2 January 1784 – 29 January 1844) was the last sovereign duke of Saxe-Coburg-Saalfeld (as Ernest III) and, from 1826, the first sovereign duke of Saxe-Coburg and Gotha (as Ernest I). He was the father of Albert, Prince Consort of Queen Victoria and is thus a patrilineal ancestor and great-great-great-grandfather of Queen Elizabeth II. Ernest fought against Napoleon Bonaparte and through construction projects and the establishment of a court theatre left a strong imprint on his residence town, Coburg.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Ernst Anton Karel Lodewijk (Coburg, 2 januari 1784 - Gotha, 29 januari 1844) was van 1806 tot 1826 hertog van Saksen-Coburg-Saalfeld en daarna tot zijn dood hertog van het nieuwe dubbelhertogdom Saksen-Coburg en Gotha. Hij was de zoon van hertog Frans van Saksen-Coburg-Saalfeld en diens echtgenote Augusta van Reuss-Ebersdorf en Lobenstein. De Belgische koning Leopold I was zijn jongere broer. Frans werd in het voorjaar van 1803 ernstig ziek en derhalve werd Ernst op 10 mei van dat jaar meerderjarig verklaard. Toen zijn vader op 9 december 1806 stierf, besteeg Ernst als Ernst I de hertogelijke troon van Saksen-Coburg-Saalfeld. Aanvankelijk was hij dit slechts in naam, daar het hertogdom was bezet door Napoleon Bonaparte en onder Frans bestuur stond. Pas bij de Vrede van Tilsit in 1807 verkreeg het land onder Russische druk (Ernsts zuster Juliana was gehuwd met Constantijn Pavlovitsj, broer van tsaar Alexander I) weer zijn zelfstandigheid. Ernst was generaal in het Pruisische leger en nam deel aan de strijd tegen Napoleon. Hij streed in 1806 bij Auerstedt, in 1813 bij Lützen en Leipzig en trok in 1814 de Franse vesting Mainz binnen. Na de val van Napoleon kende het Congres van Wenen hem als dank een gebied van 8,25 vierkante mijl met 25.000 inwoners toe dat in 1819 de naam Vorstendom Lichtenberg kreeg. Het werd in 1834 aan Pruisen verkocht. Ernst I huwde op 31 juli 1817 te Gotha prinses Louise, dochter van August van Saksen-Gotha-Altenburg. Dit gearrangeerde huwelijk werd op 31 maart 1826 weer beëindigd. Uit dit huwelijk kwamen volgende kinderen voort: 
+*  Ernst (1818-1893) 
+*  Albert (1819-1861), gehuwd met koningin Victoria (1819-1901). Na het uitsterven van het Huis Saksen-Gotha-Altenburg in dat jaar deelde de Saksische koning Frederik August I de Ernestijnse hertogdommen opnieuw in. Ernst stond Saalfeld af aan Saksen-Meiningen en ontving in ruil hiervoor Saksen-Gotha en de steden Königsberg en Sonnefeld. Hij noemde zijn nieuwe territorium Saksen-Coburg en Gotha en zichzelf nu Ernst I. Reeds in 1821 had hij zijn land een constitutie geschonken. Hij stimuleerde economie en onderwijs. Zijn adviezen werden door de andere Duitse vorstenhuizen uiterst serieus genomen. Sinds 23 december 1832 was hij hertrouwd met zijn nicht Marie (1799-1868), nicht van koning Frederik I van Württemberg, en dochter van Alexander Frederik van Württemberg. Uit dit huwelijk kwamen echter geen kinderen voort. Ernst stierf op 29 januari 1844 en werd bijgezet in het hertogelijke mausoleum te Coburg. Hij werd opgevolgd door zijn zoon Ernst. Zijn andere zoon Albert was sinds 1840 de echtgenoot van de Engelse koningin Victoria. Uit een buitenechtelijke relatie had hij een dochter, Bertha van Schaunstein. Bertha huwde Eduard-Edger Schmidt-Löwe, die op zijn beurt een buitenechtelijk kind was van Juliana van Saksen-Coburg-Saalfeld. Ernst was een van de drie stichters van de Saksisch-Ernestijnse Huisorde.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">恩斯特一世（英语：Ernest I, Duke of Saxe-Coburg and Gotha，德语：Ernst Anton Karl Ludwig Herzog von Sachsen-Coburg und Gotha；1784年1月2日－1844年1月29日）是最後一任萨克森-科堡-萨尔费尔德公爵，亦是首任萨克森-科堡-哥达公爵。他是萨克森-科堡-萨尔费尔德公爵弗朗茨的长子，其弟利奥波德一世是比利时首任国王。1806年继承父亲弗朗茨为萨克森-科堡-萨尔费尔德公爵，但该公国被拿破仑占领。但恩斯特也是普鲁士将军。1807年签订提尔西特和约后，恩斯特才得以统治该公国。1813-1814年他指挥萨克森第5军，攻克美因兹，又参加1815年的战役，在维也纳会议上，他得到利希滕贝格公国的领地。1834年他将这一领地售予普鲁士王国。他是阿尔伯特亲王英國維多利亞女王夫婿）和恩斯特二世的父亲，死后爵位由恩斯特二世继承。他也是维多利亚公主（英國維多利亞女王之母）的兄长。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">エルンスト1世（Ernst I., 1784年1月2日 - 1844年1月29日）は、ザクセン＝コーブルク＝ザールフェルト公（在位：1806年 – 1826年）、後に初代ザクセン＝コーブルク＝ゴータ公（在位：1826年 – 1844年）。全名はエルンスト・アントン・カール・ルートヴィヒ（Ernst Anton Karl Ludwig）。 エルンストはザクセン＝コーブルク＝ザールフェルト公フランツ・フリードリヒとロイス・エーベルスドルフ伯ハインリヒ24世の娘アウグステの間に長男（第4子）として生まれた。弟に初代ベルギー国王レオポルド1世、妹にイギリス女王ヴィクトリアの母ヴィクトリアがいる。1806年、父の死去によりエルンストはザクセン＝コーブルク＝ザールフェルト公を継承した。 1817年、ザクセン＝ゴータ＝アルテンブルク公アウグストの娘ルイーゼとゴータで結婚した。ルイーゼとの間にはエルンスト2世、姪のヴィクトリア女王の王配となるアルブレヒト（英語名アルバート）の2人の男子が生まれたが、エルンストの女好きが原因で夫婦仲は良くなかった。 ザクセン＝ゴータ＝アルテンブルク公アウグストには男子がなかったので、1822年にアウグストの弟フリードリヒ4世が公位を継承したが、フリードリヒにも子がなかった。1825年にフリードリヒ4世が死去し、ザクセン＝ゴータ＝アルテンブルク公家が断絶すると、同族であるヴェッティン家のザクセン諸侯が所領を分配することとなった。エルンストはゴータを獲得し、1826年に称号をザクセン＝コーブルク＝ゴータ公と改めた。こうして2つの公国の同君連合としてザクセン＝コーブルク＝ゴータ公国が成立した。なお、同年にエルンストはルイーゼと離婚している。 1832年、エルンストは姉アントイネッテとヴュルテンベルク公子アレクサンダーの娘で、自身の姪に当たるマリーとコーブルクで結婚した。2人の間に子は生まれなかった。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ernst I. Anton Carl Ludwig von Sachsen-Coburg-Gotha (* 2. Januar 1784 in Coburg; † 29. Januar 1844 in Gotha) war ab 1806 Herzog von Sachsen-Coburg-Saalfeld. Als erster Herzog des neu geschaffenen Doppelherzogtums Sachsen-Coburg und Gotha war er 1826 Begründer des gleichnamigen Fürstenhauses. Ernst I. war preußischer General und der Vater des britischen Prinzgemahls Albert.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Ernest III de Saxe-Cobourg-Saalfeld, devenu le duc Ernest Ier de Saxe-Cobourg et Gotha, né le 2 janvier 1784 à Cobourg, en Saxe-Cobourg-Saalfeld et mort le 29 janvier 1844 à Gotha, en Saxe-Cobourg et Gotha, est le dernier duc de Saxe-Cobourg-Saalfeld, de 1806 à 1826, et le premier duc de Saxe-Cobourg et Gotha, de 1826 à sa mort.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эрнст I (нем. Ernst) полное имя: Эрнст Антон Карл Людвиг (нем. Ernst Anton Karl Ludwig; 2 января 1784, Кобург — 29 января 1844, Гота) — герцог Саксен-Кобург-Заальфельдский c 9 декабря 1806 по 27 января 1807 (номинально) и с 28 июля 1807 по 12 ноября 1826 под именем Эрнст III, первый герцог Саксен-Кобург-Готский с 12 ноября 1826 под именем Эрнст I. Из эрнестинской линии династии Веттинов. Военачальник времен наполеоновских войн. Также служил в русской армии, где получил звание генерала от кавалерии (1832). В России более известен под именем Фердинанд Эрнст Август Саксен-Кобургский.</dbo:abstract>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1806</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Countess_Augusta_of_Reuss-Ebersdorf" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Saxe-Coburg-Saalfeld" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Francis,_Duke_of_Saxe-Coburg-Saalfeld" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Morizkirche_(Coburg)" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louise_of_Saxe-Gotha-Altenburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duchess_Marie_of_Württemberg" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by George Dawe</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Wettin" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Albert, Prince Consort</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-12</dbp:reign>
+    <dbp:reign rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1844-01-29</dbp:reign>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Duke_of_Saxe-Coburg-Saalfeld" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Saxe-Coburg_and_Gotha" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Saxe-Coburg-Saalfeld" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1826</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1806</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Duke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_I,_Duke_of_Saxe-Coburg-Gotha-Saalfeld">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_I,_Duke_of_Saxe-Coburg-Saalfeld">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_I,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_Greiner">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_I_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_I,_Duke_of_Saxe-Coburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha">
+    <dbp:founder rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Marie_of_Württemberg">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_&amp;_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+</rdf:RDF>

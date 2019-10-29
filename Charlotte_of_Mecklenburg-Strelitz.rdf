@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Ansbach">
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_the_United_Kingdom">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_IV_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Moser">
+    <dbp:patrons rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Sophia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophia_Charlotte_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Charlotte_(1812_ship)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Octavius_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_charlotte">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Augusta_Sophia_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte,_North_Carolina">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <dbp:namesake rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queensbury,_New_York">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Augustus_Frederick,_Duke_of_Sussex">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary,_Duchess_of_Gloucester_and_Edinburgh">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Sophia_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margarita_de_Castro_e_Souza">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_County,_Virginia">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mecklenburg_County,_North_Carolina">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mecklenburg_County,_Virginia">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte,_Princess_Royal">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent_and_Strathearn">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elizabeth_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margarida_de_Castro_e_Sousa">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Adolphus,_Duke_of_Cambridge">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Amelia_of_the_United_Kingdom">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromMecklenburg-Strelitz" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfMecklenburg-Strelitz" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consort109958724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishRoyalConsorts" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfSaxe-Lauenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromMirow" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfBremenAndVerden" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHanoverianRoyalConsorts" />
+    <rdfs:label xml:lang="pt">Carlota de Mecklemburgo-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="es">Carlota de Mecklemburgo-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="zh">梅克伦堡-施特雷利茨的夏洛特</rdfs:label>
+    <rdfs:label xml:lang="nl">Charlotte van Mecklenburg-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="fr">Charlotte de Mecklembourg-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="de">Sophie Charlotte von Mecklenburg-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="ru">Шарлотта Мекленбург-Стрелицкая</rdfs:label>
+    <rdfs:label xml:lang="pl">Zofia Charlotta Mecklenburg-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="it">Carlotta di Meclemburgo-Strelitz (1744-1818)</rdfs:label>
+    <rdfs:label xml:lang="en">Charlotte of Mecklenburg-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="ja">シャーロット・オブ・メクレンバーグ＝ストレリッツ</rdfs:label>
+    <rdfs:comment xml:lang="ja">ソフィア・シャーロット・オブ・メクレンバーグ＝ストレリッツ（Sophia Charlotte of Mecklenburg-Strelitz, 1744年5月19日 - 1818年11月17日）は、イギリス国王ジョージ3世の王妃。メクレンブルク＝シュトレーリッツ公子カール・ルートヴィヒの末娘で、ドイツ名はゾフィー・シャルロッテ・フォン・メクレンブルク＝シュトレーリッツ（Sophie Charlotte von Mecklenburg-Strelitz）。兄にメクレンブルク＝シュトレーリッツ公（のち大公）アドルフ・フリードリヒ4世、カール2世がいる。 母太后オーガスタと首相ビュート伯が王妃選びで度重なる圧力をかけてくるため、王は独自に侍従武官グレアム大佐をドイツへ派遣し、王妃にふさわしい女性を見つけてくるよう命じた。グレアム大佐が推薦したのが、当時17歳の公女シャルロッテであった。 1761年9月8日に挙式、9月22日に戴冠式を行った。ジョージ3世は王妃とともに戴冠するつもりで、即位後1年あまりも戴冠式を延ばしていたという。 ヨハン・クリスティアン・バッハ（有名な大バッハの息子の一人）、モーツァルトの後援者であったことが知られている。また、ロンドンのキューガーデンの設立にも協力したほど植物を愛していた。このほか、ウェッジウッドの陶磁器を購入し、「クイーンズウェア」の称号を許可している。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Sophie Charlotte, Herzogin zu Mecklenburg [-Strelitz] (* 19. Mai 1744 in Mirow; † 17. November 1818 im Kew Palace in den Royal Botanic Gardens) war eine deutsche Prinzessin, die durch die Heirat mit König Georg III. als Königin Charlotte zur Königin von Großbritannien und von Irland (seit 1801 von Großbritannien und Irland) sowie Kurfürstin von Braunschweig-Lüneburg und später Königin von Hannover wurde.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Zofia Charlotta Mecklenburg-Strelitz (ur. 19 maja 1744 w Mirow; zm. 17 listopada 1818 w Royal Botanic Gardens) – niemiecka księżniczka Mecklenburg-Strelitz, królowa Wielkiej Brytanii. Jej rodzicami byli książę Mecklenburg-Strelitz, Karol Ludwik Fryderyk oraz jego żona Elżbieta Sachsen-Hildburghausen, księżniczka Saksonii. Jej ślub z Jerzym III odbył się 8 września 1761 roku. Królowa Zofia patronowała twórczości Jana Krystiana Bacha oraz Wolfganga Amadeusa Mozarta. Jerzy III i Zofia mieli 15 dzieci, w tym dwóch przyszłych królów Wielkiej Brytanii:</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Шарлотта Мекленбург-Стрелицкая (нем. Sophie Charlotte, Herzogin zu Mecklenburg-Strelitz, 19 мая 1744, Миров, Мекленбург-Стрелиц — 17 ноября 1818, Лондон) — принцесса Мекленбургского дома, супруга короля Великобритании Георга III (1738—1820) и бабушка королевы Виктории (1819—1901). София Шарлотта была младшей дочерью герцога Карла Людвига Фридриха Мекленбург-Стрелицкого (1707—1752) и герцогини Елизаветы Альбертины Саксонской (1713—1761).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Sofia Carlota (Mirow, 19 de maio de 1744 – Londres, 17 de novembro de 1818) foi esposa do rei Jorge III e rainha consorte do Reino da Grã-Bretanha e Irlanda e depois do Reino Unido da Grã-Bretanha e Irlanda de 1761 até sua morte. Também foi eleitora consorte do Eleitorado de Hanôver e posteriormente rainha consorte do Reino de Hanôver. Era filha do duque Carlos Luís Frederico de Mecklemburgo-Strelitz e sua esposa a princesa Isabel Albertina de Saxe-Hildburghausen.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">夏洛特王后，全名索菲亚·夏洛特（德语：Sophie Charlotte，1744年5月19日－1818年11月17日），英国国王乔治三世的王后。 她是梅克伦堡-施特雷利茨公爵卡尔·路德维希·弗里德里希与其夫人伊丽莎白·阿尔贝汀公主的幼女--第五个女儿（第二個未夭折的女兒）。同时，她也有三個哥哥两个弟弟（其中大弟夭折），二哥是公爵卡爾二世。她是维多利亚女王的祖母。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carlota de Mecklemburgo-Strelitz (Mirow, 19 de mayo de 1744 - Surrey, 17 de noviembre de 1818) fue una duquesa alemana de la casa de Mecklemburgo y Reina consorte de Jorge III del Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Nel 1761 sposò il re Giorgio III del Regno Unito, divenendo regina consorte di Gran Bretagna e Irlanda ed elettrice (poi regina) di Hannover. Carlotta è tuttora la seconda consorte che rimase al potere più a lungo, preceduta solamente dal principe Filippo: servì il paese dal giorno del matrimonio, l&#39;8 settembre 1761, fino alla sua morte, il 17 novembre 1818, per un totale di 57 anni e 70 giorni.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Sophie-Charlotte de Mecklembourg-Strelitz le 19 mai 1744 et morte le 17 novembre 1818, est l&#39;épouse de Georges III (1738–1820). Elle est la grand-mère de la reine Victoria et l&#39;aïeule de l&#39;actuelle reine du Royaume-Uni, Élisabeth II mais aussi de l&#39;époux de celle-ci, Philip Mountbatten, duc d’Édimbourg.La reine Charlotte fut une protectrice des arts, connue de Johann Christian Bach et de Mozart, entre autres. Elle fut aussi une botaniste amatrice qui œuvra à la fondation de Kew Gardens. La famille des Strelitziaceae a d&#39;ailleurs été nommée en sa mémoire. George III et la reine Charlotte eurent quinze enfants, dont treize atteignirent l&#39;âge adulte.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Sophia Charlotte van Mecklenburg-Strelitz (Mirow, Mecklenburg-Strelitz, 19 mei 1744 – Kew Palace, Verenigd Koninkrijk, 17 november 1818), hertogin van Mecklenburg, was door haar huwelijk met koning George III van het Verenigd Koninkrijk koningin van het Verenigd Koninkrijk van Groot-Brittannië en Ierland.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Charlotte of Mecklenburg-Strelitz (Sophia Charlotte; 19 May 1744 – 17 November 1818) was the wife of King George III. She was Queen of Great Britain and Ireland from her marriage in 1761 until the union of the two kingdoms in 1801, after which she was Queen of the United Kingdom of Great Britain and Ireland until her death in 1818. She was also the Electress of Hanover in the Holy Roman Empire until the promotion of her husband to King of Hanover on 12 October 1814, after which she was also queen consort of Hanover.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Duchess_Charlotte_Georgine_of_Mecklenburg-Strelitz" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Descendants_of_George_III" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charlotte_de_Mecklembourg-Strelitz" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Zofia_Charlotta_Mecklenburg-Strelitz" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Charlotte_dari_Mecklenburg-Strelitz" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q161159" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/메클렌부르크슈트렐리츠의_샬럿" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sophie_Charlotte_von_Mecklenburg-Strelitz" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Šarlota_Meklenbursko-Střelická" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01dr47" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q161159" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/シャーロット・オブ・メクレンバーグ＝ストレリッツ" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlota_de_Mecklemburgo-Strelitz" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carlotta_di_Meclemburgo-Strelitz_(1744-1818)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/128624280" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carlota_de_Mecklemburgo-Strelitz" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Charlotte_van_Mecklenburg-Strelitz" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kew" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kew_Palace" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-11-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Holy_Roman_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Mecklenburg-Strelitz" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mirow" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1744-05-19</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1744-5-19</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Mecklenburg-Strelitz" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_George&#39;s_Chapel,_Windsor_Castle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Botanic_Gardens,_Kew" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electresses_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Mecklenburg-Strelitz" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1744_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hanoverian_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Mecklenburg-Strelitz" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1818_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Saxe-Lauenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Bremen_and_Verden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_III_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Mirow" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209351</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744319224</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://people.virginia.edu/~jlc5f/charlotte/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/world/2009/mar/12/race-monarchy" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/health/3889903.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pbs.org/wgbh/pages/frontline/shows/secret/famous/royalfamily.html" />
+    <foaf:name xml:lang="en">Charlotte of Mecklenburg-Strelitz</foaf:name>
+    <foaf:name xml:lang="en">Sophia Charlotte</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Allan_Ramsay_-_Queen_Charlotte_(Royal_Collection).png" />
+    <dct:description xml:lang="en">Queen consort of the United Kingdom as the wife of King George III</dct:description>
+    <foaf:givenName xml:lang="en">Charlotte</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charlotte_of_Mecklenburg-Strelitz" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Allan_Ramsay_-_Queen_Charlotte_(Royal_Collection).png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charlotte_of_Mecklenburg-Strelitz?oldid=744319224" />
+    <dbo:abstract xml:lang="de">Sophie Charlotte, Herzogin zu Mecklenburg [-Strelitz] (* 19. Mai 1744 in Mirow; † 17. November 1818 im Kew Palace in den Royal Botanic Gardens) war eine deutsche Prinzessin, die durch die Heirat mit König Georg III. als Königin Charlotte zur Königin von Großbritannien und von Irland (seit 1801 von Großbritannien und Irland) sowie Kurfürstin von Braunschweig-Lüneburg und später Königin von Hannover wurde.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Sofia Carlota (Mirow, 19 de maio de 1744 – Londres, 17 de novembro de 1818) foi esposa do rei Jorge III e rainha consorte do Reino da Grã-Bretanha e Irlanda e depois do Reino Unido da Grã-Bretanha e Irlanda de 1761 até sua morte. Também foi eleitora consorte do Eleitorado de Hanôver e posteriormente rainha consorte do Reino de Hanôver. Era filha do duque Carlos Luís Frederico de Mecklemburgo-Strelitz e sua esposa a princesa Isabel Albertina de Saxe-Hildburghausen. A rainha Carlota era uma mecenas das artes, conhecida de Johann Christian Bach e Wolfgang Amadeus Mozart entre outros. Era também uma botânica amadora que ajudou a expandir os Reais Jardins Botânicos de Kew. Jorge III e Carlota tiveram quinze filhos, treze dos quais chegaram à idade adulta.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Sophia Charlotte van Mecklenburg-Strelitz (Mirow, Mecklenburg-Strelitz, 19 mei 1744 – Kew Palace, Verenigd Koninkrijk, 17 november 1818), hertogin van Mecklenburg, was door haar huwelijk met koning George III van het Verenigd Koninkrijk koningin van het Verenigd Koninkrijk van Groot-Brittannië en Ierland. Ze was een beschermvrouwe van Johann Christian Bach en Wolfgang Amadeus Mozart en vele anderen. Ze was ook een amateur-plantkundige en ze was mede-oprichter van de Kew Gardens in Londen. Koning George III en koningin Charlotte kregen vijftien kinderen, van wie er dertien een volwassen leeftijd behaalden.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Zofia Charlotta Mecklenburg-Strelitz (ur. 19 maja 1744 w Mirow; zm. 17 listopada 1818 w Royal Botanic Gardens) – niemiecka księżniczka Mecklenburg-Strelitz, królowa Wielkiej Brytanii. Jej rodzicami byli książę Mecklenburg-Strelitz, Karol Ludwik Fryderyk oraz jego żona Elżbieta Sachsen-Hildburghausen, księżniczka Saksonii. Jej ślub z Jerzym III odbył się 8 września 1761 roku. Królowa Zofia patronowała twórczości Jana Krystiana Bacha oraz Wolfganga Amadeusa Mozarta. Jerzy III i Zofia mieli 15 dzieci, w tym dwóch przyszłych królów Wielkiej Brytanii: 
+*  Jerzy IV (12 sierpnia 1762 – 26 czerwca 1830), król Wielkiej Brytanii i Hanoweru 
+*  Fryderyk August (16 sierpnia 1763 – 5 stycznia 1827), książę Yorku 
+*  Wilhelm IV (21 sierpnia 1765 – 20 czerwca 1837), król Wielkiej Brytanii i Hanoweru 
+*  Charlotta (29 września 1766 – 6 października 1828), księżniczka królewska, żona Fryderyka I, króla Wirtembergii, nie miała dzieci 
+*  Edward August (2 listopada 1767 – 23 stycznia 1820), książę Kentu 
+*  Augusta Zofia (8 listopada 1768 – 22 września 1840) 
+*  Elżbieta Hanowerska (22 maja 1770 – 10 stycznia 1840), żona Fryderyka, landgrafa Hessen-Homburg, nie miała dzieci 
+*  Ernest August I (5 czerwca 1771 – 18 listopada 1851), król Hanoweru 
+*  August Fryderyk (27 stycznia 1773 – 21 kwietnia 1843), książę Sussex 
+*  Adolf (24 lutego 1774 – 8 lipca 1850), książę Cambridge 
+*  Maria (25 kwietnia 1776 – 30 kwietnia 1857), żona Wilhelma Fryderyka Hanowerskiego, księcia Gloucester i Edynburga, nie miała dzieci 
+*  Zofia (3 listopada 1777 – 27 maja 1848) 
+*  Oktawiusz (23 lutego 1779 – 3 maja 1783) 
+*  Alfred (22 września 1780 – 20 sierpnia 1782) 
+*  Amelia (7 sierpnia 1783 – 2 listopada 1810) Teściowa Szarlotty nie powitała synowej z otwartymi rękami, przez pewien czas panowało napięcie między dwoma kobietami. Pomimo braku sympatii teściowej i tego, że król był przed małżeństwem związany z wieloma kobietami, małżeństwo było szczęśliwe. Chociaż z biegiem czasu miała znaczny dostęp do władzy, nie nadużywała jej. Królowa Szarlotta była żywo zainteresowana sztuką, wspierała Jana Christiana Bacha, który był jej nauczycielem muzyki. Swój utwór poświęcił dla niej Wolfgang Amadeus Mozart. Królowa zakładała domy i szpitale dla oczekujących matek. Szarlotta była także bardzo dobrym amatorem botanikiem. Wielką wagę przywiązywała do edukacji. Szarlotta utrzymywała bliskie stosunki z Marią Antoniną, królową Francji. Łączyła je miłość do muzyki i sztuki, w których brały udział. Nigdy jednak nie spotkały się osobiście. Po wybuchu rewolucji we Francji, królowa Wielkiej Brytanii szykowała już apartamenty dla Marii Antoniny i jej rodziny. Szarlotta była wstrząśnięta późniejszymi losami swojej przyjaciółki.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carlota de Mecklemburgo-Strelitz (Mirow, 19 de mayo de 1744 - Surrey, 17 de noviembre de 1818) fue una duquesa alemana de la casa de Mecklemburgo y Reina consorte de Jorge III del Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Sophie-Charlotte de Mecklembourg-Strelitz le 19 mai 1744 et morte le 17 novembre 1818, est l&#39;épouse de Georges III (1738–1820). Elle est la grand-mère de la reine Victoria et l&#39;aïeule de l&#39;actuelle reine du Royaume-Uni, Élisabeth II mais aussi de l&#39;époux de celle-ci, Philip Mountbatten, duc d’Édimbourg.La reine Charlotte fut une protectrice des arts, connue de Johann Christian Bach et de Mozart, entre autres. Elle fut aussi une botaniste amatrice qui œuvra à la fondation de Kew Gardens. La famille des Strelitziaceae a d&#39;ailleurs été nommée en sa mémoire. George III et la reine Charlotte eurent quinze enfants, dont treize atteignirent l&#39;âge adulte.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Nel 1761 sposò il re Giorgio III del Regno Unito, divenendo regina consorte di Gran Bretagna e Irlanda ed elettrice (poi regina) di Hannover. Carlotta è tuttora la seconda consorte che rimase al potere più a lungo, preceduta solamente dal principe Filippo: servì il paese dal giorno del matrimonio, l&#39;8 settembre 1761, fino alla sua morte, il 17 novembre 1818, per un totale di 57 anni e 70 giorni. La regina fu una patrona delle arti e conobbe, tra gli altri, Johann Christian Bach e Wolfgang Amadeus Mozart. Aveva inoltre la passione per la botanica e contribuì alla fondazione dei giardini reali di Kew. Giorgio III e la regina Carlotta ebbero quindici figli, tredici dei quali raggiunsero l&#39;età adulta.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">夏洛特王后，全名索菲亚·夏洛特（德语：Sophie Charlotte，1744年5月19日－1818年11月17日），英国国王乔治三世的王后。 她是梅克伦堡-施特雷利茨公爵卡尔·路德维希·弗里德里希与其夫人伊丽莎白·阿尔贝汀公主的幼女--第五个女儿（第二個未夭折的女兒）。同时，她也有三個哥哥两个弟弟（其中大弟夭折），二哥是公爵卡爾二世。她是维多利亚女王的祖母。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Charlotte of Mecklenburg-Strelitz (Sophia Charlotte; 19 May 1744 – 17 November 1818) was the wife of King George III. She was Queen of Great Britain and Ireland from her marriage in 1761 until the union of the two kingdoms in 1801, after which she was Queen of the United Kingdom of Great Britain and Ireland until her death in 1818. She was also the Electress of Hanover in the Holy Roman Empire until the promotion of her husband to King of Hanover on 12 October 1814, after which she was also queen consort of Hanover. Queen Charlotte was a patroness of the arts and an amateur botanist, who helped expand Kew Gardens. George III and Charlotte had 15 children, 13 of whom survived to adulthood. She was distressed by her husband&#39;s bouts of physical illness and insanity, which became permanent in later life and resulted in their eldest son being appointed Prince Regent in 1811.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ソフィア・シャーロット・オブ・メクレンバーグ＝ストレリッツ（Sophia Charlotte of Mecklenburg-Strelitz, 1744年5月19日 - 1818年11月17日）は、イギリス国王ジョージ3世の王妃。メクレンブルク＝シュトレーリッツ公子カール・ルートヴィヒの末娘で、ドイツ名はゾフィー・シャルロッテ・フォン・メクレンブルク＝シュトレーリッツ（Sophie Charlotte von Mecklenburg-Strelitz）。兄にメクレンブルク＝シュトレーリッツ公（のち大公）アドルフ・フリードリヒ4世、カール2世がいる。 母太后オーガスタと首相ビュート伯が王妃選びで度重なる圧力をかけてくるため、王は独自に侍従武官グレアム大佐をドイツへ派遣し、王妃にふさわしい女性を見つけてくるよう命じた。グレアム大佐が推薦したのが、当時17歳の公女シャルロッテであった。 1761年9月8日に挙式、9月22日に戴冠式を行った。ジョージ3世は王妃とともに戴冠するつもりで、即位後1年あまりも戴冠式を延ばしていたという。 王との家庭生活は円満で、ジョージ4世、ヨーク公フレデリック、ウィリアム4世、ケント公エドワード（ヴィクトリア女王の父）、ハノーファー王エルンスト・アウグストら9男6女の母となり、夫の女性関係では苦労することも全くなかった。政治に口を出すことなく、宮廷行事でも出しゃばることがなかった。しかし、子供たちの不品行には夫とともに心の安まる時がなかった。たびたび精神異常を引き起こした夫を献身的に介護し、ロンドンを出てウィンザー城で共に暮らした。 ヨハン・クリスティアン・バッハ（有名な大バッハの息子の一人）、モーツァルトの後援者であったことが知られている。また、ロンドンのキューガーデンの設立にも協力したほど植物を愛していた。このほか、ウェッジウッドの陶磁器を購入し、「クイーンズウェア」の称号を許可している。 1818年11月に死去し、ウィンザー城内のセント・ジョージズ・チャペルに埋葬された。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Шарлотта Мекленбург-Стрелицкая (нем. Sophie Charlotte, Herzogin zu Mecklenburg-Strelitz, 19 мая 1744, Миров, Мекленбург-Стрелиц — 17 ноября 1818, Лондон) — принцесса Мекленбургского дома, супруга короля Великобритании Георга III (1738—1820) и бабушка королевы Виктории (1819—1901). София Шарлотта была младшей дочерью герцога Карла Людвига Фридриха Мекленбург-Стрелицкого (1707—1752) и герцогини Елизаветы Альбертины Саксонской (1713—1761). В возрасте 17 лет она стала супругой короля Великобритании. У них было 15 детей, только двое из которых умерли в детстве. Среди детей Шарлотты были короли Великобритании Георг IV и Вильгельм IV, а также король Ганновера Эрнст-Август. Королева Шарлотта очень любила искусство и, в частности, оказывала поддержку своему учителю музыки Иоганну Кристиану Баху (сыну знаменитого композитора) и В. А. Моцарту, который в возрасте 8 лет посвятил ей один из своих опусов. Она также широко занималась благотворительностью. Королева хорошо знала ботанику и участвовала в создании Королевского ботанического сада. Королеве Шарлотте принадлежит рецепт сладкого десерта из яблок, запеченных в тесте (шарлотки). В честь неё названы города Шарлотт в Северной Каролине и Шарлоттаун в канадской провинции Остров Принца Эдуарда. В её честь названа стрелитция (лат. Strelitzia) — типовой род семейства Стрелитциевые (Strelitziaceae), состоящий из 4 видов, произрастающих в Южной Африке. Кроме того именно королева Шарлотта установила первую королевскую рождественскую ёлку на праздник 1800 года, однако укоренилась традиция установки елок лишь через 40 лет в правление её внучки Виктории с подачи её супруга принца Альберта.</dbo:abstract>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1761</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg,_Prince_of_Mirow" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Elizabeth_Albertine_of_Saxe-Hildburghausen" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/St_George&#39;s_Chapel_at_Windsor_Castle" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen Charlotte in state robes by Allan Ramsay, 1761</dbp:caption>
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1761-09-22</dbp:coronation>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-12-02</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Mecklenburg-Strelitz" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Elizabeth_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Amelia_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Augustus_Frederick,_Duke_of_Sussex" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Sophia_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Augusta_Sophia_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Frederick,_Duke_of_York_and_Albany" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charlotte,_Princess_Royal" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Mary,_Duchess_of_Gloucester_and_Edinburgh" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Adolphus,_Duke_of_Cambridge" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/William_IV_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_IV_of_the_United_Kingdom" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent_and_Strathearn" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Octavius_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_Alfred_of_Great_Britain" />
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Caroline_of_Brunswick" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_Hanoverian_consorts" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/List_of_British_consorts" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_British_consorts" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Hanoverian_consorts" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Electress" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen consort of Great Britain and Ireland</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1801</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1814</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1761</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Frederick,_Duke_of_York_and_Albany">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Alfred_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Charlotte">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margarita_de_Castro_e_Sousa">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Mecklenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Mecklenburg_Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Charlotte_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Charlotte_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Charlotte_of_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Charlotte_of_Mecklenburg_Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Charlotte_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Sophia_Charlotte_of_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_of_Mecklenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charlotte_of_Mecklenburg-Strelitz">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+  </rdf:Description>
+</rdf:RDF>

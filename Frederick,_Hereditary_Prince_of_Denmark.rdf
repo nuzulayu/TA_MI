@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juliana_Maria_of_Brunswick-Wolfenbüttel">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_V_of_Denmark">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_VIII_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hereditary_Prince_Frederick_of_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="pt">Frederico, Príncipe Hereditário da Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="pl">Fryderyk Oldenburg</rdfs:label>
+    <rdfs:label xml:lang="ja">フレゼリク・ア・ダンマーク (1753-1805)</rdfs:label>
+    <rdfs:label xml:lang="fr">Frédéric de Danemark (1753-1805)</rdfs:label>
+    <rdfs:label xml:lang="ar">فريدريك أمير الدنمارك بالوراثة</rdfs:label>
+    <rdfs:label xml:lang="en">Frederick, Hereditary Prince of Denmark</rdfs:label>
+    <rdfs:label xml:lang="it">Federico di Danimarca (1753-1805)</rdfs:label>
+    <rdfs:label xml:lang="es">Federico de Dinamarca (1753-1805)</rdfs:label>
+    <rdfs:label xml:lang="ru">Фредерик, принц Датский и Норвежский</rdfs:label>
+    <rdfs:label xml:lang="de">Friedrich von Dänemark (1753–1805)</rdfs:label>
+    <rdfs:label xml:lang="nl">Frederik van Denemarken (1753-1805)</rdfs:label>
+    <rdfs:comment xml:lang="pl">Fryderyk Oldenburg (ur. 11 października 1753 w Kopenhadze – zm. 7 grudnia 1805 tamże) – książę Danii i Norwegii. Syn króla Danii Fryderyka V i jego drugiej żony Juliany Marii Brunszwickiej. Jego dziadkami byli: król Danii Chrystian VI Oldenburg i Zofia Magdalena Hohenzollern oraz Ferdynand Albert II z Brunszwiku-Wolfenbüttel i Antoinette Amalie z Brunszwiku-Lüneburg. 21 października 1774 roku poślubił Zofię Mecklenburg-Schwerin córkę księcia Ludwika Mecklenburg-Schwerin i Charlotty Zofii Sachsen-Coburg-Saalfeld. Dziećmi z tego związku były:</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Frederik van Denemarken (Kopenhagen, 11 oktober 1753 - Amalienborg, 7 december 1805) was het enig overlevende kind van Frederik V van Denemarken en diens tweede echtgenote Juliana Maria van Brunswijk-Wolfenbüttel.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フレゼリク・ア・ダンマーク（Frederik af Danmark, 1753年10月11日 クリスチャンスボー宮殿、コペンハーゲン - 1805年12月7日 アマリエンボー宮殿 コペンハーゲン）は、デンマーク王フレゼリク5世の末息子で、クリスチャン7世王の異母弟、クリスチャン8世王の父親。同国の摂政宮（在位1772年 - 1784年）。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le prince Frédéric, né le 11 octobre 1753 à Copenhague, décédé le 7 décembre 1805 à Copenhague. Il fut un prince héréditaire du Danemark.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Friedrich, Prinz von Dänemark und Norwegen (* 11. Oktober 1753 in Kopenhagen; † 7. Dezember 1805 auf Schloss Amalienborg) war Sohn des Königs Friedrich V. von Dänemark und dessen zweiter Gemahlin Juliane von Braunschweig-Wolfenbüttel.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Фредерик (дат. Frederik; 11 октября 1753 — 7 декабря 1805) — наследный принц Дании и Норвегии, сын короля Фредерика V и его второй супруги Юлианы Марии Брауншвейг-Вольфенбюттельской. В период с 1772 по 1784 годы был регентом при своём единокровном брате, короле Кристиане VII, страдавшем психическим расстройством.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Frederico (11 de Outubro de 1753 - 7 de Dezembro de 1805) foi um príncipe hereditário da Dinamarca e da Noruega. Era filho do segundo casamento do rei Frederico V da Dinamarca com a duquesa Juliana Maria de Braunschweig-Wolfenbüttel. Frederico foi regente em nome do seu meio-irmão, o rei Cristiano VII, de 1772 a 1784. Pensasse que terá sido deficiente físico.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Federico de Dinamarca (Copenhague, 11 de octubre de 1753 - Copenhague, 7 de diciembre de 1805) fue un príncipe danés de la Casa de Oldemburgo y heredero al trono de Dinamarca y Noruega.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">فريدريك وريث أمير الدنمارك (11 أكتوبر 1753 - 7 ديسمبر 1805) كان نجل فريدريك الخامس ملك الدنمارك وزوجته جوليانا ماريا من براونشفايغ-فولفنبوتل.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Frederick, Hereditary Prince of Denmark (Danish: Frederik; 11 October 1753 – 7 December 1805) was heir presumptive to the thrones of Denmark and Norway. He was the surviving son of King Frederick V by his second wife, Juliana Maria of Braunschweig-Wolfenbüttel. Hereditary Prince Frederick acted as regent on behalf of his half-brother King Christian VII from 1772 to 1784.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フレゼリク・ア・ダンマーク_(1753-1805)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Fryderyk_Oldenburg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q374885" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Frédéric_de_Danemark_(1753-1805)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Frederico,_Príncipe_Hereditário_da_Dinamarca" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.061j9k" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q374885" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Federico_di_Danimarca_(1753-1805)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Friedrich_von_Dänemark_(1753–1805)" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Frederik_Dánský_(1753–1805)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Federico_de_Dinamarca_(1753-1805)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Frederik_van_Denemarken_(1753-1805)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Amalienborg_Palace" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Amalienborg" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1805-12-7</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1805-12-07</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Christiansborg_Palace" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1753-10-11</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1805_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Norwegian_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regents_of_Denmark" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regents_of_Norway" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1753_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Oldenburg" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1857500</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729518307</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongernessamling.dk/en/rosenborg/person/frederik-the-heir-presumptive/" />
+    <foaf:name xml:lang="en">Frederick</foaf:name>
+    <foaf:name xml:lang="en">Frederick, Hereditary Prince of Denmark</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arveprins_Frederik_(Juel).JPG" />
+    <dct:description xml:lang="en">Prince of Denmark and Norway</dct:description>
+    <foaf:givenName xml:lang="en">Frédéric</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Frederick,_Hereditary_Prince_of_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arveprins_Frederik_(Juel).JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Frederick,_Hereditary_Prince_of_Denmark?oldid=729518307" />
+    <dbo:abstract xml:lang="pl">Fryderyk Oldenburg (ur. 11 października 1753 w Kopenhadze – zm. 7 grudnia 1805 tamże) – książę Danii i Norwegii. Syn króla Danii Fryderyka V i jego drugiej żony Juliany Marii Brunszwickiej. Jego dziadkami byli: król Danii Chrystian VI Oldenburg i Zofia Magdalena Hohenzollern oraz Ferdynand Albert II z Brunszwiku-Wolfenbüttel i Antoinette Amalie z Brunszwiku-Lüneburg. 21 października 1774 roku poślubił Zofię Mecklenburg-Schwerin córkę księcia Ludwika Mecklenburg-Schwerin i Charlotty Zofii Sachsen-Coburg-Saalfeld. Dziećmi z tego związku były: 
+*  Juliana Maria (1784) 
+*  Chrystian (1786-1848) – król Norwegii do 1814 i król Danii 
+*  Juliana Zofia (1788-1850) – żona landgrafa Wilhelma Hessen-Philippsthal-Barchfeld 
+*  Luiza Charlotta Oldenburg (1789-1864) – żona Wilhelma Hessen-Kassel matka królowej Danii Luizy Hessen-Kassel 
+*  Fryderyk (1792-1863) Od 1772 roku był regentem Danii, gdyż jego brat Chrystiana VII nie mógł rządzić ze względu na swój stan zdrowia. Realną władzę jednak sprawowali królowa matka Juliana Maria oraz premier Ove Høegh-Guldberg. Regencja trwała do roku 1784 kiedy to syn Chrystiana VII - Fryderyk ukończył 16 lat.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Frederik van Denemarken (Kopenhagen, 11 oktober 1753 - Amalienborg, 7 december 1805) was het enig overlevende kind van Frederik V van Denemarken en diens tweede echtgenote Juliana Maria van Brunswijk-Wolfenbüttel.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">فريدريك وريث أمير الدنمارك (11 أكتوبر 1753 - 7 ديسمبر 1805) كان نجل فريدريك الخامس ملك الدنمارك وزوجته جوليانا ماريا من براونشفايغ-فولفنبوتل.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Frederico (11 de Outubro de 1753 - 7 de Dezembro de 1805) foi um príncipe hereditário da Dinamarca e da Noruega. Era filho do segundo casamento do rei Frederico V da Dinamarca com a duquesa Juliana Maria de Braunschweig-Wolfenbüttel. Frederico foi regente em nome do seu meio-irmão, o rei Cristiano VII, de 1772 a 1784. Pensasse que terá sido deficiente físico.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Friedrich, Prinz von Dänemark und Norwegen (* 11. Oktober 1753 in Kopenhagen; † 7. Dezember 1805 auf Schloss Amalienborg) war Sohn des Königs Friedrich V. von Dänemark und dessen zweiter Gemahlin Juliane von Braunschweig-Wolfenbüttel.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">フレゼリク・ア・ダンマーク（Frederik af Danmark, 1753年10月11日 クリスチャンスボー宮殿、コペンハーゲン - 1805年12月7日 アマリエンボー宮殿 コペンハーゲン）は、デンマーク王フレゼリク5世の末息子で、クリスチャン7世王の異母弟、クリスチャン8世王の父親。同国の摂政宮（在位1772年 - 1784年）。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фредерик (дат. Frederik; 11 октября 1753 — 7 декабря 1805) — наследный принц Дании и Норвегии, сын короля Фредерика V и его второй супруги Юлианы Марии Брауншвейг-Вольфенбюттельской. В период с 1772 по 1784 годы был регентом при своём единокровном брате, короле Кристиане VII, страдавшем психическим расстройством.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le prince Frédéric, né le 11 octobre 1753 à Copenhague, décédé le 7 décembre 1805 à Copenhague. Il fut un prince héréditaire du Danemark.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Federico de Dinamarca (Copenhague, 11 de octubre de 1753 - Copenhague, 7 de diciembre de 1805) fue un príncipe danés de la Casa de Oldemburgo y heredero al trono de Dinamarca y Noruega.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Frederick, Hereditary Prince of Denmark (Danish: Frederik; 11 October 1753 – 7 December 1805) was heir presumptive to the thrones of Denmark and Norway. He was the surviving son of King Frederick V by his second wife, Juliana Maria of Braunschweig-Wolfenbüttel. Hereditary Prince Frederick acted as regent on behalf of his half-brother King Christian VII from 1772 to 1784.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1772</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1772</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_V_of_Denmark" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Juliana_Maria_of_Brunswick-Wolfenbüttel" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Roskilde_Cathedral" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duchess_Sophia_Frederica_of_Mecklenburg-Schwerin" />
+    <dbo:title xml:lang="en">Hereditary Prince of Denmark and Norway</dbo:title>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Heir" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hereditary_Prince_Frederick_of_Denmark_and_Norway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark_and_Norway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Frederick,_Hereditary_Prince_of_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

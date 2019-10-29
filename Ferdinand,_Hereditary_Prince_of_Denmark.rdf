@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederik_Ferdinand_of_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdfs:label xml:lang="de">Ferdinand von Dänemark</rdfs:label>
+    <rdfs:label xml:lang="en">Ferdinand, Hereditary Prince of Denmark</rdfs:label>
+    <rdfs:label xml:lang="pt">Fernando, Príncipe Hereditário da Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="it">Ferdinando di Danimarca</rdfs:label>
+    <rdfs:label xml:lang="es">Fernando de Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="ar">فرديناند أمير الدنمارك بالوراثة</rdfs:label>
+    <rdfs:comment xml:lang="ar">فرديناند وريث أمير الدنمارك (22 نوفمبر 1792 - 29 يونيو 1863) هو حفيد فريدريك الخامس ملك الدنمارك وكان وريثًا للعرش من عام 1848 حتى وفاته.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Friedrich Ferdinand von Dänemark (dänisch Frederik Ferdinand, arveprins til Danmark) (* 22. November 1792 in Kopenhagen; † 29. Juni 1863 ebenda) war als Enkel von König Friedrich V. (Dänemark und Norwegen) Prinz von Dänemark und von 1848 bis zu seinem Tod Kronprinz (Arveprins). Er war der vorletzte männliche Vertreter der älteren Linie des Hauses Oldenburg, was einer der Auslöser für die Schleswig-Holstein-Frage, das Londoner Protokoll (1852) und den Deutsch-Dänischen Krieg 1864 war.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Fernando de Dinamarca (Copenhague, 22 de noviembre de 1792 - Ibíd., 29 de junio de 1863) fue un príncipe de la Casa de Oldemburgo, nieto del rey Federico V de Dinamarca, que ostentó el título de Príncipe Heredero de Dinamarca desde 1848 hasta su fallecimiento, en 1863.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Fernando da Dinamarca (22 de novembro de 1792 - 29 de junho de 1863) foi um membro da família real dinamarquesa, neto do rei Frederico V. Foi príncipe hereditário da Dinamarca de 1848 até à sua morte. Se tivesse vivido mais cinco meses tinha-se tornado rei.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Frederick Ferdinand, Hereditary Prince of Denmark (Danish: Arveprins Ferdinand) (22 November 1792 – 29 June 1863) was grandson of King Frederick V and heir presumptive to the throne from 1848 until his death. Had he lived 5 months more, he would have outlived his nephew, King Frederick VII, and become King of Denmark.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.061jff" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/115821368" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Fernando_de_Dinamarca" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2607558" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ferdinand_von_Dänemark" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Fernando,_Príncipe_Hereditário_da_Dinamarca" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ferdinando_di_Danimarca" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2607558" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Denmark" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1863-6-29</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1863-06-29</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Denmark" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Christiansborg_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1792-11-22</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1792_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Roskilde_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Norwegian_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Oldenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1863_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1857544</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">734833716</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongehuset.dk/english" />
+    <dbo:wikiPageExternalLink rdf:resource="http://runeberg.org/dbl/5/0127.html" />
+    <foaf:name xml:lang="en">Ferdinand</foaf:name>
+    <foaf:name xml:lang="en">Ferdinand, Hereditary Prince of Denmark</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arveprins_Ferdinand.jpg" />
+    <dct:description xml:lang="en">Danish prince</dct:description>
+    <foaf:givenName xml:lang="en">Fernando</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ferdinand,_Hereditary_Prince_of_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arveprins_Ferdinand.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ferdinand,_Hereditary_Prince_of_Denmark?oldid=734833716" />
+    <dbo:abstract xml:lang="pt">Fernando da Dinamarca (22 de novembro de 1792 - 29 de junho de 1863) foi um membro da família real dinamarquesa, neto do rei Frederico V. Foi príncipe hereditário da Dinamarca de 1848 até à sua morte. Se tivesse vivido mais cinco meses tinha-se tornado rei.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">فرديناند وريث أمير الدنمارك (22 نوفمبر 1792 - 29 يونيو 1863) هو حفيد فريدريك الخامس ملك الدنمارك وكان وريثًا للعرش من عام 1848 حتى وفاته.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Friedrich Ferdinand von Dänemark (dänisch Frederik Ferdinand, arveprins til Danmark) (* 22. November 1792 in Kopenhagen; † 29. Juni 1863 ebenda) war als Enkel von König Friedrich V. (Dänemark und Norwegen) Prinz von Dänemark und von 1848 bis zu seinem Tod Kronprinz (Arveprins). Er war der vorletzte männliche Vertreter der älteren Linie des Hauses Oldenburg, was einer der Auslöser für die Schleswig-Holstein-Frage, das Londoner Protokoll (1852) und den Deutsch-Dänischen Krieg 1864 war.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Frederick Ferdinand, Hereditary Prince of Denmark (Danish: Arveprins Ferdinand) (22 November 1792 – 29 June 1863) was grandson of King Frederick V and heir presumptive to the throne from 1848 until his death. Had he lived 5 months more, he would have outlived his nephew, King Frederick VII, and become King of Denmark.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Fernando de Dinamarca (Copenhague, 22 de noviembre de 1792 - Ibíd., 29 de junio de 1863) fue un príncipe de la Casa de Oldemburgo, nieto del rey Federico V de Dinamarca, que ostentó el título de Príncipe Heredero de Dinamarca desde 1848 hasta su fallecimiento, en 1863.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick,_Hereditary_Prince_of_Denmark" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Sophia_Frederica_of_Mecklenburg-Schwerin" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Roskilde_Cathedral" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Caroline_of_Denmark" />
+    <dbo:title xml:lang="en">Hereditary Prince of Denmark</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Oldenburg" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Sophia_Frederica_of_Mecklenburg-Schwerin">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Caroline_of_Denmark">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_of_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_of_denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ferdinand,_Hereditary_Prince_of_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ferdinand,_Hereditary_Prince_of_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

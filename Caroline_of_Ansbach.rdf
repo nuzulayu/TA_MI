@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Ansbach">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryGovernor110316683" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Margrave110294020" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Governor110140314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMargravesOfBrandenburg-Ansbach" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIrishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfBrunswick-Lüneburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfSaxe-Lauenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromThePrincipalityOfAnsbach" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110451263" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfBremenAndVerden" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duchess110038409" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FemaleAristocrat110083823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noblewoman110242791" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spouse110640620" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHanoverianRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Regent110516117" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElectoralPrincessesOfHanover" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relative110235549" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DomesticPartner110024362" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromAnsbach" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegents" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincessesOfWales" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Consort109958724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishRoyalConsorts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFemaleRegents" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincesses" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrincessesByMarriage" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Princess110474064" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDuchessesOfRothesay" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdfs:label xml:lang="pl">Karolina z Ansbachu</rdfs:label>
+    <rdfs:label xml:lang="ar">كارولين أميرة أنسبش</rdfs:label>
+    <rdfs:label xml:lang="ja">キャロライン・オブ・アーンズバック</rdfs:label>
+    <rdfs:label xml:lang="nl">Caroline van Brandenburg-Ansbach</rdfs:label>
+    <rdfs:label xml:lang="fr">Caroline d&#39;Ansbach</rdfs:label>
+    <rdfs:label xml:lang="es">Carolina de Brandeburgo-Ansbach</rdfs:label>
+    <rdfs:label xml:lang="en">Caroline of Ansbach</rdfs:label>
+    <rdfs:label xml:lang="ru">Каролина Бранденбург-Ансбахская</rdfs:label>
+    <rdfs:label xml:lang="it">Carolina di Brandeburgo-Ansbach</rdfs:label>
+    <rdfs:label xml:lang="de">Caroline von Brandenburg-Ansbach</rdfs:label>
+    <rdfs:label xml:lang="pt">Carolina de Ansbach</rdfs:label>
+    <rdfs:label xml:lang="zh">卡羅琳 (安斯巴赫)</rdfs:label>
+    <rdfs:comment xml:lang="en">Wilhelmina Charlotte Caroline of Brandenburg-Ansbach (1 March 1683 – 20 November 1737), commonly known as Caroline of Ansbach, was Queen of Great Britain as the wife of King George II. Her father, Margrave John Frederick of Brandenburg-Ansbach, belonged to a branch of the House of Hohenzollern and was the ruler of a small German state, the Principality of Ansbach. Caroline was orphaned at a young age and moved to the enlightened court of her guardians, King Frederick I and Queen Sophia Charlotte of Prussia. At the Prussian court, her previously limited education was widened, and she adopted the liberal outlook possessed by Sophia Charlotte, who became her good friend and whose views influenced Caroline all her life.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Caroline de Brandebourg-Ansbach (1er mars 1683 – 20 novembre 1737) est l&#39;épouse du roi Georges II de Grande-Bretagne. Elle est la fille de Jean-Frédéric de Brandebourg-Ansbach, membre de la maison de Hohenzollern et souverain d&#39;une petite principauté du Saint-Empire romain germanique. Orpheline à treize ans, Caroline est placée sous la tutelle de la reine de Prusse Sophie-Charlotte de Hanovre. À la cour de Frédéric Ier, elle reçoit une éducation approfondie et adopte les opinions libérales de sa tutrice.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Wilhelmina Charlotta Karolina Brandenburg-Ansbach (ur. 1 marca 1683 w Ansbach, Bawaria, zm. 20 listopada 1737 w Londynie, Wielka Brytania) - królowa Wielkiej Brytanii. Urodziła się w Ansbachu jako córka margrabiego Brandenburg-Ansbach, Jana Fryderyka z domu Hohenzollernów, oraz jego drugiej żony księżniczki Eleonory Sachsen-Eisenach. Blisko współpracował z nią premier Robert Walpole, który został jej przyjacielem. 22 sierpnia 1705 roku wyszła za mąż za Jerzego II. Z tego związku urodziło się ośmioro dzieci:</rdfs:comment>
+    <rdfs:comment xml:lang="zh">布蘭登堡-安斯巴赫的卡羅琳（Caroline of Ansbach，1683年3月1日－1737年11月20日），是英國喬治二世的妻子，1727年起成為英國的王后。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Wilhelmina Charlotte Caroline von Brandenburg-Ansbach (* 1. Märzjul./ 11. März 1683greg. in Ansbach; † 20. Novemberjul./ 1. Dezember 1737greg. in London) war eine geborene Markgräfin von Brandenburg-Ansbach und als Ehefrau von Georg II. ab 1727 Königin von Großbritannien und Irland sowie Kurfürstin von Hannover.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">كانت ويلهلمينا شارلوت كارولين براندنبورغ-أنسبش (1 مارس 1683 - 20 نوفمبر 1737)،المعروفه باسم كارولين انسبتش ، ملكة بريطانيا العظمى باعتبارها زوجة جورج الثاني ملك بريطانيا العظمى.ينتمى والدها، مرغريف جون فريدريك براندنبورغ-أنسبتش ، إلى فرع من آل آل هوهنتسولرن وقد كان حاكما لدوله المانيه صغيره ، اماره انسبتش . تيتمت كارولين فى عمر مبكر وانتقلت إلى البلاط المستنير لاوليائها ،فريدريك الأول ملك بروسياوصوفي شارلوته بروسيا .اتسع تعليمها الذى كان محدودا فى السابق، فى البلاط البروسى ، وانتهجت النظره الليبراليه التى تنتهجها صوفيا شارلوت ، التى اصبحت صديقتها المقربه والتى اثرت وجهات نظرها فى كارولين طيله حياتها .كامرأه شابه ،لاقت كارولين كثيرا من السعى خلفها كعروس .بعد رفضها دعوى زواج من الملك الاسمى الاسبانيا ، الأرشيدوق تشارلزمن النمسا ، تزوجت جورج اوغسطس ، الولى الثالث للعرش البريطانى والوريث الوحي</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Вильгельми́на Шарло́тта Кароли́на Бранденбу́рг-Ансба́хская (нем. Wilhelmina Charlotte Caroline von Brandenburg-Ansbach; 1 марта 1683, Ансбах — 20 ноября (1 декабря) 1737 года, Лондон) — принцесса Бранденбург-Ансбахская; супруга Георга II, королева Великобритании и Ирландии и курфюрстина Ганновера.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Wilhelmina Charlotte Caroline van Brandenburg-Ansbach (Ansbach, 1 maart 1683 - Londen, 20 november 1737) was de dochter van Johan Frederik van Brandenburg-Ansbach en Eleonora Erdmuthe Louisa van Saksen-Eisenach. Als vrouw van koning George II van Groot-Brittannië was ze koningin van Groot-Brittannië.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Guilhermina Carlota Carolina (Ansbach, 1 de março de 1683 – Londres, 20 de novembro de 1737) foi a esposa do rei Jorge II e rainha consorte do Reino da Grã-Bretanha e do Reino da Irlanda de 1727 até sua morte.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Era la figlia di Giovanni Federico di Brandeburgo-Ansbach, membro della casa di Hohenzollern e sovrano di un piccolo principato del Sacro Romano Impero germanico. Orfana all&#39;età di tre anni, Carolina venne posta sotto la tutela della regina di Prussia Sofia Carlotta di Hannover. Alla corte di Federico I, ricevé un&#39;educazione approfondita e adottò le opinioni liberali della sua tutrice. Carolina si sistemò in Inghilterra nel 1714, dopo che suo suocero divenne re di Gran Bretagna e d&#39;Irlanda con il nome di Giorgio I.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Carolina de Brandeburgo-Ansbach, cuyo nombre completo era Guillermina Carolina Carlota de Brandeburgo-Ansbach (Ansbach, Alemania, 1 de marzo de 1683 - Palacio de St. James, Londres, 20 de noviembre de 1737), reina consorte de Jorge II de Gran Bretaña desde 1727 hasta su muerte en 1737.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">キャロライン・オブ・アーンズバック（Wilhelmina Charlotte Caroline of Ansbach, 1683年3月1日 - 1737年11月20日）は、イギリス国王ジョージ2世の王妃。父はホーエンツォレルン家支流のブランデンブルク＝アンスバッハ辺境伯ヨハン・フリードリヒ、母はザクセン＝アイゼナハ公ヨハン・ゲオルク1世の娘エレオノーレ。ドイツ語名はカロリーネ・フォン・アンスバッハ（Caroline von Ansbach）またはブランデンブルク＝アンスバッハ（Caroline von Brandenburg-Ansbach）。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q76961" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Karolina_z_Ansbachu" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carolina_di_Brandeburgo-Ansbach" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Caroline_d&#39;Ansbach" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/안스바흐의_캐롤라인" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Karolina_z_Ansbachu" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q76961" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carolina_de_Ansbach" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dc64" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11887036X" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Καρολίνα_του_Άνσμπαχ" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Caroline_van_Brandenburg-Ansbach" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Caroline_of_Ansbach" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Caroline_dari_Ansbach" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carolina_de_Brandeburgo-Ansbach" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/キャロライン・オブ・アーンズバック" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Caroline_von_Brandenburg-Ansbach" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/St._James&#39;s_Palace" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/St_James&#39;s_Palace" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kingdom_of_Great_Britain" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1737-11-20</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ansbach" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Holy_Roman_Empire" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1681-1-1</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1683-03-01</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princesses_of_Wales" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Rothesay" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Irish_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1737_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Principality_of_Ansbach" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Brunswick-Lüneburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Saxe-Lauenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th-century_female_rulers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hohenzollern" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:George_II_of_Great_Britain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_princesses_by_marriage" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_royal_consorts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electoral_Princesses_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electresses_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Duchesses_of_Bremen_and_Verden" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Ansbach" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1683_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Westminster_Abbey" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50534</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741518331</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.royalcollection.org.uk/collection-search/caroline%2520of%2520ansbach" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=DHLwPQgX24QC&amp;pg=PA33&amp;dq=caroline+of+ansbach+queen#v=onepage&amp;q=caroline%20of%20ansbach%20queen&amp;f=false" />
+    <foaf:name xml:lang="en">Caroline of Ansbach</foaf:name>
+    <foaf:name xml:lang="en">Wilhelmina Charlotte Caroline</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Caroline_Wilhelmina_of_Brandenburg-Ansbach_by_Jacopo_Amigoni.jpg" />
+    <dct:description xml:lang="en">queen of Great Britain</dct:description>
+    <foaf:givenName xml:lang="en">Caroline</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Caroline_of_Ansbach" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Caroline_Wilhelmina_of_Brandenburg-Ansbach_by_Jacopo_Amigoni.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Caroline_of_Ansbach?oldid=741518331" />
+    <dbo:abstract xml:lang="ar">كانت ويلهلمينا شارلوت كارولين براندنبورغ-أنسبش (1 مارس 1683 - 20 نوفمبر 1737)،المعروفه باسم كارولين انسبتش ، ملكة بريطانيا العظمى باعتبارها زوجة جورج الثاني ملك بريطانيا العظمى.ينتمى والدها، مرغريف جون فريدريك براندنبورغ-أنسبتش ، إلى فرع من آل آل هوهنتسولرن وقد كان حاكما لدوله المانيه صغيره ، اماره انسبتش . تيتمت كارولين فى عمر مبكر وانتقلت إلى البلاط المستنير لاوليائها ،فريدريك الأول ملك بروسياوصوفي شارلوته بروسيا .اتسع تعليمها الذى كان محدودا فى السابق، فى البلاط البروسى ، وانتهجت النظره الليبراليه التى تنتهجها صوفيا شارلوت ، التى اصبحت صديقتها المقربه والتى اثرت وجهات نظرها فى كارولين طيله حياتها .كامرأه شابه ،لاقت كارولين كثيرا من السعى خلفها كعروس .بعد رفضها دعوى زواج من الملك الاسمى الاسبانيا ، الأرشيدوق تشارلزمن النمسا ، تزوجت جورج اوغسطس ، الولى الثالث للعرش البريطانى والوريث الوحيد لناخبين هانوفر.كان لديهم ثمانيه اطفال ، سبعه منهم نموا إلى مرحله البلوغ .انتقلت كارولين إلى بريطانيا بشكل دائم فى عام 1714 عندما أصبح زوجها أميرا لويلز . انضمت، كأميره لويلز، إلى زوجهافى حشد المعارضه السياسيه على والده الملك جورج الأول فى عام 1717، طردزوجها من البلاط الملكى فى اعقاب خلاف عائلى. اصبحت كارولين على علاقه بروبرت والبول، وهو سياسى معارض وقد كان وزيرََا سابقا فالحكومه. عاد والبول لينضم للحكومه فى عام 1720، وقد تصالح زوج كارولين والملك جورج الأول علنا، بناءََا على نصيحه والبول. ارتفع والبول على مدى السنوات القليله المقبله، ليصبح وزيرا حاكما.نجحت كارولين كملكه وزوجه للحاكم فى عام 1727، عندما اصبح زوجها الملك جورج الثانى . أصبح ابنها الأكبر، فريدريك، اميرََا لويلز. كان تركيزه على المعارضه كوالده من قبله وقد كانت علاقه كارولين به متوتره. كان معروفا عن كارولين، كاميره وملكه، نفوذها السياسى، الذى كانت تمارسه من خلال والبول. اتسعت ولايتها لاربعه مقاطعات خلال اقامه زوجها فى هانوفر، ويرجع لها الفضل خلال فتره عدم الاستقرار السياسى فى تعزيز مكانه سلاله هانوفر فى بريطانيا. عم الحزن على نطاق واسع على وفاه كارولين فى عام 1737، ليس فقط من قبل العامه ولكن ايضا من قبل الملك ، الذى رفض الزواج مره اخرى.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">キャロライン・オブ・アーンズバック（Wilhelmina Charlotte Caroline of Ansbach, 1683年3月1日 - 1737年11月20日）は、イギリス国王ジョージ2世の王妃。父はホーエンツォレルン家支流のブランデンブルク＝アンスバッハ辺境伯ヨハン・フリードリヒ、母はザクセン＝アイゼナハ公ヨハン・ゲオルク1世の娘エレオノーレ。ドイツ語名はカロリーネ・フォン・アンスバッハ（Caroline von Ansbach）またはブランデンブルク＝アンスバッハ（Caroline von Brandenburg-Ansbach）。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Caroline de Brandebourg-Ansbach (1er mars 1683 – 20 novembre 1737) est l&#39;épouse du roi Georges II de Grande-Bretagne. Elle est la fille de Jean-Frédéric de Brandebourg-Ansbach, membre de la maison de Hohenzollern et souverain d&#39;une petite principauté du Saint-Empire romain germanique. Orpheline à treize ans, Caroline est placée sous la tutelle de la reine de Prusse Sophie-Charlotte de Hanovre. À la cour de Frédéric Ier, elle reçoit une éducation approfondie et adopte les opinions libérales de sa tutrice. Dans sa jeunesse, Caroline est un parti très recherché. Après avoir repoussé les propositions de la cour impériale qui songeait à l&#39;unir à l&#39;archiduc Charles d&#39;Autriche, second fils de l&#39;empereur et prétendant au trône espagnol, elle épouse en 1705 Georges-Auguste, prince héritier de l&#39;électorat de Hanovre et troisième dans l&#39;ordre de succession au trône de Grande-Bretagne. Le couple a huit enfants, dont sept atteignent l&#39;âge adulte. Caroline s&#39;installe à demeure en Angleterre en 1714, lorsque son beau-père devient roi de Grande-Bretagne et d&#39;Irlande sous le nom de Georges Ier. Devenus prince et princesse de Galles, Georges-Auguste et Caroline réunissent autour d&#39;eux les adversaires politiques de la cour, parmi lesquels Robert Walpole, qui devient un ami proche de Caroline. L&#39;opposition du couple princier au roi entraîne leur bannissement de la cour en 1717, et ce n&#39;est que trois ans plus tard, par l&#39;entremise de Walpole, que Georges Ier se réconcilie avec son fils. Caroline devient reine consort en 1727 avec l&#39;avènement de son époux sous le nom de Georges II. Leur fils aîné, Frédéric, 20 ans, devient à son tour prince de Galles, mais entretient lui aussi des relations orageuses avec ses parents et souverains. En tant que princesse, puis reine, Caroline exerce une grande influence sur la vie politique du royaume de Grande-Bretagne, au profit de et grâce à Walpole. Elle assure la régence à quatre reprises durant les séjours de son mari au Hanovre, et grâce à elle, la nouvelle dynastie acquiert un meilleur ancrage en Grande-Bretagne, malgré l&#39;instabilité politique de l&#39;époque. Beaucoup la pleurent après sa mort, en 1737, y compris le roi lui-même, qui refuse de prendre une deuxième épouse.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Wilhelmina Charlotte Caroline von Brandenburg-Ansbach (* 1. Märzjul./ 11. März 1683greg. in Ansbach; † 20. Novemberjul./ 1. Dezember 1737greg. in London) war eine geborene Markgräfin von Brandenburg-Ansbach und als Ehefrau von Georg II. ab 1727 Königin von Großbritannien und Irland sowie Kurfürstin von Hannover.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Carolina de Brandeburgo-Ansbach, cuyo nombre completo era Guillermina Carolina Carlota de Brandeburgo-Ansbach (Ansbach, Alemania, 1 de marzo de 1683 - Palacio de St. James, Londres, 20 de noviembre de 1737), reina consorte de Jorge II de Gran Bretaña desde 1727 hasta su muerte en 1737.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Вильгельми́на Шарло́тта Кароли́на Бранденбу́рг-Ансба́хская (нем. Wilhelmina Charlotte Caroline von Brandenburg-Ansbach; 1 марта 1683, Ансбах — 20 ноября (1 декабря) 1737 года, Лондон) — принцесса Бранденбург-Ансбахская; супруга Георга II, королева Великобритании и Ирландии и курфюрстина Ганновера. Каролина принадлежала к одной из ветвей дома Гогенцоллернов и была дочерью правителя небольшого германского княжества Ансбах. Рано осиротевшая девочка оказалась при просвещённом дворе опекунов — будущих короля и королевы Пруссии Фридриха I и Софии Шарлотты Ганноверской. При дворе Софии Шарлотты образованию принцессы стало уделяться больше внимания; здесь же Каролина переняла либеральные взгляды своей наставницы, которые отразились и на дальнейшей жизни принцессы. Благодаря уму и прекрасной внешности, Каролина стала востребованной невестой. Отклонив предложение номинального короля Испании эрцгерцога Карла Австрийского, она вышла замуж за Георга Августа, наследника курфюрста Ганновера, занимавшего также третье место в линии наследования британского трона. В семье родилось девять детей, семеро из которых достигли зрелого возраста. Каролина переехала в Великобританию, когда её муж стал принцем Уэльским. Вскоре после этого между Георгом Августом и его отцом началось политическое противостояние, в котором Каролина поддерживала мужа. В 1717 году после семейной ссоры Каролина и Георг Август были вынуждены покинуть двор. Принцесса сблизилась с Робертом Уолполом, оппозиционным политиком и бывшим правительственным министром, которого позднее, когда муж Каролины взошёл на трон, даже называли министром королевы. Каролина была известна своим политическим влиянием, оказываемым как на самого Уолпола, так и через него. Каролина стала королевой-консортом и курфюрстиной после смерти свёкра в 1727 году. Старший сын королевы стал принцем Уэльским и оказался в центре внимания оппозиции также, как когда-то его отец, из-за чего отношения Каролины с сыном оказались натянутыми. Именно Каролине приписывается укрепление Ганноверской династии в Великобритании в период политической нестабильности. Королева была уважаема в семье и обществе, вследствие чего её смерть в 1737 году опечалила многих, в том числе самого короля, отказавшегося от повторного брака.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">布蘭登堡-安斯巴赫的卡羅琳（Caroline of Ansbach，1683年3月1日－1737年11月20日），是英國喬治二世的妻子，1727年起成為英國的王后。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Wilhelmina Charlotte Caroline of Brandenburg-Ansbach (1 March 1683 – 20 November 1737), commonly known as Caroline of Ansbach, was Queen of Great Britain as the wife of King George II. Her father, Margrave John Frederick of Brandenburg-Ansbach, belonged to a branch of the House of Hohenzollern and was the ruler of a small German state, the Principality of Ansbach. Caroline was orphaned at a young age and moved to the enlightened court of her guardians, King Frederick I and Queen Sophia Charlotte of Prussia. At the Prussian court, her previously limited education was widened, and she adopted the liberal outlook possessed by Sophia Charlotte, who became her good friend and whose views influenced Caroline all her life. As a young woman, Caroline was much sought-after as a bride. After rejecting the suit of the nominal King of Spain, Archduke Charles of Austria, she married George Augustus, the third-in-line to the British throne and heir apparent to the Electorate of Hanover. They had eight children, seven of whom grew to adulthood. Caroline moved permanently to Britain in 1714 when her husband became Prince of Wales. As Princess of Wales, she joined her husband in rallying political opposition to his father King George I. In 1717, her husband was expelled from court after a family row. Caroline came to be associated with Robert Walpole, an opposition politician who was a former government minister. Walpole rejoined the government in 1720, and Caroline&#39;s husband and King George I reconciled publicly, on Walpole&#39;s advice. Over the next few years, Walpole rose to become the leading minister. Caroline succeeded as queen and electress consort in 1727, when her husband became King George II. Her eldest son, Frederick, became Prince of Wales. He was a focus for the opposition, like his father before him, and Caroline&#39;s relationship with him was strained. As princess and as queen, Caroline was known for her political influence, which she exercised through and for Walpole. Her tenure included four regencies during her husband&#39;s stays in Hanover, and she is credited with strengthening the Hanoverian dynasty&#39;s place in Britain during a period of political instability. Caroline was widely mourned following her death in 1737, not only by the public but also by the King, who refused to remarry.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Wilhelmina Charlotte Caroline van Brandenburg-Ansbach (Ansbach, 1 maart 1683 - Londen, 20 november 1737) was de dochter van Johan Frederik van Brandenburg-Ansbach en Eleonora Erdmuthe Louisa van Saksen-Eisenach. Als vrouw van koning George II van Groot-Brittannië was ze koningin van Groot-Brittannië.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Guilhermina Carlota Carolina (Ansbach, 1 de março de 1683 – Londres, 20 de novembro de 1737) foi a esposa do rei Jorge II e rainha consorte do Reino da Grã-Bretanha e do Reino da Irlanda de 1727 até sua morte. Seu pai João Frederico de Brandemburgo-Ansbach era o marquês do pequeno principado germânico de Ansbach. Carolina ficou órfã ainda jovem e se mudou para a corte iluminista de seus guardiões, o rei Frederico I da Prússia e sua esposa Sofia Carlota de Hanôver. Ela expandiu na corte prussiana sua anteriormente limitada educação e adotou os ideais liberais de Sofia Carlota, que se tornou uma grande amiga e cujas visões muito a influenciaram durante toda sua vida. Enquanto jovem, Carolina foi muito procurada como noiva. Depois de recusar a pretensão do arquiduque Carlos da Áustria, rei nominal da Espanha, ela se casou com Jorge Augusto, terceiro da linha de sucessão ao trono britânico e herdeiro aparente do Eleitorado de Hanôver. Eles tiveram oito filhos, sete dos quais sobreviveram até a idade adulta. Carolina se mudou permanentemente para a Grã-Bretanha em 1714 quando seu marido se tornou o Príncipe de Gales. Como Princesa de Gales, ela apoiou Jorge Augusto ao reunir uma oposição política contra o rei Jorge I. O Príncipe de Gales foi expulso da corte em 1717 depois de uma briga familiar. Ela se associou a sir Robert Walpole, um político da oposição que havia sido um ministro do governo. Walpole voltou ao governo em 1720 e Jorge Augusto e o rei se reconciliaram publicamente, seguindo os conselhos do ministro. Nos anos seguintes, Walpole subiu até se tornar o principal ministro do governo. Carolina ascendeu a rainha e eleitora consorte em 1727 quando seu marido se tornou o rei Jorge II. Seu filho mais velho, Frederico, era o foco da oposição como seu pai anteriormente, e a relação dele com a mãe piorou com o tempo. Tanto como princesa quanto como rainha, Carolina era conhecida por sua influência política, que exercia para e através de Walpole. Seu reinado incluiu quatro regências enquanto Jorge estava em Hanôver e ela é creditada por fortalecer o lugar da dinastia hanoveriana na Grã-Bretanha durante um período de instabilidade política. Sua morte em 1737 foi muito lamentada não apenas pelo povo, mas também pelo próprio rei, que se recusou a casar novamente.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Era la figlia di Giovanni Federico di Brandeburgo-Ansbach, membro della casa di Hohenzollern e sovrano di un piccolo principato del Sacro Romano Impero germanico. Orfana all&#39;età di tre anni, Carolina venne posta sotto la tutela della regina di Prussia Sofia Carlotta di Hannover. Alla corte di Federico I, ricevé un&#39;educazione approfondita e adottò le opinioni liberali della sua tutrice. Durante la sua gioventù, era un partito molto ambito. Dopo aver rinviato le proposte della corte imperiale che sperava di unirla all&#39;arciduca Carlo d&#39;Austria, secondo figlio dell&#39;imperatore e pretendente al trono spagnolo, sposò nel 1705 Giorgio Augusto, principe ereditario dell&#39;elettorato di Hannover e terzo nell&#39;ordine di successione al trono di Gran Bretagna. La coppia ebbe otto figli, di cui sette raggiunsero la vita adulta. Carolina si sistemò in Inghilterra nel 1714, dopo che suo suocero divenne re di Gran Bretagna e d&#39;Irlanda con il nome di Giorgio I. Divenuti principe e principessa del Galles, Giorgio Augusto e Carolina si unirono agli avversari politici della corte, tra cui Robert Walpole, che divenne amico intimo di Carolina. L&#39;opposizione della coppia principesca al re provocò il loro esilio dalla corte nel 1717, e non fu che tre anni dopo, per intromissione di Walpole, che Giorgio I si riconciliò con suo figlio. Carolina divenne regina consorte nel 1727 con l&#39;avvento di suo marito sotto il nome di Giorgio II. Il loro figlio maggiore, Federico, 20 anni, divenne a sua volta principe di Galles, ma aveva anch&#39;egli relazioni tempestose con suoi genitori e sovrani. Come principessa, e poi regina, Carolina esercitò una grande influenza sulla vita politica del regno di Gran Bretagna, in profitto e grazie a Walpole. Assunse la reggenza quattro volte durante i soggiorni di sua marito ad Hannover, e grazie a lei, la nuova dinastia acquisì un migliore sviluppo in Gran Bretagna, malgrado l&#39;instabilità politica dell&#39;epoca. Molti la rimpiansero dopo la sua morte, nel 1737, comprendendo lo stesso re, che rifiutò di prendere nuovamente moglie.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Wilhelmina Charlotta Karolina Brandenburg-Ansbach (ur. 1 marca 1683 w Ansbach, Bawaria, zm. 20 listopada 1737 w Londynie, Wielka Brytania) - królowa Wielkiej Brytanii. Urodziła się w Ansbachu jako córka margrabiego Brandenburg-Ansbach, Jana Fryderyka z domu Hohenzollernów, oraz jego drugiej żony księżniczki Eleonory Sachsen-Eisenach. Blisko współpracował z nią premier Robert Walpole, który został jej przyjacielem. 22 sierpnia 1705 roku wyszła za mąż za Jerzego II. Z tego związku urodziło się ośmioro dzieci: 
+*  Fryderyk Ludwik (1 lutego 1707 - 31 marca 1751), książę Walii, 
+*  Anna (2 listopada 1709 - 12 stycznia 1759), Princess Royal, żona Wilhelma IV Orańskiego,  
+*  Amelia Zofia (10 lipca 1711 - 31 października 1786), 
+*  Karolina Elżbieta (21 czerwca 1713 - 28 grudnia 1757), 
+*  Jerzy Wilhelm (13 listopada 1717 - 17 lutego 1718), 
+*  Wilhelm August (26 kwietnia 1721 - 31 października 1765), książę Cumberland, 
+*  Maria (5 marca 1722 - 14 stycznia 1772), żona Fryderyka II, landgrafa Hesji, 
+*  Ludwika (18 grudnia 1724 - 19 grudnia 1751), żona Fryderyka V, króla Danii i Norwegii. Z okazji śmierci królowej Georg Friedrich Händel skomponował uroczysty hymn The ways of Zion do mourn, który został wykonany 17 grudnia 1737 roku w Kaplicy Henryka VII w Westminster Abbey.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1727</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1727</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/John_Frederick,_Margrave_of_Brandenburg-Ansbach" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Eleonore_Erdmuthe_of_Saxe-Eisenach" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Westminster_Abbey" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/George_II_of_Great_Britain" />
+    <dbp:as rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">consort</dbp:as>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by Jacopo Amigoni, painted in 1735</dbp:caption>
+    <dbp:consort rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:consort>
+    <dbp:coronation rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1727-10-11</dbp:coronation>
+    <dbp:dateOfBurial rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1737-12-17</dbp:dateOfBurial>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hohenzollern" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Amelia_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Caroline_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Princess_Mary_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick,_Prince_of_Wales" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_William,_Duke_of_Cumberland" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Prince_George_William_of_Great_Britain" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louise_of_Great_Britain" />
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Prince_George_of_Denmark" />
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:succession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Queen consort of Great Britain and Ireland</dbp:succession>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Elector_of_Brunswick-Lüneburg" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_British_consorts" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Electress_consort_of_Hanover" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1727</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Queen" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_ansbach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophia_of_Hanover">
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Éléonore_Desmier_d&#39;Olbreuse">
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Mary_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_County,_Virginia">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_William_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_George_of_Denmark">
+    <dbp:next rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne,_Princess_Royal_and_Princess_of_Orange">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_de_Nassau_d&#39;Auverquerque,_1st_Earl_of_Grantham">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Eleonore_Erdmuthe_of_Saxe-Eisenach">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick,_Prince_of_Wales">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_II_of_Great_Britain">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_William,_Duke_of_Cumberland">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Amelia_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Brandenburg-Ansbach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz">
+    <dbp:last rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Caroline_of_Great_Britain">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margravine_Caroline_of_Brandenburg-Ansbach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Caroline_of_Ansbach">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caroline_of_Anspach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Caroline_of_Ansbach" />
+  </rdf:Description>
+</rdf:RDF>

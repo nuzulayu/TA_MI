@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Elisabeth_Albertine_of_Saxe-Hildburghausen">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Louis_Frederick_of_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Friedrich_Ludwig,_Duke_of_Mecklenburg-Mirow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Louis_Frederick,_Duke_of_Mecklenburg-Mirow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Ludwig_Frederick_of_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_I_Ludwig_Frederick,_Duke_of_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_I_Ludwig_Frederick_of_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromNeustrelitz" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromMecklenburg-Strelitz" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Duke Charles Louis Frederick of Mecklenburg</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles-Louis-Frédéric de Mecklembourg-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="it">Carlo Ludovico Federico di Meclemburgo-Strelitz</rdfs:label>
+    <rdfs:label xml:lang="de">Karl zu Mecklenburg (1708–1752)</rdfs:label>
+    <rdfs:label xml:lang="ru">Карл Мекленбург-Стрелицкий</rdfs:label>
+    <rdfs:label xml:lang="es">Carlos Luis Federico de Mecklemburgo</rdfs:label>
+    <rdfs:label xml:lang="pt">Carlos Luís Frederico de Mecklemburgo-Strelitz</rdfs:label>
+    <rdfs:comment xml:lang="en">Duke Charles Louis Frederick of Mecklenburg, Prince of Mirow (German: Herzog Carl Ludwig Friedrich zu Mecklenburg, Prinz von Mirow; 23 February 1708 – 5 June 1752) was a member of the House of Mecklenburg-Strelitz and the father of Queen Charlotte of the United Kingdom and Queen of Hanover.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Karl (Ludwig Friedrich), Herzog zu Mecklenburg [-Strelitz] (* 23. Februar 1708 in Strelitz; † 4. Juni 1752 in Mirow, genannt „Prinz von Mirow“), war ein Prinz des Hauses Mecklenburg-Strelitz. Zwei seiner Söhne, Adolf Friedrich (IV.) und Karl (II.), wurden später Regenten von Mecklenburg-Strelitz, eine Tochter wurde Königin von Großbritannien.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Carlos Luís Frederico de Mecklemburgo (23 de fevereiro de 1708 - 5 de junho de 1752) foi um príncipe de Mirow, membro da Casa de Mecklemburgo-Strelitz e pai da rainha Carlota da Grã-Bretanha.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Карл (Людвиг Фридрих), герцог Мекленбург-Стрелицкий (23 февраля 1708, Штрелиц — 4 июня 1752, Миров, прозванный «Принц Мировский») — член Дома Мекленбург-Стрелиц. Двое из его сыновей, Адольф Фридрих IV и Карл II, впоследствии стали правителями герцогства Мекленбург-Стрелиц, а дочь стала королевой Великобритании.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Charles Ier de Mecklembourg-Strelitz (en allemand Karl I von Mecklenburg-Strelitz), né le 23 février 1708 à Strelitz, décédé le 5 juin 1752 à Mirow.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El duque Carlos Luis Federico de Mecklemburgo, príncipe de Mirow (23 de febrero de 1708 – 5 de junio de 1752) fue un miembro de la Casa de Mecklemburgo-Strelitz y el padre de la reina Carlota del Reino Unido.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Carlos_Luís_Frederico_de_Mecklemburgo-Strelitz" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Carlo_Ludovico_Federico_di_Meclemburgo-Strelitz" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Karel_Ludvík_Fridrich_Meklenbursko-Střelický" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02ww6vl" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q699743" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Karl_zu_Mecklenburg_(1708–1752)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Carlos_Luis_Federico_de_Mecklemburgo" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q699743" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charles-Louis-Frédéric_de_Mecklembourg-Strelitz" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mirow" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1752-06-05</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1752-6-4</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Holy_Roman_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Mecklenburg-Strelitz" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Neustrelitz" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mecklenburg-Strelitz_(district)" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1708-02-23</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1708-2-23</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Mecklenburg-Strelitz" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Mecklenburg-Strelitz" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1752_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1708_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Neustrelitz" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12568331</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744404182</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mv-schloesser.de/netautor/napro4/appl/na_professional/parse.php?mlay_id=2500&amp;mdoc_id=1000516" />
+    <foaf:name xml:lang="en">Duke Charles Louis Frederick of Mecklenburg</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/WogeCharles.jpg" />
+    <dct:description xml:lang="en">German noble</dct:description>
+    <foaf:givenName xml:lang="en">Karl</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/WogeCharles.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duke_Charles_Louis_Frederick_of_Mecklenburg?oldid=744404182" />
+    <dbo:abstract xml:lang="en">Duke Charles Louis Frederick of Mecklenburg, Prince of Mirow (German: Herzog Carl Ludwig Friedrich zu Mecklenburg, Prinz von Mirow; 23 February 1708 – 5 June 1752) was a member of the House of Mecklenburg-Strelitz and the father of Queen Charlotte of the United Kingdom and Queen of Hanover.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El duque Carlos Luis Federico de Mecklemburgo, príncipe de Mirow (23 de febrero de 1708 – 5 de junio de 1752) fue un miembro de la Casa de Mecklemburgo-Strelitz y el padre de la reina Carlota del Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Karl (Ludwig Friedrich), Herzog zu Mecklenburg [-Strelitz] (* 23. Februar 1708 in Strelitz; † 4. Juni 1752 in Mirow, genannt „Prinz von Mirow“), war ein Prinz des Hauses Mecklenburg-Strelitz. Zwei seiner Söhne, Adolf Friedrich (IV.) und Karl (II.), wurden später Regenten von Mecklenburg-Strelitz, eine Tochter wurde Königin von Großbritannien.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Карл (Людвиг Фридрих), герцог Мекленбург-Стрелицкий (23 февраля 1708, Штрелиц — 4 июня 1752, Миров, прозванный «Принц Мировский») — член Дома Мекленбург-Стрелиц. Двое из его сыновей, Адольф Фридрих IV и Карл II, впоследствии стали правителями герцогства Мекленбург-Стрелиц, а дочь стала королевой Великобритании.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Charles Ier de Mecklembourg-Strelitz (en allemand Karl I von Mecklenburg-Strelitz), né le 23 février 1708 à Strelitz, décédé le 5 juin 1752 à Mirow.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Carlos Luís Frederico de Mecklemburgo (23 de fevereiro de 1708 - 5 de junho de 1752) foi um príncipe de Mirow, membro da Casa de Mecklemburgo-Strelitz e pai da rainha Carlota da Grã-Bretanha.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Adolf_Frederick_II,_Duke_of_Mecklenburg-Strelitz" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Elizabeth_Albertine_of_Saxe-Hildburghausen" />
+    <dbo:title xml:lang="en">Prince of Mirow</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Mecklenburg-Strelitz" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duchess Christiane</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duke_George_Augustus_of_Mecklenburg" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duchess Karoline</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charles_II,_Grand_Duke_of_Mecklenburg-Strelitz" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duke_Ernest_Gottlob_of_Mecklenburg" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duchess Elizabeth Christine</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke Gotthelf</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Adolf_Friedrich_IV_of_Mecklenburg-Strelitz" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duchess Sophie Louise</dbp:issue>
+    <dbp:mother rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Princess Christiane Emilie of Schwarzburg-Sondershausen</dbp:mother>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Member" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg-Strelitz,_Prince_of_Mirow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Karl_Ludwig_Frederick_of_Mecklenburg-Strelitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg,_Prince_of_Mirow">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Duke_Charles_Louis_Frederick_of_Mecklenburg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Duke_Charles_Louis_Frederick_of_Mecklenburg" />
+  </rdf:Description>
+</rdf:RDF>

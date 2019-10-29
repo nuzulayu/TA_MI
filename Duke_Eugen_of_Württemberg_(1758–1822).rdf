@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Paul_Wilhelm_of_Württemberg">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugene_Frederick_Henry,_Duke_of_Württemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_of_Stolberg-Gedern_(1764-1834)">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrussianCommandersOfTheNapoleonicWars" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWürttemberg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfWürttemberg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSchwedt" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdfs:label xml:lang="de">Eugen Friedrich Heinrich von Württemberg</rdfs:label>
+    <rdfs:label xml:lang="it">Eugenio Federico di Württemberg</rdfs:label>
+    <rdfs:label xml:lang="es">Eugenio Federico de Wurtemberg</rdfs:label>
+    <rdfs:label xml:lang="pl">Eugeniusz Fryderyk Wirtemberski</rdfs:label>
+    <rdfs:label xml:lang="pt">Eugénio Frederico de Württemberg</rdfs:label>
+    <rdfs:label xml:lang="ja">オイゲン・フォン・ヴュルテンベルク (1758-1822)</rdfs:label>
+    <rdfs:label xml:lang="fr">Eugène-Frédéric de Wurtemberg</rdfs:label>
+    <rdfs:label xml:lang="en">Duke Eugen of Württemberg (1758–1822)</rdfs:label>
+    <rdfs:comment xml:lang="pt">Eugénio Frederico de Württemberg (em alemão: Herzog Eugen Friedrich Heinrich von Württemberg; 21 de novembro de 1758 - 20 de junho de 1822) foi um nobre alemão.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Duke Eugen of Württemberg (German: Herzog Eugen Friedrich Heinrich von Württemberg; 21 November 1758 – 20 June 1822) was a German prince. He was the brother of Frederick I of Württemberg</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Eugène-Frédéric de Wurtemberg, né à Schwedt le 21 novembre 1758, décédé à Meiningen le 20 juin 1822. Il fut duc de Wurtemberg-Stuttgartmort, il fonda le troisième branche dite première lignée ducale, branche elle-même issue de la première branche dite branche aînée de la Maison de Wurtemberg. Cette troisième branche s&#39;éteignit en 1903. Fils de Frédéric-Eugène de Wurtemberg et de Frédérique-Dorothée de Brandebourg-Schwedt. Eugène-Frédéric de Wurtemberg épousa en 1787 Louise de Saxe-Meiningen (1764-1834) Cinq enfants sont nés de cette union :</rdfs:comment>
+    <rdfs:comment xml:lang="de">&#39;Eugen Friedrich Heinrich Herzog von Württemberg(* 21. November 1758 in Schwedt/Oder; † 20. Juni 1822 in Meiningen) war ein herzoglicher Prinz aus dem Haus der Herzöge von Württemberg. Zugleich war er mütterlicherseits Abkömmling der Markgrafen von Brandenburg aus dem Haus Hohenzollern,.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">オイゲン・フリードリヒ・ハインリヒ・フォン・ヴュルテンベルク（Eugen Friedrich Heinrich von Württemberg, 1758年11月21日 - 1822年6月20日）は、ヴュルテンベルクの王族、ヴュルテンベルク公（Herzog von Württemberg）。 ヴュルテンベルク公フリードリヒ2世オイゲンと、その妃でブランデンブルク＝シュヴェート辺境伯フリードリヒ・ヴィルヘルムの娘であるフリーデリケ・ドロテア・ゾフィアの間の三男として生まれた。兄にヴュルテンベルク王フリードリヒ1世が、すぐ下の妹にロシア皇后マリア・フョードロヴナがいる。 オイゲンはヨハン・ヴォルフガング・フォン・ゲーテの義弟にあたる法学者ヨハン・ゲオルク・シュロッサーに教育を受け、その後プロイセン軍に入隊し、所属する軽騎兵連隊とともにシュレージエンのエールス（現在のポーランド領オレシニツァ）に駐屯した。当時、オイゲンの駐屯していた地域は17世紀に枝分かれしたヴュルテンベルク家の分家が治めるエールス公爵領が存在していた。ヴュルテンベルク＝エールス公爵家の最後の当主カール・クリスティアン・エルトマンは、遺言によりオイゲンに限嗣不動産という形でカールスルーエ（現在のポクイ）の都市と城を譲った。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Eugeniusz Fryderyk Franciszek Henryk Wirtemberski (ur. 21 listopada 1758 w Schwedt, zm. 20 czerwca 1822 w Meiningen) – książę Wirtembergii. Syn księcia Fryderyka Eugeniusza i Zofii Doroty. Dowódca regimentu huzarów z Oleśnicy, gubernator twierdzy w Głogowie. W 1792 roku objął władzę w posiadłości zmarłego bezpotomnie księcia oleśnickiego, Karola Wirtemberskiego – Carlsruhe (Pokój). Wybudował tam bibliotekę, pałac letni. Na jego dworze pracował Carl Maria von Weber (wrzesień 1806 - luty 1807). 21 stycznia 1787 roku ożenił się z księżniczką Luizą Stolberg-Gedern. Para miała pięcioro dzieci:</rdfs:comment>
+    <rdfs:comment xml:lang="es">Duque Eugenio Federico Enrique de Wurtemberg (en alemán: Herzog Eugen Friedrich Heinrich von Württemberg, 21 de noviembre de 1758 - 20 de junio de 1822) fue un príncipe alemán. Era el hermano de Federico I de Wurtemberg.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q213720" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Eugenio_Federico_di_Württemberg" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0g58jhq" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eugen_Friedrich_Heinrich_von_Württemberg" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Eugeniusz_Fryderyk_Wirtemberski" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Eugenio_Federico_de_Wurtemberg" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/100695388" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Eugène-Frédéric_de_Wurtemberg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q213720" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/オイゲン・フォン・ヴュルテンベルク_(1758-1822)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Eugénio_Frederico_de_Württemberg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Saxe-Meiningen" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Meiningen" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1822-06-20</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1822-6-20</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Schwedt" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Margraviate_of_Brandenburg" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1758-11-21</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Württemberg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Schwedt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Military_Merit_Order_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1822_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prussian_commanders_of_the_Napoleonic_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1758_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30059346</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719233534</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://thepeerage.com/p11054.htm#i110538" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.genealogics.org/getperson.php?personID=I00012003&amp;tree=LEO" />
+    <foaf:name xml:lang="en">Duke Eugen of Württemberg</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Eugenwuerttemberg1822.jpg" />
+    <dct:description xml:lang="en">German duke</dct:description>
+    <foaf:givenName xml:lang="en">Eugen</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duke_Eugen_of_Württemberg_(1758–1822)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Eugenwuerttemberg1822.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duke_Eugen_of_Württemberg_(1758–1822)?oldid=719233534" />
+    <dbo:abstract xml:lang="pl">Eugeniusz Fryderyk Franciszek Henryk Wirtemberski (ur. 21 listopada 1758 w Schwedt, zm. 20 czerwca 1822 w Meiningen) – książę Wirtembergii. Syn księcia Fryderyka Eugeniusza i Zofii Doroty. Dowódca regimentu huzarów z Oleśnicy, gubernator twierdzy w Głogowie. W 1792 roku objął władzę w posiadłości zmarłego bezpotomnie księcia oleśnickiego, Karola Wirtemberskiego – Carlsruhe (Pokój). Wybudował tam bibliotekę, pałac letni. Na jego dworze pracował Carl Maria von Weber (wrzesień 1806 - luty 1807). 21 stycznia 1787 roku ożenił się z księżniczką Luizą Stolberg-Gedern. Para miała pięcioro dzieci: 
+*  Eugeniusz (1788-1857) 
+*  Luiza (1789-1851) 
+*  Fryderyk (1790-1795) 
+*  Karol (1792-1797) 
+*  Paweł (1797-1860)</dbo:abstract>
+    <dbo:abstract xml:lang="de">&#39;Eugen Friedrich Heinrich Herzog von Württemberg(* 21. November 1758 in Schwedt/Oder; † 20. Juni 1822 in Meiningen) war ein herzoglicher Prinz aus dem Haus der Herzöge von Württemberg. Zugleich war er mütterlicherseits Abkömmling der Markgrafen von Brandenburg aus dem Haus Hohenzollern,.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Duke Eugen of Württemberg (German: Herzog Eugen Friedrich Heinrich von Württemberg; 21 November 1758 – 20 June 1822) was a German prince. He was the brother of Frederick I of Württemberg</dbo:abstract>
+    <dbo:abstract xml:lang="ja">オイゲン・フリードリヒ・ハインリヒ・フォン・ヴュルテンベルク（Eugen Friedrich Heinrich von Württemberg, 1758年11月21日 - 1822年6月20日）は、ヴュルテンベルクの王族、ヴュルテンベルク公（Herzog von Württemberg）。 ヴュルテンベルク公フリードリヒ2世オイゲンと、その妃でブランデンブルク＝シュヴェート辺境伯フリードリヒ・ヴィルヘルムの娘であるフリーデリケ・ドロテア・ゾフィアの間の三男として生まれた。兄にヴュルテンベルク王フリードリヒ1世が、すぐ下の妹にロシア皇后マリア・フョードロヴナがいる。 オイゲンはヨハン・ヴォルフガング・フォン・ゲーテの義弟にあたる法学者ヨハン・ゲオルク・シュロッサーに教育を受け、その後プロイセン軍に入隊し、所属する軽騎兵連隊とともにシュレージエンのエールス（現在のポーランド領オレシニツァ）に駐屯した。当時、オイゲンの駐屯していた地域は17世紀に枝分かれしたヴュルテンベルク家の分家が治めるエールス公爵領が存在していた。ヴュルテンベルク＝エールス公爵家の最後の当主カール・クリスティアン・エルトマンは、遺言によりオイゲンに限嗣不動産という形でカールスルーエ（現在のポクイ）の都市と城を譲った。 1795年、オイゲンはグロガウ要塞の司令官に任命された。オイゲンはイェーナ・アウエルシュテットの戦いではプロイセンの予備役兵で構成された軽騎兵連隊の司令官を務め、1806年10月18日にベルナドット将軍の軍隊に敗北している。 オイゲンはカールスルーエ（ポクイ）の城を自分の居館に定め、城に劇場と付属の礼拝堂を付け加えた。オイゲンは1806年にカールスルーエ城付属礼拝堂の音楽責任者として招聘した作曲家カール・マリア・フォン・ウェーバーの熱心な後援者になった。オイゲンの同名の長男は第六次対仏大同盟戦争で目覚ましい働きをし、この名声を盾にカールスルーエ城の劇場を閉鎖し、カール・マリア・フォン・ヴェーバーを解雇した。オイゲンは1820年、カールスルーエ城の敷地内に廷臣用の邸宅を建てさせた。 1820年から亡くなるまで、オイゲンは王族の一員としてヴュルテンベルク王国貴族院に議席を与えられていた。彼は議会に一度も出席せず、カール・フォン・ライシャッハ伯爵を代理に立てた。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Eugène-Frédéric de Wurtemberg, né à Schwedt le 21 novembre 1758, décédé à Meiningen le 20 juin 1822. Il fut duc de Wurtemberg-Stuttgartmort, il fonda le troisième branche dite première lignée ducale, branche elle-même issue de la première branche dite branche aînée de la Maison de Wurtemberg. Cette troisième branche s&#39;éteignit en 1903. Fils de Frédéric-Eugène de Wurtemberg et de Frédérique-Dorothée de Brandebourg-Schwedt. Eugène-Frédéric de Wurtemberg épousa en 1787 Louise de Saxe-Meiningen (1764-1834) Cinq enfants sont nés de cette union : 
+*  Eugène de Wurtemberg (1788-1857) 
+*  Louise de Wurtemberg (1789-1851), en 1811 elle épousa le prince Frédéric-Auguste de Hohenlohe-Öhringen (1784-1853) 
+*  Paul-Guillaume de Wurtemberg (en) (1797-1860), en 1827 il épousa Marie-Sophie de Tour et Taxis (en) (1800-1870) (postérité) 
+*  Georges de Wurtemberg (1790-1795) 
+*  Henri de Wurtemberg (1792-1797)</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Eugénio Frederico de Württemberg (em alemão: Herzog Eugen Friedrich Heinrich von Württemberg; 21 de novembro de 1758 - 20 de junho de 1822) foi um nobre alemão.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Duque Eugenio Federico Enrique de Wurtemberg (en alemán: Herzog Eugen Friedrich Heinrich von Württemberg, 21 de noviembre de 1758 - 20 de junio de 1822) fue un príncipe alemán. Era el hermano de Federico I de Wurtemberg.</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Margravine_Sophia_Dorothea_of_Brandenburg-Schwedt" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_II_Eugene,_Duke_of_Württemberg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Louise_of_Stolberg-Gedern_(1764-1834)" />
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Württemberg" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke Georg Ferdinand</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duke_Paul_Wilhelm_of_Württemberg" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke Eugen</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Louise, Princess of Hohenlohe-Oehringen</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke Heinrich</dbp:issue>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Prince" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1788–1857)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugen_of_Württemberg">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Eugene_Frederick_of_Württemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758-1822)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Eugen_of_Wurttemberg_(1758–1822)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Eugen_of_Wurttemberg_(1758-1822)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Duke_Eugen_of_Württemberg_(1758–1822)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Duke_Eugen_of_Württemberg_(1758–1822)" />
+  </rdf:Description>
+</rdf:RDF>

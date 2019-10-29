@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm,_Duke_of_Urach">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Life_Guards_(Denmark)">
+    <dbo:notableCommander rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfWürttemberg" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGermanCommandersOfTheNapoleonicWars" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishMilitaryCommandersOfTheNapoleonicWars" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdfs:label xml:lang="de">Wilhelm Friedrich Philipp von Württemberg</rdfs:label>
+    <rdfs:label xml:lang="en">Duke William Frederick Philip of Württemberg</rdfs:label>
+    <rdfs:label xml:lang="fr">Guillaume-Frédéric-Philippe de Wurtemberg</rdfs:label>
+    <rdfs:label xml:lang="ja">ヴィルヘルム・フォン・ヴュルテンベルク (1761-1830)</rdfs:label>
+    <rdfs:label xml:lang="es">Guillermo Federico de Wurtemberg</rdfs:label>
+    <rdfs:label xml:lang="pt">Guilherme Frederico de Württemberg</rdfs:label>
+    <rdfs:label xml:lang="it">Guglielmo Federico di Württemberg</rdfs:label>
+    <rdfs:label xml:lang="pl">Wilhelm Fryderyk Wirtemberski</rdfs:label>
+    <rdfs:label xml:lang="nl">Willem Frederik van Württemberg</rdfs:label>
+    <rdfs:label xml:lang="ru">Вильгельм Фридрих Вюртембергский</rdfs:label>
+    <rdfs:comment xml:lang="ja">ヴィルヘルム・フリードリヒ・フィリップ・フォン・ヴュルテンベルク（Herzog Wilhelm Friedrich Philipp von Württemberg, 1761年12月27日 シュテッティン - 1830年8月10日 ケルネン・イム・レムスタール）は、ドイツ・ヴュルテンベルク王国の王族で、デンマークの将軍。ヴュルテンベルク初代軍事大臣（在任1806年 - 1815年）を務めた。ウラッハ公爵家の始祖でもある。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Вильгельм Фридрих Филипп, герцог Вюртембергский (27 декабря 1761, Штеттин — 10 августа 1830, Кернен) — принц из Вюртембергского дома и военный министр, вюртембергский генерал-фельдмаршал (1806).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Herzog Wilhelm Friedrich Philipp  von Württemberg (* 27. Dezember 1761 in Stettin; † 10. August 1830 im Schloss von Stetten im Remstal) war ein württembergischer Prinz sowie Kriegsminister.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Guillermo Federico Felipe de Wurtemberg (Stettin, 27 de diciembre de 1761 - Castillo de Stetten im Remstal, 10 de agosto de 1830) fue un príncipe de la Casa de Wurtemberg y Ministro de Guerrra del Reino de Wurtemberg.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Guillaume-Frédéric-Philippe de Wurtemberg, né à Stettin le 27 décembre 1761 et décédé à Remstal le 10 août 1830, était le fils de Frédéric-Eugène de Wurtemberg (1732-1797) et de Frédérique-Dorothée de Brandebourg-Schwedt. Il est à l&#39;origine de la quatrième branche de la Maison de Wurtemberg, dite Branche d&#39;Urach. Six enfants son nés de l&#39;union de Guillaume et Wilhelmine :</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Willem Frederik Hendrik  (Stettin, 27 december 1761 – Kernen im Remstal, Oostenrijk, 10 augustus 1830), hertog van Württemberg, was de vierde zoon van Frederik Eugenius van Württemberg en diens echtgenote, Frederika van Brandenburg-Schwedt.Hij huwde in 1800 met Wilhelmine (1777-1822), dochter van baron Karel August van Tunderfeldt-Rhodis, en werd de vader van: Op een portretminiatuur draagt Willem Frederik de geborduurde zilveren ster van de Orde van de Gouden Adelaar</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Wilhelm Fryderyk Filip Wirtemberski (ur. 27 grudnia 1761 w Szczecinie; zm. 10 sierpnia 1830 w Kernen im Remstal) – książę wirtemberski, minister wojny.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Guilherme Frederico de Württemberg (Guilherme Frederico Filipe), (27 de dezembro de 1761 - 10 de agosto de 1830) foi um duque da Casa de Württemberg e ministro de guerra.</rdfs:comment>
+    <rdfs:comment xml:lang="en">William Frederick Philip, Duke of Württemberg (27 December 1761, Stettin – 10 August 1830, Schloss von Stetten im Remstal) was a prince of the House of Württemberg and a minister for war.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Guglielmo_Federico_di_Württemberg" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0g53hy3" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q72575" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Willem_Frederik_van_Württemberg" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Guilherme_Frederico_de_Württemberg" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヴィルヘルム・フォン・ヴュルテンベルク_(1761-1830)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Guillaume-Frédéric-Philippe_de_Wurtemberg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q72575" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Wilhelm_Fryderyk_Wirtemberski" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Guillermo_Federico_de_Wurtemberg" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Wilhelm_Friedrich_Philipp_von_Württemberg" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/117375853" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Stetten_im_Remstal" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Szczecin" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1830-8-10</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1830-08-10</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Szczecin" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Stettin" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1761-12-27</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Province_of_Pomerania" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Crown_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_military_commanders_of_the_Napoleonic_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Szczecin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1830_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1761_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Military_Merit_Order_(Württemberg)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_commanders_of_the_Napoleonic_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Württemberg" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30059098</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719233389</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Duke William Frederick Philip of Württemberg</foaf:name>
+    <foaf:name xml:lang="en">William Frederick Philip</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Friedrich_von_Wuerttemberg.jpg" />
+    <dct:description xml:lang="en">German duke</dct:description>
+    <foaf:givenName xml:lang="en">Wilhelm</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Duke_William_Frederick_Philip_of_Württemberg" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Friedrich_von_Wuerttemberg.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Duke_William_Frederick_Philip_of_Württemberg?oldid=719233389" />
+    <dbo:abstract xml:lang="nl">Willem Frederik Hendrik  (Stettin, 27 december 1761 – Kernen im Remstal, Oostenrijk, 10 augustus 1830), hertog van Württemberg, was de vierde zoon van Frederik Eugenius van Württemberg en diens echtgenote, Frederika van Brandenburg-Schwedt.Hij huwde in 1800 met Wilhelmine (1777-1822), dochter van baron Karel August van Tunderfeldt-Rhodis, en werd de vader van: 
+*  Alexander (1801-1844), gehuwd met Helene Festetics von Tolna, 
+*  Augustus (1805-1808) 
+*  Willem I van Urach (1810-1869), gehuwd met Theodelinda de Beauharnais, dochter van Eugène de Beauharnais, en met Florestina Grimaldi, dochter van Florestan I van Monaco 
+*  Fredrik Augustus (1811-1812) 
+*  Frans (1814-1824) 
+*  Marie (1815-1866), gehuwd met graaf Willem van Taubenheim. Moeder van de Nederlandse militair Wilhelm Paul Carl Heinrich Graaf von Taubenheim. Op een portretminiatuur draagt Willem Frederik de geborduurde zilveren ster van de Orde van de Gouden Adelaar</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Вильгельм Фридрих Филипп, герцог Вюртембергский (27 декабря 1761, Штеттин — 10 августа 1830, Кернен) — принц из Вюртембергского дома и военный министр, вюртембергский генерал-фельдмаршал (1806).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Guilherme Frederico de Württemberg (Guilherme Frederico Filipe), (27 de dezembro de 1761 - 10 de agosto de 1830) foi um duque da Casa de Württemberg e ministro de guerra.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ヴィルヘルム・フリードリヒ・フィリップ・フォン・ヴュルテンベルク（Herzog Wilhelm Friedrich Philipp von Württemberg, 1761年12月27日 シュテッティン - 1830年8月10日 ケルネン・イム・レムスタール）は、ドイツ・ヴュルテンベルク王国の王族で、デンマークの将軍。ヴュルテンベルク初代軍事大臣（在任1806年 - 1815年）を務めた。ウラッハ公爵家の始祖でもある。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Herzog Wilhelm Friedrich Philipp  von Württemberg (* 27. Dezember 1761 in Stettin; † 10. August 1830 im Schloss von Stetten im Remstal) war ein württembergischer Prinz sowie Kriegsminister.</dbo:abstract>
+    <dbo:abstract xml:lang="en">William Frederick Philip, Duke of Württemberg (27 December 1761, Stettin – 10 August 1830, Schloss von Stetten im Remstal) was a prince of the House of Württemberg and a minister for war.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Guillermo Federico Felipe de Wurtemberg (Stettin, 27 de diciembre de 1761 - Castillo de Stetten im Remstal, 10 de agosto de 1830) fue un príncipe de la Casa de Wurtemberg y Ministro de Guerrra del Reino de Wurtemberg.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Wilhelm Fryderyk Filip Wirtemberski (ur. 27 grudnia 1761 w Szczecinie; zm. 10 sierpnia 1830 w Kernen im Remstal) – książę wirtemberski, minister wojny.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Guillaume-Frédéric-Philippe de Wurtemberg, né à Stettin le 27 décembre 1761 et décédé à Remstal le 10 août 1830, était le fils de Frédéric-Eugène de Wurtemberg (1732-1797) et de Frédérique-Dorothée de Brandebourg-Schwedt. Il est à l&#39;origine de la quatrième branche de la Maison de Wurtemberg, dite Branche d&#39;Urach. Cette branche familiale existe toujours et elle est l&#39;aînée de la Maison de Wurtemberg. Toutefois elle n&#39;est pas dynaste en raison du mariage morganatique en 1801 de son fondateur avec Wilhelmine von Tunderfedt-Rhodes (1777-1822). L&#39;actuel chef de la Maison est Charles Marie de Wurtemberg, aîné de la cinquième branche. Six enfants son nés de l&#39;union de Guillaume et Wilhelmine : 
+*  Alexandre de Wurtemberg (1801-1844), comte de Wurtemberg, en 1831 il épousa Hélène Festetics von Tolna (1812-1886) (postérité) 
+*  Auguste (1805-1808) 
+*  Frédéric, duc d&#39;Urach (1810-1869) épouse en 1841 Théodelinde de Beauharnais-Leuchtenberg (1814-1857) puis en 1863 Florestine de Monaco (1833-1897) (postérité) 
+*  Auguste (1811-1812) 
+*  Constantin (1814-1824) 
+*  Marie (1815-1866), en 1842 elle épousa le comte Guillaume von Taubenheim (mort en 1894) 
+* Portail du Saint-Empire romain germanique Portail du Saint-Empire romain germanique   
+* Portail de l’Allemagne Portail de l’Allemagne</dbo:abstract>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_II_Eugene,_Duke_of_Württemberg" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Margravine_Sophia_Dorothea_of_Brandenburg-Schwedt" />
+    <dbo:title xml:lang="en">Duke of Württemberg</dbo:title>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Württemberg" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageSize>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">* Count Alexander of Württemberg
+* August
+* Wilhelm, 1st Duke of Urach
+* Friedrich August
+* Franz
+* Marie, Countess of Württemberg</dbp:issue>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Wilhelmine von Tunderfeld-Rhodis</dbp:spouse>
+    <dbp:spouseType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Wife</dbp:spouseType>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Prince" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margravine_Friederike_of_Brandenburg-Schwedt">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_William_Frederick_of_Württemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Frederick_Philip,_Duke_of_Württemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Wurttemberg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Duke_William_Frederick_Philip_of_Württemberg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Duke_William_Frederick_Philip_of_Württemberg" />
+  </rdf:Description>
+</rdf:RDF>

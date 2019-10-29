@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_II,_Duke_of_Saxe-Gotha-Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_III,_Duke_of_Saxe-Gotha-Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSaxe-Gotha-Altenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Philosopher110423589" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSaxe-Gotha-Altenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnlightenmentPhilosophers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromGotha(town)" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdfs:label xml:lang="es">Ernesto II de Sajonia-Gotha-Altenburgo</rdfs:label>
+    <rdfs:label xml:lang="nl">Ernst II van Saksen-Gotha-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="en">Ernest II, Duke of Saxe-Gotha-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="pl">Ernest II (książę Saksonii-Gotha-Altenburg)</rdfs:label>
+    <rdfs:label xml:lang="ru">Эрнст II (герцог Саксен-Гота-Альтенбургский)</rdfs:label>
+    <rdfs:label xml:lang="it">Ernesto II di Sassonia-Gotha-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="fr">Ernest II de Saxe-Gotha-Altenbourg</rdfs:label>
+    <rdfs:label xml:lang="de">Ernst II. (Sachsen-Gotha-Altenburg)</rdfs:label>
+    <rdfs:label xml:lang="pt">Ernesto II, Duque de Saxe-Gota-Altemburgo</rdfs:label>
+    <rdfs:comment xml:lang="es">Ernesto II de Sajonia-Gotha-Altenburgo (en alemán: Ernst II von Sachsen-Gotha-Altenburg, 30 de enero de 1745 - 20 de abril de 1804) fue un príncipe soberano y gobernante de los Ducados Ernestinos en el siglo XVIII.. Reinó como Duque de Sajonia-Gotha-Altenburgo entre 1772 y 1804. Uno de los primeros miembros y precursor de los Illuminati bávaros, fue un gobernante ilustrado interesado en las ciencias, en especial en la astronomía y en la física.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ernesto II (Gota, 30 de janeiro de 1745 – 20 de abril de 1804) foi Duque de Saxe-Gota-Altemburgo. Foi o terceiro filho (segundo sobrevivente) de Frederico III, Duque de Saxe-Gota-Altemburgo e Luísa Doroteia de Saxe-Meiningen. A morte de seu irmão mais velho, Frederico, em 1756 fez dele o herdeiro do Ducado de Saxe-Gota-Altemburgo. Seu pai faleceu em 1772, quando Ernesto herdou o ducado de Saxe-Gota-Altemburgo.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Ernest II, Duke of Saxe-Gotha-Altenburg (Gotha, 30 January 1745 – Gotha, 20 April 1804) was the reigning Duke of Saxe-Gotha-Altenburg from 1772 to 1804. He was the third but second surviving son of Frederick III, Duke of Saxe-Gotha-Altenburg and Luise Dorothea of Saxe-Meiningen. The death of his older brother Frederick in 1756 made him the heir to the duchy of Saxe-Gotha-Altenburg.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эрнст II Людвиг Саксен-Гота-Альтенбургский (нем. Ernst II. Ludwig von Sachsen-Gotha-Altenburg; 30 января 1745, Гота — 20 апреля 1804, Гота) — герцог Саксен-Гота-Альтенбургский с 10 марта 1772, второй сын герцога Фридриха III Саксен-Гота-Альтенбургского и его супруги Луизы Доротеи Саксен-Мейнингенской.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Ernest II, né à Gotha le 30 janvier 1745 et mort à Gotha le 20 avril 1804, est duc de Saxe-Gotha-Altenbourg de 1772 à sa mort.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ernst II. Ludwig von Sachsen-Gotha-Altenburg (* 30. Januar 1745 in Gotha; † 20. April 1804 ebenda) war von 1772 bis zu seinem Tod Landesfürst des thüringischen Herzogtums Sachsen-Gotha-Altenburg und entstammte der Linie Sachsen-Gotha-Altenburg der ernestinischen Wettiner. Er war von den Ideen der Aufklärung beeinflusst.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ernest II Ludwik (ur. 30 stycznia 1745 w Gocie, zm. 20 kwietnia 1804 tamże) – książę Saksonii-Gotha-Altenburg. Jego władztwo było częścią Świętego Cesarstwa Rzymskiego, wolnomularz, członek iluminatów bawarskich. Pochodził z rodu Wettynów. Urodził się jako czwarte dziecko księcia Saksonii-Gotha-Altenburg Fryderyka III i jego żony księżnej Ludwiki Doroty. Na tron wstąpił po śmierci ojca 10 marca 1772. 21 marca 1769 w Meiningen poślubił księżniczkę Saksonii-Meiningen Szarlottę. Para miała czterech synów:</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Ernst Lodewijk (Gotha, 30 januari 1745 - aldaar, 20 april 1804) was van 1772 tot 1804 hertog van Saksen-Gotha-Altenburg. Hij was de tweede zoon van hertog Frederik III en Louise Dorothea, dochter van Ernst Lodewijk I van Saksen-Meiningen. Hij regeerde op liberale en verlichte wijze. Hij verbeterde de armenzorg, hief de lotto op en wijdde zich aan het onderwijs en het steunen van kunstenaars. Wat betreft zijn buitenlandse politiek sloot hij zich bij de vorstenbond van Frederik de Grote aan. Hij stierf op 20 april 1804 en werd opgevolgd door zijn oudste zoon August.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ernesto_II,_Duque_de_Saxe-Gota-Altemburgo" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ernesto_II_di_Sassonia-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ernest_II_(książę_Saksonii-Gotha-Altenburg)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ernst_II._(Sachsen-Gotha-Altenburg)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/102109109" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q213698" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ernst_II_van_Saksen-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ernest_II_de_Saxe-Gotha-Altenbourg" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ernesto_II_de_Sajonia-Gotha-Altenburgo" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q213698" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fxfcz" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Gotha_(town)" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1804-4-20</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1804-04-20</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Gotha" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Gotha_(town)" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1745-1-30</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1745-01-30</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Gotha_(town)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Gotha-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Illuminati_members" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Gotha-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saxe-Gotha-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1745_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1804_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6219682</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729764203</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Ernest II</foaf:name>
+    <foaf:name xml:lang="en">Ernest II, Duke of Saxe-Gotha-Altenburg</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ernst-II_1775.jpg" />
+    <dct:description xml:lang="en">Duke of Saxe-Gotha-Altenburg</dct:description>
+    <foaf:givenName xml:lang="en">Ernest</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ernst-II_1775.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg?oldid=729764203" />
+    <dbo:abstract xml:lang="de">Ernst II. Ludwig von Sachsen-Gotha-Altenburg (* 30. Januar 1745 in Gotha; † 20. April 1804 ebenda) war von 1772 bis zu seinem Tod Landesfürst des thüringischen Herzogtums Sachsen-Gotha-Altenburg und entstammte der Linie Sachsen-Gotha-Altenburg der ernestinischen Wettiner. Er war von den Ideen der Aufklärung beeinflusst.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Ernesto II de Sajonia-Gotha-Altenburgo (en alemán: Ernst II von Sachsen-Gotha-Altenburg, 30 de enero de 1745 - 20 de abril de 1804) fue un príncipe soberano y gobernante de los Ducados Ernestinos en el siglo XVIII.. Reinó como Duque de Sajonia-Gotha-Altenburgo entre 1772 y 1804. Uno de los primeros miembros y precursor de los Illuminati bávaros, fue un gobernante ilustrado interesado en las ciencias, en especial en la astronomía y en la física.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Ernest II, né à Gotha le 30 janvier 1745 et mort à Gotha le 20 avril 1804, est duc de Saxe-Gotha-Altenbourg de 1772 à sa mort.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эрнст II Людвиг Саксен-Гота-Альтенбургский (нем. Ernst II. Ludwig von Sachsen-Gotha-Altenburg; 30 января 1745, Гота — 20 апреля 1804, Гота) — герцог Саксен-Гота-Альтенбургский с 10 марта 1772, второй сын герцога Фридриха III Саксен-Гота-Альтенбургского и его супруги Луизы Доротеи Саксен-Мейнингенской.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ernest II Ludwik (ur. 30 stycznia 1745 w Gocie, zm. 20 kwietnia 1804 tamże) – książę Saksonii-Gotha-Altenburg. Jego władztwo było częścią Świętego Cesarstwa Rzymskiego, wolnomularz, członek iluminatów bawarskich. Pochodził z rodu Wettynów. Urodził się jako czwarte dziecko księcia Saksonii-Gotha-Altenburg Fryderyka III i jego żony księżnej Ludwiki Doroty. Na tron wstąpił po śmierci ojca 10 marca 1772. 21 marca 1769 w Meiningen poślubił księżniczkę Saksonii-Meiningen Szarlottę. Para miała czterech synów: 
+*  księcia Ernesta (1770-1779) 
+*  Augusta (1772-1822), kolejnego księcia Saksonii-Gotha-Altenburg 
+*  Fryderyka IV (1774-1825), również przyszłego księcia Saksonii-Gotha-Altenburg 
+*  księcia Ludwika (1777-1777)</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Ernst Lodewijk (Gotha, 30 januari 1745 - aldaar, 20 april 1804) was van 1772 tot 1804 hertog van Saksen-Gotha-Altenburg. Hij was de tweede zoon van hertog Frederik III en Louise Dorothea, dochter van Ernst Lodewijk I van Saksen-Meiningen. Hij volgde in 1772 zijn vader op als staatshoofd van een land dat werd geteisterd door grote schulden en prijsstijgingen. Pas toen hij deze situatie door bezuinigingen op zijn hofhouding en verkleining van zijn leger met succes had verbeterd, begon hij met het aanleggen van een verzameling kunstschatten. Als wetenschappelijk geïnteresseerd vorst onderhield hij bij Gotha een sterrenwacht, die onder Franz Xaver von Zach naam maakte. In zijn testament liet hij 40.000 taler na ten gunste van astronomisch en natuurkundig onderzoek. Hij regeerde op liberale en verlichte wijze. Hij verbeterde de armenzorg, hief de lotto op en wijdde zich aan het onderwijs en het steunen van kunstenaars. Wat betreft zijn buitenlandse politiek sloot hij zich bij de vorstenbond van Frederik de Grote aan. Hij stierf op 20 april 1804 en werd opgevolgd door zijn oudste zoon August.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ernesto II (Gota, 30 de janeiro de 1745 – 20 de abril de 1804) foi Duque de Saxe-Gota-Altemburgo. Foi o terceiro filho (segundo sobrevivente) de Frederico III, Duque de Saxe-Gota-Altemburgo e Luísa Doroteia de Saxe-Meiningen. A morte de seu irmão mais velho, Frederico, em 1756 fez dele o herdeiro do Ducado de Saxe-Gota-Altemburgo. Luísa Doroteia era muito preocupada com a formação de seus filhos sobreviventes, Ernesto e o caçula August, fazendo com que fossem educados por um seleto grupo de professores. Entre 1768 e 1769 ambos os príncipes saíram em jornada educacional aos Países Baixos, Inglaterra e França, onde Ernesto conheceu pessoas importantes nas áreas de Política, Ciências e Artes. Seu pai faleceu em 1772, quando Ernesto herdou o ducado de Saxe-Gota-Altemburgo.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Ernest II, Duke of Saxe-Gotha-Altenburg (Gotha, 30 January 1745 – Gotha, 20 April 1804) was the reigning Duke of Saxe-Gotha-Altenburg from 1772 to 1804. He was the third but second surviving son of Frederick III, Duke of Saxe-Gotha-Altenburg and Luise Dorothea of Saxe-Meiningen. The death of his older brother Frederick in 1756 made him the heir to the duchy of Saxe-Gotha-Altenburg.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1804</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1772</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Luise_Dorothea_of_Saxe-Meiningen" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_III,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Frederick_III,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Charlotte_of_Saxe-Meiningen" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:title xml:lang="en">Duke of Saxe-Gotha-Altenburg</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Frederick_III,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Gotha-Altenburg" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:imageSize>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Augustus</dbp:issue>
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Prince Ludwig</dbp:issue>
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Frederick_IV,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:issue rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ernest, Hereditary Prince of Saxe-Gotha-Altenburg</dbp:issue>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Saxe-Gotha-Altenburg" />
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HSH Prince of Saxe-Gotha-Altenburg, Duke in Saxony</dbp:titles>
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HRH The Duke of Saxe-Gotha-Altenburg</dbp:titles>
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HSH The Hereditary Prince of Saxe-Gotha-Altenburg, Duke in Saxony</dbp:titles>
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1772</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Second" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Charlotte_of_Saxe-Meiningen">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Ludwig,_Duke_of_Saxe-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+</rdf:RDF>

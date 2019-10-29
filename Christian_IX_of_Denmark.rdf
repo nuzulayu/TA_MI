@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_of_Hesse-Kassel">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ditlev_Gothard_Monrad">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_ix_of_denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Brønnum_Scavenius_Estrup">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Thyra_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kristian_9">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kristian_IX">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Christian_IX_of_Denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_IX_of_denmark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Feodorovna_(Dagmar_of_Denmark)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludvig_Holstein-Holsteinborg">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Valdemar_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_Caroline_of_Hesse-Kassel">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Christian_Hall">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danish_West_Indian_daler">
+    <dbp:header rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_IX_of_Denmark">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSchleswig" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrincesOfSchleswig-Holstein-Sonderburg-Glücksburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGrandCommandersOfTheOrderOfTheDannebrog" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDanishMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Count109969218" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfHolstein" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prince110472799" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGoldenFleece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheMostHolyAnnunciation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommandingOfficer109941964" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfTheNorwegianLion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCountsOfHolstein" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSchleswig-Holstein-Sonderburg-Augustenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSaxe-Lauenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestantMonarchs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSchleswig" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryMonarchsInEurope" />
+    <rdfs:label xml:lang="it">Cristiano IX di Danimarca</rdfs:label>
+    <rdfs:label xml:lang="pl">Chrystian IX</rdfs:label>
+    <rdfs:label xml:lang="ar">كريستيان التاسع ملك الدنمارك</rdfs:label>
+    <rdfs:label xml:lang="ru">Кристиан IX</rdfs:label>
+    <rdfs:label xml:lang="pt">Cristiano IX da Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="ja">クリスチャン9世 (デンマーク王)</rdfs:label>
+    <rdfs:label xml:lang="nl">Christiaan IX van Denemarken</rdfs:label>
+    <rdfs:label xml:lang="es">Cristián IX de Dinamarca</rdfs:label>
+    <rdfs:label xml:lang="fr">Christian IX</rdfs:label>
+    <rdfs:label xml:lang="de">Christian IX.</rdfs:label>
+    <rdfs:label xml:lang="zh">克里斯蒂安九世</rdfs:label>
+    <rdfs:label xml:lang="en">Christian IX of Denmark</rdfs:label>
+    <rdfs:comment xml:lang="nl">Christiaan IX (Gottorp, 8 april 1818 - Slot Amalienborg bij Kopenhagen, 29 januari 1906) was van 1863 tot 1906 koning van Denemarken. Hij was de vierde zoon van Frederik Willem van Sleeswijk-Holstein-Sonderburg-Glücksburg en prinses Louise Caroline van Hessen-Kassel (1789-1867). Zijn moeder was een kleindochter van Frederik V van Denemarken en zelf was hij een achter-achterkleinzoon van koning George II. Christiaan en zijn vrouw kregen zes kinderen: Vanwege zijn succesvolle huwelijkspolitiek werd Christiaan ook wel de &quot;schoonvader van Europa&quot; genoemd.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Christian IX (8 April 1818 – 29 January 1906) was King of Denmark from 1863 to 1906. From 1863 to 1864, he was concurrently Duke of Schleswig, Holstein and Lauenburg. Growing up as a prince of Schleswig-Holstein-Sonderburg-Glücksburg, a junior branch of the House of Oldenburg which had ruled Denmark since 1448, Christian was originally not in the immediate line of succession to the Danish throne. However, in 1852, Christian was chosen as heir to the Danish monarchy in light of the expected extinction of the senior line of the House of Oldenburg. Upon the death of King Frederick VII of Denmark in 1863, Christian acceded to the throne as the first Danish monarch of the House of Glücksburg.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) كرستيان التاسع (Christian 9.؛ 8 أبريل 1818 - 29 يناير 1906) ملك الدنمارك من 15 نوفمبر 1863 إلى 29 يناير 1906. مشاريع شقيقة في كومنز صور وملفات عن: كريستيان التاسع ملك الدنمارك 
+* 32xبوابة أعلام 
+* 32xبوابة الدنمارك 
+* 32xبوابة ملكية 25بك هذه بذرة مقالة عن حياة شخصية بحاجة للتوسيع. شارك في تحريرها.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Christian IX. (* 8. April 1818 auf Schloss Gottorf in Schleswig; † 29. Januar 1906 auf Schloss Amalienborg in Kopenhagen) war ab 1863 König von Dänemark. Er wurde zum Stammvater der glücksburgischen Linie, die bis heute auf dem dänischen Thron sitzt. Durch seine zahlreichen Nachkommen und deren Eheschließungen mit Mitgliedern europäischer Königshäuser erhielt er den Beinamen „Schwiegervater Europas“.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">クリスチャン9世（デンマーク語: Christian 9., 1818年4月8日 - 1906年1月29日）は、リュクスボー朝初代のデンマーク国王（在位：1863年11月15日 - 1906年1月29日）。グリュックスブルク家は前王家オレンボー家の遠い支族で、男系の先祖をデンマーク＝ノルウェー王クリスチャン3世（在位：1534年 - 1559年）にたどることができる。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Кристиан IX (дат. Christian 9.; 8 апреля 1818 года, Готторп, — 29 января 1906 года, Копенгаген) — король Дании с 1863 по 1906, из династии Глюксбургов.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Cristiano IX (Schleswig, 8 de abril de 1818 – Copenhague, 29 de janeiro de 1906) foi o Rei da Dinamarca de 1863 até sua morte. Era filho de Frederico Guilherme, Duque de Schleswig-Holstein-Sonderburg-Glücksburg, e sua esposa a princesa Luísa Carolina de Hesse-Cassel.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">克里斯蒂安九世（Christian IX.，1818年4月8日－1906年1月29日），丹麦国王（1863年—1906年在位）。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Christian IX de Danemark (8 avril 1818 à Schleswig - 29 janvier 1906) est roi de Danemark du 15 novembre 1863 au 29 janvier 1906. Il fut surnommé le « beau-père de l&#39;Europe », ayant marié plusieurs de ses enfants à des héritiers de familles royales européennes.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Cresciuto come principe di Schleswig-Holstein-Sonderburg-Glücksburg, una linea minore della Casa di Oldenburg che reggeva il trono di Danimarca sin dal 1448, Cristiano originariamente non si trovava in successione immediata al trono danese. Ad ogni modo, nel 1852, Cristiano venne scelto quale erede per la Danimarca temendo l&#39;estinzione della casata principale degli Oldenburg. Alla morte di re Federico VII di Danimarca nel 1863, Cristiano ascese al trono come primo monarca danese della Casa di Glücksburg.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Cristián IX de Dinamarca (Schleswig, 8 de abril de 1818 - Copenhague, 29 de enero de 1906) fue por nacimiento un príncipe de la Casa de Oldemburgo y luego rey de Dinamarca desde el 15 de noviembre de 1863 y hasta su muerte. Fue apodado El suegro de Europa.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Chrystian IX Schleswig-Holstein-Sonderburg-Glücksburg (ur. 8 kwietnia 1818 w zamku Gottorp w Szlezwiku, zm. 29 stycznia 1906 w Kopenhadze) – książę Szlezwiku-Holsztynu, król Danii oraz książę Saksonii-Lauenburga do 1864. Założyciel dynastii Glücksburg. Syn Fryderyka Wilhelma Schleswig-Holstein-Sonderburg-Glücksburg i Luizy. Przez swoją matkę był prawnukiem króla Fryderyka V. W 1842 poślubił Luizę z Hesji-Kassel, księżniczkę heską, siostrzenicę Chrystiana VIII Oldenburga (ur. 7 września 1817, zm. 29 września 1898), z którą miał sześcioro dzieci:</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Royal_descendants_of_Queen_Victoria" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/King_Christian_IX" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/크리스티안_9세" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Χριστιανός_Θ΄_της_Δανίας" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Christian_IX_dari_Denmark" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Christiaan_IX_van_Denemarken" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cristiano_IX_di_Danimarca" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Chrystian_IX" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Kristian_IX.a_Danimarkakoa" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Cristián_IX_de_Dinamarca" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Christian_IX_of_Denmark" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Christian_IX." />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q151305" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cristiano_IX_da_Dinamarca" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119071126" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Kristián_IX." />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0lr12" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q151305" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/クリスチャン9世_(デンマーク王)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Christian_IX" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Amalienborg_Palace" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Amalienborg" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Denmark" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-01-29</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-1-29</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Schleswig" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Gottorf_Castle" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Schleswig,_Schleswig-Holstein" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-04-08</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-4-8</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_House_Order_of_the_Wendish_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Schleswig-Holstein-Sonderburg-Glücksburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Schleswig" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Glücksburg_(Denmark)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Commanders_of_the_Order_of_the_Dannebrog" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Roskilde_Cathedral" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Danish_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Extra_Knights_Companion_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Danish_monarchs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Holstein" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1818_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1906_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Danish_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Lauenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_monarchs_in_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Schleswig-Holstein-Sonderburg-Beck" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Schleswig" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Order_of_the_Norwegian_Lion" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85667</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741111993</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongernessamling.dk/en/amalienborg/person/christian-ix/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kongehuset.dk/artikel.php?dogtag=k_en_his_chrix" />
+    <foaf:name xml:lang="en">Christian IX of Denmark</foaf:name>
+    <foaf:name xml:lang="en">Christian IX</foaf:name>
+    <foaf:homepage rdf:resource="http://www.kongehuset.dk/artikel.php?dogtag=k_en_his_chrix" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Christian_IX_af_Henrik_Olrik.jpg" />
+    <dct:description xml:lang="en">King of Denmark</dct:description>
+    <foaf:givenName xml:lang="en">Christian</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Christian_IX_of_Denmark" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Christian_IX_af_Henrik_Olrik.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Christian_IX_of_Denmark?oldid=741111993" />
+    <dbo:abstract xml:lang="fr">Christian IX de Danemark (8 avril 1818 à Schleswig - 29 janvier 1906) est roi de Danemark du 15 novembre 1863 au 29 janvier 1906. Il fut surnommé le « beau-père de l&#39;Europe », ayant marié plusieurs de ses enfants à des héritiers de familles royales européennes.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Cristián IX de Dinamarca (Schleswig, 8 de abril de 1818 - Copenhague, 29 de enero de 1906) fue por nacimiento un príncipe de la Casa de Oldemburgo y luego rey de Dinamarca desde el 15 de noviembre de 1863 y hasta su muerte. Fue apodado El suegro de Europa.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">克里斯蒂安九世（Christian IX.，1818年4月8日－1906年1月29日），丹麦国王（1863年—1906年在位）。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">クリスチャン9世（デンマーク語: Christian 9., 1818年4月8日 - 1906年1月29日）は、リュクスボー朝初代のデンマーク国王（在位：1863年11月15日 - 1906年1月29日）。グリュックスブルク家は前王家オレンボー家の遠い支族で、男系の先祖をデンマーク＝ノルウェー王クリスチャン3世（在位：1534年 - 1559年）にたどることができる。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Cristiano IX (Schleswig, 8 de abril de 1818 – Copenhague, 29 de janeiro de 1906) foi o Rei da Dinamarca de 1863 até sua morte. Era filho de Frederico Guilherme, Duque de Schleswig-Holstein-Sonderburg-Glücksburg, e sua esposa a princesa Luísa Carolina de Hesse-Cassel.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) كرستيان التاسع (Christian 9.؛ 8 أبريل 1818 - 29 يناير 1906) ملك الدنمارك من 15 نوفمبر 1863 إلى 29 يناير 1906. نشأ كأمير كشليسفيش هولشتاين سوندربورغ غلوكسبورغ، وهو فرع أصغر من آل أولدنبورغ الذين حكموا الدنمارك منذ 1448، وكان في الأصل كرستيان ليس في خط فوري من الخلافة على العرش الدنماركي. ومع ذلك، في عام 1852، تم اختيار كرستيان وريثا لنظام الحكم الملكي الدنماركي في ضوء الانقراض المتوقع من خط رفيع من مجلس أولدنبورغ. عند وفاة الملك فردرك السابع في عام 1863، انضمت كرستيان إلى العرش كأول العاهل الدنماركي من آل غلوكسبورغ. بات كرستيان يعرف باسم &quot;حــَـمى أوروبا&quot;، كفقد تزوج أبنائه الستة من عائلات ملكية. وينحدر معظم ملوك أوروبا الحالية منه، بما في ذلك إليزابيث الثانية ملكة المملكة المتحدة، ألبير الثاني ملك بلجيكا، هارلد الخامس ملك النرويج، مارغريت الثانية ملكة الدنمارك وهنري دوق لوكسمبورغ الأكبر. فيليب دوق إدنبرة، والملكة صوفيا في إسبانيا هما أيضاً أحفاد لكرستيان التاسع، كما هو قسطنطين الثاني (الملك السابق والأخير لليونان). مشاريع شقيقة في كومنز صور وملفات عن: كريستيان التاسع ملك الدنمارك 
+* 32xبوابة أعلام 
+* 32xبوابة الدنمارك 
+* 32xبوابة ملكية 25بك هذه بذرة مقالة عن حياة شخصية بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Кристиан IX (дат. Christian 9.; 8 апреля 1818 года, Готторп, — 29 января 1906 года, Копенгаген) — король Дании с 1863 по 1906, из династии Глюксбургов.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Christian IX (8 April 1818 – 29 January 1906) was King of Denmark from 1863 to 1906. From 1863 to 1864, he was concurrently Duke of Schleswig, Holstein and Lauenburg. Growing up as a prince of Schleswig-Holstein-Sonderburg-Glücksburg, a junior branch of the House of Oldenburg which had ruled Denmark since 1448, Christian was originally not in the immediate line of succession to the Danish throne. However, in 1852, Christian was chosen as heir to the Danish monarchy in light of the expected extinction of the senior line of the House of Oldenburg. Upon the death of King Frederick VII of Denmark in 1863, Christian acceded to the throne as the first Danish monarch of the House of Glücksburg. The beginning of his reign was marked by the Danish defeat in the Second Schleswig War and the subsequent loss of the duchies of Schleswig, Holstein and Lauenburg which made the king immensely unpopular. The following years of his reign were dominated by political disputes as Denmark had only become a constitutional monarchy in 1849 and the balance of power between the sovereign and parliament was still in dispute. In spite of his initial unpopularity and the many years of political strife, where the king was in conflict with large parts of the population, his popularity recovered towards the end of his reign, and he became a national icon due to the length of his reign and the high standards of personal morality with which he was identified. Christian married his second cousin, Princess Louise of Hesse-Kassel, in 1842. Their six children married into other royal families across Europe, earning him the sobriquet &quot;the father-in-law of Europe&quot;. Most current European monarchs are descended from him, including Queen Margrethe II of Denmark, Queen Elizabeth II of the United Kingdom, King Philippe of Belgium, King Harald V of Norway, King Felipe VI of Spain, and Grand Duke Henri of Luxembourg. The British consort Prince Philip, Duke of Edinburgh is also an agnatic descendant of Christian IX, as are Michael I of Romania and Constantine II of Greece, whose thrones have been abolished. Also, the queens consort Anne of Romania, Anne-Marie of Greece, and Queen Sofia of Spain are among his descendants.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Christian IX. (* 8. April 1818 auf Schloss Gottorf in Schleswig; † 29. Januar 1906 auf Schloss Amalienborg in Kopenhagen) war ab 1863 König von Dänemark. Er wurde zum Stammvater der glücksburgischen Linie, die bis heute auf dem dänischen Thron sitzt. Durch seine zahlreichen Nachkommen und deren Eheschließungen mit Mitgliedern europäischer Königshäuser erhielt er den Beinamen „Schwiegervater Europas“.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Chrystian IX Schleswig-Holstein-Sonderburg-Glücksburg (ur. 8 kwietnia 1818 w zamku Gottorp w Szlezwiku, zm. 29 stycznia 1906 w Kopenhadze) – książę Szlezwiku-Holsztynu, król Danii oraz książę Saksonii-Lauenburga do 1864. Założyciel dynastii Glücksburg. Syn Fryderyka Wilhelma Schleswig-Holstein-Sonderburg-Glücksburg i Luizy. Przez swoją matkę był prawnukiem króla Fryderyka V. Został królem po śmierci Fryderyka VII. W 1864, po II wojnie o Szlezwik z Austrią i Prusami, król stracił księstwo Szlezwik-Holsztyn. W 1901 powołał rząd oparty na większości w demokratycznie wybieranej niższej izbie parlamentu. W 1842 poślubił Luizę z Hesji-Kassel, księżniczkę heską, siostrzenicę Chrystiana VIII Oldenburga (ur. 7 września 1817, zm. 29 września 1898), z którą miał sześcioro dzieci: 
+*  Fryderyk (1843-1912) – król Danii 
+*  Aleksandra (1844-1925) – królowa Wielkiej Brytanii, żona Edwarda VII 
+*  Wilhelm (1845-1913) – król Grecji jako Jerzy I 
+*  Dagmara (1847-1928) – cesarzowa Rosji jako Maria Fiodorowna, żona Aleksandra III 
+*  Thyra (1853-1933) – żona księcia Ernesta Augusta Hanowerskiego 
+*  Waldemar (1858-1939) – ożenił się z Marią Orleańską; Z uwagi na to, że jego potomkowie panują (lub panowali) na wielu europejskich tronach królewskich lub książęcych m.in. Danii, Rosji, Wielkiej Brytanii, Grecji – nazywany „ojcem Europy” lub „teściem Europy”.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Cresciuto come principe di Schleswig-Holstein-Sonderburg-Glücksburg, una linea minore della Casa di Oldenburg che reggeva il trono di Danimarca sin dal 1448, Cristiano originariamente non si trovava in successione immediata al trono danese. Ad ogni modo, nel 1852, Cristiano venne scelto quale erede per la Danimarca temendo l&#39;estinzione della casata principale degli Oldenburg. Alla morte di re Federico VII di Danimarca nel 1863, Cristiano ascese al trono come primo monarca danese della Casa di Glücksburg. Cristiano divenne noto come il &quot;suocero d&#39;Europa&quot; per le sue ramificate parentele con i principali monarchi d&#39;Europa dell&#39;epoca ed è per questo uno degli antenati comuni di tutte le attuali casate regnanti d&#39;Europa.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Christiaan IX (Gottorp, 8 april 1818 - Slot Amalienborg bij Kopenhagen, 29 januari 1906) was van 1863 tot 1906 koning van Denemarken. Hij was de vierde zoon van Frederik Willem van Sleeswijk-Holstein-Sonderburg-Glücksburg en prinses Louise Caroline van Hessen-Kassel (1789-1867). Zijn moeder was een kleindochter van Frederik V van Denemarken en zelf was hij een achter-achterkleinzoon van koning George II. Als jongeman trachtte hij naar de hand te dingen van koningin Victoria, maar dit had geen succes. Vervolgens trouwde hij met een nicht van de Deense koning Christiaan VIII, Louise van Hessen-Kassel. De koning voorzag dat zijn enige zoon Frederik (VII) geen kinderen zou krijgen. Daarom bewerkstelligde hij dat Christiaan werd opgenomen in de lijn van troonopvolging. Op 15 november 1863 volgde hij Frederik VII op als koning van Denemarken. Meteen al kreeg hij te maken met een conflict met Pruisen over het grondgebied van Sleeswijk-Holstein (Sleeswijk-Holsteinse kwestie). Dit leidde in 1864 tot de Tweede Duits-Deense Oorlog. Voor het overige hield hij zich tijdens zijn lange koningschap vooral bezig met het versterken van de democratie. Christiaan en zijn vrouw kregen zes kinderen: 
+*  Frederik (3 juni 1843 – 14 mei 1912), trouwde met Louise van Zweden 
+*  Alexandra (1 mei 1844 – 20 november 1925), huwde met koning Eduard VII van het Verenigd Koninkrijk 
+*  Willem (24 december 1845 – 18 maart 1913), werd als George I koning van Griekenland en huwde met Olga van Rusland. 
+*  Dagmar (26 november 1847 – 13 oktober 1928), huwde met tsaar Alexander III van Rusland 
+*  Thyra (29 september 1853 – 26 februari 1933), gehuwd met koning Ernst August II van Hannover 
+*  Waldemar (27 oktober 1858 – 14 januari 1939), gehuwd met Marie van Bourbon-Orléans Vanwege zijn succesvolle huwelijkspolitiek werd Christiaan ook wel de &quot;schoonvader van Europa&quot; genoemd.</dbo:abstract>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1863</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Louise_Caroline_of_Hesse-Cassel" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Frederick_William,_Duke_of_Schleswig-Holstein-Sonderburg-Glücksburg" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Frederick_VII_of_Denmark" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Roskilde_Cathedral" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Louise_of_Hesse-Kassel" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Frederick_VIII_of_Denmark" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Frederick_VIII_of_Denmark" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Frederick_VII_of_Denmark" />
+    <dbp:bsize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</dbp:bsize>
+    <dbp:cheight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:cheight>
+    <dbp:cwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:cwidth>
+    <dbp:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Christian IX, on a 10 Daler coin of the Danish West Indies</dbp:description>
+    <dbp:location rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</dbp:location>
+    <dbp:oleft rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:oleft>
+    <dbp:otop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:otop>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:rows>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:rows>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_rulers_of_Saxony" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke of Schleswig and Holstein</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Danish_monarchs" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1863</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-sovereign-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/King" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrich_Wilhelm,_Duke_of_Schleswig-Holstein-Sonderburg-Glücksburg">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandra_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_VIII_of_Denmark">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_VII_of_Denmark">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_I_of_Greece">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Schleswig_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danish_India">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_IX">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christen_Andreas_Fonnesbech">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannibal_Sehested_(council_president)">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_of_Glucksburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Albrecht_Bluhme">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Emil_Krag-Juel-Vind-Frijs">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_Egmont_Hørring">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jens_Christian_Christensen">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johan_Henrik_Deuntzer">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tage_Reedtz-Thott">
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Christian_IX_of_Denmark">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Christian_IX_of_Denmark" />
+  </rdf:Description>
+</rdf:RDF>

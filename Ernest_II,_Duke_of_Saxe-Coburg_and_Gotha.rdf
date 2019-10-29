@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_von_Solange">
+    <dbp:composer rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saxe-Coburg_and_Gotha">
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_II,_Duke_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_II,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II_Augustus_Charles_John_Leopold_Alexander_Edward,_Duke_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="zh">恩斯特二世 (萨克森-科堡-哥达公爵)</rdfs:label>
+    <rdfs:label xml:lang="nl">Ernst II van Saksen-Coburg en Gotha</rdfs:label>
+    <rdfs:label xml:lang="pt">Ernesto II de Saxe-Coburgo-Gota</rdfs:label>
+    <rdfs:label xml:lang="es">Ernesto II de Sajonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="fr">Ernest II de Saxe-Cobourg et Gotha</rdfs:label>
+    <rdfs:label xml:lang="de">Ernst II. (Sachsen-Coburg und Gotha)</rdfs:label>
+    <rdfs:label xml:lang="it">Ernesto II di Sassonia-Coburgo-Gotha</rdfs:label>
+    <rdfs:label xml:lang="en">Ernest II, Duke of Saxe-Coburg and Gotha</rdfs:label>
+    <rdfs:label xml:lang="ja">エルンスト2世 (ザクセン＝コーブルク＝ゴータ公)</rdfs:label>
+    <rdfs:label xml:lang="ru">Эрнст II (герцог Саксен-Кобург-Готский)</rdfs:label>
+    <rdfs:label xml:lang="pl">Ernest II Sachsen-Coburg-Gotha</rdfs:label>
+    <rdfs:comment xml:lang="en">Ernest II (German: Ernst August Karl Johann Leopold Alexander Eduard; 21 June 1818 – 22 August 1893) was the sovereign duke of the Duchy of Saxe-Coburg and Gotha, reigning from 1844 to his death. Ernest was born in Coburg as the eldest child of Ernest III, Duke of Saxe-Coburg-Saalfeld, and his duchess, Princess Louise of Saxe-Gotha-Altenburg. Fourteen months later, his younger brother Prince Albert was born, who later became consort of Queen Victoria of the United Kingdom. Ernest&#39;s father became Duke of Saxe-Coburg and Gotha in 1826 through an exchange of territories.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Ernesto II Augusto Carlos Juan Leopoldo Alejandro Eduardo, duque de Sajonia-Coburgo-Gotha (21 de junio de 1818 - 22 de agosto de 1893) fue el segundo duque soberano del ducado alemán de Sajonia-Coburgo-Gotha. Nació en Coburgo, el mayor de los hijos de Ernesto I de Sajonia-Coburgo-Gotha y Luisa de Sajonia-Gotha-Altenburgo y hermano del Príncipe Alberto, esposo de Victoria I del Reino Unido. En Karlsruhe el 3 de mayo de 1842, Ernesto se casó con Alejandrina de Baden. Ernesto no tuvo descendencia como fruto de este matrimonio. En 1844, Ernesto sucede a su padre como duque de Sajonia-Coburgo-Gotha.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ernest August Karol Jan Leopold Aleksander Edward (ur. 21 czerwca 1818 w Coburgu; zm. 22 sierpnia 1893 w Reinhardsbrunn koło Gotha), drugi suwerenny władca niemieckiego księstwa Saksonia-Coburg-Gotha.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Ernst August Karel Johannes Leopold Alexander Eduard (Coburg, 21 juni 1818 - Reinhardsbrunn bij Gotha, 2 augustus 1893) was van 1844 tot 1893 hertog van Saksen-Coburg en Gotha. Zijn ouders waren hertogErnst I en diens eerste echtgenote Louise van Saksen-Gotha-Altenburg.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">エルンスト2世（Ernst II., 1818年6月21日 - 1893年8月23日）は、第2代ザクセン＝コーブルク＝ゴータ公（在位：1844年 – 1893年）。全名はエルンスト・アウグスト・カール・ヨハン・レオポルト・アレクサンダー・エドゥアルト（Ernst August Karl Johann Leopold Alexander Eduard）。エルンスト1世の長男。弟にイギリス女王ヴィクトリアの王配となったアルベルト（英語名アルバート）がいる。 エルンスト2世は1818年6月21日、エルンスト1世（当時はザクセン＝コーブルク＝ザールフェルト公）とその妃であったザクセン＝ゴータ＝アルテンブルク公アウグストの娘ルイーゼ（1800年 - 1831年）の間に第一子として生まれた。1842年5月3日にカールスルーエでバーデン大公レオポルトの娘アレクサンドリーネ（1820年 - 1904年）と結婚したが、子供は生まれなかった。 1844年1月29日にエルンスト1世（1826年からザクセン＝コーブルク＝ゴータ公）が死去したため、第2代ザクセン＝コーブルク＝ゴータ公となった。 南北戦争の際、エルンスト2世はヨーロッパの君主では唯一、南部のアメリカ連合国に領事を派遣した。1861年、領事に任命されたエルンスト・ラーフェンは、リッチモンドの連合国政府に外交的承認を申し入れ、受諾された。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ernesto II Augusto Carlos João Leopoldo Alexandre Eduardo, Duque de Saxe-Coburgo-Gota (Coburgo, 21 de junho de 1818 — Reinhardsbrunn, 22 de agosto de 1893) foi o segundo duque soberano do ducado germânico de Saxe-Coburgo-Gota. Ele era o filho mais velho de Ernesto I de Saxe-Coburgo-Gota e de sua esposa, Luísa de Saxe-Gota-Altemburgo. Ele também foi o irmão mais velho de Alberto, príncipe consorte da rainha Vitória do Reino Unido.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ernst August Karl Johann Leopold Alexander Eduard, Herzog von Sachsen-Coburg und Gotha (* 21. Juni 1818 in Coburg; † 22. August 1893 in Reinhardsbrunn bei Gotha).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Ernest II de Saxe-Cobourg et Gotha, né le 21 juin 1818 à Cobourg, décédé le 22 août 1893 à Reinhardsbrunn, est duc souverain de Saxe-Cobourg et Gotha de 1844 à 1893.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эрнст Август Карл Иоганн Леопольд Александр Эдуард Саксен-Кобург-Готский (нем. Ernst II August Karl Johann Leopold Alexander Eduard von Sachsen-Coburg und Gotha; 21 июня 1818 — 22 августа 1893) — старший сын Эрнста I, герцога Саксен-Кобурга и Готы, и Луизы Саксен-Гота-Альтенбургской. Второй правящий герцог из династии Саксен-Кобург и Гота.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Austro-Prussian_War" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Schleswig-Holstein_Question" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ernest_II_de_Saxe-Cobourg_et_Gotha" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q213630" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118685279" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.040w12" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ernesto_II_de_Sajonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ernesto_II_di_Sassonia-Coburgo-Gotha" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ernest_II_Sachsen-Coburg-Gotha" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q213630" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ernesto_II_de_Saxe-Coburgo-Gota" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エルンスト2世_(ザクセン＝コーブルク＝ゴータ公)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ernst_II._(Sachsen-Coburg_und_Gotha)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ernst_II_van_Saksen-Coburg_en_Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Reinhardsbrunn" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Saxe-Coburg-Gotha" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/German_Empire" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-8-22</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-08-22</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/German_Confederation" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Saxe-Coburg-Saalfeld" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Coburg" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ehrenburg_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-06-21</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1818-6-21</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Iron_Cross_(1870),_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_opera_composers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Coburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_Saxe-Coburg_and_Gotha" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Masters_of_the_Saxe-Ernestine_House_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_the_Ducal_Family_Mausoleum,_Glockenburg_Cemetery,_Coburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Generals_of_Cavalry_(Prussia)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Coburg_and_Gotha" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_male_classical_composers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:German_classical_composers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_German_musicians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_classical_composers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1893_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1818_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protestant_monarchs" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1041657</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744476631</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.picrare.com/Royalty_Digest/RDArticles/1RDArticles1QVandUncleE.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=QLvMpMcSoj0C&amp;pg=PA401&amp;dq=queen+victoria+melbourne&amp;hl=en&amp;ei=wSpETr_FMsmrsAL93pSoCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CGQQ6AEwCTgK#v=onepage&amp;q=queen%20victoria%20melbourne&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="http://de.wikisource.org/wiki/ADB:Ernst_II._(Herzog_von_Sachsen-Coburg_und_Gotha)" />
+    <dbo:wikiPageExternalLink rdf:resource="https://portal.d-nb.de/opac.htm?query=Woe%3D118685279&amp;method=simpleSearch" />
+    <foaf:name xml:lang="en">Ernst August Karl Johann Leopold Alexander Eduard</foaf:name>
+    <foaf:name xml:lang="en">Ernest II</foaf:name>
+    <foaf:name xml:lang="en">Ernest II, Duke of Saxe-Coburg and Gotha</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/1818_Ernst-09.jpg" />
+    <dct:description xml:lang="en">German prince</dct:description>
+    <foaf:givenName xml:lang="en">Ernest</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/1818_Ernst-09.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha?oldid=744476631" />
+    <dbo:abstract xml:lang="en">Ernest II (German: Ernst August Karl Johann Leopold Alexander Eduard; 21 June 1818 – 22 August 1893) was the sovereign duke of the Duchy of Saxe-Coburg and Gotha, reigning from 1844 to his death. Ernest was born in Coburg as the eldest child of Ernest III, Duke of Saxe-Coburg-Saalfeld, and his duchess, Princess Louise of Saxe-Gotha-Altenburg. Fourteen months later, his younger brother Prince Albert was born, who later became consort of Queen Victoria of the United Kingdom. Ernest&#39;s father became Duke of Saxe-Coburg and Gotha in 1826 through an exchange of territories. In 1842, Ernest married Princess Alexandrine of Baden in what was to be a childless marriage. Soon after, he succeeded as duke upon the death of his father on 29 January 1844. As reigning Duke Ernest II, he supported the German Confederation in the Schleswig-Holstein Wars against Denmark, sending thousands of troops and becoming the commander of a German corps; as such, he was instrumental in the 1849 victory at the battle of Eckernförde against Danish forces. After King Otto of Greece was deposed in 1862, the British government put Ernest&#39;s name forward as a possible successor. Negotiations fell through however for various reasons, not in the least of which was that he would not give up his beloved duchies in favor of the Greek throne. A supporter of a unified Germany, Ernest watched the various political movements with great interest. While he initially was a great and outspoken proponent of the liberal movement, he surprised many by switching sides and supporting the more conservative (and eventually victorious) Prussians during the Austro-Prussian and Franco-Prussian wars and subsequent unification of Germany. His support of the conservatives came at a price however, and he was no longer viewed as the possible leader of a political movement. According to historian Charlotte Zeepvat, Ernest became &quot;increasingly lost in a whirl of private amusements which earned only contempt from outside&quot;. Ernest&#39;s position was often linked to his brother Prince Albert, husband of Queen Victoria. The two boys were raised as though twins, and became closer upon the separation and divorce of their parents, as well as the eventual death of their mother. The princes&#39; relationship experienced phases of closeness as well as minor arguments as they grew older; after Albert&#39;s death in 1861, Ernest became gradually more antagonistic to Victoria and her children, as well as increasingly bitter toward the United Kingdom, publishing anonymous pamphlets against various members of the British royal family. Despite their increasingly differing political views and opinions however, Ernest accepted his second eldest nephew Prince Alfred, Duke of Edinburgh as his heir-presumptive, who upon Ernest&#39;s death on 22 August 1893 at Reinhardsbrunn, succeeded to the ducal throne.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ernest August Karol Jan Leopold Aleksander Edward (ur. 21 czerwca 1818 w Coburgu; zm. 22 sierpnia 1893 w Reinhardsbrunn koło Gotha), drugi suwerenny władca niemieckiego księstwa Saksonia-Coburg-Gotha.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">エルンスト2世（Ernst II., 1818年6月21日 - 1893年8月23日）は、第2代ザクセン＝コーブルク＝ゴータ公（在位：1844年 – 1893年）。全名はエルンスト・アウグスト・カール・ヨハン・レオポルト・アレクサンダー・エドゥアルト（Ernst August Karl Johann Leopold Alexander Eduard）。エルンスト1世の長男。弟にイギリス女王ヴィクトリアの王配となったアルベルト（英語名アルバート）がいる。 エルンスト2世は1818年6月21日、エルンスト1世（当時はザクセン＝コーブルク＝ザールフェルト公）とその妃であったザクセン＝ゴータ＝アルテンブルク公アウグストの娘ルイーゼ（1800年 - 1831年）の間に第一子として生まれた。1842年5月3日にカールスルーエでバーデン大公レオポルトの娘アレクサンドリーネ（1820年 - 1904年）と結婚したが、子供は生まれなかった。 1844年1月29日にエルンスト1世（1826年からザクセン＝コーブルク＝ゴータ公）が死去したため、第2代ザクセン＝コーブルク＝ゴータ公となった。 南北戦争の際、エルンスト2世はヨーロッパの君主では唯一、南部のアメリカ連合国に領事を派遣した。1861年、領事に任命されたエルンスト・ラーフェンは、リッチモンドの連合国政府に外交的承認を申し入れ、受諾された。 エルンスト2世は1893年8月23日にラインハルツブルン城（現テューリンゲン州ゴータ郡）で死去した。弟アルベルトはすでに死去しており、その長男であるウェールズ公アルバート・エドワード（後のイギリス王エドワード7世）も公位継承権を放棄していたため、アルベルトの次男エディンバラ公アルフレッド（ドイツ語名アルフレート）が公位を嗣いだ。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ernesto II Augusto Carlos João Leopoldo Alexandre Eduardo, Duque de Saxe-Coburgo-Gota (Coburgo, 21 de junho de 1818 — Reinhardsbrunn, 22 de agosto de 1893) foi o segundo duque soberano do ducado germânico de Saxe-Coburgo-Gota. Ele era o filho mais velho de Ernesto I de Saxe-Coburgo-Gota e de sua esposa, Luísa de Saxe-Gota-Altemburgo. Ele também foi o irmão mais velho de Alberto, príncipe consorte da rainha Vitória do Reino Unido. Em 3 de maio de 1842, em Karlsruhe, ele desposou Alexandrina de Baden, mas o casamento não gerou filhos. Em 1844, Ernesto sucedeu seu pai aos ducados de Saxe-Coburgo-Gota. Ele morreu sem deixar herdeiros e foi sucedido por seu sobrinho, Alfredo, Duque de Edimburgo (o então Príncipe de Gales, seu sobrinho mais velho, renunciou seus direitos ao ducado). Em 26 de agosto de 1845, ele assinou um tratado de comércio com D. Maria II. Foi Ernesto II que concedeu o título de Condessa de Edla para Elise Hemsler, segunda esposa de Fernando II, seu primo. O Duque de Saxe-Coburgo-Gota tinha a reputação de ser um grande amigo dos Estados Unidos, bem como seu irmão Alberto. Ele foi o único soberano europeu a ser apontado cônsul dos Estados Confederados da América. Além disso, Ernesto II também foi um compositor amador; sua ópera Diana von Solange recebeu duras críticas da Metropolitan Opera de Nova York, em 1890.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эрнст Август Карл Иоганн Леопольд Александр Эдуард Саксен-Кобург-Готский (нем. Ernst II August Karl Johann Leopold Alexander Eduard von Sachsen-Coburg und Gotha; 21 июня 1818 — 22 августа 1893) — старший сын Эрнста I, герцога Саксен-Кобурга и Готы, и Луизы Саксен-Гота-Альтенбургской. Второй правящий герцог из династии Саксен-Кобург и Гота.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Ernst August Karel Johannes Leopold Alexander Eduard (Coburg, 21 juni 1818 - Reinhardsbrunn bij Gotha, 2 augustus 1893) was van 1844 tot 1893 hertog van Saksen-Coburg en Gotha. Zijn ouders waren hertogErnst I en diens eerste echtgenote Louise van Saksen-Gotha-Altenburg. Hij genoot een veelzijdige opleiding, studeerde met zijn broer Albert in Bonn en ontving militair onderricht in het leger van Saksen. Vanwege zijn wijdverbreide familie - Albert was gemaal van de Britse koningin Victoria, zijn oom Leopold koning der Belgen en zijn neef Ferdinand koning-gemaal van Maria II van Portugal - reisde hij veel en had een goede kennis van de Europese politiek. Ernst II nam na de dood van zijn vader op 29 januari 1844 de regering van het hertogdom op zich. In tegenstelling tot zijn conservatieve vader was hij - mede onder invloed van Leopold I - een der meest liberale Duitse vorsten. Hij voorzag de roep van het volk om hervormingen en kwam derhalve tamelijk ongeschonden door het revolutiejaar 1848. Hierop verleende hij alle mannelijke staatsburgers van boven de 25 stemrecht. Op 3 mei 1852 voerde hij een nieuwe grondwet door die zijn hertogdommen Coburg en Gotha geheel verenigde. Als groot voorstander van een Duitse eenheid drong hij er bij de Pruisische koning Frederik Willem IV sterk op aan de hem in 1849 aangeboden keizerskroon te aanvaarden. Hij verwierf zich in Duitsland echter vooral bekendheid in de strijd tegen Denemarken van dat jaar waarin hij gedurende de zeeslag bij Eckernförde de Duitse troepen leidde. In de volgende jaren van groeiend conservatisme bleef hij als vrijwel de enige Duitse soeverein trouw aan de idealen van liberalisme en een verenigd Duitsland en maakte zijn land tot vrijhaven voor schrijvers en politici die de andere staten hadden moeten ontvluchten. Hij was de eerste Duitse vorst die keizer Napoleon III bezocht en was aanwezig bij de aanslag op diens leven in 1858. Ernst II was aanvankelijk een tegenstander van de politiek van Bismarck maar werd later een warm en vooraanstaand medestander van Pruisen. Saksen-Coburg-Gotha trad in 1866 toe tot de Noord-Duitse Bond. Wilhelm I zei bij zijn keizerskroning in 1871 dat de totstandkoming van het Duitse Keizerrijk in niet geringe mate aan hem te danken was. Ernst was ook als regisseur en acteur actief, componeerde opera&#39;s en was vriend en mecenas van de schrijver Gustav Freytag en de walskoning Johann Strauss jr. Daar zijn huwelijk met Alexandrine, dochter van groothertog Leopold van Baden, kinderloos was gebleven werd hij na zijn dood op 2 augustus 1893 opgevolgd door zijn neef Alfred, zoon van Albert en koningin Victoria.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Ernesto II Augusto Carlos Juan Leopoldo Alejandro Eduardo, duque de Sajonia-Coburgo-Gotha (21 de junio de 1818 - 22 de agosto de 1893) fue el segundo duque soberano del ducado alemán de Sajonia-Coburgo-Gotha. Nació en Coburgo, el mayor de los hijos de Ernesto I de Sajonia-Coburgo-Gotha y Luisa de Sajonia-Gotha-Altenburgo y hermano del Príncipe Alberto, esposo de Victoria I del Reino Unido. En Karlsruhe el 3 de mayo de 1842, Ernesto se casó con Alejandrina de Baden. Ernesto no tuvo descendencia como fruto de este matrimonio. En 1844, Ernesto sucede a su padre como duque de Sajonia-Coburgo-Gotha. Murió en Reinhardsbrunn, sin descendencia, siendo sucedido por su sobrino el Príncipe Alfredo, Duque de Edimburgo, segundo descendiente varón de su hermano, ya que el hijo varón mayor de su hermano Alberto, Alberto Eduardo, Príncipe de Gales había renunciado a su derecho sucesorio sobre el ducado. El duque tenía reputación de ser un gran amigo de los Estados Unidos, al igual que su hermano Alberto. Fue, sin embargo, el único soberano europeo que nombró a un cónsul en los Estados Confederados de América. El duque era también un compositor aficionado; su ópera Diana von Solange recibió unas pésimas críticas en la Metropolitan Opera House de Nueva York en 1890.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ernst August Karl Johann Leopold Alexander Eduard, Herzog von Sachsen-Coburg und Gotha (* 21. Juni 1818 in Coburg; † 22. August 1893 in Reinhardsbrunn bei Gotha).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Ernest II de Saxe-Cobourg et Gotha, né le 21 juin 1818 à Cobourg, décédé le 22 août 1893 à Reinhardsbrunn, est duc souverain de Saxe-Cobourg et Gotha de 1844 à 1893.</dbo:abstract>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1844</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Princess_Louise_of_Saxe-Gotha-Altenburg_(1800–1831)" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Ernest_I,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Coburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Alexandrine_of_Baden" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ernest II, c. 1880.</dbp:caption>
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Saxe-Coburg_and_Gotha" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Duke_of_Saxe-Coburg_and_Gotha" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duke of Saxe-Coburg and Gotha</dbp:title>
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--01-29</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Duke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_of_Saxe-Coburg-Gotha_Ernst_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_II_of_Saxe-Coburg_and_Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_of_Saxe-Gotha-Altenburg_(1800–1831)">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_II_of_Saxe-Coburg-Gotha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Alexandrine_of_Baden">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_III_of_the_United_Kingdom">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_IV_of_the_United_Kingdom">
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_V_of_Hanover">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdfs:label xml:lang="es">Ernesto Augusto I de Hannover</rdfs:label>
+    <rdfs:label xml:lang="ru">Эрнст Август I (король Ганновера)</rdfs:label>
+    <rdfs:label xml:lang="en">Ernest Augustus, King of Hanover</rdfs:label>
+    <rdfs:label xml:lang="ar">إرنست أوغسطس الأول ملك هانوفر</rdfs:label>
+    <rdfs:label xml:lang="zh">恩斯特·奥古斯特一世 (汉诺威)</rdfs:label>
+    <rdfs:label xml:lang="pl">Ernest August I</rdfs:label>
+    <rdfs:label xml:lang="de">Ernst August I. (Hannover)</rdfs:label>
+    <rdfs:label xml:lang="nl">Ernst August I van Hannover</rdfs:label>
+    <rdfs:label xml:lang="pt">Ernesto Augusto I de Hanôver</rdfs:label>
+    <rdfs:label xml:lang="fr">Ernest-Auguste Ier</rdfs:label>
+    <rdfs:label xml:lang="it">Ernesto Augusto I di Hannover</rdfs:label>
+    <rdfs:label xml:lang="ja">エルンスト・アウグスト (ハノーファー王)</rdfs:label>
+    <rdfs:comment xml:lang="en">Ernest Augustus (5 June 1771 – 18 November 1851) was King of Hanover from 20 June 1837 until his death. He was the fifth son and eighth child of George III, who eleven years before Ernest&#39;s birth had inherited the thrones of two kingdoms, Great Britain and Ireland, and also that of the Electorate of Hanover, still part of the Holy Roman Empire. As a fifth son, Ernest seemed unlikely to become a monarch, but none of his four elder brothers produced a legitimate son who lived past infancy. The Salic Law, which barred succession &quot;to or through a woman,&quot; prevailed in Hanover; therefore, when his elder brother William IV died in 1837, Ernest succeeded him as King of Hanover, for Hanover had become a &#39;Kingdom&#39; when the Holy Roman Empire was abolished in 1806. In the United Kingdom, however, wher</rdfs:comment>
+    <rdfs:comment xml:lang="it">Figlio quintogenito degli otto avuti da Giorgio III del Regno Unito, inizialmente Ernesto venne avviato alla carriera militare in Hannover ove trascorse gran parte della sua giovinezza, combattendo con questo esercito durante le guerre della Rivoluzione francese in Vallonia, ricevendo in quell&#39;occasione una grave ferita al volto che spesso è visibile in alcuni suoi ritratti. Nel 1799 venne creato duca di Cumberland e Teviotdale. Malgrado il matrimonio da lui contratto nel 1815 con la due volte vedova Federica di Meclemburgo-Strelitz si fosse scontrato con la disapprovazione della madre, la regina Carlotta, la relazione fu felice. Dal 1817, re Giorgio III disponeva di un solo nipote legittimo, la principessa Carlotta del Galles, che era morta in tenera età e pertanto Ernesto era l&#39;unico dei</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ernest August I (ur. 5 czerwca 1771 w Londynie, zm. 18 listopada 1851 w Hanowerze) – król Hanoweru, książę Brunszwik-Lüneburg, pierwszy książę Cumberland i Teviotdale, hrabia Armagh, był w latach 1837-1851 roku panującym królem Hanoweru. Syn Jerzego III Hanowerskiego i Zofii Charlotty Mecklenburg-Strelitz. Odznaczony orderami: Podwiązki, św. Patryka, Łaźni, Wielkim Krzyżem Hanowerskim. Wraz z jego wstąpieniem na tron hanowerski zakończyła się unia personalna Hanoweru i Wielkiej Brytanii, nad którą władzę objęła królowa Wiktoria Hanowerska.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Ernst August I (Londen, 5 juni 1771 - Hannover, 18 november 1851), hertog van Cumberland en Teviotdale, was van 1837 tot 1851 koning van Hannover.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ernst August I., König von Hannover, Herzog von Braunschweig-Lüneburg, 1. Herzog von Cumberland und Teviotdale und Earl of Armagh, KG, KP, GCB, GCH (* 5. Juni 1771 in London; † 18. November 1851 in Hannover) war seit 1837 regierender König von Hannover aus dem Geschlecht der Welfen.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">إرنست أوغسطس الأول (5 يونيو 1771 - 18 نوفمبر 1851) كان ملك هانوفر من 20 يونيو 1837 حتى وفاته في 18 نوفمبر 1851 وكان الإبن الثامن لجورج الثالث ملك المملكة المتحدة.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эрнст Август I (нем. Ernst August I.; 5 июня 1771 — 18 ноября 1851) — король Ганновера с 1837 года. Имел британский титул герцог Камберлендский (англ. Ernest Augustus Duke of Cumberland).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Ernest-Auguste Ier (en allemand : Ernst August I.), né le 5 juin 1771 au palais de Buckingham, à Londres, et mort le 18 novembre 1851 à Hanovre, était un membre de la famille royale britannique qui fut roi de Hanovre du 20 juin 1837 à sa mort. Il était le cinquième fils et le neuvième enfant de George III, qui régnait à la fois sur le royaume de Grande-Bretagne et le royaume de Hanovre. Ainsi, les chances d&#39;Ernest de devenir souverain de l&#39;un ou l&#39;autre royaume paraissaient minces. Cependant la loi salique, qui enlevait aux femmes le droit de monter sur le trône, était en vigueur au Hanovre et aucun des frères d&#39;Ernest n&#39;avait d&#39;héritier mâle légitime. Ainsi, après la mort de George III et les brefs règnes de ses fils aînés George IV (1820-1830) et Guillaume IV (1830-1837), tous deux morts</rdfs:comment>
+    <rdfs:comment xml:lang="ja">エルンスト・アウグスト（Ernst August，1771年6月5日 - 1851年11月18日）は、ハノーファー王（在位：1837年 - 1851年）。イギリス王族であり、カンバーランド公（1799-1851）の爵位も持つ。英語名はアーネスト・オーガスタス（Ernest Augustus）。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">恩斯特·奧古斯特一世（Ernst August I，1771年6月5日－1851年11月18日），汉诺威国王、联合王国坎伯兰和特维奥特戴尔公爵。联合王国国王乔治三世与王后梅克伦堡-施特雷利茨的夏洛特的第五子。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Ernesto Augusto de Hannover nació en Queen&#39;s House, St. James&#39;s Park, Londres, el 5 de junio de 1771, siendo el octavo de los 15 hijos del rey Jorge III del Reino Unido, y de la duquesa Carlota de Mecklemburgo-Strelitz. Fue rey de Hannover entre 1837 y 1851.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ernesto Augusto I  KG, KP, GCB, GCH, FRS (Londres, 5 de junho de 1771 — Hanôver, 18 de novembro de 1851) foi Rei de Hanôver, Duque de Brunsvique-Luneburgo e Duque de Cumberland e Teviotdale. Sendo o quinto filho, parecia pouco provável que se tornasse monarca, mas a lei sálica, que impedia as mulheres de herdar o trono, aplicava-se em Hanôver e nenhum dos seus irmãos mais velhos tinha deixado herdeiros varões legítimos. Assim, tornou-se rei de Hanôver quando a sua sobrinha, Vitória, se tornou rainha do Reino Unido, acabando com a união pessoal entre o Reino Unido e Hanôver que tinha existido desde 1714.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/에른스트_아우구스트_1세_(하노버)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ernesto_Augusto_I_di_Hannover" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エルンスト・アウグスト_(ハノーファー王)" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ερνέστος_Αύγουστος_Α΄_του_Ανόβερου" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Arnošt_August_I._Hannoverský" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ernest_August_I" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ernst_August_I_van_Hannover" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ernesto_Augusto_I_de_Hannover" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ernesto_Augusto_I_de_Hanôver" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q162302" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ernest-Auguste_Ier" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ernst_August_I._(Hannover)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q162302" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Hanover" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1851-11-18</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Buckingham_Palace" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1771-6-5</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1771-06-05</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_St_Patrick" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Military_William_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1771_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kings_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Dublin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1851_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:15th_The_King&#39;s_Hussars_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Trinity_College,_Dublin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Göttingen_alumni" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_the_Napoleonic_Wars" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Cumberland_and_Teviotdale" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hanoverian_princes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Hanover" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heirs_to_the_British_throne" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_field_marshals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Horse_Guards_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Princes_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Berggarten_Mausoleum,_Herrenhausen_(Hanover)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_Grand_Cross_of_the_Royal_Guelphic_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Masters_of_the_Orange_Order" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266617</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743497416</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hannover.de/herrenhausen/gaerten/berggarten/elemente/mausoleum/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=uhYMAAAAYAAJ&amp;printsec=frontcover&amp;dq=random+recollections+house+of+lords" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=lHF4j4YPaSsC&amp;lpg=PA117&amp;pg=PA117" />
+    <dbo:wikiPageExternalLink rdf:resource="http://query.nytimes.com/mem/archive-free/pdf?_r=1&amp;res=9500E5DA1431E13BBC4A52DFB467838A649FDE" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=Zc1DAAAAYAAJ&amp;dq=Reminiscences+of+the+Court+and+Times+of+King+Ernest+of+Hanover" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=MQmVh6TnKEAC&amp;pg=PA26" />
+    <foaf:name xml:lang="en">Ernest Augustus I of Hanover</foaf:name>
+    <foaf:name xml:lang="en">Ernest Augustus</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Augustus_I_of_Hanover.PNG" />
+    <dct:description xml:lang="en">King of Hanover</dct:description>
+    <foaf:givenName xml:lang="en">Ernest</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ernest_Augustus,_King_of_Hanover" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Augustus_I_of_Hanover.PNG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ernest_Augustus,_King_of_Hanover?oldid=743497416" />
+    <dbo:abstract xml:lang="pl">Ernest August I (ur. 5 czerwca 1771 w Londynie, zm. 18 listopada 1851 w Hanowerze) – król Hanoweru, książę Brunszwik-Lüneburg, pierwszy książę Cumberland i Teviotdale, hrabia Armagh, był w latach 1837-1851 roku panującym królem Hanoweru. Syn Jerzego III Hanowerskiego i Zofii Charlotty Mecklenburg-Strelitz. Odznaczony orderami: Podwiązki, św. Patryka, Łaźni, Wielkim Krzyżem Hanowerskim. Wraz z jego wstąpieniem na tron hanowerski zakończyła się unia personalna Hanoweru i Wielkiej Brytanii, nad którą władzę objęła królowa Wiktoria Hanowerska.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">恩斯特·奧古斯特一世（Ernst August I，1771年6月5日－1851年11月18日），汉诺威国王、联合王国坎伯兰和特维奥特戴尔公爵。联合王国国王乔治三世与王后梅克伦堡-施特雷利茨的夏洛特的第五子。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">إرنست أوغسطس الأول (5 يونيو 1771 - 18 نوفمبر 1851) كان ملك هانوفر من 20 يونيو 1837 حتى وفاته في 18 نوفمبر 1851 وكان الإبن الثامن لجورج الثالث ملك المملكة المتحدة.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ernst August I., König von Hannover, Herzog von Braunschweig-Lüneburg, 1. Herzog von Cumberland und Teviotdale und Earl of Armagh, KG, KP, GCB, GCH (* 5. Juni 1771 in London; † 18. November 1851 in Hannover) war seit 1837 regierender König von Hannover aus dem Geschlecht der Welfen.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Figlio quintogenito degli otto avuti da Giorgio III del Regno Unito, inizialmente Ernesto venne avviato alla carriera militare in Hannover ove trascorse gran parte della sua giovinezza, combattendo con questo esercito durante le guerre della Rivoluzione francese in Vallonia, ricevendo in quell&#39;occasione una grave ferita al volto che spesso è visibile in alcuni suoi ritratti. Nel 1799 venne creato duca di Cumberland e Teviotdale. Malgrado il matrimonio da lui contratto nel 1815 con la due volte vedova Federica di Meclemburgo-Strelitz si fosse scontrato con la disapprovazione della madre, la regina Carlotta, la relazione fu felice. Dal 1817, re Giorgio III disponeva di un solo nipote legittimo, la principessa Carlotta del Galles, che era morta in tenera età e pertanto Ernesto era l&#39;unico dei suoi figli abile a succedergli, cosa che a ogni modo non accadde mai perché preceduto dai suoi fratelli maggiori. Nella politica inglese, Ernesto si dimostrò particolarmente attivo presso la Camera dei Lords, mantenendo un registro estremamente conservatore. Osteggiato da più parti, venne attaccato anche personalmente asserendo che aveva ucciso il suo valletto e che aveva avuto un figlio da sua sorella, la principessa Sofia del Regno Unito. Addirittura si giunse a dire che prima che la regina Vittoria fosse ascesa al trono, Ernesto aveva complottato di farla uccidere per ottenere per sé il trono inglese. Quando re Guglielmo IV morì il 20 giugno 1837, a ogni modo, i pettegolezzi su Ernesto si placarono definitivamente ed egli poté ascendere al trono dello stato di Hannover. Questo fatto era dovuto essenzialmente alla motivazione che nello stato tedesco vigeva ancora la Legge salica che impediva alle donne di succedere al trono, a differenza di quanto accadeva in Inghilterra: per questo motivo la regina Vittoria fu costretta a cedere il dominio dell&#39;Hannover a Ernesto per garantire il possedimento inglese in Europa. Durante i quattordici anni del suo regno, Ernesto condusse degnamente il suo dominio, anche se portò a delle controversie il suo licenziamento dei Sette di Gottinga (tra cui i fratelli Grimm) per le loro posizioni formalmente contrarie alla sua politica.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ernesto Augusto I  KG, KP, GCB, GCH, FRS (Londres, 5 de junho de 1771 — Hanôver, 18 de novembro de 1851) foi Rei de Hanôver, Duque de Brunsvique-Luneburgo e Duque de Cumberland e Teviotdale. Sendo o quinto filho, parecia pouco provável que se tornasse monarca, mas a lei sálica, que impedia as mulheres de herdar o trono, aplicava-se em Hanôver e nenhum dos seus irmãos mais velhos tinha deixado herdeiros varões legítimos. Assim, tornou-se rei de Hanôver quando a sua sobrinha, Vitória, se tornou rainha do Reino Unido, acabando com a união pessoal entre o Reino Unido e Hanôver que tinha existido desde 1714. Ernesto nasceu na Inglaterra, mas foi enviado para Hanôver quando era adolescente para prosseguir com a sua educação e treino militar. Enquanto prestava serviço nas forças hanoverianas na Valónia contra a França Revolucionária, sofreu uma ferida que lhe desfigurou o rosto. Em 1799, recebeu o título de duque de Cumberland e Teviotdale. Apesar de o seu casamento em 1815 com Frederica de Mecklemburgo-Strelitz, uma princesa que já tinha ficado viúva duas vezes, não ter sido aprovado pela sua mãe, a rainha Carlota, acabaria por se tornar uma união feliz. Em 1817, o rei Jorge estava louco e tinha apenas uma neta legitima, a princesa Carlota de Gales. Quando ela morreu ao dar à luz, Ernesto era o único filho que estava casado e ainda vivia com a esposa. Esta situação deu-lhe alguma esperança de vir a suceder ao trono britânico. Contudo, ambos os seus irmãos mais velhos se casaram rapidamente e o quarto filho do rei Jorge, o príncipe Eduardo Augusto, Duque de Kent e Strathearn, teve uma filha que acabaria por se tornar a herdeira da coroa britânica, a princesa Vitória de Kent, depois rainha Vitória. Ernesto era ativo na Casa dos Lordes onde mantinha uma posição extremamente conservadora. Alegava-se persistentemente (algo que terá sido espalhado pelos seus inimigos políticos) que o príncipe tinha assassinado o seu criado e tivera um filho da sua irmã, a princesa Sofia do Reino Unido. Antes de Vitória suceder ao trono britânico, correram rumores de que Ernesto pretendia assassiná-la e ficar com o trono para si. Quando o rei Guilherme IV morreu a 20 de junho de 1837, Ernesto subiu ao trono de Hanôver. Sendo o primeiro monarca de Hanôver a viver no reino desde Jorge I, Ernesto conseguiu ter um reinado de catorze anos geralmente bem-sucedido, mas provocou alguma controvérsia quando dispensou os Sete de Gotinga (um grupo que incluía os dois irmãos Grimm) das suas posições no ensino por provocarem agitação contra as suas políticas.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Ernesto Augusto de Hannover nació en Queen&#39;s House, St. James&#39;s Park, Londres, el 5 de junio de 1771, siendo el octavo de los 15 hijos del rey Jorge III del Reino Unido, y de la duquesa Carlota de Mecklemburgo-Strelitz. Fue rey de Hannover entre 1837 y 1851.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Ernst August I (Londen, 5 juni 1771 - Hannover, 18 november 1851), hertog van Cumberland en Teviotdale, was van 1837 tot 1851 koning van Hannover.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Ernest Augustus (5 June 1771 – 18 November 1851) was King of Hanover from 20 June 1837 until his death. He was the fifth son and eighth child of George III, who eleven years before Ernest&#39;s birth had inherited the thrones of two kingdoms, Great Britain and Ireland, and also that of the Electorate of Hanover, still part of the Holy Roman Empire. As a fifth son, Ernest seemed unlikely to become a monarch, but none of his four elder brothers produced a legitimate son who lived past infancy. The Salic Law, which barred succession &quot;to or through a woman,&quot; prevailed in Hanover; therefore, when his elder brother William IV died in 1837, Ernest succeeded him as King of Hanover, for Hanover had become a &#39;Kingdom&#39; when the Holy Roman Empire was abolished in 1806. In the United Kingdom, however, where a different law of succession prevailed, Queen Victoria succeeded to the throne, thus ending the personal union between the British Isles and Hanover that had existed since 1714. Ernest was born in England but was sent to Hanover in his adolescence for his education and military training. While serving with Hanoverian forces in Wallonia against Revolutionary France, he received a disfiguring facial wound. In 1799, he was created Duke of Cumberland and Teviotdale. Although his marriage in 1815 to the twice-widowed Frederica of Mecklenburg-Strelitz met with the disapproval of his mother, Queen Charlotte, it proved a happy one. By 1817, King George III had only one legitimate grandchild, Princess Charlotte of Wales, and when she died in childbirth, Ernest was the senior son to be both married and not estranged from his wife. This gave him some prospect of succeeding to the British throne. However, both of his unmarried older brothers quickly married, and King George&#39;s fourth son, Edward, Duke of Kent, fathered the eventual British heir, Princess Alexandrina Victoria of Kent, later Queen Victoria. Ernest was an active member of the House of Lords, where he maintained an extremely conservative voting record. There were persistent allegations (reportedly spread by his political foes) that he had murdered his valet and had fathered a son by his sister, Princess Sophia. Before Victoria succeeded to the British throne, it was rumoured that Ernest intended to murder her and take the throne himself. When King William IV died on 20 June 1837, Ernest acceded to the Hanoverian throne. Becoming Hanover&#39;s first ruler to reside in the state since George I, he had a generally successful fourteen-year reign but excited controversy when he dismissed the Göttingen Seven (including the two Brothers Grimm) from their professorial positions for agitating against his policies.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эрнст Август I (нем. Ernst August I.; 5 июня 1771 — 18 ноября 1851) — король Ганновера с 1837 года. Имел британский титул герцог Камберлендский (англ. Ernest Augustus Duke of Cumberland).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Ernest-Auguste Ier (en allemand : Ernst August I.), né le 5 juin 1771 au palais de Buckingham, à Londres, et mort le 18 novembre 1851 à Hanovre, était un membre de la famille royale britannique qui fut roi de Hanovre du 20 juin 1837 à sa mort. Il était le cinquième fils et le neuvième enfant de George III, qui régnait à la fois sur le royaume de Grande-Bretagne et le royaume de Hanovre. Ainsi, les chances d&#39;Ernest de devenir souverain de l&#39;un ou l&#39;autre royaume paraissaient minces. Cependant la loi salique, qui enlevait aux femmes le droit de monter sur le trône, était en vigueur au Hanovre et aucun des frères d&#39;Ernest n&#39;avait d&#39;héritier mâle légitime. Ainsi, après la mort de George III et les brefs règnes de ses fils aînés George IV (1820-1830) et Guillaume IV (1830-1837), tous deux morts sans enfants légitimes, Victoria de Kent, fille légitime du quatrième fils du roi George III et nièce d&#39;Ernest, n&#39;hérita que du seul Royaume-Uni. Le trône de Hanovre échut alors à Ernest, mettant ainsi fin à l&#39;union personnelle entre la Grande-Bretagne et le Hanovre, en place depuis 1714. Ernest naquit en Grande-Bretagne, mais fut envoyé au Hanovre durant sa jeunesse pour son éducation et sa formation militaire. Alors qu&#39;il servait dans l&#39;armée hanovrienne en Wallonie, contre la France révolutionnaire, il reçut une grave blessure au visage. En 1799, il reçut de son père le titre de duc de Cumberland et Teviotdale. Malgré l&#39;hostilité de sa mère, la reine Charlotte, envers son mariage avec la princesse deux fois veuve Frédérique de Mecklembourg-Strelitz en 1814, Ernest épousa celle-ci en mai 1815. En 1817, le roi George III n&#39;avait qu&#39;un seul petit-enfant légitime : la princesse Charlotte de Galles ; à la mort de cette dernière, Ernest-Auguste était le plus vieux fils de George III à être marié et à ne pas être séparé de son épouse. Cela lui ouvrit la perspective d&#39;hériter un jour du trône britannique. Toutefois, ses deux frères aînés, restés célibataires, trouvèrent chacun une femme ; le quatrième fils de George III, Édouard de Kent, eut une fille : la princesse Victoria de Kent (future reine Victoria), qui devint l&#39;héritière du Royaume-Uni. Ernest était actif à la Chambre des lords, où il maintenait une position extrêmement conservatrice. Il fut plusieurs fois victime de rumeurs (lancées par ses adversaires politiques) ; une première le disait coupable du meurtre de son valet, une autre l&#39;accusait d&#39;avoir commis l&#39;inceste avec sa sœur la princesse Sophie-Mathilde. Peu avant l&#39;accession au trône de Victoria, une autre rumeur prétendit qu&#39;Ernest avait l&#39;intention de l&#39;assassiner afin de monter sur le trône à sa place. Lorsque Guillaume IV du Royaume-Uni mourut le 20 juin 1837, Ernest hérita du trône hanovrien. Premier souverain de Hanovre à résider au royaume depuis George Ier, il connut un règne paisible de quatorze ans, seulement troublé à ses débuts par l&#39;affaire des Sept de Göttingen.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">エルンスト・アウグスト（Ernst August，1771年6月5日 - 1851年11月18日）は、ハノーファー王（在位：1837年 - 1851年）。イギリス王族であり、カンバーランド公（1799-1851）の爵位も持つ。英語名はアーネスト・オーガスタス（Ernest Augustus）。</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1837</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1837</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/George_III_of_the_United_Kingdom" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/William_IV_of_the_United_Kingdom" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Herrenhausen_Gardens" />
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Hanover" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Frederica_of_Mecklenburg-Strelitz" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/George_V_of_Hanover" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Robert_Jocelyn,_3rd_Earl_of_Roden" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Charles_Henry_St_John_O&#39;Neill,_1st_Earl_O&#39;Neill" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Portrait by George Dawe, 1828</dbp:caption>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Hanover" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/George_V_of_Hanover" />
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ernest Augustus I of Hanover Signature.svg</dbp:signature>
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/King_of_Hanover" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colonel of the 15th (King&#39;s Own) Light Dragoons</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/King_of_Hanover" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Grand Master of the Orange Institution of Ireland</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Earl_of_Armagh" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colonel of the Royal Regiment of Horse Guards (The Blues)</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Duke_of_Cumberland_and_Teviotdale" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_senior_members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1837</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1827</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1828</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1847</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1801</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1799</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus_I_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_August_I_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz">
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus,_1st_Duke_of_Cumberland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus,_1st_Duke_of_Cumberland_and_Teviotdale">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Ernest_Augustus,_1st_Duke_of_Cumberland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Ernest_Augustus,_1st_Duke_of_Cumberland_and_Teviotdale">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Ernest_Augustus_of_Great_Britain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Ernest_Augustus_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_augustus_i_of_hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Augustus,_Duke_of_Cumberland_and_King_of_Hanover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ernest_Augustus,_King_of_Hanover">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cumberland_Jack">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ernest_Augustus,_King_of_Hanover" />
+  </rdf:Description>
+</rdf:RDF>

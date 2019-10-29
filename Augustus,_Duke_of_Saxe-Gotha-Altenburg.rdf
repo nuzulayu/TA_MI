@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emil_Leopold_August,_Duke_of_Saxe-Gotha-Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Year_in_Arcadia:_Kyllenion">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromGotha(town)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGermanPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sovereign110628644" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Royalty" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer110412910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Duke110038620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ruler110541229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/RoyalFamily" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGayWriters" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDukesOfSaxe-Gotha-Altenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSaxe-Gotha-Altenburg" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdfs:label xml:lang="es">Augusto de Sajonia-Gotha-Altenburgo</rdfs:label>
+    <rdfs:label xml:lang="fr">Auguste de Saxe-Gotha-Altenbourg</rdfs:label>
+    <rdfs:label xml:lang="en">Augustus, Duke of Saxe-Gotha-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="nl">August van Saksen-Gotha-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="ru">Август (герцог Саксен-Гота-Альтенбурга)</rdfs:label>
+    <rdfs:label xml:lang="ja">アウグスト (ザクセン＝ゴータ＝アルテンブルク公)</rdfs:label>
+    <rdfs:label xml:lang="it">Augusto di Sassonia-Gotha-Altenburg</rdfs:label>
+    <rdfs:label xml:lang="de">August (Sachsen-Gotha-Altenburg)</rdfs:label>
+    <rdfs:comment xml:lang="es">Augusto de Sajonia-Gotha-Altenburgo (en alemán: Emil Leopold August von Sachsen-Gotha-Altenburg; 23 de noviembre de 1772 - 27 de mayo de 1822) fue un príncipe soberano de los Ducados Ernestinos en el siglo XIX. Duque de Sajonia-Gotha-Altenburgo entre 1804 y 1822, fue además un importante mecenas e intelectual, frecuentando círculos literarios y teniendo estrecha relación con diversos poetas.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">エミール・レオポルト・アウグスト（ドイツ語:Herzog Emil Leopold August von Sachsen-Gotha-Altenburg, 1772年11月23日 ゴータ - 1822年5月27日 ゴータ）は、ドイツのザクセン＝ゴータ＝アルテンブルク公（在位1804年 - 1822年）。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эмиль Леопольд Август Саксен-Гота-Альтенбургский (нем. Emil Leopold August von Sachsen-Gotha-Altenburg; 23 ноября 1772, Гота — 27 мая 1822, там же) — предпоследний правитель тюрингенского герцогства Саксен-Гота-Альтенбург из побочной линии эрнестинской линии Веттинов.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Emil Leopold August, Herzog von Sachsen-Gotha-Altenburg (* 23. November 1772 in Gotha; † 17. Mai 1822 ebenda) war der vorletzte Landesfürst des thüringischen Herzogtums Sachsen-Gotha-Altenburg. Er stammte aus der Nebenlinie Sachsen-Gotha-Altenburg der Familie der ernestinischen Wettiner.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Émile Léopold Auguste, né le 23 novembre 1772 à Gotha et mort le 27 mai 1822 à Gotha, est duc de Saxe-Gotha-Altenbourg de 1804 à sa mort.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Augustus, Duke of Saxe-Gotha-Altenburg (full name: Emil Leopold August) (23 November 1772 — 17 May 1822), was a Duke of Saxe-Gotha-Altenburg, and the author of one of the first modern novels to treat of same-sex love. He was the maternal grandfather of Prince Albert, consort of Queen Victoria.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Emiel Leopold August (Gotha, 23 november 1772 – aldaar, 17 mei 1822), roepnaam Emiel, maar officieel August, was van 1804 tot 1822 hertog van Saksen-Gotha-Altenburg. Hij was de zoon van hertog Ernst II en Maria Charlotte van Saksen-Meiningen, dochter van Anton Ulrich van Saksen-Meiningen. Hij trad in 1797 in het huwelijk met Louise Charlotte, dochter van Frederik Frans I van Mecklenburg-Schwerin. Na haar dood in het kraambed in 1801 hertrouwde hij in 1802 met Caroline Amalia, dochter van Willem IX (I) van Hessen-Kassel.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Augusto_de_Sajonia-Gotha-Altenburgo" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q62262" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/August_(Sachsen-Gotha-Altenburg)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/100289614" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Augusto_di_Sassonia-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Auguste_de_Saxe-Gotha-Altenbourg" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q62262" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fy2c6" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/August_van_Saksen-Gotha-Altenburg" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アウグスト_(ザクセン＝ゴータ＝アルテンブルク公)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Gotha_(town)" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Gotha" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1822-5-17</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1822-05-17</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Gotha_(town)" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Gotha" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1772-11-23</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gay_nobility" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Gotha_(town)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dukes_of_Saxe-Gotha-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1772_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1822_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gay_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Saxe-Gotha-Altenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Saxe-Gotha-Altenburg" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6232990</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729107544</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=NNsQAAAAYAAJ&amp;pg=PA485&amp;dq=a+year+in+arcadia+gotha&amp;hl=en&amp;sa=X&amp;ei=xPrQVJKYN4K4ggSEjoOwCg&amp;ved=0CDMQ6AEwBA#v=onepage&amp;q=a%20year%20in%20arcadia%20gotha&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=bp08AAAAIAAJ&amp;pg=PA137&amp;dq=a+year+in+arcadia+gotha&amp;hl=en&amp;sa=X&amp;ei=X-rQVOtclbCiBJ3XgugG&amp;ved=0CDkQ6AEwBQ#v=onepage&amp;q=a%20year%20in%20arcadia%20gotha&amp;f=false" />
+    <foaf:name xml:lang="en">Augustus, Duke of Saxe-Gotha-Altenburg</foaf:name>
+    <foaf:name xml:lang="en">Emil Leopold August</foaf:name>
+    <foaf:name xml:lang="en">Augustus</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Doell_-_Porträt_des_Herzogs_August_von_Sachsen-Gotha-Altenburg.jpg" />
+    <dct:description xml:lang="en">Duke of Saxe-Gotha-Altenburg</dct:description>
+    <foaf:givenName xml:lang="en">Augusto</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Doell_-_Porträt_des_Herzogs_August_von_Sachsen-Gotha-Altenburg.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Augustus,_Duke_of_Saxe-Gotha-Altenburg?oldid=729107544" />
+    <dbo:abstract xml:lang="ja">エミール・レオポルト・アウグスト（ドイツ語:Herzog Emil Leopold August von Sachsen-Gotha-Altenburg, 1772年11月23日 ゴータ - 1822年5月27日 ゴータ）は、ドイツのザクセン＝ゴータ＝アルテンブルク公（在位1804年 - 1822年）。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Emiel Leopold August (Gotha, 23 november 1772 – aldaar, 17 mei 1822), roepnaam Emiel, maar officieel August, was van 1804 tot 1822 hertog van Saksen-Gotha-Altenburg. Hij was de zoon van hertog Ernst II en Maria Charlotte van Saksen-Meiningen, dochter van Anton Ulrich van Saksen-Meiningen. Hij trad in 1797 in het huwelijk met Louise Charlotte, dochter van Frederik Frans I van Mecklenburg-Schwerin. Na haar dood in het kraambed in 1801 hertrouwde hij in 1802 met Caroline Amalia, dochter van Willem IX (I) van Hessen-Kassel. Hij werd op strenge wijze opgevoed en besteeg de troon op 12 april 1804. Zijn land loodste hij met succes door de daaropvolgende turbulente jaren. Hij was een groot bewonderaar van Napoleon Bonaparte en bewoog hem ertoe zijn land te ontzien en hem de oorlogsschatting kwijt te schelden. In 1806 trad hij toe tot de Rijnbond en zijn troepen streden aan Franse zijde in Spanje, Tirol en Rusland. Hij trad in 1815 toe tot de Duitse Bond. Ook na de restauratie werd hij bewonderd om zijn goed georganiseerde, verstandige en humane beleid, waardoor het volk hem zijn extravagantie en spilzucht graag vergaf. August was een groot kunstliefhebber die correspondeerde met Jean Paul en Madame de Staël, maar Goethe te pedant achtte. Hij bezat een uitstekende muziekkapel, componeerde klavierstukken en liederen (waaronder de oudst bekende toonzetting van Marienwürmchen) en schreef gedichten en verhalen, waarvan alleen de idyllische roman Kyllenion, oder: Auch ich war in Arkadien in druk verscheen. Enige andere werken, onder andere het sprookje Panedone en de autobiografische Emilianische Briefe, bleven onvoltooid. Het vrouwelijke prefereerde hij boven de mannelijkheid en hij schroomde niet zich - ook als provocatie - in vrouwenkleren te vertonen. Hij stierf plotseling op 17 mei 1822 en werd, daar hij geen zoons had, opgevolgd door zijn broer Frederik IV. Zijn enige dochter Louise was sinds 1817 gehuwd met Ernst III van Saksen-Coburg-Saalfeld en was de moeder van Ernst II van Saksen-Coburg en Gotha en de Britse prins-gemaal Albert.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Emil Leopold August, Herzog von Sachsen-Gotha-Altenburg (* 23. November 1772 in Gotha; † 17. Mai 1822 ebenda) war der vorletzte Landesfürst des thüringischen Herzogtums Sachsen-Gotha-Altenburg. Er stammte aus der Nebenlinie Sachsen-Gotha-Altenburg der Familie der ernestinischen Wettiner.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Augustus, Duke of Saxe-Gotha-Altenburg (full name: Emil Leopold August) (23 November 1772 — 17 May 1822), was a Duke of Saxe-Gotha-Altenburg, and the author of one of the first modern novels to treat of same-sex love. He was the maternal grandfather of Prince Albert, consort of Queen Victoria.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эмиль Леопольд Август Саксен-Гота-Альтенбургский (нем. Emil Leopold August von Sachsen-Gotha-Altenburg; 23 ноября 1772, Гота — 27 мая 1822, там же) — предпоследний правитель тюрингенского герцогства Саксен-Гота-Альтенбург из побочной линии эрнестинской линии Веттинов.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Augusto de Sajonia-Gotha-Altenburgo (en alemán: Emil Leopold August von Sachsen-Gotha-Altenburg; 23 de noviembre de 1772 - 27 de mayo de 1822) fue un príncipe soberano de los Ducados Ernestinos en el siglo XIX. Duque de Sajonia-Gotha-Altenburgo entre 1804 y 1822, fue además un importante mecenas e intelectual, frecuentando círculos literarios y teniendo estrecha relación con diversos poetas.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Émile Léopold Auguste, né le 23 novembre 1772 à Gotha et mort le 27 mai 1822 à Gotha, est duc de Saxe-Gotha-Altenbourg de 1804 à sa mort.</dbo:abstract>
+    <dbo:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1822</dbo:activeYearsEndYear>
+    <dbo:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1804</dbo:activeYearsStartYear>
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Ernst_II,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Charlotte_of_Saxe-Meiningen" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Ernst_II,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Duchess_Louise_Charlotte_of_Mecklenburg-Schwerin" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Princess_Karoline_Amalie_of_Hesse-Kassel" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Frederick_IV,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbo:title xml:lang="en">Duke of Saxe-Gotha-Altenburg</dbo:title>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Frederick_IV,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:collapsed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:collapsed>
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Saxe-Gotha-Altenburg" />
+    <dbp:issue rdf:resource="http://dbpedia.org/resource/Louise_of_Saxe-Gotha-Altenburg" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Lutheranism" />
+    <dbp:succession rdf:resource="http://dbpedia.org/resource/Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Saxe-Gotha-Altenburg" />
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HSH Prince of Saxe-Gotha-Altenburg, Duke in Saxony</dbp:titles>
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HSH The Hereditary Prince of Saxe-Gotha-Altenburg, Duke in Saxony</dbp:titles>
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">HRH The Duke of Saxe-Gotha-Altenburg</dbp:titles>
+    <dbp:width rdf:datatype="http://dbpedia.org/datatype/perCent">100.0</dbp:width>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1804</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Duke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_IV,_Duke_of_Saxe-Gotha-Altenburg">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emil,_Duke_of_Saxe-Gotha-Altenburg">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Louise_of_Saxe-Gotha-Altenburg_(1800–1831)">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princess_Karoline_Amalie_of_Hesse-Kassel">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Gotha-Altenburg">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duchess_Louise_Charlotte_of_Mecklenburg-Schwerin">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Augustus,_Duke_of_Saxe-Gotha-Altenburg">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Augustus,_Duke_of_Saxe-Gotha-Altenburg" />
+  </rdf:Description>
+</rdf:RDF>
